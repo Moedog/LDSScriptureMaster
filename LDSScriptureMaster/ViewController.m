@@ -7,8 +7,11 @@
 //
 
 #import "ViewController.h"
+#import "TopicCollectionViewCell.h"
 
 @interface ViewController ()
+
+@property (nonatomic, strong) NSArray* topics;
 
 @end
 
@@ -17,6 +20,39 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    NSString *path = [[NSBundle mainBundle] pathForResource:@"LDSScriptures" ofType:@"json"];
+    NSData *data = [NSData dataWithContentsOfFile:path];
+    
+    NSError *error = nil;
+    self.topics = [NSJSONSerialization JSONObjectWithData:data options:0 error:&error];
+    
+    if (error != nil) {
+        // Oh no!
+    }
+    
+    NSLog(@"It's working");
+    
+}
+
+-(UICollectionViewCell *)collectionView:(UICollectionView *)collectionView cellForItemAtIndexPath:(NSIndexPath *)indexPath {
+    TopicCollectionViewCell * cell = [collectionView dequeueReusableCellWithReuseIdentifier:@"Topic" forIndexPath:indexPath];
+    
+    NSLog(@"Returning cell for item %@", @(indexPath.item));
+    
+    NSDictionary *topicDictionary = self.topics[indexPath.item];
+    
+    cell.topicLabel.text = topicDictionary[@"topic"];
+    
+    // Customize cell
+    
+    cell.layer.cornerRadius = 5;
+    cell.layer.masksToBounds = YES;
+    
+    return cell;
+}
+
+-(NSInteger)collectionView:(UICollectionView *)collectionView numberOfItemsInSection:(NSInteger)section {
+    return self.topics.count;
 }
 
 - (void)didReceiveMemoryWarning {

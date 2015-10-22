@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="8193.2" systemVersion="14F27" minimumToolsVersion="Xcode 7.0">
+    <entity name="Scripture" representedClassName="Scripture" syncable="YES">
+        <attribute name="book" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="chapter" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="text" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="verse" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Topic" representedClassName="Topic" syncable="YES">
+        <attribute name="topic" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Topic" positionX="-63" positionY="-18" width="128" height="60"/>
+        <element name="Scripture" positionX="-54" positionY="27" width="128" height="105"/>
+    </elements>
+</model>
