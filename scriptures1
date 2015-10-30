@@ -1176,35 +1176,247 @@
         "references": [
        
             {
+                "book": "Genesis",
+                "chapter": "22",
+                "verse": "1-14",
+                "text": "1. And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, here I am. 2. And he said, Take now thy son, thine only son Isaac, whom thou lovest, and get thee into the land of Moriah; and offer him there for a burnt offering upon one of the mountains which I will tell thee of. 3. And Abraham rose up early in the morning, and saddled his ass, and took two of his young men with him, and Isaac his son, and clave the wood for the burnt offering, and rose up, and went unto the place of which God had told him. 4. Then on the third day Abraham lifted up his eyes, and saw the place afar off. 5. And Abraham said unto his young men, Abide ye here with the ass; and I and the lad will go yonder and worship, and come again to you. 6. And Abraham took the wood of the burnt offering, and laid it upon Isaac his son; and he took the fire in his hand, and a knife; and they went both of them together. 7. And Isaac spake unto Abraham his father, and said, My father: and he said, Here am I, my son. And he said, Behold the fire and the wood: but where is the lamb for a burnt offering? 8. And Abraham said, My son, God will provide himself a lamb for a burnt offering: so they went both of them together. 9. And they came to the place which God had told him of; and Abraham built an altar there, and laid the wood in order, and bound Isaac his son, and laid him on the altar upon the wood. 10. And Abraham stretched forth his hand, and took the knife to slay his son. 11. And the angel of the Lord called unto him out of heaven, and said, Abraham, Abraham: and he said, Here am I. 12. And he said, Lay not thine hand upon the lad, neither do thou any thing unto him: for now I know that thou fearest God, seeing thou hast not withheld thy son, thine only son from me. 13. And Abraham lifted up his eyes, and looked, and behold behind him a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son. 14. And Abraham called the name of that place Jehovah-jireh: as it is said to this day, In the mount of the Lord it shall be seen."
+            },
+            {
+                "book": "1 Samuel",
+                "chapter": "17",
+                "verse": "32-54",
+                "text": "32. And David said to Saul, Let no man’s heart fail because of him; thy servant will go and fight with this Philistine. 33. And Saul said to David, Thou art not able to go against this Philistine to fight with him: for thou art but a youth, and he a man of war from his youth. 34. And David said unto Saul, Thy servant kept his father’s sheep, and there came a lion, and a bear, and took a lamb out of the flock: 35. And I went out after him, and smote him, and delivered it out of his mouth: and when he arose against me, I caught him by his beard, and smote him, and slew him. 36. Thy servant slew both the lion and the bear: and this uncircumcised Philistine shall be as one of them, seeing he hath defied the armies of the living God. 37. David said moreover, The Lord that delivered me out of the paw of the lion, and out of the paw of the bear, he will deliver me out of the hand of this Philistine. And Saul said unto David, Go, and the Lord be with thee. 38. ¶And Saul armed David with his armour, and he put an helmet of brass upon his head; also he armed him with a coat of mail. 39. And David girded his sword upon his armour, and he assayed to go; for he had not proved it. And David said unto Saul, I cannot go with these; for I have not proved them. And David put them off him. 40. And he took his staff in his hand, and chose him five smooth stones out of the brook, and put them in a shepherd’s bag which he had, even in a scrip; and his sling was in his hand: and he drew near to the Philistine. 41. And the Philistine came on and drew near unto David; and the man that bare the shield went before him. 42. And when the Philistine looked about, and saw David, he disdained him: for he was but a youth, and ruddy, and of a fair countenance. 43. And the Philistine said unto David, Am I a dog, that thou comest to me with staves? And the Philistine cursed David by his gods. 44. And the Philistine said to David, Come to me, and I will give thy flesh unto the fowls of the air, and to the beasts of the field. 45. Then said David to the Philistine, Thou comest to me with a sword, and with a spear, and with a shield: but I come to thee in the name of the Lord of hosts, the God of the armies of Israel, whom thou hast defied. 46. This day will the Lord deliver thee into mine hand; and I will smite thee, and take thine head from thee; and I will give the carcases of the host of the Philistines this day unto the fowls of the air, and to the wild beasts of the earth; that all the earth may know that there is a God in Israel. 47. And all this assembly shall know that the Lord saveth not with sword and spear: for the battle is the Lord’s, and he will give you into our hands. 48. And it came to pass, when the Philistine arose, and came and drew nigh to meet David, that David hasted, and ran toward the army to meet the Philistine. 49. And David put his hand in his bag, and took thence a stone, and slang it, and smote the Philistine in his forehead, that the stone sunk into his forehead; and he fell upon his face to the earth. 50. So David prevailed over the Philistine with a sling and with a stone, and smote the Philistine, and slew him; but there was no sword in the hand of David. 51. Therefore David ran, and stood upon the Philistine, and took his sword, and drew it out of the sheath thereof, and slew him, and cut off his head therewith. And when the Philistines saw their champion was dead, they fled. 52. And the men of Israel and of Judah arose, and shouted, and pursued the Philistines, until thou come to the valley, and to the gates of Ekron. And the wounded of the Philistines fell down by the way to Shaaraim, even unto Gath, and unto Ekron. 53. And the children of Israel returned from chasing after the Philistines, and they spoiled their tents. 54. And David took the head of the Philistine, and brought it to Jerusalem; but he put his armour in his tent."
+            },
+            {
+                "book": "1 Kings",
+                "chapter": "17",
+                "verse": "8-16",
+                "text": "8. And the word of the Lord came unto him, saying, 9. Arise, get thee to Zarephath, which belongeth to Zidon, and dwell there: behold, I have commanded a widow woman there to sustain thee. 10. So he arose and went to Zarephath. And when he came to the gate of the city, behold, the widow woman was there gathering of sticks: and he called to her, and said, Fetch me, I pray thee, a little water in a vessel, that I may drink. 11. And as she was going to fetch it, he called to her, and said, Bring me, I pray thee, a morsel of bread in thine hand. 12. And she said, As the Lord thy God liveth, I have not a cake, but an handful of meal in a barrel, and a little oil in a cruse: and, behold, I am gathering two sticks, that I may go in and dress it for me and my son, that we may eat it, and die. 13. And Elijah said unto her, Fear not; go and do as thou hast said: but make me thereof a little cake first, and bring it unto me, and after make for thee and for thy son. 14. For thus saith the Lord God of Israel, The barrel of meal shall not waste, neither shall the cruse of oil fail, until the day that the Lord sendeth rain upon the earth. 15. And she went and did according to the saying of Elijah: and she, and he, and her house, did eat many days. 16. And the barrel of meal wasted not, neither did the cruse of oil fail, according to the word of the Lord, which he spake by Elijah."
+            },
+            {
+                "book": "Psalms",
+                "chapter": "119",
+                "verse": "105",
+                "text": "105. Thy word is a lamp unto my feet, and a light unto my path."
+            },
+            {
+                "book": "Malachi",
+                "chapter": "3",
+                "verse": "8-11",
+                "text": "8. Will a man rob God? Yet ye have robbed me. But ye say, Wherein have we robbed thee? In tithes and offerings. 9. Ye are cursed with a curse: for ye have robbed me, even this whole nation. 10. Bring ye all the tithes into the storehouse, that there may be meat in mine house, and prove me now herewith, saith the Lord of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it. 11. And I will rebuke the devourer for your sakes, and he shall not destroy the fruits of your ground; neither shall your vine cast her fruit before the time in the field, saith the Lord of hosts."
+            },
+            {
+                "book": "Matthew",
+                "chapter": "6",
+                "verse": "19-21, 24, 33",
+                "text": "19. Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal: 20. But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal: 21. For where your treasure is, there will your heart be also. 24. No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon. 33. But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you."
+            },
+            {
+                "book": "Matthew",
+                "chapter": "7",
+                "verse": "21-27",
+                "text": "21. Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven. 22. Many will say to me in that day, Lord, Lord, have we not prophesied in thy name? and in thy name have cast out devils? and in thy name done many wonderful works? 23. And then will I profess unto them, I never knew you: depart from me, ye that work iniquity. 24. Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock: 25. And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell not: for it was founded upon a rock. 26. And every one that heareth these sayings of mine, and doeth them not, shall be likened unto a foolish man, which built his house upon the sand: 27. And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell: and great was the fall of it."
+            },
+            {
+                "book": "Matthew",
+                "chapter": "9",
+                "verse": "20-26",
+                "text": "20. And, behold, a woman, which was diseased with an issue of blood twelve years, came behind him, and touched the hem of his garment: 21. For she said within herself, If I may but touch his garment, I shall be whole. 22. But Jesus turned him about, and when he saw her, he said, Daughter, be of good comfort; thy faith hath made thee whole. And the woman was made whole from that hour. 23. And when Jesus came into the ruler’s house, and saw the minstrels and the people making a noise, 24. He said unto them, Give place: for the maid is not dead, but sleepeth. And they laughed him to scorn. 25. But when the people were put forth, he went in, and took her by the hand, and the maid arose. 26. And the fame hereof went abroad into all that land."
+            },
+            {
+                "book": "Matthew",
+                "chapter": "25",
+                "verse": "40",
+                "text": "40. And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me."
+            },
+            {
+                "book": "Luke",
+                "chapter": "9",
+                "verse": "57-60",
+                "text": "57. And it came to pass, that, as they went in the way, a certain man said unto him, Lord, I will follow thee whithersoever thou goest. 58. And Jesus said unto him, Foxes have holes, and birds of the air have nests; but the Son of man hath not where to lay his head. 59. And he said unto another, Follow me. But he said, Lord, suffer me first to go and bury my father. 60. Jesus said unto him, Let the dead bury their dead: but go thou and preach the kingdom of God."
+            },
+            {
+                "book": "Luke",
+                "chapter": "10",
+                "verse": "29-37",
+                "text": "29. But he, willing to justify himself, said unto Jesus, And who is my neighbour? 30. And Jesus answering said, A certain man went down from Jerusalem to Jericho, and fell among thieves, which stripped him of his raiment, and wounded him, and departed, leaving him half dead. 31. And by chance there came down a certain priest that way: and when he saw him, he passed by on the other side. 32. And likewise a Levite, when he was at the place, came and looked on him, and passed by on the other side. 33. But a certain Samaritan, as he journeyed, came where he was: and when he saw him, he had compassion on him, 34. And went to him, and bound up his wounds, pouring in oil and wine, and set him on his own beast, and brought him to an inn, and took care of him. 35. And on the morrow when he departed, he took out two pence, and gave them to the host, and said unto him, Take care of him; and whatsoever thou spendest more, when I come again, I will repay thee. 36. Which now of these three, thinkest thou, was neighbour unto him that fell among the thieves? 37. And he said, He that shewed mercy on him. Then said Jesus unto him, Go, and do thou likewise."
+            },
+            {
+                "book": "Luke",
+                "chapter": "12",
+                "verse": "15-34",
+                "text": "15 And he said unto them, Take heed, and beware of covetousness: for a man’s life consisteth not in the abundance of the things which he possesseth. 16. And he spake a parable unto them, saying, The ground of a certain rich man brought forth plentifully: 17. And he thought within himself, saying, What shall I do, because I have no room where to bestow my fruits? 18. And he said, This will I do: I will pull down my barns, and build greater; and there will I bestow all my fruits and my goods. 19. And I will say to my soul, Soul, thou hast much goods laid up for many years; take thine ease, eat, drink, and be merry. 20. But God said unto him, Thou fool, this night thy soul shall be required of thee: then whose shall those things be, which thou hast provided? 21. So is he that layeth up treasure for himself, and is not rich toward God. 22. And he said unto his disciples, Therefore I say unto you, Take no thought for your life, what ye shall eat; neither for the body, what ye shall put on. 23. The life is more than meat, and the body is more than raiment. 24. Consider the ravens: for they neither sow nor reap; which neither have storehouse nor barn; and God feedeth them: how much more are ye better than the fowls? 25. And which of you with taking thought can add to his stature one cubit? 26. If ye then be not able to do that thing which is least, why take ye thought for the rest? 27. Consider the lilies how they grow: they toil not, they spin not; and yet I say unto you, that Solomon in all his glory was not arrayed like one of these. 28. If then God so clothe the grass, which is to day in the field, and to morrow is cast into the oven; how much more will he clothe you, O ye of little faith? 29. And seek not ye what ye shall eat, or what ye shall drink, neither be ye of doubtful mind. 30. For all these things do the nations of the world seek after: and your Father knoweth that ye have need of these things. 31. But rather seek ye the kingdom of God; and all these things shall be added unto you. 32. Fear not, little flock; for it is your Father’s good pleasure to give you the kingdom. 33. Sell that ye have, and give alms; provide yourselves bags which wax not old, a treasure in the heavens that faileth not, where no thief approacheth, neither moth corrupteth. 34. For where your treasure is, there will your heart be also."
+            },
+            {
+                "book": "Luke",
+                "chapter": "16",
+                "verse": "19-25",
+                "text": "19. There was a certain rich man, which was clothed in purple and fine linen, and fared sumptuously every day: 20. And there was a certain beggar named Lazarus, which was laid at his gate, full of sores, 21. And desiring to be fed with the crumbs which fell from the rich man’s table: moreover the dogs came and licked his sores. 22. And it came to pass, that the beggar died, and was carried by the angels into Abraham’s bosom: the rich man also died, and was buried; 23. And in hell he lift up his eyes, being in torments, and seeth Abraham afar off, and Lazarus in his bosom. 24. And he cried and said, Father Abraham, have mercy on me, and send Lazarus, that he may dip the tip of his finger in water, and cool my tongue; for I am tormented in this flame. 25. But Abraham said, Son, remember that thou in thy lifetime receivedst thy good things, and likewise Lazarus evil things: but now he is comforted, and thou art tormented."
+            },
+            {
+                "book": "Luke",
+                "chapter": "16",
+                "verse": "19-25",
+                "text": "19. There was a certain rich man, which was clothed in purple and fine linen, and fared sumptuously every day: 20. And there was a certain beggar named Lazarus, which was laid at his gate, full of sores, 21. And desiring to be fed with the crumbs which fell from the rich man’s table: moreover the dogs came and licked his sores. 22. And it came to pass, that the beggar died, and was carried by the angels into Abraham’s bosom: the rich man also died, and was buried; 23. And in hell he lift up his eyes, being in torments, and seeth Abraham afar off, and Lazarus in his bosom. 24. And he cried and said, Father Abraham, have mercy on me, and send Lazarus, that he may dip the tip of his finger in water, and cool my tongue; for I am tormented in this flame. 25. But Abraham said, Son, remember that thou in thy lifetime receivedst thy good things, and likewise Lazarus evil things: but now he is comforted, and thou art tormented."
+            },
+            {
+                "book": "Luke",
+                "chapter": "21",
+                "verse": "1-4",
+                "text": "1. And he looked up, and saw the rich men casting their gifts into the treasury. 2. And he saw also a certain poor widow casting in thither two mites. 3. And he said, Of a truth I say unto you, that this poor widow hath cast in more than they all: 4. For all these have of their abundance cast in unto the offerings of God: but she of her penury hath cast in all the living that she had."
+            },
+            {
+                "book": "Luke",
+                "chapter": "22",
+                "verse": "32",
+                "text": "32. But I have prayed for thee, that thy faith fail not: and when thou art converted, strengthen thy brethren."
+            },
+
+            {
+                "book": "John",
+                "chapter": "7",
+                "verse": "16-17",
+                "text": "16. Jesus answered them, and said, My doctrine is not mine, but his that sent me. 17. If any man will do his will, he shall know of the doctrine, whether it be of God, or whether I speak of myself."
+            },
+
+            {
+                "book": "John",
+                "chapter": "8",
+                "verse": "31-32",
+                "text": "31. Then said Jesus to those Jews which believed on him, If ye continue in my word, then are ye my disciples indeed; 32. And ye shall know the truth, and the truth shall make you free."
+            },
+
+            {
+                "book": "John",
+                "chapter": "14",
+                "verse": "12, 15, 21",
+                "text": "12. Verily, verily, I say unto you, He that believeth on me, the works that I do shall he do also; and greater works than these shall he do; because I go unto my Father. 15. If ye love me, keep my commandments. 21. He that hath my commandments, and keepeth them, he it is that loveth me: and he that loveth me shall be loved of my Father, and I will love him, and will manifest myself to him."
+            },
+
+            {
+                "book": "Romans",
+                "chapter": "4",
+                "verse": "12-22",
+                "text": "12. And the father of circumcision to them who are not of the circumcision only, but who also walk in the steps of that faith of our father Abraham, which he had being yet uncircumcised. 13. For the promise, that he should be the heir of the world, was not to Abraham, or to his seed, through the law, but through the righteousness of faith. 14. For if they which are of the law be heirs, faith is made void, and the promise made of none effect: 15. Because the law worketh wrath: for where no law is, there is no transgression. 16. Therefore it is of faith, that it might be by grace; to the end the promise might be sure to all the seed; not to that only which is of the law, but to that also which is of the faith of Abraham; who is the father of us all, 17. (As it is written, I have made thee a father of many nations,) before him whom he believed, even God, who quickeneth the dead, and calleth those things which be not as though they were. 18. Who against hope believed in hope, that he might become the father of many nations, according to that which was spoken, So shall thy seed be. 19. And being not weak in faith, he considered not his own body now dead, when he was about an hundred years old, neither yet the deadness of Sara’s womb: 20. He staggered not at the promise of God through unbelief; but was strong in faith, giving glory to God; 21. And being fully persuaded that, what he had promised, he was able also to perform. 22. And therefore it was imputed to him for righteousness."
+            },
+
+            {
+                "book": "Romans",
+                "chapter": "10",
+                "verse": "11-21",
+                "text": "11. For the scripture saith, Whosoever believeth on him shall not be ashamed. 12. For there is no difference between the Jew and the Greek: for the same Lord over all is rich unto all that call upon him. 13. For whosoever shall call upon the name of the Lord shall be saved. 14. How then shall they call on him in whom they have not believed? and how shall they believe in him of whom they have not heard? and how shall they hear without a preacher? 15. And how shall they preach, except they be sent? as it is written, How beautiful are the feet of them that preach the gospel of peace, and bring glad tidings of good things! 16. But they have not all obeyed the gospel. For Esaias saith, Lord, who hath believed our report? 17. So then faith cometh by hearing, and hearing by the word of God. 18. But I say, Have they not heard? Yes verily, their sound went into all the earth, and their words unto the ends of the world. 19. But I say, Did not Israel know? First Moses saith, I will provoke you to jealousy by them that are no people, and by a foolish nation I will anger you. 20. But Esaias is very bold, and saith, I was found of them that sought me not; I was made manifest unto them that asked not after me. 21. But to Israel he saith, All day long I have stretched forth my hands unto a disobedient and gainsaying people."
+            },
+            {
+                "book": "Romans",
+                "chapter": "13",
+                "verse": "9-10",
+                "text": "9. For this, Thou shalt not commit adultery, Thou shalt not kill, Thou shalt not steal, Thou shalt not bear false witness, Thou shalt not covet; and if there be any other commandment, it is briefly comprehended in this saying, namely, Thou shalt love thy neighbour as thyself. 10. Love worketh no ill to his neighbour: therefore love is the fulfilling of the law."
+            },
+
+            {
+                "book": "1 Corinthians",
+                "chapter": "6",
+                "verse": "19-20",
+                "text": "19 What? know ye not that your body is the temple of the Holy Ghost which is in you, which ye have of God, and ye are not your own? 20. For ye are bought with a price: therefore glorify God in your body, and in your spirit, which are God’s."
+            },
+
+            {
+                "book": "2 Corinthians",
+                "chapter": "9",
+                "verse": "7",
+                "text": "7. Every man according as he purposeth in his heart, so let him give; not grudgingly, or of necessity: for God loveth a cheerful giver."
+            },
+
+            {
+                "book": "Galatians",
+                "chapter": "6",
+                "verse": "2",
+                "text": "2. Bear ye one another’s burdens, and so fulfil the law of Christ."
+            },
+
+            {
+                "book": "Philippians",
+                "chapter": "2",
+                "verse": "12",
+                "text": "12. Wherefore, my beloved, as ye have always obeyed, not as in my presence only, but now much more in my absence, work out your own salvation with fear and trembling."
+            },
+
+            {
+                "book": "1 Timothy",
+                "chapter": "1",
+                "verse": "5",
+                "text": "5. Now the end of the commandment is charity out of a pure heart, and of a good conscience, and of faith unfeigned:"
+            },
+
+            {
+                "book": "Hebrews",
+                "chapter": "7",
+                "verse": "1-2",
+                "text": "1. For this Melchisedec, king of Salem, priest of the most high God, who met Abraham returning from the slaughter of the kings, and blessed him; 2. To whom also Abraham gave a tenth part of all; first being by interpretation King of righteousness, and after that also King of Salem, which is, King of peace;"
+            },
+
+            {
+                "book": "Hebrews",
+                "chapter": "11",
+                "verse": "1, 6, 17",
+                "text": "1. Now faith is the substance of things hoped for, the evidence of things not seen. 6. But without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him. 17. By faith Abraham, when he was tried, offered up Isaac: and he that had received the promises offered up his only begotten son,"
+            },
+            {
+                "book": "James",
+                "chapter": "1",
+                "verse": "5, 22-25",
+                "text": "5. If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him. 22 But be ye doers of the word, and not hearers only, deceiving your own selves. 23. For if any be a hearer of the word, and not a doer, he is like unto a man beholding his natural face in a glass: 24. For he beholdeth himself, and goeth his way, and straightway forgetteth what manner of man he was. 25. But whoso looketh into the perfect law of liberty, and continueth therein, he being not a forgetful hearer, but a doer of the work, this man shall be blessed in his deed."
+            },
+            {
+                "book": "James",
+                "chapter": "2",
+                "verse": "14-26",
+                "text": "14. What doth it profit, my brethren, though a man say he hath faith, and have not works? can faith save him? 15. If a brother or sister be naked, and destitute of daily food, 16. And one of you say unto them, Depart in peace, be ye warmed and filled; notwithstanding ye give them not those things which are needful to the body; what doth it profit? 17. Even so faith, if it hath not works, is dead, being alone. 18. Yea, a man may say, Thou hast faith, and I have works: shew me thy faith without thy works, and I will shew thee my faith by my works. 19. Thou believest that there is one God; thou doest well: the devils also believe, and tremble. 20. But wilt thou know, O vain man, that faith without works is dead? 21. Was not Abraham our father justified by works, when he had offered Isaac his son upon the altar? 22. Seest thou how faith wrought with his works, and by works was faith made perfect? 23. And the scripture was fulfilled which saith, Abraham believed God, and it was imputed unto him for righteousness: and he was called the Friend of God. 24. Ye see then how that by works a man is justified, and not by faith only. 25. Likewise also was not Rahab the harlot justified by works, when she had received the messengers, and had sent them out another way? 26. For as the body without the spirit is dead, so faith without works is dead also."
+            },
+            {
+                "book": "1 Peter",
+                "chapter": "4",
+                "verse": "10",
+                "text": "10. As every man hath received the gift, even so minister the same one to another, as good stewards of the manifold grace of God."
+            },
+            {
+                "book": "1 Peter",
+                "chapter": "5",
+                "verse": "2",
+                "text": "2. Feed the flock of God which is among you, taking the oversight thereof, not by constraint, but willingly; not for filthy lucre, but of a ready mind;"
+            },
+            {
                 "book": "book",
                 "chapter": "7",
-                "verse": "3-4",
+                "verse": "1-2",
                 "text": ""
             },
             {
                 "book": "book",
                 "chapter": "7",
-                "verse": "3-4",
+                "verse": "1-2",
                 "text": ""
             },
             {
                 "book": "book",
                 "chapter": "7",
-                "verse": "3-4",
+                "verse": "1-2",
                 "text": ""
             },
             {
                 "book": "book",
                 "chapter": "7",
-                "verse": "3-4",
+                "verse": "1-2",
                 "text": ""
             },
             {
                 "book": "book",
                 "chapter": "7",
-                "verse": "3-4",
+                "verse": "1-2",
                 "text": ""
             },
+
+
 
 
 
