@@ -1497,19 +1497,66 @@
                 "book": "Doctrine and Covenants",
                 "chapter": "82",
                 "verse": "3, 8-10",
-                "text": "3. For of him unto whom much is given much is required; and he who sins against the greater light shall receive the greater condemnation. 8. And again, I say unto you, I give unto you a new commandment, that you may understand my will concerning you; 9. Or, in other words, I give unto you directions how you may act before me, that it may turn to you for your salvation. 10. I, the Lord, am bound when ye do what I say; but when ye do not what I say, ye have no promise."
+
+                "verse3": "3. For of him unto whom much is given much is required; and he who sins against the greater light shall receive the greater condemnation.",
+
+                "verse8": "8. And again, I say unto you, I give unto you a new commandment, that you may understand my will concerning you;",
+
+                "verse9": "9. Or, in other words, I give unto you directions how you may act before me, that it may turn to you for your salvation.",
+
+                "verse10": "10. I, the Lord, am bound when ye do what I say; but when ye do not what I say, ye have no promise."
             },
             {
                 "book": "Doctrine and Covenants",
                 "chapter": "88",
                 "verse": "81",
-                "text": "81. Behold, I sent you out to testify and warn the people, and it becometh every man who hath been warned to warn his neighbor."
+                "verse81": "81. Behold, I sent you out to testify and warn the people, and it becometh every man who hath been warned to warn his neighbor."
             },
             {
                 "book": "Doctrine and Covenants",
                 "chapter": "89",
                 "verse": "1-21",
-                "text": "1. A Word of Wisdom, for the benefit of the council of high priests, assembled in Kirtland, and the church, and also the saints in Zion— 2. To be sent greeting; not by commandment or constraint, but by revelation and the word of wisdom, showing forth the order and will of God in the temporal salvation of all saints in the last days— 3. Given for a principle with promise, adapted to the capacity of the weak and the weakest of all saints, who are or can be called saints. 4. Behold, verily, thus saith the Lord unto you: In consequence of evils and designs which do and will exist in the hearts of conspiring men in the last days, I have warned you, and forewarn you, by giving unto you this word of wisdom by revelation— 5. That inasmuch as any man drinketh wine or strong drink among you, behold it is not good, neither meet in the sight of your Father, only in assembling yourselves together to offer up your sacraments before him. 6. And, behold, this should be wine, yea, pure wine of the grape of the vine, of your own make. 7. And, again, strong drinks are not for the belly, but for the washing of your bodies. 8. And again, tobacco is not for the body, neither for the belly, and is not good for man, but is an herb for bruises and all sick cattle, to be used with judgment and skill. 9. And again, hot drinks are not for the body or belly. 10. And again, verily I say unto you, all wholesome herbs God hath ordained for the constitution, nature, and use of man— 11. Every herb in the season thereof, and every fruit in the season thereof; all these to be used with prudence and thanksgiving. 12. Yea, flesh also of beasts and of the fowls of the air, I, the Lord, have ordained for the use of man with thanksgiving; nevertheless they are to be used sparingly; 13. And it is pleasing unto me that they should not be used, only in times of winter, or of cold, or famine. 14. All grain is ordained for the use of man and of beasts, to be the staff of life, not only for man but for the beasts of the field, and the fowls of heaven, and all wild animals that run or creep on the earth; 15. And these hath God made for the use of man only in times of famine and excess of hunger. 16. All grain is good for the food of man; as also the fruit of the vine; that which yieldeth fruit, whether in the ground or above the ground— 17. Nevertheless, wheat for man, and corn for the ox, and oats for the horse, and rye for the fowls and for swine, and for all beasts of the field, and barley for all useful animals, and for mild drinks, as also other grain. 18. And all saints who remember to keep and do these sayings, walking in obedience to the commandments, shall receive health in their navel and marrow to their bones; 19. And shall find wisdom and great treasures of knowledge, even hidden treasures; 20. And shall run and not be weary, and shall walk and not faint. 21. And I, the Lord, give unto them a promise, that the destroying angel shall pass by them, as the children of Israel, and not slay them. Amen."
+                "verse1": "1. A Word of Wisdom, for the benefit of the council of high priests, assembled in Kirtland, and the church, and also the saints in Zion—",
+
+                "verse2": "2. To be sent greeting; not by commandment or constraint, but by revelation and the word of wisdom, showing forth the order and will of God in the temporal salvation of all saints in the last days—" ,
+
+                "verse3": "3. Given for a principle with promise, adapted to the capacity of the weak and the weakest of all saints, who are or can be called saints.",
+
+                "verse4": "4. Behold, verily, thus saith the Lord unto you: In consequence of evils and designs which do and will exist in the hearts of conspiring men in the last days, I have warned you, and forewarn you, by giving unto you this word of wisdom by revelation—", 
+
+                "verse5": "5. That inasmuch as any man drinketh wine or strong drink among you, behold it is not good, neither meet in the sight of your Father, only in assembling yourselves together to offer up your sacraments before him.", 
+
+                "verse6": "6. And, behold, this should be wine, yea, pure wine of the grape of the vine, of your own make.",
+
+                "verse7": "7. And, again, strong drinks are not for the belly, but for the washing of your bodies.", 
+
+                "verse8": "8. And again, tobacco is not for the body, neither for the belly, and is not good for man, but is an herb for bruises and all sick cattle, to be used with judgment and skill.", 
+
+                "verse9": "9. And again, hot drinks are not for the body or belly.", 
+
+                "verse10": "10. And again, verily I say unto you, all wholesome herbs God hath ordained for the constitution, nature, and use of man—", 
+
+                "verse11": "11. Every herb in the season thereof, and every fruit in the season thereof; all these to be used with prudence and thanksgiving.", 
+
+                "verse12": "12. Yea, flesh also of beasts and of the fowls of the air, I, the Lord, have ordained for the use of man with thanksgiving; nevertheless they are to be used sparingly;",
+
+                "verse13": "13. And it is pleasing unto me that they should not be used, only in times of winter, or of cold, or famine.",
+
+                "verse14": "14. All grain is ordained for the use of man and of beasts, to be the staff of life, not only for man but for the beasts of the field, and the fowls of heaven, and all wild animals that run or creep on the earth;",
+
+                "verse15": "15. And these hath God made for the use of man only in times of famine and excess of hunger.", 
+
+                "verse16": "16. All grain is good for the food of man; as also the fruit of the vine; that which yieldeth fruit, whether in the ground or above the ground—",
+
+                "verse17": "17. Nevertheless, wheat for man, and corn for the ox, and oats for the horse, and rye for the fowls and for swine, and for all beasts of the field, and barley for all useful animals, and for mild drinks, as also other grain.", 
+
+                "verse18": "18. And all saints who remember to keep and do these sayings, walking in obedience to the commandments, shall receive health in their navel and marrow to their bones;", 
+
+                "verse19": "19. And shall find wisdom and great treasures of knowledge, even hidden treasures;",
+
+                "verse20": "20. And shall run and not be weary, and shall walk and not faint.", 
+
+                "verse21": "21. And I, the Lord, give unto them a promise, that the destroying angel shall pass by them, as the children of Israel, and not slay them. Amen.",
             },
             {
                 "book": "Doctrine and Covenants",
@@ -1521,78 +1568,173 @@
                 "book": "Doctrine and Covenants",
                 "chapter": "98",
                 "verse": "13-15",
-                "text": "13. And whoso layeth down his life in my cause, for my name’s sake, shall find it again, even life eternal. 14. Therefore, be not afraid of your enemies, for I have decreed in my heart, saith the Lord, that I will prove you in all things, whether you will abide in my covenant, even unto death, that you may be found worthy. 15. For if ye will not abide in my covenant ye are not worthy of me."
+                "verse13": "13. And whoso layeth down his life in my cause, for my name’s sake, shall find it again, even life eternal.",
+
+                "verse14": "14. Therefore, be not afraid of your enemies, for I have decreed in my heart, saith the Lord, that I will prove you in all things, whether you will abide in my covenant, even unto death, that you may be found worthy.", 
+
+                "verse15": "15. For if ye will not abide in my covenant ye are not worthy of me."
             },
             {
                 "book": "Doctrine and Covenants",
                 "chapter": "119",
                 "verse": "3-4",
-                "text": "3. And this shall be the beginning of the tithing of my people. 4. And after that, those who have thus been tithed shall pay one-tenth of all their interest annually; and this shall be a standing law unto them forever, for my holy priesthood, saith the Lord."
+                "verse3": "3. And this shall be the beginning of the tithing of my people.",
+
+                "verse4": "4. And after that, those who have thus been tithed shall pay one-tenth of all their interest annually; and this shall be a standing law unto them forever, for my holy priesthood, saith the Lord."
             },
             {
                 "book": "Doctrine and Covenants",
                 "chapter": "130",
                 "verse": "20-21",
-                "text": "20. There is a law, irrevocably decreed in heaven before the foundations of this world, upon which all blessings are predicated— 21. And when we obtain any blessing from God, it is by obedience to that law upon which it is predicated."
+                "verse20": "20. There is a law, irrevocably decreed in heaven before the foundations of this world, upon which all blessings are predicated—",
+
+                "verse21": "21. And when we obtain any blessing from God, it is by obedience to that law upon which it is predicated."
             },
             {
                 "book": "Doctrine and Covenants",
                 "chapter": "137",
                 "verse": "7-10",
-                "text": "7. Thus came the voice of the Lord unto me, saying: All who have died without a knowledge of this gospel, who would have received it if they had been permitted to tarry, shall be heirs of the celestial kingdom of God; 8. Also all that shall die henceforth without a knowledge of it, who would have received it with all their hearts, shall be heirs of that kingdom; 9. For I, the Lord, will judge all men according to their works, according to the desire of their hearts. 10. And I also beheld that all children who die before they arrive at the years of accountability are saved in the celestial kingdom of heaven."
+                "verse7": "7. Thus came the voice of the Lord unto me, saying: All who have died without a knowledge of this gospel, who would have received it if they had been permitted to tarry, shall be heirs of the celestial kingdom of God;",
+
+                "verse8" "8. Also all that shall die henceforth without a knowledge of it, who would have received it with all their hearts, shall be heirs of that kingdom;", 
+
+                "verse9" "9. For I, the Lord, will judge all men according to their works, according to the desire of their hearts.", 
+
+                "verse10" "10. And I also beheld that all children who die before they arrive at the years of accountability are saved in the celestial kingdom of heaven."
             },
             {
                 "book": "Pearl of Great Price - Moses",
                 "chapter": "7",
                 "verse": "13",
-                "text": "13. And so great was the faith of Enoch that he led the people of God, and their enemies came to battle against them; and he spake the word of the Lord, and the earth trembled, and the mountains fled, even according to his command; and the rivers of water were turned out of their course; and the roar of the lions was heard out of the wilderness; and all nations feared greatly, so powerful was the word of Enoch, and so great was the power of the language which God had given him."
+                "verse13": "13. And so great was the faith of Enoch that he led the people of God, and their enemies came to battle against them; and he spake the word of the Lord, and the earth trembled, and the mountains fled, even according to his command; and the rivers of water were turned out of their course; and the roar of the lions was heard out of the wilderness; and all nations feared greatly, so powerful was the word of Enoch, and so great was the power of the language which God had given him."
             },
             {
                 "book": "Pearl of Great Price - Articles of Faith",
                 "chapter": "1",
                 "verse": "4",
-                "text": "4. We believe that the first principles and ordinances of the Gospel are: first, Faith in the Lord Jesus Christ; second, Repentance; third, Baptism by immersion for the remission of sins; fourth, Laying on of hands for the gift of the Holy Ghost."
+                "verse4": "4. We believe that the first principles and ordinances of the Gospel are: first, Faith in the Lord Jesus Christ; second, Repentance; third, Baptism by immersion for the remission of sins; fourth, Laying on of hands for the gift of the Holy Ghost."
             }
 
         ]
+     
+     {
+        "topic": "Fall of Man",
+        "references": [   
+
+            {
+                "book": "Genesis",
+                "chapter": "2",
+                "verse": "15-17",
+                "verse": "15. And the Lord God took the man, and put him into the garden of Eden to dress it and to keep it.",
+
+                "verse16" "16. And the Lord God commanded the man, saying, Of every tree of the garden thou mayest freely eat:",
+
+                "verse17" "17. But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die."
+            },
+            {
+                "book": "Romans",
+                "chapter": "5",
+                "verse": "12-14",
+                "verse12": "12. Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned:",
+
+                "verse13" "13. For until the law sin was in the world: but sin is not imputed when there is no law.",
+
+                "verse14" "14. Nevertheless death reigned from Adam to Moses, even over them that had not sinned after the similitude of Adam’s transgression, who is the figure of him that was to come."
+            },
+            {
+                "book": "1 Corinthians",
+                "chapter": "15",
+                "verse": "21-22",
+                "verse21": "21. For since by man came death, by man came also the resurrection of the dead.", 
+
+                "verse22": "22. For as in Adam all die, even so in Christ shall all be made alive."
+            },
+            {
+                "book": "1 Timothy",
+                "chapter": "2",
+                "verse": "14-15",
+                "verse14": "14. And Adam was not deceived, but the woman being deceived was in the transgression.",
+
+                "verse15": "15. Notwithstanding she shall be saved in childbearing, if they continue in faith and charity and holiness with sobriety."
+            },
+            {
+                "book": "2 Nephi",
+                "chapter": "2",
+                "verse": "15-27",
+                "verse15": "15. And to bring about his eternal purposes in the end of man, after he had created our first parents, and the beasts of the field and the fowls of the air, and in fine, all things which are created, it must needs be that there was an opposition; even the forbidden fruit in opposition to the tree of life; the one being sweet and the other bitter.",
+
+                "verse16": "16. Wherefore, the Lord God gave unto man that he should act for himself. Wherefore, man could not act for himself save it should be that he was enticed by the one or the other.",
+
+                "verse17": "17. And I, Lehi, according to the things which I have read, must needs suppose that an angel of God, according to that which is written, had fallen from heaven; wherefore, he became a devil, having sought that which was evil before God.",
+
+                "verse18": "18. And because he had fallen from heaven, and had become miserable forever, he sought also the misery of all mankind. Wherefore, he said unto Eve, yea, even that old serpent, who is the devil, who is the father of all lies, wherefore he said: Partake of the forbidden fruit, and ye shall not die, but ye shall be as God, knowing good and evil.",
+
+                "verse19": "19. And after Adam and Eve had partaken of the forbidden fruit they were driven out of the garden of Eden, to till the earth.",
+
+                "verse20": "20. And they have brought forth children; yea, even the family of all the earth.",
+
+                "verse21": "21. And the days of the children of men were prolonged, according to the will of God, that they might repent while in the flesh; wherefore, their state became a state of probation, and their time was lengthened, according to the commandments which the Lord God gave unto the children of men. For he gave commandment that all men must repent; for he showed unto all men that they were lost, because of the transgression of their parents.",
+
+                "verse22": "22. And now, behold, if Adam had not transgressed he would not have fallen, but he would have remained in the garden of Eden. And all things which were created must have remained in the same state in which they were after they were created; and they must have remained forever, and had no end.",
+
+                "verse23": "23. And they would have had no children; wherefore they would have remained in a state of innocence, having no joy, for they knew no misery; doing no good, for they knew no sin.",
+
+                "verse24": "24. But behold, all things have been done in the wisdom of him who knoweth all things.",
+
+                "verse25": "25. Adam fell that men might be; and men are, that they might have joy.",
+
+                "verse26": "26. And the Messiah cometh in the fulness of time, that he may redeem the children of men from the fall. And because that they are redeemed from the fall they have become free forever, knowing good from evil; to act for themselves and not to be acted upon, save it be by the punishment of the law at the great and last day, according to the commandments which God hath given.",
+
+                "verse27": "27. Wherefore, men are free according to the flesh; and all things are given them which are expedient unto man. And they are free to choose liberty and eternal life, through the great Mediator of all men, or to choose captivity and death, according to the captivity and power of the devil; for he seeketh that all men might be miserable like unto himself."
+            },
+            {
+                "book": "book",
+                "chapter": "7",
+                "verse": "1-2",
+                "text": ""
+            },
+            {
+                "book": "book",
+                "chapter": "7",
+                "verse": "1-2",
+                "text": ""
+            },
+            {
+                "book": "book",
+                "chapter": "7",
+                "verse": "1-2",
+                "text": ""
+            },
+            {
+                "book": "book",
+                "chapter": "7",
+                "verse": "1-2",
+                "text": ""
+            },
+            {
+                "book": "book",
+                "chapter": "7",
+                "verse": "1-2",
+                "text": ""
+            },
+            {
+                "book": "book",
+                "chapter": "7",
+                "verse": "1-2",
+                "text": ""
+            },
+            {
+                "book": "book",
+                "chapter": "7",
+                "verse": "1-2",
+                "text": ""
+            },
+
+        ]
         
-            
-            {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
-            },
-            {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
-            },
-            {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
-            },
-            {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
-            },
-            {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
-            },
-            {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
-            },
+    {
+        "topic": "Faith and Works",
+        "references": [        
             {
                 "book": "book",
                 "chapter": "7",
