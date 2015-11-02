@@ -1245,223 +1245,511 @@
                 "book": "Luke",
                 "chapter": "12",
                 "verse": "15-34",
-                "text": "15 And he said unto them, Take heed, and beware of covetousness: for a man’s life consisteth not in the abundance of the things which he possesseth. 16. And he spake a parable unto them, saying, The ground of a certain rich man brought forth plentifully: 17. And he thought within himself, saying, What shall I do, because I have no room where to bestow my fruits? 18. And he said, This will I do: I will pull down my barns, and build greater; and there will I bestow all my fruits and my goods. 19. And I will say to my soul, Soul, thou hast much goods laid up for many years; take thine ease, eat, drink, and be merry. 20. But God said unto him, Thou fool, this night thy soul shall be required of thee: then whose shall those things be, which thou hast provided? 21. So is he that layeth up treasure for himself, and is not rich toward God. 22. And he said unto his disciples, Therefore I say unto you, Take no thought for your life, what ye shall eat; neither for the body, what ye shall put on. 23. The life is more than meat, and the body is more than raiment. 24. Consider the ravens: for they neither sow nor reap; which neither have storehouse nor barn; and God feedeth them: how much more are ye better than the fowls? 25. And which of you with taking thought can add to his stature one cubit? 26. If ye then be not able to do that thing which is least, why take ye thought for the rest? 27. Consider the lilies how they grow: they toil not, they spin not; and yet I say unto you, that Solomon in all his glory was not arrayed like one of these. 28. If then God so clothe the grass, which is to day in the field, and to morrow is cast into the oven; how much more will he clothe you, O ye of little faith? 29. And seek not ye what ye shall eat, or what ye shall drink, neither be ye of doubtful mind. 30. For all these things do the nations of the world seek after: and your Father knoweth that ye have need of these things. 31. But rather seek ye the kingdom of God; and all these things shall be added unto you. 32. Fear not, little flock; for it is your Father’s good pleasure to give you the kingdom. 33. Sell that ye have, and give alms; provide yourselves bags which wax not old, a treasure in the heavens that faileth not, where no thief approacheth, neither moth corrupteth. 34. For where your treasure is, there will your heart be also."
+                "verse15": "15 And he said unto them, Take heed, and beware of covetousness: for a man’s life consisteth not in the abundance of the things which he possesseth.", 
+
+                "verse16": "16. And he spake a parable unto them, saying, The ground of a certain rich man brought forth plentifully:", 
+
+                "verse17": "17. And he thought within himself, saying, What shall I do, because I have no room where to bestow my fruits?", 
+
+                "verse18": "18. And he said, This will I do: I will pull down my barns, and build greater; and there will I bestow all my fruits and my goods.", 
+
+                "verse19": "19. And I will say to my soul, Soul, thou hast much goods laid up for many years; take thine ease, eat, drink, and be merry.", 
+
+                "verse20": "20. But God said unto him, Thou fool, this night thy soul shall be required of thee: then whose shall those things be, which thou hast provided?", 
+
+                "verse21": "21. So is he that layeth up treasure for himself, and is not rich toward God.", 
+
+                "verse22": "22. And he said unto his disciples, Therefore I say unto you, Take no thought for your life, what ye shall eat; neither for the body, what ye shall put on.", 
+
+                "verse23": "23. The life is more than meat, and the body is more than raiment.", 
+
+                "verse24": "24. Consider the ravens: for they neither sow nor reap; which neither have storehouse nor barn; and God feedeth them: how much more are ye better than the fowls?", 
+
+                "verse25": "25. And which of you with taking thought can add to his stature one cubit?", 
+
+                "verse26": "26. If ye then be not able to do that thing which is least, why take ye thought for the rest?", 
+
+                "verse27": "27. Consider the lilies how they grow: they toil not, they spin not; and yet I say unto you, that Solomon in all his glory was not arrayed like one of these.", 
+
+                "verse28": "28. If then God so clothe the grass, which is to day in the field, and to morrow is cast into the oven; how much more will he clothe you, O ye of little faith?", 
+
+                "verse29": "29. And seek not ye what ye shall eat, or what ye shall drink, neither be ye of doubtful mind.",
+
+                "verse30": "30. For all these things do the nations of the world seek after: and your Father knoweth that ye have need of these things.", 
+
+                "verse31": "31. But rather seek ye the kingdom of God; and all these things shall be added unto you.", 
+
+                "verse32": "32. Fear not, little flock; for it is your Father’s good pleasure to give you the kingdom.", 
+
+                "verse33": "33. Sell that ye have, and give alms; provide yourselves bags which wax not old, a treasure in the heavens that faileth not, where no thief approacheth, neither moth corrupteth.", 
+
+                "verse34": "34. For where your treasure is, there will your heart be also."
             },
             {
                 "book": "Luke",
                 "chapter": "16",
                 "verse": "19-25",
-                "text": "19. There was a certain rich man, which was clothed in purple and fine linen, and fared sumptuously every day: 20. And there was a certain beggar named Lazarus, which was laid at his gate, full of sores, 21. And desiring to be fed with the crumbs which fell from the rich man’s table: moreover the dogs came and licked his sores. 22. And it came to pass, that the beggar died, and was carried by the angels into Abraham’s bosom: the rich man also died, and was buried; 23. And in hell he lift up his eyes, being in torments, and seeth Abraham afar off, and Lazarus in his bosom. 24. And he cried and said, Father Abraham, have mercy on me, and send Lazarus, that he may dip the tip of his finger in water, and cool my tongue; for I am tormented in this flame. 25. But Abraham said, Son, remember that thou in thy lifetime receivedst thy good things, and likewise Lazarus evil things: but now he is comforted, and thou art tormented."
+                "verse19": "19. There was a certain rich man, which was clothed in purple and fine linen, and fared sumptuously every day:", 
+
+                "verse20": "20. And there was a certain beggar named Lazarus, which was laid at his gate, full of sores,", 
+
+                "verse21": "21. And desiring to be fed with the crumbs which fell from the rich man’s table: moreover the dogs came and licked his sores.", 
+
+                "verse22": "22. And it came to pass, that the beggar died, and was carried by the angels into Abraham’s bosom: the rich man also died, and was buried;", 
+
+                "verse23": "23. And in hell he lift up his eyes, being in torments, and seeth Abraham afar off, and Lazarus in his bosom.", 
+
+                "verse24": "24. And he cried and said, Father Abraham, have mercy on me, and send Lazarus, that he may dip the tip of his finger in water, and cool my tongue; for I am tormented in this flame.", 
+
+                "verse25": "25. But Abraham said, Son, remember that thou in thy lifetime receivedst thy good things, and likewise Lazarus evil things: but now he is comforted, and thou art tormented."
             },
             {
                 "book": "Luke",
                 "chapter": "16",
                 "verse": "19-25",
-                "text": "19. There was a certain rich man, which was clothed in purple and fine linen, and fared sumptuously every day: 20. And there was a certain beggar named Lazarus, which was laid at his gate, full of sores, 21. And desiring to be fed with the crumbs which fell from the rich man’s table: moreover the dogs came and licked his sores. 22. And it came to pass, that the beggar died, and was carried by the angels into Abraham’s bosom: the rich man also died, and was buried; 23. And in hell he lift up his eyes, being in torments, and seeth Abraham afar off, and Lazarus in his bosom. 24. And he cried and said, Father Abraham, have mercy on me, and send Lazarus, that he may dip the tip of his finger in water, and cool my tongue; for I am tormented in this flame. 25. But Abraham said, Son, remember that thou in thy lifetime receivedst thy good things, and likewise Lazarus evil things: but now he is comforted, and thou art tormented."
+                "verse19": "19. There was a certain rich man, which was clothed in purple and fine linen, and fared sumptuously every day:", 
+
+                "verse20": "20. And there was a certain beggar named Lazarus, which was laid at his gate, full of sores,", 
+
+                "verse21": "21. And desiring to be fed with the crumbs which fell from the rich man’s table: moreover the dogs came and licked his sores.",
+
+                "verse22": "22. And it came to pass, that the beggar died, and was carried by the angels into Abraham’s bosom: the rich man also died, and was buried;", 
+
+                "verse23": "23. And in hell he lift up his eyes, being in torments, and seeth Abraham afar off, and Lazarus in his bosom.", 
+
+                "verse24": "24. And he cried and said, Father Abraham, have mercy on me, and send Lazarus, that he may dip the tip of his finger in water, and cool my tongue; for I am tormented in this flame.", 
+
+                "verse25": "25. But Abraham said, Son, remember that thou in thy lifetime receivedst thy good things, and likewise Lazarus evil things: but now he is comforted, and thou art tormented."
             },
             {
                 "book": "Luke",
                 "chapter": "21",
                 "verse": "1-4",
-                "text": "1. And he looked up, and saw the rich men casting their gifts into the treasury. 2. And he saw also a certain poor widow casting in thither two mites. 3. And he said, Of a truth I say unto you, that this poor widow hath cast in more than they all: 4. For all these have of their abundance cast in unto the offerings of God: but she of her penury hath cast in all the living that she had."
+                "verse1": "1. And he looked up, and saw the rich men casting their gifts into the treasury.", 
+
+                "verse2": "2. And he saw also a certain poor widow casting in thither two mites.", 
+
+                "verse3": "3. And he said, Of a truth I say unto you, that this poor widow hath cast in more than they all:", 
+
+                "verse4": "4. For all these have of their abundance cast in unto the offerings of God: but she of her penury hath cast in all the living that she had."
             },
             {
                 "book": "Luke",
                 "chapter": "22",
                 "verse": "32",
-                "text": "32. But I have prayed for thee, that thy faith fail not: and when thou art converted, strengthen thy brethren."
+                "verse32": "32. But I have prayed for thee, that thy faith fail not: and when thou art converted, strengthen thy brethren."
             },
 
             {
                 "book": "John",
                 "chapter": "7",
                 "verse": "16-17",
-                "text": "16. Jesus answered them, and said, My doctrine is not mine, but his that sent me. 17. If any man will do his will, he shall know of the doctrine, whether it be of God, or whether I speak of myself."
+                "verse16": "16. Jesus answered them, and said, My doctrine is not mine, but his that sent me.", 
+
+                "verse17": "17. If any man will do his will, he shall know of the doctrine, whether it be of God, or whether I speak of myself."
             },
 
             {
                 "book": "John",
                 "chapter": "8",
                 "verse": "31-32",
-                "text": "31. Then said Jesus to those Jews which believed on him, If ye continue in my word, then are ye my disciples indeed; 32. And ye shall know the truth, and the truth shall make you free."
+                "verse31": "31. Then said Jesus to those Jews which believed on him, If ye continue in my word, then are ye my disciples indeed;", 
+
+                "verse32": "32. And ye shall know the truth, and the truth shall make you free."
             },
 
             {
                 "book": "John",
                 "chapter": "14",
                 "verse": "12, 15, 21",
-                "text": "12. Verily, verily, I say unto you, He that believeth on me, the works that I do shall he do also; and greater works than these shall he do; because I go unto my Father. 15. If ye love me, keep my commandments. 21. He that hath my commandments, and keepeth them, he it is that loveth me: and he that loveth me shall be loved of my Father, and I will love him, and will manifest myself to him."
+                "verse12": "12. Verily, verily, I say unto you, He that believeth on me, the works that I do shall he do also; and greater works than these shall he do; because I go unto my Father.", 
+
+                "verse15": "15. If ye love me, keep my commandments.", 
+
+                "verse21": "21. He that hath my commandments, and keepeth them, he it is that loveth me: and he that loveth me shall be loved of my Father, and I will love him, and will manifest myself to him."
             },
 
             {
                 "book": "Romans",
                 "chapter": "4",
                 "verse": "12-22",
-                "text": "12. And the father of circumcision to them who are not of the circumcision only, but who also walk in the steps of that faith of our father Abraham, which he had being yet uncircumcised. 13. For the promise, that he should be the heir of the world, was not to Abraham, or to his seed, through the law, but through the righteousness of faith. 14. For if they which are of the law be heirs, faith is made void, and the promise made of none effect: 15. Because the law worketh wrath: for where no law is, there is no transgression. 16. Therefore it is of faith, that it might be by grace; to the end the promise might be sure to all the seed; not to that only which is of the law, but to that also which is of the faith of Abraham; who is the father of us all, 17. (As it is written, I have made thee a father of many nations,) before him whom he believed, even God, who quickeneth the dead, and calleth those things which be not as though they were. 18. Who against hope believed in hope, that he might become the father of many nations, according to that which was spoken, So shall thy seed be. 19. And being not weak in faith, he considered not his own body now dead, when he was about an hundred years old, neither yet the deadness of Sara’s womb: 20. He staggered not at the promise of God through unbelief; but was strong in faith, giving glory to God; 21. And being fully persuaded that, what he had promised, he was able also to perform. 22. And therefore it was imputed to him for righteousness."
+                "verse12": "12. And the father of circumcision to them who are not of the circumcision only, but who also walk in the steps of that faith of our father Abraham, which he had being yet uncircumcised.", 
+
+                "verse13:" "13. For the promise, that he should be the heir of the world, was not to Abraham, or to his seed, through the law, but through the righteousness of faith.", 
+
+                "verse14": "14. For if they which are of the law be heirs, faith is made void, and the promise made of none effect:", 
+
+                "verse15": "15. Because the law worketh wrath: for where no law is, there is no transgression.", 
+
+                "verse16": "16. Therefore it is of faith, that it might be by grace; to the end the promise might be sure to all the seed; not to that only which is of the law, but to that also which is of the faith of Abraham; who is the father of us all,", 
+
+                "verse17": "17. (As it is written, I have made thee a father of many nations,) before him whom he believed, even God, who quickeneth the dead, and calleth those things which be not as though they were.", 
+
+                "verse18": "18. Who against hope believed in hope, that he might become the father of many nations, according to that which was spoken, So shall thy seed be.", 
+
+                "verse19": "19. And being not weak in faith, he considered not his own body now dead, when he was about an hundred years old, neither yet the deadness of Sara’s womb:", 
+
+                "verse20": "20. He staggered not at the promise of God through unbelief; but was strong in faith, giving glory to God;",
+
+                "verse21": "21. And being fully persuaded that, what he had promised, he was able also to perform. 22. And therefore it was imputed to him for righteousness."
             },
 
             {
                 "book": "Romans",
                 "chapter": "10",
                 "verse": "11-21",
-                "text": "11. For the scripture saith, Whosoever believeth on him shall not be ashamed. 12. For there is no difference between the Jew and the Greek: for the same Lord over all is rich unto all that call upon him. 13. For whosoever shall call upon the name of the Lord shall be saved. 14. How then shall they call on him in whom they have not believed? and how shall they believe in him of whom they have not heard? and how shall they hear without a preacher? 15. And how shall they preach, except they be sent? as it is written, How beautiful are the feet of them that preach the gospel of peace, and bring glad tidings of good things! 16. But they have not all obeyed the gospel. For Esaias saith, Lord, who hath believed our report? 17. So then faith cometh by hearing, and hearing by the word of God. 18. But I say, Have they not heard? Yes verily, their sound went into all the earth, and their words unto the ends of the world. 19. But I say, Did not Israel know? First Moses saith, I will provoke you to jealousy by them that are no people, and by a foolish nation I will anger you. 20. But Esaias is very bold, and saith, I was found of them that sought me not; I was made manifest unto them that asked not after me. 21. But to Israel he saith, All day long I have stretched forth my hands unto a disobedient and gainsaying people."
+                "verse11": "11. For the scripture saith, Whosoever believeth on him shall not be ashamed.", 
+
+                "verse12": "12. For there is no difference between the Jew and the Greek: for the same Lord over all is rich unto all that call upon him.", 
+
+                "verse13": "13. For whosoever shall call upon the name of the Lord shall be saved.", 
+
+                "verse14": "14. How then shall they call on him in whom they have not believed? and how shall they believe in him of whom they have not heard? and how shall they hear without a preacher?", 
+
+                "verse15": "15. And how shall they preach, except they be sent? as it is written, How beautiful are the feet of them that preach the gospel of peace, and bring glad tidings of good things!", 
+
+                "verse16": "16. But they have not all obeyed the gospel. For Esaias saith, Lord, who hath believed our report?", 
+
+                "verse17": "17. So then faith cometh by hearing, and hearing by the word of God.", 
+
+                "verse18": "18. But I say, Have they not heard? Yes verily, their sound went into all the earth, and their words unto the ends of the world.", 
+
+                "verse19": "19. But I say, Did not Israel know? First Moses saith, I will provoke you to jealousy by them that are no people, and by a foolish nation I will anger you.", 
+
+                "verse20": "20. But Esaias is very bold, and saith, I was found of them that sought me not; I was made manifest unto them that asked not after me.", 
+
+                "verse21": "21. But to Israel he saith, All day long I have stretched forth my hands unto a disobedient and gainsaying people."
             },
             {
                 "book": "Romans",
                 "chapter": "13",
                 "verse": "9-10",
-                "text": "9. For this, Thou shalt not commit adultery, Thou shalt not kill, Thou shalt not steal, Thou shalt not bear false witness, Thou shalt not covet; and if there be any other commandment, it is briefly comprehended in this saying, namely, Thou shalt love thy neighbour as thyself. 10. Love worketh no ill to his neighbour: therefore love is the fulfilling of the law."
+                "verse9": "9. For this, Thou shalt not commit adultery, Thou shalt not kill, Thou shalt not steal, Thou shalt not bear false witness, Thou shalt not covet; and if there be any other commandment, it is briefly comprehended in this saying, namely, Thou shalt love thy neighbour as thyself.", 
+
+                "verse10": "10. Love worketh no ill to his neighbour: therefore love is the fulfilling of the law."
             },
 
             {
                 "book": "1 Corinthians",
                 "chapter": "6",
                 "verse": "19-20",
-                "text": "19 What? know ye not that your body is the temple of the Holy Ghost which is in you, which ye have of God, and ye are not your own? 20. For ye are bought with a price: therefore glorify God in your body, and in your spirit, which are God’s."
+                "verse19": "19. What? know ye not that your body is the temple of the Holy Ghost which is in you, which ye have of God, and ye are not your own?", 
+
+                "verse20": "20. For ye are bought with a price: therefore glorify God in your body, and in your spirit, which are God’s."
             },
 
             {
                 "book": "2 Corinthians",
                 "chapter": "9",
                 "verse": "7",
-                "text": "7. Every man according as he purposeth in his heart, so let him give; not grudgingly, or of necessity: for God loveth a cheerful giver."
+                "verse7": "7. Every man according as he purposeth in his heart, so let him give; not grudgingly, or of necessity: for God loveth a cheerful giver."
             },
 
             {
                 "book": "Galatians",
                 "chapter": "6",
                 "verse": "2",
-                "text": "2. Bear ye one another’s burdens, and so fulfil the law of Christ."
+                "verse2": "2. Bear ye one another’s burdens, and so fulfil the law of Christ."
             },
 
             {
                 "book": "Philippians",
                 "chapter": "2",
                 "verse": "12",
-                "text": "12. Wherefore, my beloved, as ye have always obeyed, not as in my presence only, but now much more in my absence, work out your own salvation with fear and trembling."
+                "verse12": "12. Wherefore, my beloved, as ye have always obeyed, not as in my presence only, but now much more in my absence, work out your own salvation with fear and trembling."
             },
 
             {
                 "book": "1 Timothy",
                 "chapter": "1",
                 "verse": "5",
-                "text": "5. Now the end of the commandment is charity out of a pure heart, and of a good conscience, and of faith unfeigned:"
+                "verse5": "5. Now the end of the commandment is charity out of a pure heart, and of a good conscience, and of faith unfeigned:"
             },
 
             {
                 "book": "Hebrews",
                 "chapter": "7",
                 "verse": "1-2",
-                "text": "1. For this Melchisedec, king of Salem, priest of the most high God, who met Abraham returning from the slaughter of the kings, and blessed him; 2. To whom also Abraham gave a tenth part of all; first being by interpretation King of righteousness, and after that also King of Salem, which is, King of peace;"
+                "verse1": "1. For this Melchisedec, king of Salem, priest of the most high God, who met Abraham returning from the slaughter of the kings, and blessed him;", 
+
+                "verse2": "2. To whom also Abraham gave a tenth part of all; first being by interpretation King of righteousness, and after that also King of Salem, which is, King of peace;"
             },
 
             {
                 "book": "Hebrews",
                 "chapter": "11",
                 "verse": "1, 6, 17",
-                "text": "1. Now faith is the substance of things hoped for, the evidence of things not seen. 6. But without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him. 17. By faith Abraham, when he was tried, offered up Isaac: and he that had received the promises offered up his only begotten son,"
+                "verse1": "1. Now faith is the substance of things hoped for, the evidence of things not seen.", 
+
+                "verse6": "6. But without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him.", 
+
+                "verse17": "17. By faith Abraham, when he was tried, offered up Isaac: and he that had received the promises offered up his only begotten son,"
             },
             {
                 "book": "James",
                 "chapter": "1",
                 "verse": "5, 22-25",
-                "text": "5. If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him. 22 But be ye doers of the word, and not hearers only, deceiving your own selves. 23. For if any be a hearer of the word, and not a doer, he is like unto a man beholding his natural face in a glass: 24. For he beholdeth himself, and goeth his way, and straightway forgetteth what manner of man he was. 25. But whoso looketh into the perfect law of liberty, and continueth therein, he being not a forgetful hearer, but a doer of the work, this man shall be blessed in his deed."
+                "verse5": "5. If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.", 
+
+                "verse22": "22 But be ye doers of the word, and not hearers only, deceiving your own selves.", 
+
+                "verse23": "23. For if any be a hearer of the word, and not a doer, he is like unto a man beholding his natural face in a glass:", 
+
+                "verse24": "24. For he beholdeth himself, and goeth his way, and straightway forgetteth what manner of man he was.", 
+
+                "verse25": "25. But whoso looketh into the perfect law of liberty, and continueth therein, he being not a forgetful hearer, but a doer of the work, this man shall be blessed in his deed."
             },
             {
                 "book": "James",
                 "chapter": "2",
                 "verse": "14-26",
-                "text": "14. What doth it profit, my brethren, though a man say he hath faith, and have not works? can faith save him? 15. If a brother or sister be naked, and destitute of daily food, 16. And one of you say unto them, Depart in peace, be ye warmed and filled; notwithstanding ye give them not those things which are needful to the body; what doth it profit? 17. Even so faith, if it hath not works, is dead, being alone. 18. Yea, a man may say, Thou hast faith, and I have works: shew me thy faith without thy works, and I will shew thee my faith by my works. 19. Thou believest that there is one God; thou doest well: the devils also believe, and tremble. 20. But wilt thou know, O vain man, that faith without works is dead? 21. Was not Abraham our father justified by works, when he had offered Isaac his son upon the altar? 22. Seest thou how faith wrought with his works, and by works was faith made perfect? 23. And the scripture was fulfilled which saith, Abraham believed God, and it was imputed unto him for righteousness: and he was called the Friend of God. 24. Ye see then how that by works a man is justified, and not by faith only. 25. Likewise also was not Rahab the harlot justified by works, when she had received the messengers, and had sent them out another way? 26. For as the body without the spirit is dead, so faith without works is dead also."
+                "verse14": "14. What doth it profit, my brethren, though a man say he hath faith, and have not works? can faith save him?", 
+
+                "verse15": "15. If a brother or sister be naked, and destitute of daily food,", 
+
+                "verse16": "16. And one of you say unto them, Depart in peace, be ye warmed and filled; notwithstanding ye give them not those things which are needful to the body; what doth it profit?", 
+
+                "verse17": "17. Even so faith, if it hath not works, is dead, being alone.", 
+
+                "verse18": "18. Yea, a man may say, Thou hast faith, and I have works: shew me thy faith without thy works, and I will shew thee my faith by my works.", 
+
+                "verse19": "19. Thou believest that there is one God; thou doest well: the devils also believe, and tremble.", 
+
+                "verse20": "But wilt thou know, O vain man, that faith without works is dead?", 
+
+                "verse21": "21. Was not Abraham our father justified by works, when he had offered Isaac his son upon the altar?", 
+
+                "verse22": "22. Seest thou how faith wrought with his works, and by works was faith made perfect?", 
+
+                "verse23": "23. And the scripture was fulfilled which saith, Abraham believed God, and it was imputed unto him for righteousness: and he was called the Friend of God.", 
+
+                "verse24": "24. Ye see then how that by works a man is justified, and not by faith only.", 
+
+                "verse25": "25. Likewise also was not Rahab the harlot justified by works, when she had received the messengers, and had sent them out another way? 26. For as the body without the spirit is dead, so faith without works is dead also."
             },
             {
                 "book": "1 Peter",
                 "chapter": "4",
                 "verse": "10",
-                "text": "10. As every man hath received the gift, even so minister the same one to another, as good stewards of the manifold grace of God."
+                "verse10": "10. As every man hath received the gift, even so minister the same one to another, as good stewards of the manifold grace of God."
             },
             {
                 "book": "1 Peter",
                 "chapter": "5",
                 "verse": "2",
-                "text": "2. Feed the flock of God which is among you, taking the oversight thereof, not by constraint, but willingly; not for filthy lucre, but of a ready mind;"
+                "verse2": "2. Feed the flock of God which is among you, taking the oversight thereof, not by constraint, but willingly; not for filthy lucre, but of a ready mind;"
             },
             {
                 "book": "1 Nephi",
                 "chapter": "3",
                 "verse": "7",
-                "text": "7. And it came to pass that I, Nephi, said unto my father: I will go and do the things which the Lord hath commanded, for I know that the Lord giveth no commandments unto the children of men, save he shall prepare a way for them that they may accomplish the thing which he commandeth them."
+                "verse7": "7. And it came to pass that I, Nephi, said unto my father: I will go and do the things which the Lord hath commanded, for I know that the Lord giveth no commandments unto the children of men, save he shall prepare a way for them that they may accomplish the thing which he commandeth them."
             },
             {
                 "book": "1 Nephi",
                 "chapter": "7",
                 "verse": "11-18",
-                "text": "11. Yea, and how is it that ye have forgotten what great things the Lord hath done for us, in delivering us out of the hands of Laban, and also that we should obtain the record? 12. Yea, and how is it that ye have forgotten that the Lord is able to do all things according to his will, for the children of men, if it so be that they exercise faith in him? Wherefore, let us be faithful to him. 13. And if it so be that we are faithful to him, we shall obtain the land of promise; and ye shall know at some future period that the word of the Lord shall be fulfilled concerning the destruction of Jerusalem; for all things which the Lord hath spoken concerning the destruction of Jerusalem must be fulfilled. 14. For behold, the Spirit of the Lord ceaseth soon to strive with them; for behold, they have rejected the prophets, and Jeremiah have they cast into prison. And they have sought to take away the life of my father, insomuch that they have driven him out of the land. 15. Now behold, I say unto you that if ye will return unto Jerusalem ye shall also perish with them. And now, if ye have choice, go up to the land, and remember the words which I speak unto you, that if ye go ye will also perish; for thus the Spirit of the Lord constraineth me that I should speak. 16. And it came to pass that when I, Nephi, had spoken these words unto my brethren, they were angry with me. And it came to pass that they did lay their hands upon me, for behold, they were exceedingly wroth, and they did bind me with cords, for they sought to take away my life, that they might leave me in the wilderness to be devoured by wild beasts. 17. But it came to pass that I prayed unto the Lord, saying: O Lord, according to my faith which is in thee, wilt thou deliver me from the hands of my brethren; yea, even give me strength that I may burst these bands with which I am bound. 18. And it came to pass that when I had said these words, behold, the bands were loosed from off my hands and feet, and I stood before my brethren, and I spake unto them again."
+                "verse11": "11. Yea, and how is it that ye have forgotten what great things the Lord hath done for us, in delivering us out of the hands of Laban, and also that we should obtain the record?", 
+
+                "verse12": "12. Yea, and how is it that ye have forgotten that the Lord is able to do all things according to his will, for the children of men, if it so be that they exercise faith in him? Wherefore, let us be faithful to him.", 
+
+                "verse13": "13. And if it so be that we are faithful to him, we shall obtain the land of promise; and ye shall know at some future period that the word of the Lord shall be fulfilled concerning the destruction of Jerusalem; for all things which the Lord hath spoken concerning the destruction of Jerusalem must be fulfilled.", 
+
+                "verse14": "14. For behold, the Spirit of the Lord ceaseth soon to strive with them; for behold, they have rejected the prophets, and Jeremiah have they cast into prison. And they have sought to take away the life of my father, insomuch that they have driven him out of the land.", 
+
+                "verse15": "15. Now behold, I say unto you that if ye will return unto Jerusalem ye shall also perish with them. And now, if ye have choice, go up to the land, and remember the words which I speak unto you, that if ye go ye will also perish; for thus the Spirit of the Lord constraineth me that I should speak.", 
+
+                "verse16": "16. And it came to pass that when I, Nephi, had spoken these words unto my brethren, they were angry with me. And it came to pass that they did lay their hands upon me, for behold, they were exceedingly wroth, and they did bind me with cords, for they sought to take away my life, that they might leave me in the wilderness to be devoured by wild beasts.", 
+
+                "verse17": "17. But it came to pass that I prayed unto the Lord, saying: O Lord, according to my faith which is in thee, wilt thou deliver me from the hands of my brethren; yea, even give me strength that I may burst these bands with which I am bound.", 
+
+                "verse18": "18. And it came to pass that when I had said these words, behold, the bands were loosed from off my hands and feet, and I stood before my brethren, and I spake unto them again."
             },
             {
                 "book": "2 Nephi",
                 "chapter": "9",
                 "verse": "23",
-                "text": "23. And he commandeth all men that they must repent, and be baptized in his name, having perfect faith in the Holy One of Israel, or they cannot be saved in the kingdom of God."
+                "verse23": "23. And he commandeth all men that they must repent, and be baptized in his name, having perfect faith in the Holy One of Israel, or they cannot be saved in the kingdom of God."
             },
             {
                 "book": "Jacob",
                 "chapter": "2",
                 "verse": "18-19",
-                "text": "18. But before ye seek for riches, seek ye for the kingdom of God. 19. And after ye have obtained a hope in Christ ye shall obtain riches, if ye seek them; and ye will seek them for the intent to do good—to clothe the naked, and to feed the hungry, and to liberate the captive, and administer relief to the sick and the afflicted."
+                "verse18": "18. But before ye seek for riches, seek ye for the kingdom of God.", 
+
+                "verse19"; "19. And after ye have obtained a hope in Christ ye shall obtain riches, if ye seek them; and ye will seek them for the intent to do good—to clothe the naked, and to feed the hungry, and to liberate the captive, and administer relief to the sick and the afflicted."
             },
             {
                 "book": "Mosiah",
                 "chapter": "2",
                 "verse": "17",
-                "text": "17. And behold, I tell you these things that ye may learn wisdom; that ye may learn that when ye are in the service of your fellow beings ye are only in the service of your God."
+                "verse17": "17. And behold, I tell you these things that ye may learn wisdom; that ye may learn that when ye are in the service of your fellow beings ye are only in the service of your God."
             },
             {
                 "book": "Mosiah",
                 "chapter": "4",
                 "verse": "11-27",
-                "text": "11. And again I say unto you as I have said before, that as ye have come to the knowledge of the glory of God, or if ye have known of his goodness and have tasted of his love, and have received a remission of your sins, which causeth such exceedingly great joy in your souls, even so I would that ye should remember, and always retain in remembrance, the greatness of God, and your own nothingness, and his goodness and long-suffering towards you, unworthy creatures, and humble yourselves even in the depths of humility, calling on the name of the Lord daily, and standing steadfastly in the faith of that which is to come, which was spoken by the mouth of the angel. 12. And behold, I say unto you that if ye do this ye shall always rejoice, and be filled with the love of God, and always retain a remission of your sins; and ye shall grow in the knowledge of the glory of him that created you, or in the knowledge of that which is just and true. 13. And ye will not have a mind to injure one another, but to live peaceably, and to render to every man according to that which is his due. 14. And ye will not suffer your children that they go hungry, or naked; neither will ye suffer that they transgress the laws of God, and fight and quarrel one with another, and serve the devil, who is the master of sin, or who is the evil spirit which hath been spoken of by our fathers, he being an enemy to all righteousness. 15. But ye will teach them to walk in the ways of truth and soberness; ye will teach them to love one another, and to serve one another. 16. And also, ye yourselves will succor those that stand in need of your succor; ye will administer of your substance unto him that standeth in need; and ye will not suffer that the beggar putteth up his petition to you in vain, and turn him out to perish. 17. Perhaps thou shalt say: The man has brought upon himself his misery; therefore I will stay my hand, and will not give unto him of my food, nor impart unto him of my substance that he may not suffer, for his punishments are just— 18. But I say unto you, O man, whosoever doeth this the same hath great cause to repent; and except he repenteth of that which he hath done he perisheth forever, and hath no interest in the kingdom of God. 19. For behold, are we not all beggars? Do we not all depend upon the same Being, even God, for all the substance which we have, for both food and raiment, and for gold, and for silver, and for all the riches which we have of every kind? 20. And behold, even at this time, ye have been calling on his name, and begging for a remission of your sins. And has he suffered that ye have begged in vain? Nay; he has poured out his Spirit upon you, and has caused that your hearts should be filled with joy, and has caused that your mouths should be stopped that ye could not find utterance, so exceedingly great was your joy. 21. And now, if God, who has created you, on whom you are dependent for your lives and for all that ye have and are, doth grant unto you whatsoever ye ask that is right, in faith, believing that ye shall receive, O then, how ye ought to impart of the substance that ye have one to another. 22. And if ye judge the man who putteth up his petition to you for your substance that he perish not, and condemn him, how much more just will be your condemnation for withholding your substance, which doth not belong to you but to God, to whom also your life belongeth; and yet ye put up no petition, nor repent of the thing which thou hast done. 23. I say unto you, wo be unto that man, for his substance shall perish with him; and now, I say these things unto those who are rich as pertaining to the things of this world. 24. And again, I say unto the poor, ye who have not and yet have sufficient, that ye remain from day to day; I mean all you who deny the beggar, because ye have not; I would that ye say in your hearts that: I give not because I have not, but if I had I would give. 25. And now, if ye say this in your hearts ye remain guiltless, otherwise ye are condemned; and your condemnation is just for ye covet that which ye have not received. 26. And now, for the sake of these things which I have spoken unto you—that is, for the sake of retaining a remission of your sins from day to day, that ye may walk guiltless before God—I would that ye should impart of your substance to the poor, every man according to that which he hath, such as feeding the hungry, clothing the naked, visiting the sick and administering to their relief, both spiritually and temporally, according to their wants. 27. And see that all these things are done in wisdom and order; for it is not requisite that a man should run faster than he has strength. And again, it is expedient that he should be diligent, that thereby he might win the prize; therefore, all things must be done in order."
+                "verse11": "11. And again I say unto you as I have said before, that as ye have come to the knowledge of the glory of God, or if ye have known of his goodness and have tasted of his love, and have received a remission of your sins, which causeth such exceedingly great joy in your souls, even so I would that ye should remember, and always retain in remembrance, the greatness of God, and your own nothingness, and his goodness and long-suffering towards you, unworthy creatures, and humble yourselves even in the depths of humility, calling on the name of the Lord daily, and standing steadfastly in the faith of that which is to come, which was spoken by the mouth of the angel.", 
+
+                "verse12": "12. And behold, I say unto you that if ye do this ye shall always rejoice, and be filled with the love of God, and always retain a remission of your sins; and ye shall grow in the knowledge of the glory of him that created you, or in the knowledge of that which is just and true.", 
+
+                "verse13": "13. And ye will not have a mind to injure one another, but to live peaceably, and to render to every man according to that which is his due.", 
+
+                "verse14": "14. And ye will not suffer your children that they go hungry, or naked; neither will ye suffer that they transgress the laws of God, and fight and quarrel one with another, and serve the devil, who is the master of sin, or who is the evil spirit which hath been spoken of by our fathers, he being an enemy to all righteousness.", 
+
+                "verse15": "15. But ye will teach them to walk in the ways of truth and soberness; ye will teach them to love one another, and to serve one another.",
+
+                "verse16": "16. And also, ye yourselves will succor those that stand in need of your succor; ye will administer of your substance unto him that standeth in need; and ye will not suffer that the beggar putteth up his petition to you in vain, and turn him out to perish.", 
+
+                "verse17": "17. Perhaps thou shalt say: The man has brought upon himself his misery; therefore I will stay my hand, and will not give unto him of my food, nor impart unto him of my substance that he may not suffer, for his punishments are just—", 
+
+                "verse18": "18. But I say unto you, O man, whosoever doeth this the same hath great cause to repent; and except he repenteth of that which he hath done he perisheth forever, and hath no interest in the kingdom of God.", 
+
+                "verse19": "19. For behold, are we not all beggars? Do we not all depend upon the same Being, even God, for all the substance which we have, for both food and raiment, and for gold, and for silver, and for all the riches which we have of every kind?",
+
+                "verse20": "20. And behold, even at this time, ye have been calling on his name, and begging for a remission of your sins. And has he suffered that ye have begged in vain? Nay; he has poured out his Spirit upon you, and has caused that your hearts should be filled with joy, and has caused that your mouths should be stopped that ye could not find utterance, so exceedingly great was your joy.", 
+
+                "verse21": "21. And now, if God, who has created you, on whom you are dependent for your lives and for all that ye have and are, doth grant unto you whatsoever ye ask that is right, in faith, believing that ye shall receive, O then, how ye ought to impart of the substance that ye have one to another.", 
+
+                "verse22": "22. And if ye judge the man who putteth up his petition to you for your substance that he perish not, and condemn him, how much more just will be your condemnation for withholding your substance, which doth not belong to you but to God, to whom also your life belongeth; and yet ye put up no petition, nor repent of the thing which thou hast done.", 
+
+                "verse23": "23. I say unto you, wo be unto that man, for his substance shall perish with him; and now, I say these things unto those who are rich as pertaining to the things of this world.", 
+
+                "verse24": "24. And again, I say unto the poor, ye who have not and yet have sufficient, that ye remain from day to day; I mean all you who deny the beggar, because ye have not; I would that ye say in your hearts that: I give not because I have not, but if I had I would give.", 
+
+                "verse25": "25. And now, if ye say this in your hearts ye remain guiltless, otherwise ye are condemned; and your condemnation is just for ye covet that which ye have not received.", 
+
+                "verse26:" "26. And now, for the sake of these things which I have spoken unto you—that is, for the sake of retaining a remission of your sins from day to day, that ye may walk guiltless before God—I would that ye should impart of your substance to the poor, every man according to that which he hath, such as feeding the hungry, clothing the naked, visiting the sick and administering to their relief, both spiritually and temporally, according to their wants.",
+
+                "verse27:" "27. And see that all these things are done in wisdom and order; for it is not requisite that a man should run faster than he has strength. And again, it is expedient that he should be diligent, that thereby he might win the prize; therefore, all things must be done in order."
             },
             {
                 "book": "Mosiah",
                 "chapter": "28",
                 "verse": "3",
-                "text": "3. Now they were desirous that salvation should be declared to every creature, for they could not bear that any human soul should perish; yea, even the very thoughts that any soul should endure endless torment did cause them to quake and tremble."
+                "verse3": "3. Now they were desirous that salvation should be declared to every creature, for they could not bear that any human soul should perish; yea, even the very thoughts that any soul should endure endless torment did cause them to quake and tremble."
             },
             {
                 "book": "Alma",
                 "chapter": "32",
                 "verse": "21, 26-43",
-                "text": "21. And now as I said concerning faith—faith is not to have a perfect knowledge of things; therefore if ye have faith ye hope for things which are not seen, which are true. 26 Now, as I said concerning faith—that it was not a perfect knowledge—even so it is with my words. Ye cannot know of their surety at first, unto perfection, any more than faith is a perfect knowledge. 27. But behold, if ye will awake and arouse your faculties, even to an experiment upon my words, and exercise a particle of faith, yea, even if ye can no more than desire to believe, let this desire work in you, even until ye believe in a manner that ye can give place for a portion of my words. 28. Now, we will compare the word unto a seed. Now, if ye give place, that a seed may be planted in your heart, behold, if it be a true seed, or a good seed, if ye do not cast it out by your unbelief, that ye will resist the Spirit of the Lord, behold, it will begin to swell within your breasts; and when you feel these swelling motions, ye will begin to say within yourselves—It must needs be that this is a good seed, or that the word is good, for it beginneth to enlarge my soul; yea, it beginneth to enlighten my understanding, yea, it beginneth to be delicious to me. 29. Now behold, would not this increase your faith? I say unto you, Yea; nevertheless it hath not grown up to a perfect knowledge. 30. But behold, as the seed swelleth, and sprouteth, and beginneth to grow, then you must needs say that the seed is good; for behold it swelleth, and sprouteth, and beginneth to grow. And now, behold, will not this strengthen your faith? Yea, it will strengthen your faith: for ye will say I know that this is a good seed; for behold it sprouteth and beginneth to grow. 31. And now, behold, are ye sure that this is a good seed? I say unto you, Yea; for every seed bringeth forth unto its own likeness. 32. Therefore, if a seed groweth it is good, but if it groweth not, behold it is not good, therefore it is cast away. 33. And now, behold, because ye have tried the experiment, and planted the seed, and it swelleth and sprouteth, and beginneth to grow, ye must needs know that the seed is good. 34. And now, behold, is your knowledge perfect? Yea, your knowledge is perfect in that thing, and your faith is dormant; and this because you know, for ye know that the word hath swelled your souls, and ye also know that it hath sprouted up, that your understanding doth begin to be enlightened, and your mind doth begin to expand. 35. O then, is not this real? I say unto you, Yea, because it is light; and whatsoever is light, is good, because it is discernible, therefore ye must know that it is good; and now behold, after ye have tasted this light is your knowledge perfect? 36. Behold I say unto you, Nay; neither must ye lay aside your faith, for ye have only exercised your faith to plant the seed that ye might try the experiment to know if the seed was good. 37. And behold, as the tree beginneth to grow, ye will say: Let us nourish it with great care, that it may get root, that it may grow up, and bring forth fruit unto us. And now behold, if ye nourish it with much care it will get root, and grow up, and bring forth fruit. 38. But if ye neglect the tree, and take no thought for its nourishment, behold it will not get any root; and when the heat of the sun cometh and scorcheth it, because it hath no root it withers away, and ye pluck it up and cast it out. 39. Now, this is not because the seed was not good, neither is it because the fruit thereof would not be desirable; but it is because your ground is barren, and ye will not nourish the tree, therefore ye cannot have the fruit thereof. 40. And thus, if ye will not nourish the word, looking forward with an eye of faith to the fruit thereof, ye can never pluck of the fruit of the tree of life. 41. But if ye will nourish the word, yea, nourish the tree as it beginneth to grow, by your faith with great diligence, and with patience, looking forward to the fruit thereof, it shall take root; and behold it shall be a tree springing up unto everlasting life. 42. And because of your diligence and your faith and your patience with the word in nourishing it, that it may take root in you, behold, by and by ye shall pluck the fruit thereof, which is most precious, which is sweet above all that is sweet, and which is white above all that is white, yea, and pure above all that is pure; and ye shall feast upon this fruit even until ye are filled, that ye hunger not, neither shall ye thirst. 43. Then, my brethren, ye shall reap the rewards of your faith, and your diligence, and patience, and long-suffering, waiting for the tree to bring forth fruit unto you.
+                "verse21": "21. And now as I said concerning faith—faith is not to have a perfect knowledge of things; therefore if ye have faith ye hope for things which are not seen, which are true.", 
+
+                "verse26", "26 Now, as I said concerning faith—that it was not a perfect knowledge—even so it is with my words. Ye cannot know of their surety at first, unto perfection, any more than faith is a perfect knowledge.",
+
+                "verse27", "27. But behold, if ye will awake and arouse your faculties, even to an experiment upon my words, and exercise a particle of faith, yea, even if ye can no more than desire to believe, let this desire work in you, even until ye believe in a manner that ye can give place for a portion of my words.", 
+
+                "verse28" "28. Now, we will compare the word unto a seed. Now, if ye give place, that a seed may be planted in your heart, behold, if it be a true seed, or a good seed, if ye do not cast it out by your unbelief, that ye will resist the Spirit of the Lord, behold, it will begin to swell within your breasts; and when you feel these swelling motions, ye will begin to say within yourselves—It must needs be that this is a good seed, or that the word is good, for it beginneth to enlarge my soul; yea, it beginneth to enlighten my understanding, yea, it beginneth to be delicious to me.", 
+
+                "verse29" "29. Now behold, would not this increase your faith? I say unto you, Yea; nevertheless it hath not grown up to a perfect knowledge.", 
+
+                "verse30", "30. But behold, as the seed swelleth, and sprouteth, and beginneth to grow, then you must needs say that the seed is good; for behold it swelleth, and sprouteth, and beginneth to grow. And now, behold, will not this strengthen your faith? Yea, it will strengthen your faith: for ye will say I know that this is a good seed; for behold it sprouteth and beginneth to grow.", 
+
+                "verse31", "31. And now, behold, are ye sure that this is a good seed? I say unto you, Yea; for every seed bringeth forth unto its own likeness.", 
+
+                "verse32", "32. Therefore, if a seed groweth it is good, but if it groweth not, behold it is not good, therefore it is cast away.", 
+
+                "verse33", "33. And now, behold, because ye have tried the experiment, and planted the seed, and it swelleth and sprouteth, and beginneth to grow, ye must needs know that the seed is good.", 
+
+                "verse34", "34. And now, behold, is your knowledge perfect? Yea, your knowledge is perfect in that thing, and your faith is dormant; and this because you know, for ye know that the word hath swelled your souls, and ye also know that it hath sprouted up, that your understanding doth begin to be enlightened, and your mind doth begin to expand.", 
+
+                "verse35", "35. O then, is not this real? I say unto you, Yea, because it is light; and whatsoever is light, is good, because it is discernible, therefore ye must know that it is good; and now behold, after ye have tasted this light is your knowledge perfect?", 
+
+                "verse36", "36. Behold I say unto you, Nay; neither must ye lay aside your faith, for ye have only exercised your faith to plant the seed that ye might try the experiment to know if the seed was good.", 
+
+                "verse37", "37. And behold, as the tree beginneth to grow, ye will say: Let us nourish it with great care, that it may get root, that it may grow up, and bring forth fruit unto us. And now behold, if ye nourish it with much care it will get root, and grow up, and bring forth fruit.", 
+
+                "verse38" "38. But if ye neglect the tree, and take no thought for its nourishment, behold it will not get any root; and when the heat of the sun cometh and scorcheth it, because it hath no root it withers away, and ye pluck it up and cast it out.", 
+
+                "verse39", "39. Now, this is not because the seed was not good, neither is it because the fruit thereof would not be desirable; but it is because your ground is barren, and ye will not nourish the tree, therefore ye cannot have the fruit thereof.", 
+
+                "verse40", "40. And thus, if ye will not nourish the word, looking forward with an eye of faith to the fruit thereof, ye can never pluck of the fruit of the tree of life.", 
+
+                "verse41": "41. But if ye will nourish the word, yea, nourish the tree as it beginneth to grow, by your faith with great diligence, and with patience, looking forward to the fruit thereof, it shall take root; and behold it shall be a tree springing up unto everlasting life.", 
+
+                "verse42": "42. And because of your diligence and your faith and your patience with the word in nourishing it, that it may take root in you, behold, by and by ye shall pluck the fruit thereof, which is most precious, which is sweet above all that is sweet, and which is white above all that is white, yea, and pure above all that is pure; and ye shall feast upon this fruit even until ye are filled, that ye hunger not, neither shall ye thirst.", 
+
+                "verse43": "43. Then, my brethren, ye shall reap the rewards of your faith, and your diligence, and patience, and long-suffering, waiting for the tree to bring forth fruit unto you.
             },
             {
                 "book": "Alma",
                 "chapter": "37",
                 "verse": "6-7",
-                "text": "6. Now ye may suppose that this is foolishness in me; but behold I say unto you, that by small and simple things are great things brought to pass; and small means in many instances doth confound the wise. 7. And the Lord God doth work by means to bring about his great and eternal purposes; and by very small means the Lord doth confound the wise and bringeth about the salvation of many souls."
+                "verse6": "6. Now ye may suppose that this is foolishness in me; but behold I say unto you, that by small and simple things are great things brought to pass; and small means in many instances doth confound the wise.", 
+
+                "verse7": "7. And the Lord God doth work by means to bring about his great and eternal purposes; and by very small means the Lord doth confound the wise and bringeth about the salvation of many souls."
             },
             {
                 "book": "Helaman",
                 "chapter": "13",
                 "verse": "29",
-                "text": "29. O ye wicked and ye perverse generation; ye hardened and ye stiffnecked people, how long will ye suppose that the Lord will suffer you? Yea, how long will ye suffer yourselves to be led by foolish and blind guides? Yea, how long will ye choose darkness rather than light?"
+                "verse29": "29. O ye wicked and ye perverse generation; ye hardened and ye stiffnecked people, how long will ye suppose that the Lord will suffer you? Yea, how long will ye suffer yourselves to be led by foolish and blind guides? Yea, how long will ye choose darkness rather than light?"
             },
             {
                 "book": "3 Nephi",
                 "chapter": "13
                 "verse": "19-21, 24, 33",
-                "text": "19. Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and thieves break through and steal; 20. But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal. 21. For where your treasure is, there will your heart be also. 24. No man can serve two masters; for either he will hate the one and love the other, or else he will hold to the one and despise the other. Ye cannot serve God and Mammon. 33. But seek ye first the kingdom of God and his righteousness, and all these things shall be added unto you."
+                "verse19": "19. Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and thieves break through and steal;", 
+
+                "verse20": "20. But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal.", 
+
+                "verse21": "21. For where your treasure is, there will your heart be also.", 
+
+                "verse24": "24. No man can serve two masters; for either he will hate the one and love the other, or else he will hold to the one and despise the other. Ye cannot serve God and Mammon.", 
+
+                "verse33": "33. But seek ye first the kingdom of God and his righteousness, and all these things shall be added unto you."
             },
             {
                 "book": "Mormon",
                 "chapter": "9",
                 "verse": "27",
-                "text": "27. O then despise not, and wonder not, but hearken unto the words of the Lord, and ask the Father in the name of Jesus for what things soever ye shall stand in need. Doubt not, but be believing, and begin as in times of old, and come unto the Lord with all your heart, and work out your own salvation with fear and trembling before him."
+                "verse27": "27. O then despise not, and wonder not, but hearken unto the words of the Lord, and ask the Father in the name of Jesus for what things soever ye shall stand in need. Doubt not, but be believing, and begin as in times of old, and come unto the Lord with all your heart, and work out your own salvation with fear and trembling before him."
             },
             {
                 "book": "Ether",
                 "chapter": "12",
-                "verse": "6-22, 27, 28-30",
-                "text": "6. And now, I, Moroni, would speak somewhat concerning these things; I would show unto the world that faith is things which are hoped for and not seen; wherefore, dispute not because ye see not, for ye receive no witness until after the trial of your faith. 7. For it was by faith that Christ showed himself unto our fathers, after he had risen from the dead; and he showed not himself unto them until after they had faith in him; wherefore, it must needs be that some had faith in him, for he showed himself not unto the world. 8. But because of the faith of men he has shown himself unto the world, and glorified the name of the Father, and prepared a way that thereby others might be partakers of the heavenly gift, that they might hope for those things which they have not seen. 9. Wherefore, ye may also have hope, and be partakers of the gift, if ye will but have faith. 10. Behold it was by faith that they of old were called after the holy order of God. 11. Wherefore, by faith was the law of Moses given. But in the gift of his Son hath God prepared a more excellent way; and it is by faith that it hath been fulfilled. 12. For if there be no faith among the children of men God can do no miracle among them; wherefore, he showed not himself until after their faith. 13. Behold, it was the faith of Alma and Amulek that caused the prison to tumble to the earth. 14. Behold, it was the faith of Nephi and Lehi that wrought the change upon the Lamanites, that they were baptized with fire and with the Holy Ghost. 15. Behold, it was the faith of Ammon and his brethren which wrought so great a miracle among the Lamanites. 16. Yea, and even all they who wrought miracles wrought them by faith, even those who were before Christ and also those who were after. 17. And it was by faith that the three disciples obtained a promise that they should not taste of death; and they obtained not the promise until after their faith. 18. And neither at any time hath any wrought miracles until after their faith; wherefore they first believed in the Son of God. 19. And there were many whose faith was so exceedingly strong, even before Christ came, who could not be kept from within the veil, but truly saw with their eyes the things which they had beheld with an eye of faith, and they were glad. 20. And behold, we have seen in this record that one of these was the brother of Jared; for so great was his faith in God, that when God put forth his finger he could not hide it from the sight of the brother of Jared, because of his word which he had spoken unto him, which word he had obtained by faith. 21. And after the brother of Jared had beheld the finger of the Lord, because of the promise which the brother of Jared had obtained by faith, the Lord could not withhold anything from his sight; wherefore he showed him all things, for he could no longer be kept without the veil. 22. And it is by faith that my fathers have obtained the promise that these things should come unto their brethren through the Gentiles; therefore the Lord hath commanded me, yea, even Jesus Christ. 27. And if men come unto me I will show unto them their weakness. I give unto men weakness that they may be humble; and my grace is sufficient for all men that humble themselves before me; for if they humble themselves before me, and have faith in me, then will I make weak things become strong unto them. 28. Behold, I will show unto the Gentiles their weakness, and I will show unto them that faith, hope and charity bringeth unto me—the fountain of all righteousness. 29. And I, Moroni, having heard these words, was comforted, and said: O Lord, thy righteous will be done, for I know that thou workest unto the children of men according to their faith; 30. For the brother of Jared said unto the mountain Zerin, Remove—and it was removed. And if he had not had faith it would not have moved; wherefore thou workest after men have faith."
+                "verse": "6-22, 27-30",
+                "verse6": "6. And now, I, Moroni, would speak somewhat concerning these things; I would show unto the world that faith is things which are hoped for and not seen; wherefore, dispute not because ye see not, for ye receive no witness until after the trial of your faith.", 
+
+                "verse7": "7. For it was by faith that Christ showed himself unto our fathers, after he had risen from the dead; and he showed not himself unto them until after they had faith in him; wherefore, it must needs be that some had faith in him, for he showed himself not unto the world.", 
+
+                "versse8": "8. But because of the faith of men he has shown himself unto the world, and glorified the name of the Father, and prepared a way that thereby others might be partakers of the heavenly gift, that they might hope for those things which they have not seen.", 
+
+                "verse9": "9. Wherefore, ye may also have hope, and be partakers of the gift, if ye will but have faith.", 
+
+                "verse10": "10. Behold it was by faith that they of old were called after the holy order of God.",
+
+                "verse11": "11. Wherefore, by faith was the law of Moses given. But in the gift of his Son hath God prepared a more excellent way; and it is by faith that it hath been fulfilled.", 
+
+                "verse12": "12. For if there be no faith among the children of men God can do no miracle among them; wherefore, he showed not himself until after their faith.", 
+
+                "verse13": "13. Behold, it was the faith of Alma and Amulek that caused the prison to tumble to the earth.", 
+
+                "verse14": "14. Behold, it was the faith of Nephi and Lehi that wrought the change upon the Lamanites, that they were baptized with fire and with the Holy Ghost.", 
+
+                "verse15": "15. Behold, it was the faith of Ammon and his brethren which wrought so great a miracle among the Lamanites.", 
+
+                "verse16": "16. Yea, and even all they who wrought miracles wrought them by faith, even those who were before Christ and also those who were after.", 
+
+                "verse17": "17. And it was by faith that the three disciples obtained a promise that they should not taste of death; and they obtained not the promise until after their faith.", 
+
+                "verse18": "18. And neither at any time hath any wrought miracles until after their faith; wherefore they first believed in the Son of God.", 
+
+                "verse19": "19. And there were many whose faith was so exceedingly strong, even before Christ came, who could not be kept from within the veil, but truly saw with their eyes the things which they had beheld with an eye of faith, and they were glad.", 
+
+                "verse20": "20. And behold, we have seen in this record that one of these was the brother of Jared; for so great was his faith in God, that when God put forth his finger he could not hide it from the sight of the brother of Jared, because of his word which he had spoken unto him, which word he had obtained by faith.", 
+
+                "verse21": "21. And after the brother of Jared had beheld the finger of the Lord, because of the promise which the brother of Jared had obtained by faith, the Lord could not withhold anything from his sight; wherefore he showed him all things, for he could no longer be kept without the veil.", 
+
+                "verse22": "22. And it is by faith that my fathers have obtained the promise that these things should come unto their brethren through the Gentiles; therefore the Lord hath commanded me, yea, even Jesus Christ.", 
+
+                "verse27": "27. And if men come unto me I will show unto them their weakness. I give unto men weakness that they may be humble; and my grace is sufficient for all men that humble themselves before me; for if they humble themselves before me, and have faith in me, then will I make weak things become strong unto them.", 
+
+                "verse28": "28. Behold, I will show unto the Gentiles their weakness, and I will show unto them that faith, hope and charity bringeth unto me—the fountain of all righteousness.", 
+
+                "verse29": "29. And I, Moroni, having heard these words, was comforted, and said: O Lord, thy righteous will be done, for I know that thou workest unto the children of men according to their faith;", 
+
+                "verse30": "30. For the brother of Jared said unto the mountain Zerin, Remove—and it was removed. And if he had not had faith it would not have moved; wherefore thou workest after men have faith."
             },
             {
                 "book": "Moroni",
