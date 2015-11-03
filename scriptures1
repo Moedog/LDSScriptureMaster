@@ -1100,73 +1100,95 @@
                 "book": "Matthew",
                 "chapter": "10",
                 "verse": "13-14, 22",
-                "text": "13. And if the house be worthy, let your peace come upon it: but if it be not worthy, let your peace return to you. 14. And whosoever shall not receive you, nor hear your words, when ye depart out of that house or city, shake off the dust of your feet. 22. And ye shall be hated of all men for my name’s sake: but he that endureth to the end shall be saved."
+                "verse13": "13. And if the house be worthy, let your peace come upon it: but if it be not worthy, let your peace return to you.", 
+
+                "verse14": "14. And whosoever shall not receive you, nor hear your words, when ye depart out of that house or city, shake off the dust of your feet.", 
+
+                "verse22": "22. And ye shall be hated of all men for my name’s sake: but he that endureth to the end shall be saved."
             },
             {
                 "book": "2 Nephi",
                 "chapter": "31",
                 "verse": "20-21",
-                "text": "20. Wherefore, ye must press forward with a steadfastness in Christ, having a perfect brightness of hope, and a love of God and of all men. Wherefore, if ye shall press forward, feasting upon the word of Christ, and endure to the end, behold, thus saith the Father: Ye shall have eternal life. 21. And now, behold, my beloved brethren, this is the way; and there is none other way nor name given under heaven whereby man can be saved in the kingdom of God. And now, behold, this is the doctrine of Christ, and the only and true doctrine of the Father, and of the Son, and of the Holy Ghost, which is one God, without end. Amen."
+                "verse20": "20. Wherefore, ye must press forward with a steadfastness in Christ, having a perfect brightness of hope, and a love of God and of all men. Wherefore, if ye shall press forward, feasting upon the word of Christ, and endure to the end, behold, thus saith the Father: Ye shall have eternal life.", 
+
+                "verse21": "21. And now, behold, my beloved brethren, this is the way; and there is none other way nor name given under heaven whereby man can be saved in the kingdom of God. And now, behold, this is the doctrine of Christ, and the only and true doctrine of the Father, and of the Son, and of the Holy Ghost, which is one God, without end. Amen."
             },
             {
                 "book": "Mosiah",
                 "chapter": "4",
                 "verse": "30",
-                "text": "30. But this much I can tell you, that if ye do not watch yourselves, and your thoughts, and your words, and your deeds, and observe the commandments of God, and continue in the faith of what ye have heard concerning the coming of our Lord, even unto the end of your lives, ye must perish. And now, O man, remember, and perish not."
+                "verse30": "30. But this much I can tell you, that if ye do not watch yourselves, and your thoughts, and your words, and your deeds, and observe the commandments of God, and continue in the faith of what ye have heard concerning the coming of our Lord, even unto the end of your lives, ye must perish. And now, O man, remember, and perish not."
             },
             {
                 "book": "Alma",
                 "chapter": "5",
                 "verse": "13",
-                "text": "13. And behold, he preached the word unto your fathers, and a mighty change was also wrought in their hearts, and they humbled themselves and put their trust in the true and living God. And behold, they were faithful until the end; therefore they were saved."
+                "verse13": "13. And behold, he preached the word unto your fathers, and a mighty change was also wrought in their hearts, and they humbled themselves and put their trust in the true and living God. And behold, they were faithful until the end; therefore they were saved."
             },
             {
                 "book": "3 Nephi",
                 "chapter": "15",
                 "verse": "9",
-                "text": "9. Behold, I am the law, and the light. Look unto me, and endure to the end, and ye shall live; for unto him that endureth to the end will I give eternal life."
+                "verse9": "9. Behold, I am the law, and the light. Look unto me, and endure to the end, and ye shall live; for unto him that endureth to the end will I give eternal life."
             },
             {
                 "book": "3 Nephi",
                 "chapter": "27",
                 "verse": "6, 16-19",
-                "text": "6. And whoso taketh upon him my name, and endureth to the end, the same shall be saved at the last day. 16. And it shall come to pass, that whoso repenteth and is baptized in my name shall be filled; and if he endureth to the end, behold, him will I hold guiltless before my Father at that day when I shall stand to judge the world. 17. And he that endureth not unto the end, the same is he that is also hewn down and cast into the fire, from whence they can no more return, because of the justice of the Father. 18. And this is the word which he hath given unto the children of men. And for this cause he fulfilleth the words which he hath given, and he lieth not, but fulfilleth all his words. 19. And no unclean thing can enter into his kingdom; therefore nothing entereth into his rest save it be those who have washed their garments in my blood, because of their faith, and the repentance of all their sins, and their faithfulness unto the end."
+                "verse6": "6. And whoso taketh upon him my name, and endureth to the end, the same shall be saved at the last day.", 
+
+                "verse16": "16. And it shall come to pass, that whoso repenteth and is baptized in my name shall be filled; and if he endureth to the end, behold, him will I hold guiltless before my Father at that day when I shall stand to judge the world.", 
+
+                "verse17": "17. And he that endureth not unto the end, the same is he that is also hewn down and cast into the fire, from whence they can no more return, because of the justice of the Father.", 
+
+                "verse18": "18. And this is the word which he hath given unto the children of men. And for this cause he fulfilleth the words which he hath given, and he lieth not, but fulfilleth all his words.", 
+
+                "verse19": "19. And no unclean thing can enter into his kingdom; therefore nothing entereth into his rest save it be those who have washed their garments in my blood, because of their faith, and the repentance of all their sins, and their faithfulness unto the end."
             },
             {
                 "book": "Mormon",
                 "chapter": "9",
                 "verse": "29",
-                "text": "29. See that ye are not baptized unworthily; see that ye partake not of the sacrament of Christ unworthily; but see that ye do all things in worthiness, and do it in the name of Jesus Christ, the Son of the living God; and if ye do this, and endure to the end, ye will in nowise be cast out."
+                "verse29": "29. See that ye are not baptized unworthily; see that ye partake not of the sacrament of Christ unworthily; but see that ye do all things in worthiness, and do it in the name of Jesus Christ, the Son of the living God; and if ye do this, and endure to the end, ye will in nowise be cast out."
             },
             {
                 "book": "Doctrine and Covenants",
                 "chapter": "6",
                 "verse": "13",
-                "text": "13. If thou wilt do good, yea, and hold out faithful to the end, thou shalt be saved in the kingdom of God, which is the greatest of all the gifts of God; for there is no gift greater than the gift of salvation."
+                "verse13": "13. If thou wilt do good, yea, and hold out faithful to the end, thou shalt be saved in the kingdom of God, which is the greatest of all the gifts of God; for there is no gift greater than the gift of salvation."
             },
             {
                 "book": "Doctrine and Covenants",
                 "chapter": "10",
                 "verse": "55, 69",
-                "text": "55. Therefore, whosoever belongeth to my church need not fear, for such shall inherit the kingdom of heaven. 69. And now, behold, whosoever is of my church, and endureth of my church to the end, him will I establish upon my rock, and the gates of hell shall not prevail against them."
+                "verse55": "55. Therefore, whosoever belongeth to my church need not fear, for such shall inherit the kingdom of heaven.", 
+
+                "verse69": "69. And now, behold, whosoever is of my church, and endureth of my church to the end, him will I establish upon my rock, and the gates of hell shall not prevail against them."
             },
             {
                 "book": "Doctrine and Covenants",
                 "chapter": "14",
                 "verse": "7",
-                "text": "7. And, if you keep my commandments and endure to the end you shall have eternal life, which gift is the greatest of all the gifts of God."
+                "verse7": "7. And, if you keep my commandments and endure to the end you shall have eternal life, which gift is the greatest of all the gifts of God."
             },
             {
                 "book": "Doctrine and Covenants",
                 "chapter": "53",
                 "verse": "7",
-                "text": "7. And again, I would that ye should learn that he only is saved who endureth unto the end. Even so. Amen."
+                "verse7": "7. And again, I would that ye should learn that he only is saved who endureth unto the end. Even so. Amen."
             },
             {
                 "book": "Doctrine and Covenants",
                 "chapter": "101",
                 "verse": "35-38",
-                "text": "35. And all they who suffer persecution for my name, and endure in faith, though they are called to lay down their lives for my sake yet shall they partake of all this glory. 36. Wherefore, fear not even unto death; for in this world your joy is not full, but in me your joy is full. 37. Therefore, care not for the body, neither the life of the body; but care for the soul, and for the life of the soul. 38. And seek the face of the Lord always, that in patience ye may possess your souls, and ye shall have eternal life."
+                "verse35": "35. And all they who suffer persecution for my name, and endure in faith, though they are called to lay down their lives for my sake yet shall they partake of all this glory.", 
+
+                "verse36": "36. Wherefore, fear not even unto death; for in this world your joy is not full, but in me your joy is full.", 
+
+                "verse37": "37. Therefore, care not for the body, neither the life of the body; but care for the soul, and for the life of the soul.", 
+
+                "verse38": "38. And seek the face of the Lord always, that in patience ye may possess your souls, and ye shall have eternal life."
             }
 
         ]
@@ -1179,67 +1201,213 @@
                 "book": "Genesis",
                 "chapter": "22",
                 "verse": "1-14",
-                "text": "1. And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, here I am. 2. And he said, Take now thy son, thine only son Isaac, whom thou lovest, and get thee into the land of Moriah; and offer him there for a burnt offering upon one of the mountains which I will tell thee of. 3. And Abraham rose up early in the morning, and saddled his ass, and took two of his young men with him, and Isaac his son, and clave the wood for the burnt offering, and rose up, and went unto the place of which God had told him. 4. Then on the third day Abraham lifted up his eyes, and saw the place afar off. 5. And Abraham said unto his young men, Abide ye here with the ass; and I and the lad will go yonder and worship, and come again to you. 6. And Abraham took the wood of the burnt offering, and laid it upon Isaac his son; and he took the fire in his hand, and a knife; and they went both of them together. 7. And Isaac spake unto Abraham his father, and said, My father: and he said, Here am I, my son. And he said, Behold the fire and the wood: but where is the lamb for a burnt offering? 8. And Abraham said, My son, God will provide himself a lamb for a burnt offering: so they went both of them together. 9. And they came to the place which God had told him of; and Abraham built an altar there, and laid the wood in order, and bound Isaac his son, and laid him on the altar upon the wood. 10. And Abraham stretched forth his hand, and took the knife to slay his son. 11. And the angel of the Lord called unto him out of heaven, and said, Abraham, Abraham: and he said, Here am I. 12. And he said, Lay not thine hand upon the lad, neither do thou any thing unto him: for now I know that thou fearest God, seeing thou hast not withheld thy son, thine only son from me. 13. And Abraham lifted up his eyes, and looked, and behold behind him a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son. 14. And Abraham called the name of that place Jehovah-jireh: as it is said to this day, In the mount of the Lord it shall be seen."
+                "verse1": "1. And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, here I am.", 
+
+                "verse2": "2. And he said, Take now thy son, thine only son Isaac, whom thou lovest, and get thee into the land of Moriah; and offer him there for a burnt offering upon one of the mountains which I will tell thee of.", 
+
+                "verse3": "3. And Abraham rose up early in the morning, and saddled his ass, and took two of his young men with him, and Isaac his son, and clave the wood for the burnt offering, and rose up, and went unto the place of which God had told him.", 
+
+                "verse4": "4. Then on the third day Abraham lifted up his eyes, and saw the place afar off.", 
+
+                "verse5": "5. And Abraham said unto his young men, Abide ye here with the ass; and I and the lad will go yonder and worship, and come again to you.", 
+
+                "verse6": "6. And Abraham took the wood of the burnt offering, and laid it upon Isaac his son; and he took the fire in his hand, and a knife; and they went both of them together.", 
+
+                "verse7": "7. And Isaac spake unto Abraham his father, and said, My father: and he said, Here am I, my son. And he said, Behold the fire and the wood: but where is the lamb for a burnt offering?", 
+
+                "verse8": "8. And Abraham said, My son, God will provide himself a lamb for a burnt offering: so they went both of them together.",
+
+                "verse9": "9. And they came to the place which God had told him of; and Abraham built an altar there, and laid the wood in order, and bound Isaac his son, and laid him on the altar upon the wood.", 
+
+                "verse10": "10. And Abraham stretched forth his hand, and took the knife to slay his son.", 
+
+                "verse11": "11. And the angel of the Lord called unto him out of heaven, and said, Abraham, Abraham: and he said, Here am I.", 
+
+                "verse12": "12. And he said, Lay not thine hand upon the lad, neither do thou any thing unto him: for now I know that thou fearest God, seeing thou hast not withheld thy son, thine only son from me.", 
+
+                "verse13": "13. And Abraham lifted up his eyes, and looked, and behold behind him a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son.", 
+
+                "verse14": "14. And Abraham called the name of that place Jehovah-jireh: as it is said to this day, In the mount of the Lord it shall be seen."
             },
             {
                 "book": "1 Samuel",
                 "chapter": "17",
                 "verse": "32-54",
-                "text": "32. And David said to Saul, Let no man’s heart fail because of him; thy servant will go and fight with this Philistine. 33. And Saul said to David, Thou art not able to go against this Philistine to fight with him: for thou art but a youth, and he a man of war from his youth. 34. And David said unto Saul, Thy servant kept his father’s sheep, and there came a lion, and a bear, and took a lamb out of the flock: 35. And I went out after him, and smote him, and delivered it out of his mouth: and when he arose against me, I caught him by his beard, and smote him, and slew him. 36. Thy servant slew both the lion and the bear: and this uncircumcised Philistine shall be as one of them, seeing he hath defied the armies of the living God. 37. David said moreover, The Lord that delivered me out of the paw of the lion, and out of the paw of the bear, he will deliver me out of the hand of this Philistine. And Saul said unto David, Go, and the Lord be with thee. 38. ¶And Saul armed David with his armour, and he put an helmet of brass upon his head; also he armed him with a coat of mail. 39. And David girded his sword upon his armour, and he assayed to go; for he had not proved it. And David said unto Saul, I cannot go with these; for I have not proved them. And David put them off him. 40. And he took his staff in his hand, and chose him five smooth stones out of the brook, and put them in a shepherd’s bag which he had, even in a scrip; and his sling was in his hand: and he drew near to the Philistine. 41. And the Philistine came on and drew near unto David; and the man that bare the shield went before him. 42. And when the Philistine looked about, and saw David, he disdained him: for he was but a youth, and ruddy, and of a fair countenance. 43. And the Philistine said unto David, Am I a dog, that thou comest to me with staves? And the Philistine cursed David by his gods. 44. And the Philistine said to David, Come to me, and I will give thy flesh unto the fowls of the air, and to the beasts of the field. 45. Then said David to the Philistine, Thou comest to me with a sword, and with a spear, and with a shield: but I come to thee in the name of the Lord of hosts, the God of the armies of Israel, whom thou hast defied. 46. This day will the Lord deliver thee into mine hand; and I will smite thee, and take thine head from thee; and I will give the carcases of the host of the Philistines this day unto the fowls of the air, and to the wild beasts of the earth; that all the earth may know that there is a God in Israel. 47. And all this assembly shall know that the Lord saveth not with sword and spear: for the battle is the Lord’s, and he will give you into our hands. 48. And it came to pass, when the Philistine arose, and came and drew nigh to meet David, that David hasted, and ran toward the army to meet the Philistine. 49. And David put his hand in his bag, and took thence a stone, and slang it, and smote the Philistine in his forehead, that the stone sunk into his forehead; and he fell upon his face to the earth. 50. So David prevailed over the Philistine with a sling and with a stone, and smote the Philistine, and slew him; but there was no sword in the hand of David. 51. Therefore David ran, and stood upon the Philistine, and took his sword, and drew it out of the sheath thereof, and slew him, and cut off his head therewith. And when the Philistines saw their champion was dead, they fled. 52. And the men of Israel and of Judah arose, and shouted, and pursued the Philistines, until thou come to the valley, and to the gates of Ekron. And the wounded of the Philistines fell down by the way to Shaaraim, even unto Gath, and unto Ekron. 53. And the children of Israel returned from chasing after the Philistines, and they spoiled their tents. 54. And David took the head of the Philistine, and brought it to Jerusalem; but he put his armour in his tent."
+                "verse32": "32. And David said to Saul, Let no man’s heart fail because of him; thy servant will go and fight with this Philistine.", 
+
+                "verse33": "33. And Saul said to David, Thou art not able to go against this Philistine to fight with him: for thou art but a youth, and he a man of war from his youth.", 
+
+                "verse34": "34. And David said unto Saul, Thy servant kept his father’s sheep, and there came a lion, and a bear, and took a lamb out of the flock:", 
+
+                "verse35": "35. And I went out after him, and smote him, and delivered it out of his mouth: and when he arose against me, I caught him by his beard, and smote him, and slew him.", 
+
+                "verse36": "36. Thy servant slew both the lion and the bear: and this uncircumcised Philistine shall be as one of them, seeing he hath defied the armies of the living God.", 
+
+                "verse37": "37. David said moreover, The Lord that delivered me out of the paw of the lion, and out of the paw of the bear, he will deliver me out of the hand of this Philistine. And Saul said unto David, Go, and the Lord be with thee.", 
+
+                "verse38": "38. And Saul armed David with his armour, and he put an helmet of brass upon his head; also he armed him with a coat of mail.",
+
+                "verse39": "39. And David girded his sword upon his armour, and he assayed to go; for he had not proved it. And David said unto Saul, I cannot go with these; for I have not proved them. And David put them off him.", 
+
+                "verse40": "40. And he took his staff in his hand, and chose him five smooth stones out of the brook, and put them in a shepherd’s bag which he had, even in a scrip; and his sling was in his hand: and he drew near to the Philistine.", 
+
+                "verse41": "41. And the Philistine came on and drew near unto David; and the man that bare the shield went before him.", 
+
+                "verse42": "42. And when the Philistine looked about, and saw David, he disdained him: for he was but a youth, and ruddy, and of a fair countenance.", 
+
+                "verse43": "43. And the Philistine said unto David, Am I a dog, that thou comest to me with staves? And the Philistine cursed David by his gods.", 
+
+                "verse44": "44. And the Philistine said to David, Come to me, and I will give thy flesh unto the fowls of the air, and to the beasts of the field.", 
+
+                "verse45": "45. Then said David to the Philistine, Thou comest to me with a sword, and with a spear, and with a shield: but I come to thee in the name of the Lord of hosts, the God of the armies of Israel, whom thou hast defied.", 
+    
+                "verse46": "46. This day will the Lord deliver thee into mine hand; and I will smite thee, and take thine head from thee; and I will give the carcases of the host of the Philistines this day unto the fowls of the air, and to the wild beasts of the earth; that all the earth may know that there is a God in Israel.", 
+
+                "verse47": "47. And all this assembly shall know that the Lord saveth not with sword and spear: for the battle is the Lord’s, and he will give you into our hands.", 
+
+                "verse48": "48. And it came to pass, when the Philistine arose, and came and drew nigh to meet David, that David hasted, and ran toward the army to meet the Philistine.", 
+
+                "verse49: "49. And David put his hand in his bag, and took thence a stone, and slang it, and smote the Philistine in his forehead, that the stone sunk into his forehead; and he fell upon his face to the earth.", 
+
+                "verse50": "50. So David prevailed over the Philistine with a sling and with a stone, and smote the Philistine, and slew him; but there was no sword in the hand of David.", 
+
+                "verse51": "51. Therefore David ran, and stood upon the Philistine, and took his sword, and drew it out of the sheath thereof, and slew him, and cut off his head therewith. And when the Philistines saw their champion was dead, they fled.", 
+
+                "verse52": "52. And the men of Israel and of Judah arose, and shouted, and pursued the Philistines, until thou come to the valley, and to the gates of Ekron. And the wounded of the Philistines fell down by the way to Shaaraim, even unto Gath, and unto Ekron.", 
+
+                "verse53": "53. And the children of Israel returned from chasing after the Philistines, and they spoiled their tents.", 
+
+                "verse54": "54. And David took the head of the Philistine, and brought it to Jerusalem; but he put his armour in his tent."
             },
             {
                 "book": "1 Kings",
                 "chapter": "17",
                 "verse": "8-16",
-                "text": "8. And the word of the Lord came unto him, saying, 9. Arise, get thee to Zarephath, which belongeth to Zidon, and dwell there: behold, I have commanded a widow woman there to sustain thee. 10. So he arose and went to Zarephath. And when he came to the gate of the city, behold, the widow woman was there gathering of sticks: and he called to her, and said, Fetch me, I pray thee, a little water in a vessel, that I may drink. 11. And as she was going to fetch it, he called to her, and said, Bring me, I pray thee, a morsel of bread in thine hand. 12. And she said, As the Lord thy God liveth, I have not a cake, but an handful of meal in a barrel, and a little oil in a cruse: and, behold, I am gathering two sticks, that I may go in and dress it for me and my son, that we may eat it, and die. 13. And Elijah said unto her, Fear not; go and do as thou hast said: but make me thereof a little cake first, and bring it unto me, and after make for thee and for thy son. 14. For thus saith the Lord God of Israel, The barrel of meal shall not waste, neither shall the cruse of oil fail, until the day that the Lord sendeth rain upon the earth. 15. And she went and did according to the saying of Elijah: and she, and he, and her house, did eat many days. 16. And the barrel of meal wasted not, neither did the cruse of oil fail, according to the word of the Lord, which he spake by Elijah."
+                "verse8": "8. And the word of the Lord came unto him, saying,", 
+
+                "verse9": "9. Arise, get thee to Zarephath, which belongeth to Zidon, and dwell there: behold, I have commanded a widow woman there to sustain thee.", 
+
+                "verse10": "10. So he arose and went to Zarephath. And when he came to the gate of the city, behold, the widow woman was there gathering of sticks: and he called to her, and said, Fetch me, I pray thee, a little water in a vessel, that I may drink.", 
+
+                "verse11": "11. And as she was going to fetch it, he called to her, and said, Bring me, I pray thee, a morsel of bread in thine hand.", 
+
+                "verse12": "12. And she said, As the Lord thy God liveth, I have not a cake, but an handful of meal in a barrel, and a little oil in a cruse: and, behold, I am gathering two sticks, that I may go in and dress it for me and my son, that we may eat it, and die.", 
+
+                "verse13": "13. And Elijah said unto her, Fear not; go and do as thou hast said: but make me thereof a little cake first, and bring it unto me, and after make for thee and for thy son.", 
+
+                "verse14": "14. For thus saith the Lord God of Israel, The barrel of meal shall not waste, neither shall the cruse of oil fail, until the day that the Lord sendeth rain upon the earth.", 
+
+                "verse15": "15. And she went and did according to the saying of Elijah: and she, and he, and her house, did eat many days.", 
+
+                "verse16": "16. And the barrel of meal wasted not, neither did the cruse of oil fail, according to the word of the Lord, which he spake by Elijah."
             },
             {
                 "book": "Psalms",
                 "chapter": "119",
                 "verse": "105",
-                "text": "105. Thy word is a lamp unto my feet, and a light unto my path."
+                "verse105": "105. Thy word is a lamp unto my feet, and a light unto my path."
             },
             {
                 "book": "Malachi",
                 "chapter": "3",
                 "verse": "8-11",
-                "text": "8. Will a man rob God? Yet ye have robbed me. But ye say, Wherein have we robbed thee? In tithes and offerings. 9. Ye are cursed with a curse: for ye have robbed me, even this whole nation. 10. Bring ye all the tithes into the storehouse, that there may be meat in mine house, and prove me now herewith, saith the Lord of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it. 11. And I will rebuke the devourer for your sakes, and he shall not destroy the fruits of your ground; neither shall your vine cast her fruit before the time in the field, saith the Lord of hosts."
+                "verse8": "8. Will a man rob God? Yet ye have robbed me. But ye say, Wherein have we robbed thee? In tithes and offerings.", 
+
+                "verse9": "9. Ye are cursed with a curse: for ye have robbed me, even this whole nation.", 
+
+                "verse10": "10. Bring ye all the tithes into the storehouse, that there may be meat in mine house, and prove me now herewith, saith the Lord of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it.",
+
+                "verse11": "11. And I will rebuke the devourer for your sakes, and he shall not destroy the fruits of your ground; neither shall your vine cast her fruit before the time in the field, saith the Lord of hosts."
             },
             {
                 "book": "Matthew",
                 "chapter": "6",
                 "verse": "19-21, 24, 33",
-                "text": "19. Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal: 20. But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal: 21. For where your treasure is, there will your heart be also. 24. No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon. 33. But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you."
+                "verse19": "19. Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal:", 
+
+                "verse20": "20. But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal:", 
+
+                "verse21": "21. For where your treasure is, there will your heart be also.", 
+
+                "verse24": "24. No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon.", 
+
+                "verse33": "33. But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you."
             },
             {
                 "book": "Matthew",
                 "chapter": "7",
                 "verse": "21-27",
-                "text": "21. Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven. 22. Many will say to me in that day, Lord, Lord, have we not prophesied in thy name? and in thy name have cast out devils? and in thy name done many wonderful works? 23. And then will I profess unto them, I never knew you: depart from me, ye that work iniquity. 24. Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock: 25. And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell not: for it was founded upon a rock. 26. And every one that heareth these sayings of mine, and doeth them not, shall be likened unto a foolish man, which built his house upon the sand: 27. And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell: and great was the fall of it."
+                "verse21": "21. Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven.",
+
+                "verse22": "22. Many will say to me in that day, Lord, Lord, have we not prophesied in thy name? and in thy name have cast out devils? and in thy name done many wonderful works?", 
+
+                "verse23": "23. And then will I profess unto them, I never knew you: depart from me, ye that work iniquity.", 
+
+                "verse24": "24. Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock:", 
+
+                "verse25": "25. And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell not: for it was founded upon a rock.", 
+
+                "verse": "26. And every one that heareth these sayings of mine, and doeth them not, shall be likened unto a foolish man, which built his house upon the sand:", 
+
+                "verse27": "27. And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell: and great was the fall of it."
             },
             {
                 "book": "Matthew",
                 "chapter": "9",
                 "verse": "20-26",
-                "text": "20. And, behold, a woman, which was diseased with an issue of blood twelve years, came behind him, and touched the hem of his garment: 21. For she said within herself, If I may but touch his garment, I shall be whole. 22. But Jesus turned him about, and when he saw her, he said, Daughter, be of good comfort; thy faith hath made thee whole. And the woman was made whole from that hour. 23. And when Jesus came into the ruler’s house, and saw the minstrels and the people making a noise, 24. He said unto them, Give place: for the maid is not dead, but sleepeth. And they laughed him to scorn. 25. But when the people were put forth, he went in, and took her by the hand, and the maid arose. 26. And the fame hereof went abroad into all that land."
+                "verse20": "20. And, behold, a woman, which was diseased with an issue of blood twelve years, came behind him, and touched the hem of his garment:", 
+
+                "verse21": "21. For she said within herself, If I may but touch his garment, I shall be whole.", 
+
+                "verse22": "22. But Jesus turned him about, and when he saw her, he said, Daughter, be of good comfort; thy faith hath made thee whole. And the woman was made whole from that hour.", 
+
+                "verse23": "23. And when Jesus came into the ruler’s house, and saw the minstrels and the people making a noise,", 
+
+                "verse24": "24. He said unto them, Give place: for the maid is not dead, but sleepeth. And they laughed him to scorn.", 
+
+                "verse25": "25. But when the people were put forth, he went in, and took her by the hand, and the maid arose.", 
+
+                "verse26": "26. And the fame hereof went abroad into all that land."
             },
             {
                 "book": "Matthew",
                 "chapter": "25",
                 "verse": "40",
-                "text": "40. And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me."
+                "verse40": "40. And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me."
             },
             {
                 "book": "Luke",
                 "chapter": "9",
                 "verse": "57-60",
-                "text": "57. And it came to pass, that, as they went in the way, a certain man said unto him, Lord, I will follow thee whithersoever thou goest. 58. And Jesus said unto him, Foxes have holes, and birds of the air have nests; but the Son of man hath not where to lay his head. 59. And he said unto another, Follow me. But he said, Lord, suffer me first to go and bury my father. 60. Jesus said unto him, Let the dead bury their dead: but go thou and preach the kingdom of God."
+                "verse57": "57. And it came to pass, that, as they went in the way, a certain man said unto him, Lord, I will follow thee whithersoever thou goest.", 
+
+                "verse58": "58. And Jesus said unto him, Foxes have holes, and birds of the air have nests; but the Son of man hath not where to lay his head.", 
+
+                "verse59": "59. And he said unto another, Follow me. But he said, Lord, suffer me first to go and bury my father.", 
+
+                "verse60": "60. Jesus said unto him, Let the dead bury their dead: but go thou and preach the kingdom of God."
             },
             {
                 "book": "Luke",
                 "chapter": "10",
                 "verse": "29-37",
-                "text": "29. But he, willing to justify himself, said unto Jesus, And who is my neighbour? 30. And Jesus answering said, A certain man went down from Jerusalem to Jericho, and fell among thieves, which stripped him of his raiment, and wounded him, and departed, leaving him half dead. 31. And by chance there came down a certain priest that way: and when he saw him, he passed by on the other side. 32. And likewise a Levite, when he was at the place, came and looked on him, and passed by on the other side. 33. But a certain Samaritan, as he journeyed, came where he was: and when he saw him, he had compassion on him, 34. And went to him, and bound up his wounds, pouring in oil and wine, and set him on his own beast, and brought him to an inn, and took care of him. 35. And on the morrow when he departed, he took out two pence, and gave them to the host, and said unto him, Take care of him; and whatsoever thou spendest more, when I come again, I will repay thee. 36. Which now of these three, thinkest thou, was neighbour unto him that fell among the thieves? 37. And he said, He that shewed mercy on him. Then said Jesus unto him, Go, and do thou likewise."
+                "verse29": "29. But he, willing to justify himself, said unto Jesus, And who is my neighbour?".
+
+                "verse30": "30. And Jesus answering said, A certain man went down from Jerusalem to Jericho, and fell among thieves, which stripped him of his raiment, and wounded him, and departed, leaving him half dead.", 
+
+                "verse31": "31. And by chance there came down a certain priest that way: and when he saw him, he passed by on the other side." 
+
+                "verse"32": "32. And likewise a Levite, when he was at the place, came and looked on him, and passed by on the other side.", 
+
+                "verse33": "33. But a certain Samaritan, as he journeyed, came where he was: and when he saw him, he had compassion on him,", 
+
+                "verse34": "34. And went to him, and bound up his wounds, pouring in oil and wine, and set him on his own beast, and brought him to an inn, and took care of him.", 
+
+                "verse35": "35. And on the morrow when he departed, he took out two pence, and gave them to the host, and said unto him, Take care of him; and whatsoever thou spendest more, when I come again, I will repay thee.", 
+
+                "verse36": "36. Which now of these three, thinkest thou, was neighbour unto him that fell among the thieves?", 
+
+                "verse37": "37. And he said, He that shewed mercy on him. Then said Jesus unto him, Go, and do thou likewise."
             },
             {
                 "book": "Luke",
