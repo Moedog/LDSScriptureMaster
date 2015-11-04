@@ -955,140 +955,298 @@
                 "book": "1 Corinthians",
                 "chapter": "12",
                 "verse": "12-31",
-                "text": "12. For as the body is one, and hath many members, and all the members of that one body, being many, are one body: so also is Christ. 13. For by one Spirit are we all baptized into one body, whether we be Jews or Gentiles, whether we be bond or free; and have been all made to drink into one Spirit. 14. For the body is not one member, but many. 15. If the foot shall say, Because I am not the hand, I am not of the body; is it therefore not of the body? 16. And if the ear shall say, Because I am not the eye, I am not of the body; is it therefore not of the body? 17. If the whole body were an eye, where were the hearing? If the whole were hearing, where were the smelling? 18. But now hath God set the members every one of them in the body, as it hath pleased him. 19. And if they were all one member, where were the body? 20. But now are they many members, yet but one body. 21. And the eye cannot say unto the hand, I have no need of thee: nor again the head to the feet, I have no need of you. 22. Nay, much more those members of the body, which seem to be more feeble, are necessary: 23. And those members of the body, which we think to be less honourable, upon these we bestow more abundant honour; and our uncomely parts have more abundant comeliness. 24. For our comely parts have no need: but God hath tempered the body together, having given more abundant honour to that part which lacked: 25. That there should be no schism in the body; but that the members should have the same care one for another. 26. And whether one member suffer, all the members suffer with it; or one member be honoured, all the members rejoice with it. 27. Now ye are the body of Christ, and members in particular. 28. And God hath set some in the church, first apostles, secondarily prophets, thirdly teachers, after that miracles, then gifts of healings, helps, governments, diversities of tongues. 29. Are all apostles? are all prophets? are all teachers? are all workers of miracles? 30. Have all the gifts of healing? do all speak with tongues? do all interpret? 31. But covet earnestly the best gifts: and yet shew I unto you a more excellent way."
+                "verse12": "12. For as the body is one, and hath many members, and all the members of that one body, being many, are one body: so also is Christ.",
+
+                "verse13": "13. For by one Spirit are we all baptized into one body, whether we be Jews or Gentiles, whether we be bond or free; and have been all made to drink into one Spirit.",
+
+                "verse14": "14. For the body is not one member, but many.",
+
+                "verse15": "15. If the foot shall say, Because I am not the hand, I am not of the body; is it therefore not of the body?",
+
+                "verse16": "16. And if the ear shall say, Because I am not the eye, I am not of the body; is it therefore not of the body?", 
+
+                "verse17": "17. If the whole body were an eye, where were the hearing? If the whole were hearing, where were the smelling?",
+
+                "verse18": "18. But now hath God set the members every one of them in the body, as it hath pleased him.", 
+
+                "verse19": "19. And if they were all one member, where were the body?",
+
+                "verse20": "20. But now are they many members, yet but one body.",
+
+                "verse21": "21. And the eye cannot say unto the hand, I have no need of thee: nor again the head to the feet, I have no need of you.",
+
+                "verse22": "22. Nay, much more those members of the body, which seem to be more feeble, are necessary:",
+
+                "verse23": "23. And those members of the body, which we think to be less honourable, upon these we bestow more abundant honour; and our uncomely parts have more abundant comeliness.", 
+
+                "verse24": "24. For our comely parts have no need: but God hath tempered the body together, having given more abundant honour to that part which lacked:", 
+
+                "verse25": "25. That there should be no schism in the body; but that the members should have the same care one for another.", 
+
+                "verse26": "26. And whether one member suffer, all the members suffer with it; or one member be honoured, all the members rejoice with it.",
+
+                "verse27": "27. Now ye are the body of Christ, and members in particular.", 
+
+                "verse28": "28. And God hath set some in the church, first apostles, secondarily prophets, thirdly teachers, after that miracles, then gifts of healings, helps, governments, diversities of tongues.",
+
+                "verse29": "29. Are all apostles? are all prophets? are all teachers? are all workers of miracles?",
+
+                "verse30": "30. Have all the gifts of healing? do all speak with tongues? do all interpret?",
+
+                "verse31": "31. But covet earnestly the best gifts: and yet shew I unto you a more excellent way."
             },
 
             {
                 "book": "Ephesians",
                 "chapter": "2",
                 "verse": "19-21",
-                "text": "19. Now therefore ye are no more strangers and foreigners, but fellowcitizens with the saints, and of the household of God; 20. And are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone; 21. In whom all the building fitly framed together groweth unto an holy temple in the Lord:"
+                "verse19": "19. Now therefore ye are no more strangers and foreigners, but fellowcitizens with the saints, and of the household of God;",
+
+                "verse20": "20. And are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone;", 
+
+                "verse21": "21. In whom all the building fitly framed together groweth unto an holy temple in the Lord:"
             },
             {
                 "book": "Ephesians",
                 "chapter": "4",
                 "verse": "11-14",
-                "text": "11 And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers; 12. For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ: 13. Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ: 14. That we henceforth be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, and cunning craftiness, whereby they lie in wait to deceive;"
+                "verse11": "11 And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers;",
+
+                "verse12": "12. For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ:",
+
+                "verse13": "13. Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ:",
+
+                "verse14": "14. That we henceforth be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, and cunning craftiness, whereby they lie in wait to deceive;"
             },
             {
                 "book": "Philippians",
                 "chapter": "1",
                 "verse": "1",
-                "text": "1. Paul and Timotheus, the servants of Jesus Christ, to all the saints in Christ Jesus which are at Philippi, with the bishops and deacons:"
+                "verse1": "1. Paul and Timotheus, the servants of Jesus Christ, to all the saints in Christ Jesus which are at Philippi, with the bishops and deacons:"
             },
             {
                 "book": "James",
                 "chapter": "5",
                 "verse": "14",
-                "text": "14. Is any sick among you? let him call for the elders of the church; and let them pray over him, anointing him with oil in the name of the Lord:"
+                "verse14": "14. Is any sick among you? let him call for the elders of the church; and let them pray over him, anointing him with oil in the name of the Lord:"
             },
             {
                 "book": "Mosiah",
                 "chapter": "18",
                 "verse": "7-9, 17-29",
-                "text": "7. And it came to pass after many days there were a goodly number gathered together at the place of Mormon, to hear the words of Alma. Yea, all were gathered together that believed on his word, to hear him. And he did teach them, and did preach unto them repentance, and redemption, and faith on the Lord. 8. And it came to pass that he said unto them: Behold, here are the waters of Mormon (for thus were they called) and now, as ye are desirous to come into the fold of God, and to be called his people, and are willing to bear one another’s burdens, that they may be light; 9. Yea, and are willing to mourn with those that mourn; yea, and comfort those that stand in need of comfort, and to stand as witnesses of God at all times and in all things, and in all places that ye may be in, even until death, that ye may be redeemed of God, and be numbered with those of the first resurrection, that ye may have eternal life— 17. And they were called the church of God, or the church of Christ, from that time forward. And it came to pass that whosoever was baptized by the power and authority of God was added to his church. 18. And it came to pass that Alma, having authority from God, ordained priests; even one priest to every fifty of their number did he ordain to preach unto them, and to teach them concerning the things pertaining to the kingdom of God. 19. And he commanded them that they should teach nothing save it were the things which he had taught, and which had been spoken by the mouth of the holy prophets. 20. Yea, even he commanded them that they should preach nothing save it were repentance and faith on the Lord, who had redeemed his people. 21. And he commanded them that there should be no contention one with another, but that they should look forward with one eye, having one faith and one baptism, having their hearts knit together in unity and in love one towards another. 22. And thus he commanded them to preach. And thus they became the children of God. 23. And he commanded them that they should observe the sabbath day, and keep it holy, and also every day they should give thanks to the Lord their God. 24. And he also commanded them that the priests whom he had ordained should labor with their own hands for their support. 25. And there was one day in every week that was set apart that they should gather themselves together to teach the people, and to worship the Lord their God, and also, as often as it was in their power, to assemble themselves together. 26. And the priests were not to depend upon the people for their support; but for their labor they were to receive the grace of God, that they might wax strong in the Spirit, having the knowledge of God, that they might teach with power and authority from God. 27. And again Alma commanded that the people of the church should impart of their substance, every one according to that which he had; if he have more abundantly he should impart more abundantly; and of him that had but little, but little should be required; and to him that had not should be given. 28. And thus they should impart of their substance of their own free will and good desires towards God, and to those priests that stood in need, yea, and to every needy, naked soul. 29. And this he said unto them, having been commanded of God; and they did walk uprightly before God, imparting to one another both temporally and spiritually according to their needs and their wants.
+                "verse7": "7. And it came to pass after many days there were a goodly number gathered together at the place of Mormon, to hear the words of Alma. Yea, all were gathered together that believed on his word, to hear him. And he did teach them, and did preach unto them repentance, and redemption, and faith on the Lord.",
+
+                "verse8": "8. And it came to pass that he said unto them: Behold, here are the waters of Mormon (for thus were they called) and now, as ye are desirous to come into the fold of God, and to be called his people, and are willing to bear one another’s burdens, that they may be light;",
+
+                "verse9": "9. Yea, and are willing to mourn with those that mourn; yea, and comfort those that stand in need of comfort, and to stand as witnesses of God at all times and in all things, and in all places that ye may be in, even until death, that ye may be redeemed of God, and be numbered with those of the first resurrection, that ye may have eternal life—",
+
+                "verse17": "17. And they were called the church of God, or the church of Christ, from that time forward. And it came to pass that whosoever was baptized by the power and authority of God was added to his church.",
+
+                "verse18": "18. And it came to pass that Alma, having authority from God, ordained priests; even one priest to every fifty of their number did he ordain to preach unto them, and to teach them concerning the things pertaining to the kingdom of God.",
+
+                "verse19": "19. And he commanded them that they should teach nothing save it were the things which he had taught, and which had been spoken by the mouth of the holy prophets.",
+
+                "verse20": "20. Yea, even he commanded them that they should preach nothing save it were repentance and faith on the Lord, who had redeemed his people.",
+
+                "verse21": "21. And he commanded them that there should be no contention one with another, but that they should look forward with one eye, having one faith and one baptism, having their hearts knit together in unity and in love one towards another.", 
+
+                "verse22": "22. And thus he commanded them to preach. And thus they became the children of God.",
+
+                "verse23": "23. And he commanded them that they should observe the sabbath day, and keep it holy, and also every day they should give thanks to the Lord their God.",
+
+                "verse24": "24. And he also commanded them that the priests whom he had ordained should labor with their own hands for their support.", 
+
+                "verse25": "25. And there was one day in every week that was set apart that they should gather themselves together to teach the people, and to worship the Lord their God, and also, as often as it was in their power, to assemble themselves together.",
+
+                "verse26": "26. And the priests were not to depend upon the people for their support; but for their labor they were to receive the grace of God, that they might wax strong in the Spirit, having the knowledge of God, that they might teach with power and authority from God.",
+
+                "verse27": "27. And again Alma commanded that the people of the church should impart of their substance, every one according to that which he had; if he have more abundantly he should impart more abundantly; and of him that had but little, but little should be required; and to him that had not should be given.", 
+
+                "verse28": "28. And thus they should impart of their substance of their own free will and good desires towards God, and to those priests that stood in need, yea, and to every needy, naked soul.",
+
+                "verse29": "29. And this he said unto them, having been commanded of God; and they did walk uprightly before God, imparting to one another both temporally and spiritually according to their needs and their wants.
             },
             {
                 "book": "Mosiah",
                 "chapter": "25",
                 "verse": "19-24",
-                "text": "19. And it came to pass that king Mosiah granted unto Alma that he might establish churches throughout all the land of Zarahemla; and gave him power to ordain priests and teachers over every church. 20. Now this was done because there were so many people that they could not all be governed by one teacher; neither could they all hear the word of God in one assembly; 21. Therefore they did assemble themselves together in different bodies, being called churches; every church having their priests and their teachers, and every priest preaching the word according as it was delivered to him by the mouth of Alma. 22. And thus, notwithstanding there being many churches they were all one church, yea, even the church of God; for there was nothing preached in all the churches except it were repentance and faith in God. 23. And now there were seven churches in the land of Zarahemla. And it came to pass that whosoever were desirous to take upon them the name of Christ, or of God, they did join the churches of God; 24. And they were called the people of God. And the Lord did pour out his Spirit upon them, and they were blessed, and prospered in the land."
+                "verse19": "19. And it came to pass that king Mosiah granted unto Alma that he might establish churches throughout all the land of Zarahemla; and gave him power to ordain priests and teachers over every church.",
+
+                "verse20": "20. Now this was done because there were so many people that they could not all be governed by one teacher; neither could they all hear the word of God in one assembly;",
+
+                "verse21": "21. Therefore they did assemble themselves together in different bodies, being called churches; every church having their priests and their teachers, and every priest preaching the word according as it was delivered to him by the mouth of Alma.",
+
+                "verse22": "22. And thus, notwithstanding there being many churches they were all one church, yea, even the church of God; for there was nothing preached in all the churches except it were repentance and faith in God.", 
+
+                "verse23": "23. And now there were seven churches in the land of Zarahemla. And it came to pass that whosoever were desirous to take upon them the name of Christ, or of God, they did join the churches of God;",
+
+                "verse24": "24. And they were called the people of God. And the Lord did pour out his Spirit upon them, and they were blessed, and prospered in the land."
             },
             {
                 "book": "Alma",
                 "chapter": "4",
                 "verse": "4-7, 18",
-                "text": "4. And they began to establish the church more fully; yea, and many were baptized in the waters of Sidon and were joined to the church of God; yea, they were baptized by the hand of Alma, who had been consecrated the high priest over the people of the church, by the hand of his father Alma. 5. And it came to pass in the seventh year of the reign of the judges there were about three thousand five hundred souls that united themselves to the church of God and were baptized. And thus ended the seventh year of the reign of the judges over the people of Nephi; and there was continual peace in all that time. 6. And it came to pass in the eighth year of the reign of the judges, that the people of the church began to wax proud, because of their exceeding riches, and their fine silks, and their fine-twined linen, and because of their many flocks and herds, and their gold and their silver, and all manner of precious things, which they had obtained by their industry; and in all these things were they lifted up in the pride of their eyes, for they began to wear very costly apparel. 7. Now this was the cause of much affliction to Alma, yea, and to many of the people whom Alma had consecrated to be teachers, and priests, and elders over the church; yea, many of them were sorely grieved for the wickedness which they saw had begun to be among their people. 18. Now Alma did not grant unto him the office of being high priest over the church, but he retained the office of high priest unto himself; but he delivered the judgment-seat unto Nephihah.
+                "verse4": "4. And they began to establish the church more fully; yea, and many were baptized in the waters of Sidon and were joined to the church of God; yea, they were baptized by the hand of Alma, who had been consecrated the high priest over the people of the church, by the hand of his father Alma.",
+
+                "verse5": "5. And it came to pass in the seventh year of the reign of the judges there were about three thousand five hundred souls that united themselves to the church of God and were baptized. And thus ended the seventh year of the reign of the judges over the people of Nephi; and there was continual peace in all that time.", 
+
+                "verse6": "6. And it came to pass in the eighth year of the reign of the judges, that the people of the church began to wax proud, because of their exceeding riches, and their fine silks, and their fine-twined linen, and because of their many flocks and herds, and their gold and their silver, and all manner of precious things, which they had obtained by their industry; and in all these things were they lifted up in the pride of their eyes, for they began to wear very costly apparel.", 
+
+                "verse7": "7. Now this was the cause of much affliction to Alma, yea, and to many of the people whom Alma had consecrated to be teachers, and priests, and elders over the church; yea, many of them were sorely grieved for the wickedness which they saw had begun to be among their people.",
+
+                "verse18": "18. Now Alma did not grant unto him the office of being high priest over the church, but he retained the office of high priest unto himself; but he delivered the judgment-seat unto Nephihah."
             },
             {
                 "book": "Alma",
                 "chapter": "5",
                 "verse": "61-62",
-                "text": "61. And now I, Alma, do command you in the language of him who hath commanded me, that ye observe to do the words which I have spoken unto you. 62. I speak by way of command unto you that belong to the church; and unto those who do not belong to the church I speak by way of invitation, saying: Come and be baptized unto repentance, that ye also may be partakers of the fruit of the tree of life."
+                "verse61": "61. And now I, Alma, do command you in the language of him who hath commanded me, that ye observe to do the words which I have spoken unto you.",
+
+                "verse62": "62. I speak by way of command unto you that belong to the church; and unto those who do not belong to the church I speak by way of invitation, saying: Come and be baptized unto repentance, that ye also may be partakers of the fruit of the tree of life."
             },
             {
                 "book": "Alma",
                 "chapter": "6",
                 "verse": "1",
-                "text": "1. And now it came to pass that after Alma had made an end of speaking unto the people of the church, which was established in the city of Zarahemla, he ordained priests and elders, by laying on his hands according to the order of God, to preside and watch over the church."
+                "verse1": "1. And now it came to pass that after Alma had made an end of speaking unto the people of the church, which was established in the city of Zarahemla, he ordained priests and elders, by laying on his hands according to the order of God, to preside and watch over the church."
             },
             {
                 "book": "Alma",
                 "chapter": "46",
                 "verse": "12-16",
-                "text": "12. And it came to pass that he rent his coat; and he took a piece thereof, and wrote upon it—In memory of our God, our religion, and freedom, and our peace, our wives, and our children—and he fastened it upon the end of a pole. 13. And he fastened on his head-plate, and his breastplate, and his shields, and girded on his armor about his loins; and he took the pole, which had on the end thereof his rent coat, (and he called it the title of liberty) and he bowed himself to the earth, and he prayed mightily unto his God for the blessings of liberty to rest upon his brethren, so long as there should a band of Christians remain to possess the land— 14. For thus were all the true believers of Christ, who belonged to the church of God, called by those who did not belong to the church. 15. And those who did belong to the church were faithful; yea, all those who were true believers in Christ took upon them, gladly, the name of Christ, or Christians as they were called, because of their belief in Christ who should come. 16. And therefore, at this time, Moroni prayed that the cause of the Christians, and the freedom of the land might be favored."
+                "verse12": "12. And it came to pass that he rent his coat; and he took a piece thereof, and wrote upon it—In memory of our God, our religion, and freedom, and our peace, our wives, and our children—and he fastened it upon the end of a pole.",
+
+                "verse13": "13. And he fastened on his head-plate, and his breastplate, and his shields, and girded on his armor about his loins; and he took the pole, which had on the end thereof his rent coat, (and he called it the title of liberty) and he bowed himself to the earth, and he prayed mightily unto his God for the blessings of liberty to rest upon his brethren, so long as there should a band of Christians remain to possess the land—",
+
+                "verse14": "14. For thus were all the true believers of Christ, who belonged to the church of God, called by those who did not belong to the church.",
+
+                "verse15": "15. And those who did belong to the church were faithful; yea, all those who were true believers in Christ took upon them, gladly, the name of Christ, or Christians as they were called, because of their belief in Christ who should come.", 
+
+                "verse16": "16. And therefore, at this time, Moroni prayed that the cause of the Christians, and the freedom of the land might be favored."
             },
             {
                 "book": "3 Nephi",
                 "chapter": "18",
                 "verse": "22",
-                "text": "22. And behold, ye shall meet together oft; and ye shall not forbid any man from coming unto you when ye shall meet together, but suffer them that they may come unto you and forbid them not;"
+                "verse22": "22. And behold, ye shall meet together oft; and ye shall not forbid any man from coming unto you when ye shall meet together, but suffer them that they may come unto you and forbid them not;"
             },
             {
                 "book": "3 Nephi",
                 "chapter": "27",
                 "verse": "3-10, 21",
-                "text": "3. And they said unto him: Lord, we will that thou wouldst tell us the name whereby we shall call this church; for there are disputations among the people concerning this matter. 4. And the Lord said unto them: Verily, verily, I say unto you, why is it that the people should murmur and dispute because of this thing? 5. Have they not read the scriptures, which say ye must take upon you the name of Christ, which is my name? For by this name shall ye be called at the last day; 6. And whoso taketh upon him my name, and endureth to the end, the same shall be saved at the last day. 7. Therefore, whatsoever ye shall do, ye shall do it in my name; therefore ye shall call the church in my name; and ye shall call upon the Father in my name that he will bless the church for my sake. 8. And how be it my church save it be called in my name? For if a church be called in Moses’ name then it be Moses’ church; or if it be called in the name of a man then it be the church of a man; but if it be called in my name then it is my church, if it so be that they are built upon my gospel. 9. Verily I say unto you, that ye are built upon my gospel; therefore ye shall call whatsoever things ye do call, in my name; therefore if ye call upon the Father, for the church, if it be in my name the Father will hear you; 10. And if it so be that the church is built upon my gospel then will the Father show forth his own works in it. 21. Verily, verily, I say unto you, this is my gospel; and ye know the things that ye must do in my church; for the works which ye have seen me do that shall ye also do; for that which ye have seen me do even that shall ye do;"
+                "verse3": "3. And they said unto him: Lord, we will that thou wouldst tell us the name whereby we shall call this church; for there are disputations among the people concerning this matter.",
+
+                "verse4": "4. And the Lord said unto them: Verily, verily, I say unto you, why is it that the people should murmur and dispute because of this thing?",
+
+                "verse5": "5. Have they not read the scriptures, which say ye must take upon you the name of Christ, which is my name? For by this name shall ye be called at the last day;",
+
+                "verse6": "6. And whoso taketh upon him my name, and endureth to the end, the same shall be saved at the last day.",
+
+                "verse7": "7. Therefore, whatsoever ye shall do, ye shall do it in my name; therefore ye shall call the church in my name; and ye shall call upon the Father in my name that he will bless the church for my sake.",
+
+                "verse": "8. And how be it my church save it be called in my name? For if a church be called in Moses’ name then it be Moses’ church; or if it be called in the name of a man then it be the church of a man; but if it be called in my name then it is my church, if it so be that they are built upon my gospel.",
+
+                "verse9": "9. Verily I say unto you, that ye are built upon my gospel; therefore ye shall call whatsoever things ye do call, in my name; therefore if ye call upon the Father, for the church, if it be in my name the Father will hear you;",
+
+                "verse10" "10. And if it so be that the church is built upon my gospel then will the Father show forth his own works in it. 21. Verily, verily, I say unto you, this is my gospel; and ye know the things that ye must do in my church; for the works which ye have seen me do that shall ye also do; for that which ye have seen me do even that shall ye do;"
             },
             {
                 "book": "Moroni",
                 "chapter": "6",
                 "verse": "1-9",
-                "text": "1. And now I speak concerning baptism. Behold, elders, priests, and teachers were baptized; and they were not baptized save they brought forth fruit meet that they were worthy of it. 2. Neither did they receive any unto baptism save they came forth with a broken heart and a contrite spirit, and witnessed unto the church that they truly repented of all their sins. 3. And none were received unto baptism save they took upon them the name of Christ, having a determination to serve him to the end. 4. And after they had been received unto baptism, and were wrought upon and cleansed by the power of the Holy Ghost, they were numbered among the people of the church of Christ; and their names were taken, that they might be remembered and nourished by the good word of God, to keep them in the right way, to keep them continually watchful unto prayer, relying alone upon the merits of Christ, who was the author and the finisher of their faith. 5. And the church did meet together oft, to fast and to pray, and to speak one with another concerning the welfare of their souls. 6. And they did meet together oft to partake of bread and wine, in remembrance of the Lord Jesus. 7. And they were strict to observe that there should be no iniquity among them; and whoso was found to commit iniquity, and three witnesses of the church did condemn them before the elders, and if they repented not, and confessed not, their names were blotted out, and they were not numbered among the people of Christ. 8. But as oft as they repented and sought forgiveness, with real intent, they were forgiven. 9. And their meetings were conducted by the church after the manner of the workings of the Spirit, and by the power of the Holy Ghost; for as the power of the Holy Ghost led them whether to preach, or to exhort, or to pray, or to supplicate, or to sing, even so it was done."
+                "verse1": "1. And now I speak concerning baptism. Behold, elders, priests, and teachers were baptized; and they were not baptized save they brought forth fruit meet that they were worthy of it.",
+
+                "verse": "2. Neither did they receive any unto baptism save they came forth with a broken heart and a contrite spirit, and witnessed unto the church that they truly repented of all their sins.",
+
+                "verse": "3. And none were received unto baptism save they took upon them the name of Christ, having a determination to serve him to the end.",
+
+                "verse4": "4. And after they had been received unto baptism, and were wrought upon and cleansed by the power of the Holy Ghost, they were numbered among the people of the church of Christ; and their names were taken, that they might be remembered and nourished by the good word of God, to keep them in the right way, to keep them continually watchful unto prayer, relying alone upon the merits of Christ, who was the author and the finisher of their faith.",
+
+                "verse5": "5. And the church did meet together oft, to fast and to pray, and to speak one with another concerning the welfare of their souls.", 
+
+                "verse6": "6. And they did meet together oft to partake of bread and wine, in remembrance of the Lord Jesus.", 
+
+                "verse7": "7. And they were strict to observe that there should be no iniquity among them; and whoso was found to commit iniquity, and three witnesses of the church did condemn them before the elders, and if they repented not, and confessed not, their names were blotted out, and they were not numbered among the people of Christ.",
+
+                "verse8": "8. But as oft as they repented and sought forgiveness, with real intent, they were forgiven. 9. And their meetings were conducted by the church after the manner of the workings of the Spirit, and by the power of the Holy Ghost; for as the power of the Holy Ghost led them whether to preach, or to exhort, or to pray, or to supplicate, or to sing, even so it was done."
             },
             {
                 "book": "Doctrine and Covenants",
                 "chapter": "1",
                 "verse": "29-30",
-                "text": "29. And after having received the record of the Nephites, yea, even my servant Joseph Smith, Jun., might have power to translate through the mercy of God, by the power of God, the Book of Mormon. 30. And also those to whom these commandments were given, might have power to lay the foundation of this church, and to bring it forth out of obscurity and out of darkness, the only true and living church upon the face of the whole earth, with which I, the Lord, am well pleased, speaking unto the church collectively and not individually—"
+                "verse29": "29. And after having received the record of the Nephites, yea, even my servant Joseph Smith, Jun., might have power to translate through the mercy of God, by the power of God, the Book of Mormon.",
+
+                "verse30": "30. And also those to whom these commandments were given, might have power to lay the foundation of this church, and to bring it forth out of obscurity and out of darkness, the only true and living church upon the face of the whole earth, with which I, the Lord, am well pleased, speaking unto the church collectively and not individually—"
             },
             {
                 "book": "Doctrine and Covenants",
                 "chapter": "10",
                 "verse": "55, 69",
-                "text": "55. Therefore, whosoever belongeth to my church need not fear, for such shall inherit the kingdom of heaven. 69. And now, behold, whosoever is of my church, and endureth of my church to the end, him will I establish upon my rock, and the gates of hell shall not prevail against them."
+                "verse55": "55. Therefore, whosoever belongeth to my church need not fear, for such shall inherit the kingdom of heaven.",
+
+                "verse69": "69. And now, behold, whosoever is of my church, and endureth of my church to the end, him will I establish upon my rock, and the gates of hell shall not prevail against them."
             },
             {
                 "book": "Doctrine and Covenants",
                 "chapter": "43",
                 "verse": "8-9",
-                "text": "8. And now, behold, I give unto you a commandment, that when ye are assembled together ye shall instruct and edify each other, that ye may know how to act and direct my church, how to act upon the points of my law and commandments, which I have given. 9. And thus ye shall become instructed in the law of my church, and be sanctified by that which ye have received, and ye shall bind yourselves to act in all holiness before me—"
+                "verse8": "8. And now, behold, I give unto you a commandment, that when ye are assembled together ye shall instruct and edify each other, that ye may know how to act and direct my church, how to act upon the points of my law and commandments, which I have given.",
+
+                "verse9": "9. And thus ye shall become instructed in the law of my church, and be sanctified by that which ye have received, and ye shall bind yourselves to act in all holiness before me—"
             },
             {
                 "book": "Doctrine and Covenants",
                 "chapter": "59",
                 "verse": "9-13",
-                "text": "9. And that thou mayest more fully keep thyself unspotted from the world, thou shalt go to the house of prayer and offer up thy sacraments upon my holy day; 10. For verily this is a day appointed unto you to rest from your labors, and to pay thy devotions unto the Most High; 11. Nevertheless thy vows shall be offered up in righteousness on all days and at all times; 12. But remember that on this, the Lord’s day, thou shalt offer thine oblations and thy sacraments unto the Most High, confessing thy sins unto thy brethren, and before the Lord. 13. And on this day thou shalt do none other thing, only let thy food be prepared with singleness of heart that thy fasting may be perfect, or, in other words, that thy joy may be full."
+                "verse9": "9. And that thou mayest more fully keep thyself unspotted from the world, thou shalt go to the house of prayer and offer up thy sacraments upon my holy day;",
+
+                "verse10": "10. For verily this is a day appointed unto you to rest from your labors, and to pay thy devotions unto the Most High;", 
+
+                "verse11": "11. Nevertheless thy vows shall be offered up in righteousness on all days and at all times;",
+
+                "verse12": "12. But remember that on this, the Lord’s day, thou shalt offer thine oblations and thy sacraments unto the Most High, confessing thy sins unto thy brethren, and before the Lord.",
+
+                "verse13": "13. And on this day thou shalt do none other thing, only let thy food be prepared with singleness of heart that thy fasting may be perfect, or, in other words, that thy joy may be full."
             },
             {
                 "book": "Doctrine and Covenants",
                 "chapter": "107",
                 "verse": "1-5",
-                "text": "1. There are, in the church, two priesthoods, namely, the Melchizedek and Aaronic, including the Levitical Priesthood. 2. Why the first is called the Melchizedek Priesthood is because Melchizedek was such a great high priest. 3. Before his day it was called the Holy Priesthood, after the Order of the Son of God. 4. But out of respect or reverence to the name of the Supreme Being, to avoid the too frequent repetition of his name, they, the church, in ancient days, called that priesthood after Melchizedek, or the Melchizedek Priesthood. 5. All other authorities or offices in the church are appendages to this priesthood."
+                "verse": "1. There are, in the church, two priesthoods, namely, the Melchizedek and Aaronic, including the Levitical Priesthood.", 
+
+                "verse2": "2. Why the first is called the Melchizedek Priesthood is because Melchizedek was such a great high priest.", 
+
+                "verse3": "3. Before his day it was called the Holy Priesthood, after the Order of the Son of God.",
+
+                "verse4": "4. But out of respect or reverence to the name of the Supreme Being, to avoid the too frequent repetition of his name, they, the church, in ancient days, called that priesthood after Melchizedek, or the Melchizedek Priesthood.",
+
+                "verse5": "5. All other authorities or offices in the church are appendages to this priesthood."
             },
             {
                 "book": "Doctrine and Covenants",
                 "chapter": "115",
                 "verse": "3-4",
-                "text": "3. And also unto my faithful servants who are of the high council of my church in Zion, for thus it shall be called, and unto all the elders and people of my Church of Jesus Christ of Latter-day Saints, scattered abroad in all the world; 4. For thus shall my church be called in the last days, even The Church of Jesus Christ of Latter-day Saints."
+                "verse3": "3. And also unto my faithful servants who are of the high council of my church in Zion, for thus it shall be called, and unto all the elders and people of my Church of Jesus Christ of Latter-day Saints, scattered abroad in all the world;", 
+
+                "verse4": "4. For thus shall my church be called in the last days, even The Church of Jesus Christ of Latter-day Saints."
             },
             {
                 "book": "Pearl of Great Price - Moses",
                 "chapter": "1",
                 "verse": "39",
-                "text": "39. For behold, this is my work and my glory—to bring to pass the immortality and eternal life of man."
+                "verse39": "39. For behold, this is my work and my glory—to bring to pass the immortality and eternal life of man."
             },
             {
                 "book": "Pearl of Great Price - Moses",
                 "chapter": "7",
                 "verse": "18",
-                "text": "18. And the Lord called his people Zion, because they were of one heart and one mind, and dwelt in righteousness; and there was no poor among them."
+                "verse18": "18. And the Lord called his people Zion, because they were of one heart and one mind, and dwelt in righteousness; and there was no poor among them."
             },
             {
                 "book": "Pearl of Great Price - Articles of Faith",
                 "chapter": "1",
                 "verse": "6",
-                "text": "6. We believe in the same organization that existed in the Primitive Church, namely, apostles, prophets, pastors, teachers, evangelists, and so forth."
+                "verse6": "6. We believe in the same organization that existed in the Primitive Church, namely, apostles, prophets, pastors, teachers, evangelists, and so forth."
             }
 
         ]
