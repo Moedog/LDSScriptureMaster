@@ -549,49 +549,135 @@
                 "book": "Doctrine and Covenants",
                 "chapter": "20",
                 "verse": "37, 71-74",
-                "text": "37. And again, by way of commandment to the church concerning the manner of baptism—All those who humble themselves before God, and desire to be baptized, and come forth with broken hearts and contrite spirits, and witness before the church that they have truly repented of all their sins, and are willing to take upon them the name of Jesus Christ, having a determination to serve him to the end, and truly manifest by their works that they have received of the Spirit of Christ unto the remission of their sins, shall be received by baptism into his church. 71. No one can be received into the church of Christ unless he has arrived unto the years of accountability before God, and is capable of repentance. 72. Baptism is to be administered in the following manner unto all those who repent— 73. The person who is called of God and has authority from Jesus Christ to baptize, shall go down into the water with the person who has presented himself or herself for baptism, and shall say, calling him or her by name: Having been commissioned of Jesus Christ, I baptize you in the name of the Father, and of the Son, and of the Holy Ghost. Amen. 74. Then shall he immerse him or her in the water, and come forth again out of the water.
+                "verse37": "37. And again, by way of commandment to the church concerning the manner of baptism—All those who humble themselves before God, and desire to be baptized, and come forth with broken hearts and contrite spirits, and witness before the church that they have truly repented of all their sins, and are willing to take upon them the name of Jesus Christ, having a determination to serve him to the end, and truly manifest by their works that they have received of the Spirit of Christ unto the remission of their sins, shall be received by baptism into his church.",
+
+                "verse71": "71. No one can be received into the church of Christ unless he has arrived unto the years of accountability before God, and is capable of repentance.",
+
+                "verse72": "72. Baptism is to be administered in the following manner unto all those who repent—",
+
+                "verse73": "73. The person who is called of God and has authority from Jesus Christ to baptize, shall go down into the water with the person who has presented himself or herself for baptism, and shall say, calling him or her by name: Having been commissioned of Jesus Christ, I baptize you in the name of the Father, and of the Son, and of the Holy Ghost. Amen.",
+
+                verse74": "74. Then shall he immerse him or her in the water, and come forth again out of the water."
             },
             {
                 "book": "Doctrine and Covenants",
                 "chapter": "68",
                 "verse": "25-27",
-                "text": "25. And again, inasmuch as parents have children in Zion, or in any of her stakes which are organized, that teach them not to understand the doctrine of repentance, faith in Christ the Son of the living God, and of baptism and the gift of the Holy Ghost by the laying on of the hands, when eight years old, the sin be upon the heads of the parents. 26. For this shall be a law unto the inhabitants of Zion, or in any of her stakes which are organized. 27. And their children shall be baptized for the remission of their sins when eight years old, and receive the laying on of the hands."
+                "verse25": "25. And again, inasmuch as parents have children in Zion, or in any of her stakes which are organized, that teach them not to understand the doctrine of repentance, faith in Christ the Son of the living God, and of baptism and the gift of the Holy Ghost by the laying on of the hands, when eight years old, the sin be upon the heads of the parents.",
+
+                "verse26": "26. For this shall be a law unto the inhabitants of Zion, or in any of her stakes which are organized.",
+
+                "verse27": "27. And their children shall be baptized for the remission of their sins when eight years old, and receive the laying on of the hands."
             },
             {
                 "book": "Doctrine and Covenants",
                 "chapter": "76",
                 "verse": "50-52",
-                "text": "50. And again we bear record—for we saw and heard, and this is the testimony of the gospel of Christ concerning them who shall come forth in the resurrection of the just— 51. They are they who received the testimony of Jesus, and believed on his name and were baptized after the manner of his burial, being buried in the water in his name, and this according to the commandment which he has given— 52. That by keeping the commandments they might be washed and cleansed from all their sins, and receive the Holy Spirit by the laying on of the hands of him who is ordained and sealed unto this power;"
+                "verse50": "50. And again we bear record—for we saw and heard, and this is the testimony of the gospel of Christ concerning them who shall come forth in the resurrection of the just—",
+
+                "verse51": "51. They are they who received the testimony of Jesus, and believed on his name and were baptized after the manner of his burial, being buried in the water in his name, and this according to the commandment which he has given—",
+
+                "verse52": "52. That by keeping the commandments they might be washed and cleansed from all their sins, and receive the Holy Spirit by the laying on of the hands of him who is ordained and sealed unto this power;"
             },
             {
                 "book": "Doctrine and Covenants",
                 "chapter": "124",
                 "verse": "28-32",
-                "text": "28. For there is not a place found on earth that he may come to and restore again that which was lost unto you, or which he hath taken away, even the fulness of the priesthood. 29. For a baptismal font there is not upon the earth, that they, my saints, may be baptized for those who are dead— 30. For this ordinance belongeth to my house, and cannot be acceptable to me, only in the days of your poverty, wherein ye are not able to build a house unto me. 31. But I command you, all ye my saints, to build a house unto me; and I grant unto you a sufficient time to build a house unto me; and during this time your baptisms shall be acceptable unto me. 32. But behold, at the end of this appointment your baptisms for your dead shall not be acceptable unto me; and if you do not these things at the end of the appointment ye shall be rejected as a church, with your dead, saith the Lord your God."
+                "verse28": "28. For there is not a place found on earth that he may come to and restore again that which was lost unto you, or which he hath taken away, even the fulness of the priesthood.",
+
+                "verse29": "29. For a baptismal font there is not upon the earth, that they, my saints, may be baptized for those who are dead—",
+
+                "verse30": "30. For this ordinance belongeth to my house, and cannot be acceptable to me, only in the days of your poverty, wherein ye are not able to build a house unto me.",
+
+                "verse31": "31. But I command you, all ye my saints, to build a house unto me; and I grant unto you a sufficient time to build a house unto me; and during this time your baptisms shall be acceptable unto me.",
+
+                "verse32": "32. But behold, at the end of this appointment your baptisms for your dead shall not be acceptable unto me; and if you do not these things at the end of the appointment ye shall be rejected as a church, with your dead, saith the Lord your God."
             },
             {
                 "book": "Doctrine and Covenants",
                 "chapter": "128",
                 "verse": "1-25",
-                "text": "1. As I stated to you in my letter before I left my place, that I would write to you from time to time and give you information in relation to many subjects, I now resume the subject of the baptism for the dead, as that subject seems to occupy my mind, and press itself upon my feelings the strongest, since I have been pursued by my enemies. 2. I wrote a few words of revelation to you concerning a recorder. I have had a few additional views in relation to this matter, which I now certify. That is, it was declared in my former letter that there should be a recorder, who should be eye-witness, and also to hear with his ears, that he might make a record of a truth before the Lord. 3. Now, in relation to this matter, it would be very difficult for one recorder to be present at all times, and to do all the business. To obviate this difficulty, there can be a recorder appointed in each ward of the city, who is well qualified for taking accurate minutes; and let him be very particular and precise in taking the whole proceedings, certifying in his record that he saw with his eyes, and heard with his ears, giving the date, and names, and so forth, and the history of the whole transaction; naming also some three individuals that are present, if there be any present, who can at any time when called upon certify to the same, that in the mouth of two or three witnesses every word may be established. 4. Then, let there be a general recorder, to whom these other records can be handed, being attended with certificates over their own signatures, certifying that the record they have made is true. Then the general church recorder can enter the record on the general church book, with the certificates and all the attending witnesses, with his own statement that he verily believes the above statement and records to be true, from his knowledge of the general character and appointment of those men by the church. And when this is done on the general church book, the record shall be just as holy, and shall answer the ordinance just the same as if he had seen with his eyes and heard with his ears, and made a record of the same on the general church book. 5. You may think this order of things to be very particular; but let me tell you that it is only to answer the will of God, by conforming to the ordinance and preparation that the Lord ordained and prepared before the foundation of the world, for the salvation of the dead who should die without a knowledge of the gospel. 6. And further, I want you to remember that John the Revelator was contemplating this very subject in relation to the dead, when he declared, as you will find recorded in Revelation 20:12—And I saw the dead, small and great, stand before God; and the books were opened; and another book was opened, which is the book of life; and the dead were judged out of those things which were written in the books, according to their works. 7. You will discover in this quotation that the books were opened; and another book was opened, which was the book of life; but the dead were judged out of those things which were written in the books, according to their works; consequently, the books spoken of must be the books which contained the record of their works, and refer to the records which are kept on the earth. And the book which was the book of life is the record which is kept in heaven; the principle agreeing precisely with the doctrine which is commanded you in the revelation contained in the letter which I wrote to you previous to my leaving my place—that in all your recordings it may be recorded in heaven. 8. Now, the nature of this ordinance consists in the power of the priesthood, by the revelation of Jesus Christ, wherein it is granted that whatsoever you bind on earth shall be bound in heaven, and whatsoever you loose on earth shall be loosed in heaven. Or, in other words, taking a different view of the translation, whatsoever you record on earth shall be recorded in heaven, and whatsoever you do not record on earth shall not be recorded in heaven; for out of the books shall your dead be judged, according to their own works, whether they themselves have attended to the ordinances in their own propria persona, or by the means of their own agents, according to the ordinance which God has prepared for their salvation from before the foundation of the world, according to the records which they have kept concerning their dead. 9. It may seem to some to be a very bold doctrine that we talk of—a power which records or binds on earth and binds in heaven. Nevertheless, in all ages of the world, whenever the Lord has given a dispensation of the priesthood to any man by actual revelation, or any set of men, this power has always been given. Hence, whatsoever those men did in authority, in the name of the Lord, and did it truly and faithfully, and kept a proper and faithful record of the same, it became a law on earth and in heaven, and could not be annulled, according to the decrees of the great Jehovah. This is a faithful saying. Who can hear it? 10. And again, for the precedent, Matthew 16:18, 19: And I say also unto thee, That thou art Peter, and upon this rock I will build my church; and the gates of hell shall not prevail against it. And I will give unto thee the keys of the kingdom of heaven: and whatsoever thou shalt bind on earth shall be bound in heaven; and whatsoever thou shalt loose on earth shall be loosed in heaven. 11. Now the great and grand secret of the whole matter, and the summum bonum of the whole subject that is lying before us, consists in obtaining the powers of the Holy Priesthood. For him to whom these keys are given there is no difficulty in obtaining a knowledge of facts in relation to the salvation of the children of men, both as well for the dead as for the living. 12. Herein is glory and honor, and immortality and eternal life—The ordinance of baptism by water, to be immersed therein in order to answer to the likeness of the dead, that one principle might accord with the other; to be immersed in the water and come forth out of the water is in the likeness of the resurrection of the dead in coming forth out of their graves; hence, this ordinance was instituted to form a relationship with the ordinance of baptism for the dead, being in likeness of the dead. 13. Consequently, the baptismal font was instituted as a similitude of the grave, and was commanded to be in a place underneath where the living are wont to assemble, to show forth the living and the dead, and that all things may have their likeness, and that they may accord one with another—that which is earthly conforming to that which is heavenly, as Paul hath declared, 1 Corinthians 15:46, 47, and 48: 14. Howbeit that was not first which is spiritual, but that which is natural; and afterward that which is spiritual. The first man is of the earth, earthy; the second man is the Lord from heaven. As is the earthy, such are they also that are earthy; and as is the heavenly, such are they also that are heavenly. And as are the records on the earth in relation to your dead, which are truly made out, so also are the records in heaven. This, therefore, is the sealing and binding power, and, in one sense of the word, the keys of the kingdom, which consist in the key of knowledge. 15. And now, my dearly beloved brethren and sisters, let me assure you that these are principles in relation to the dead and the living that cannot be lightly passed over, as pertaining to our salvation. For their salvation is necessary and essential to our salvation, as Paul says concerning the fathers—that they without us cannot be made perfect—neither can we without our dead be made perfect. 16. And now, in relation to the baptism for the dead, I will give you another quotation of Paul, 1 Corinthians 15:29: Else what shall they do which are baptized for the dead, if the dead rise not at all? Why are they then baptized for the dead? 17. And again, in connection with this quotation I will give you a quotation from one of the prophets, who had his eye fixed on the restoration of the priesthood, the glories to be revealed in the last days, and in an especial manner this most glorious of all subjects belonging to the everlasting gospel, namely, the baptism for the dead; for Malachi says, last chapter, verses 5th and 6th: Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the Lord: And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers, lest I come and smite the earth with a curse. 18. I might have rendered a plainer translation to this, but it is sufficiently plain to suit my purpose as it stands. It is sufficient to know, in this case, that the earth will be smitten with a curse unless there is a welding link of some kind or other between the fathers and the children, upon some subject or other—and behold what is that subject? It is the baptism for the dead. For we without them cannot be made perfect; neither can they without us be made perfect. Neither can they nor we be made perfect without those who have died in the gospel also; for it is necessary in the ushering in of the dispensation of the fulness of times, which dispensation is now beginning to usher in, that a whole and complete and perfect union, and welding together of dispensations, and keys, and powers, and glories should take place, and be revealed from the days of Adam even to the present time. And not only this, but those things which never have been revealed from the foundation of the world, but have been kept hid from the wise and prudent, shall be revealed unto babes and sucklings in this, the dispensation of the fulness of times. 19. Now, what do we hear in the gospel which we have received? A voice of gladness! A voice of mercy from heaven; and a voice of truth out of the earth; glad tidings for the dead; a voice of gladness for the living and the dead; glad tidings of great joy. How beautiful upon the mountains are the feet of those that bring glad tidings of good things, and that say unto Zion: Behold, thy God reigneth! As the dews of Carmel, so shall the knowledge of God descend upon them! 20. And again, what do we hear? Glad tidings from Cumorah! Moroni, an angel from heaven, declaring the fulfilment of the prophets—the book to be revealed. A voice of the Lord in the wilderness of Fayette, Seneca county, declaring the three witnesses to bear record of the book! The voice of Michael on the banks of the Susquehanna, detecting the devil when he appeared as an angel of light! The voice of Peter, James, and John in the wilderness between Harmony, Susquehanna county, and Colesville, Broome county, on the Susquehanna river, declaring themselves as possessing the keys of the kingdom, and of the dispensation of the fulness of times! 21. And again, the voice of God in the chamber of old Father Whitmer, in Fayette, Seneca county, and at sundry times, and in divers places through all the travels and tribulations of this Church of Jesus Christ of Latter-day Saints! And the voice of Michael, the archangel; the voice of Gabriel, and of Raphael, and of divers angels, from Michael or Adam down to the present time, all declaring their dispensation, their rights, their keys, their honors, their majesty and glory, and the power of their priesthood; giving line upon line, precept upon precept; here a little, and there a little; giving us consolation by holding forth that which is to come, confirming our hope! 22. Brethren, shall we not go on in so great a cause? Go forward and not backward. Courage, brethren; and on, on to the victory! Let your hearts rejoice, and be exceedingly glad. Let the earth break forth into singing. Let the dead speak forth anthems of eternal praise to the King Immanuel, who hath ordained, before the world was, that which would enable us to redeem them out of their prison; for the prisoners shall go free. 23. Let the mountains shout for joy, and all ye valleys cry aloud; and all ye seas and dry lands tell the wonders of your Eternal King! And ye rivers, and brooks, and rills, flow down with gladness. Let the woods and all the trees of the field praise the Lord; and ye solid rocks weep for joy! And let the sun, moon, and the morning stars sing together, and let all the sons of God shout for joy! And let the eternal creations declare his name forever and ever! And again I say, how glorious is the voice we hear from heaven, proclaiming in our ears, glory, and salvation, and honor, and immortality, and eternal life; kingdoms, principalities, and powers! 24. Behold, the great day of the Lord is at hand; and who can abide the day of his coming, and who can stand when he appeareth? For he is like a refiner’s fire, and like fuller’s soap; and he shall sit as a refiner and purifier of silver, and he shall purify the sons of Levi, and purge them as gold and silver, that they may offer unto the Lord an offering in righteousness. Let us, therefore, as a church and a people, and as Latter-day Saints, offer unto the Lord an offering in righteousness; and let us present in his holy temple, when it is finished, a book containing the records of our dead, which shall be worthy of all acceptation. 25. Brethren, I have many things to say to you on the subject; but shall now close for the present, and continue the subject another time. I am, as ever, your humble servant and never deviating friend, Joseph Smith."
+                "verse1": "1. As I stated to you in my letter before I left my place, that I would write to you from time to time and give you information in relation to many subjects, I now resume the subject of the baptism for the dead, as that subject seems to occupy my mind, and press itself upon my feelings the strongest, since I have been pursued by my enemies.",
+
+                "verse2": "2. I wrote a few words of revelation to you concerning a recorder. I have had a few additional views in relation to this matter, which I now certify. That is, it was declared in my former letter that there should be a recorder, who should be eye-witness, and also to hear with his ears, that he might make a record of a truth before the Lord.",
+
+                "verse3": "3. Now, in relation to this matter, it would be very difficult for one recorder to be present at all times, and to do all the business. To obviate this difficulty, there can be a recorder appointed in each ward of the city, who is well qualified for taking accurate minutes; and let him be very particular and precise in taking the whole proceedings, certifying in his record that he saw with his eyes, and heard with his ears, giving the date, and names, and so forth, and the history of the whole transaction; naming also some three individuals that are present, if there be any present, who can at any time when called upon certify to the same, that in the mouth of two or three witnesses every word may be established.",
+
+                "verse4": "4. Then, let there be a general recorder, to whom these other records can be handed, being attended with certificates over their own signatures, certifying that the record they have made is true. Then the general church recorder can enter the record on the general church book, with the certificates and all the attending witnesses, with his own statement that he verily believes the above statement and records to be true, from his knowledge of the general character and appointment of those men by the church. And when this is done on the general church book, the record shall be just as holy, and shall answer the ordinance just the same as if he had seen with his eyes and heard with his ears, and made a record of the same on the general church book.",
+
+                "verse5": "5. You may think this order of things to be very particular; but let me tell you that it is only to answer the will of God, by conforming to the ordinance and preparation that the Lord ordained and prepared before the foundation of the world, for the salvation of the dead who should die without a knowledge of the gospel.",
+
+                "verse6: "6. And further, I want you to remember that John the Revelator was contemplating this very subject in relation to the dead, when he declared, as you will find recorded in Revelation 20:12—And I saw the dead, small and great, stand before God; and the books were opened; and another book was opened, which is the book of life; and the dead were judged out of those things which were written in the books, according to their works.",
+
+                "verse7": "7. You will discover in this quotation that the books were opened; and another book was opened, which was the book of life; but the dead were judged out of those things which were written in the books, according to their works; consequently, the books spoken of must be the books which contained the record of their works, and refer to the records which are kept on the earth. And the book which was the book of life is the record which is kept in heaven; the principle agreeing precisely with the doctrine which is commanded you in the revelation contained in the letter which I wrote to you previous to my leaving my place—that in all your recordings it may be recorded in heaven.",
+
+                "verse8": "8. Now, the nature of this ordinance consists in the power of the priesthood, by the revelation of Jesus Christ, wherein it is granted that whatsoever you bind on earth shall be bound in heaven, and whatsoever you loose on earth shall be loosed in heaven. Or, in other words, taking a different view of the translation, whatsoever you record on earth shall be recorded in heaven, and whatsoever you do not record on earth shall not be recorded in heaven; for out of the books shall your dead be judged, according to their own works, whether they themselves have attended to the ordinances in their own propria persona, or by the means of their own agents, according to the ordinance which God has prepared for their salvation from before the foundation of the world, according to the records which they have kept concerning their dead.",
+
+                "verse9": "9. It may seem to some to be a very bold doctrine that we talk of—a power which records or binds on earth and binds in heaven. Nevertheless, in all ages of the world, whenever the Lord has given a dispensation of the priesthood to any man by actual revelation, or any set of men, this power has always been given. Hence, whatsoever those men did in authority, in the name of the Lord, and did it truly and faithfully, and kept a proper and faithful record of the same, it became a law on earth and in heaven, and could not be annulled, according to the decrees of the great Jehovah. This is a faithful saying. Who can hear it?",
+
+                "verse10": "10. And again, for the precedent, Matthew 16:18, 19: And I say also unto thee, That thou art Peter, and upon this rock I will build my church; and the gates of hell shall not prevail against it. And I will give unto thee the keys of the kingdom of heaven: and whatsoever thou shalt bind on earth shall be bound in heaven; and whatsoever thou shalt loose on earth shall be loosed in heaven.",
+
+                "verse11": "11. Now the great and grand secret of the whole matter, and the summum bonum of the whole subject that is lying before us, consists in obtaining the powers of the Holy Priesthood. For him to whom these keys are given there is no difficulty in obtaining a knowledge of facts in relation to the salvation of the children of men, both as well for the dead as for the living.",
+
+                "verse12": "12. Herein is glory and honor, and immortality and eternal life—The ordinance of baptism by water, to be immersed therein in order to answer to the likeness of the dead, that one principle might accord with the other; to be immersed in the water and come forth out of the water is in the likeness of the resurrection of the dead in coming forth out of their graves; hence, this ordinance was instituted to form a relationship with the ordinance of baptism for the dead, being in likeness of the dead.", "
+
+                "verse13": "13. Consequently, the baptismal font was instituted as a similitude of the grave, and was commanded to be in a place underneath where the living are wont to assemble, to show forth the living and the dead, and that all things may have their likeness, and that they may accord one with another—that which is earthly conforming to that which is heavenly, as Paul hath declared, 1 Corinthians 15:46, 47, and 48:",
+
+                "verse14": "14. Howbeit that was not first which is spiritual, but that which is natural; and afterward that which is spiritual. The first man is of the earth, earthy; the second man is the Lord from heaven. As is the earthy, such are they also that are earthy; and as is the heavenly, such are they also that are heavenly. And as are the records on the earth in relation to your dead, which are truly made out, so also are the records in heaven. This, therefore, is the sealing and binding power, and, in one sense of the word, the keys of the kingdom, which consist in the key of knowledge.",
+
+                "verse15": "15. And now, my dearly beloved brethren and sisters, let me assure you that these are principles in relation to the dead and the living that cannot be lightly passed over, as pertaining to our salvation. For their salvation is necessary and essential to our salvation, as Paul says concerning the fathers—that they without us cannot be made perfect—neither can we without our dead be made perfect.",
+
+                "verse16": "16. And now, in relation to the baptism for the dead, I will give you another quotation of Paul, 1 Corinthians 15:29: Else what shall they do which are baptized for the dead, if the dead rise not at all? Why are they then baptized for the dead?",
+
+                "verse17": "17. And again, in connection with this quotation I will give you a quotation from one of the prophets, who had his eye fixed on the restoration of the priesthood, the glories to be revealed in the last days, and in an especial manner this most glorious of all subjects belonging to the everlasting gospel, namely, the baptism for the dead; for Malachi says, last chapter, verses 5th and 6th: Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the Lord: And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers, lest I come and smite the earth with a curse.",
+
+                "verse18": "18. I might have rendered a plainer translation to this, but it is sufficiently plain to suit my purpose as it stands. It is sufficient to know, in this case, that the earth will be smitten with a curse unless there is a welding link of some kind or other between the fathers and the children, upon some subject or other—and behold what is that subject? It is the baptism for the dead. For we without them cannot be made perfect; neither can they without us be made perfect. Neither can they nor we be made perfect without those who have died in the gospel also; for it is necessary in the ushering in of the dispensation of the fulness of times, which dispensation is now beginning to usher in, that a whole and complete and perfect union, and welding together of dispensations, and keys, and powers, and glories should take place, and be revealed from the days of Adam even to the present time. And not only this, but those things which never have been revealed from the foundation of the world, but have been kept hid from the wise and prudent, shall be revealed unto babes and sucklings in this, the dispensation of the fulness of times.",
+
+                "verse19": "19. Now, what do we hear in the gospel which we have received? A voice of gladness! A voice of mercy from heaven; and a voice of truth out of the earth; glad tidings for the dead; a voice of gladness for the living and the dead; glad tidings of great joy. How beautiful upon the mountains are the feet of those that bring glad tidings of good things, and that say unto Zion: Behold, thy God reigneth! As the dews of Carmel, so shall the knowledge of God descend upon them!",
+
+                "verse20": "20. And again, what do we hear? Glad tidings from Cumorah! Moroni, an angel from heaven, declaring the fulfilment of the prophets—the book to be revealed. A voice of the Lord in the wilderness of Fayette, Seneca county, declaring the three witnesses to bear record of the book! The voice of Michael on the banks of the Susquehanna, detecting the devil when he appeared as an angel of light! The voice of Peter, James, and John in the wilderness between Harmony, Susquehanna county, and Colesville, Broome county, on the Susquehanna river, declaring themselves as possessing the keys of the kingdom, and of the dispensation of the fulness of times!",
+
+                "verse21": "21. And again, the voice of God in the chamber of old Father Whitmer, in Fayette, Seneca county, and at sundry times, and in divers places through all the travels and tribulations of this Church of Jesus Christ of Latter-day Saints! And the voice of Michael, the archangel; the voice of Gabriel, and of Raphael, and of divers angels, from Michael or Adam down to the present time, all declaring their dispensation, their rights, their keys, their honors, their majesty and glory, and the power of their priesthood; giving line upon line, precept upon precept; here a little, and there a little; giving us consolation by holding forth that which is to come, confirming our hope!",
+
+                "verse22": "22. Brethren, shall we not go on in so great a cause? Go forward and not backward. Courage, brethren; and on, on to the victory! Let your hearts rejoice, and be exceedingly glad. Let the earth break forth into singing. Let the dead speak forth anthems of eternal praise to the King Immanuel, who hath ordained, before the world was, that which would enable us to redeem them out of their prison; for the prisoners shall go free.",
+
+                "verse23": "23. Let the mountains shout for joy, and all ye valleys cry aloud; and all ye seas and dry lands tell the wonders of your Eternal King! And ye rivers, and brooks, and rills, flow down with gladness. Let the woods and all the trees of the field praise the Lord; and ye solid rocks weep for joy! And let the sun, moon, and the morning stars sing together, and let all the sons of God shout for joy! And let the eternal creations declare his name forever and ever! And again I say, how glorious is the voice we hear from heaven, proclaiming in our ears, glory, and salvation, and honor, and immortality, and eternal life; kingdoms, principalities, and powers!",
+
+                "verse24": "24. Behold, the great day of the Lord is at hand; and who can abide the day of his coming, and who can stand when he appeareth? For he is like a refiner’s fire, and like fuller’s soap; and he shall sit as a refiner and purifier of silver, and he shall purify the sons of Levi, and purge them as gold and silver, that they may offer unto the Lord an offering in righteousness. Let us, therefore, as a church and a people, and as Latter-day Saints, offer unto the Lord an offering in righteousness; and let us present in his holy temple, when it is finished, a book containing the records of our dead, which shall be worthy of all acceptation.",
+
+                "verse25": "25. Brethren, I have many things to say to you on the subject; but shall now close for the present, and continue the subject another time. I am, as ever, your humble servant and never deviating friend, Joseph Smith."
             },
             {
                 "book": "Pearl of Great Price - Moses",
                 "chapter": "6",
                 "verse": "64-66",
-                "text": "64. And it came to pass, when the Lord had spoken with Adam, our father, that Adam cried unto the Lord, and he was caught away by the Spirit of the Lord, and was carried down into the water, and was laid under the water, and was brought forth out of the water. 65. And thus he was baptized, and the Spirit of God descended upon him, and thus he was born of the Spirit, and became quickened in the inner man. 66. And he heard a voice out of heaven, saying: Thou art baptized with fire, and with the Holy Ghost. This is the record of the Father, and the Son, from henceforth and forever;"
+                "verse64": "64. And it came to pass, when the Lord had spoken with Adam, our father, that Adam cried unto the Lord, and he was caught away by the Spirit of the Lord, and was carried down into the water, and was laid under the water, and was brought forth out of the water.",
+
+                "verse65": "65. And thus he was baptized, and the Spirit of God descended upon him, and thus he was born of the Spirit, and became quickened in the inner man.",
+
+                "verse66": "66. And he heard a voice out of heaven, saying: Thou art baptized with fire, and with the Holy Ghost. This is the record of the Father, and the Son, from henceforth and forever;"
             },
             {
                 "book": "Pearl of Great Price - Joseph Smith History",
                 "chapter": "1",
                 "verse": "68-73",
-                "text": "68. We still continued the work of translation, when, in the ensuing month (May, 1829), we on a certain day went into the woods to pray and inquire of the Lord respecting baptism for the remission of sins, that we found mentioned in the translation of the plates. While we were thus employed, praying and calling upon the Lord, a messenger from heaven descended in a cloud of light, and having laid his hands upon us, he ordained us, saying: 69. Upon you my fellow servants, in the name of Messiah, I confer the Priesthood of Aaron, which holds the keys of the ministering of angels, and of the gospel of repentance, and of baptism by immersion for the remission of sins; and this shall never be taken again from the earth until the sons of Levi do offer again an offering unto the Lord in righteousness. 70. He said this Aaronic Priesthood had not the power of laying on hands for the gift of the Holy Ghost, but that this should be conferred on us hereafter; and he commanded us to go and be baptized, and gave us directions that I should baptize Oliver Cowdery, and that afterwards he should baptize me. 71. Accordingly we went and were baptized. I baptized him first, and afterwards he baptized me—after which I laid my hands upon his head and ordained him to the Aaronic Priesthood, and afterwards he laid his hands on me and ordained me to the same Priesthood—for so we were commanded. 72 The messenger who visited us on this occasion and conferred this Priesthood upon us, said that his name was John, the same that is called John the Baptist in the New Testament, and that he acted under the direction of Peter, James and John, who held the keys of the Priesthood of Melchizedek, which Priesthood, he said, would in due time be conferred on us, and that I should be called the first Elder of the Church, and he (Oliver Cowdery) the second. It was on the fifteenth day of May, 1829, that we were ordained under the hand of this messenger, and baptized. 73. Immediately on our coming up out of the water after we had been baptized, we experienced great and glorious blessings from our Heavenly Father. No sooner had I baptized Oliver Cowdery, than the Holy Ghost fell upon him, and he stood up and prophesied many things which should shortly come to pass. And again, so soon as I had been baptized by him, I also had the spirit of prophecy, when, standing up, I prophesied concerning the rise of this Church, and many other things connected with the Church, and this generation of the children of men. We were filled with the Holy Ghost, and rejoiced in the God of our salvation."
+                "verse68": "68. We still continued the work of translation, when, in the ensuing month (May, 1829), we on a certain day went into the woods to pray and inquire of the Lord respecting baptism for the remission of sins, that we found mentioned in the translation of the plates. While we were thus employed, praying and calling upon the Lord, a messenger from heaven descended in a cloud of light, and having laid his hands upon us, he ordained us, saying:",
+
+                "verse69": "69. Upon you my fellow servants, in the name of Messiah, I confer the Priesthood of Aaron, which holds the keys of the ministering of angels, and of the gospel of repentance, and of baptism by immersion for the remission of sins; and this shall never be taken again from the earth until the sons of Levi do offer again an offering unto the Lord in righteousness.",
+
+                "verse70": "70. He said this Aaronic Priesthood had not the power of laying on hands for the gift of the Holy Ghost, but that this should be conferred on us hereafter; and he commanded us to go and be baptized, and gave us directions that I should baptize Oliver Cowdery, and that afterwards he should baptize me.",
+
+                "verse71": "71. Accordingly we went and were baptized. I baptized him first, and afterwards he baptized me—after which I laid my hands upon his head and ordained him to the Aaronic Priesthood, and afterwards he laid his hands on me and ordained me to the same Priesthood—for so we were commanded.",
+
+                "verse72": "72. The messenger who visited us on this occasion and conferred this Priesthood upon us, said that his name was John, the same that is called John the Baptist in the New Testament, and that he acted under the direction of Peter, James and John, who held the keys of the Priesthood of Melchizedek, which Priesthood, he said, would in due time be conferred on us, and that I should be called the first Elder of the Church, and he (Oliver Cowdery) the second. It was on the fifteenth day of May, 1829, that we were ordained under the hand of this messenger, and baptized.",
+
+                "verse73": "73. Immediately on our coming up out of the water after we had been baptized, we experienced great and glorious blessings from our Heavenly Father. No sooner had I baptized Oliver Cowdery, than the Holy Ghost fell upon him, and he stood up and prophesied many things which should shortly come to pass. And again, so soon as I had been baptized by him, I also had the spirit of prophecy, when, standing up, I prophesied concerning the rise of this Church, and many other things connected with the Church, and this generation of the children of men. We were filled with the Holy Ghost, and rejoiced in the God of our salvation."
             },
             {
                 "book": "Pearl of Great Price - Articles of Faith",
                 "chapter": "1",
                 "verse": "4",
-                "text": "4. We believe that the first principles and ordinances of the Gospel are: first, Faith in the Lord Jesus Christ; second, Repentance; third, Baptism by immersion for the remission of sins; fourth, Laying on of hands for the gift of the Holy Ghost."
+                "verse4": "4. We believe that the first principles and ordinances of the Gospel are: first, Faith in the Lord Jesus Christ; second, Repentance; third, Baptism by immersion for the remission of sins; fourth, Laying on of hands for the gift of the Holy Ghost."
             }
 
          ]
@@ -602,7 +688,35 @@
                 "book": "Exodus",
                 "chapter": "20",
                 "verse": "3-17",
-                "text": "3. Thou shalt have no other gods before me. 4. Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth: 5. Thou shalt not bow down thyself to them, nor serve them: for I the Lord thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me; 6. And shewing mercy unto thousands of them that love me, and keep my commandments. 7. Thou shalt not take the name of the Lord thy God in vain; for the Lord will not hold him guiltless that taketh his name in vain. 8. Remember the sabbath day, to keep it holy. 9. Six days shalt thou labour, and do all thy work: 10. But the seventh day is the sabbath of the Lord thy God: in it thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that is within thy gates: 11. For in six days the Lord made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the Lord blessed the sabbath day, and hallowed it. 12. Honour thy father and thy mother: that thy days may be long upon the land which the Lord thy God giveth thee. 13. Thou shalt not kill. 14. Thou shalt not commit adultery. 15. Thou shalt not steal. 16. Thou shalt not bear false witness against thy neighbour. 17. Thou shalt not covet thy neighbour’s house, thou shalt not covet thy neighbour’s wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that is thy neighbour’s."
+                "verse3": "3. Thou shalt have no other gods before me.",
+
+                "verse4": "4. Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth:",
+
+                "verse5": "5. Thou shalt not bow down thyself to them, nor serve them: for I the Lord thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me;",
+
+                "verse6": "6. And shewing mercy unto thousands of them that love me, and keep my commandments.",
+
+                "verse7": "7. Thou shalt not take the name of the Lord thy God in vain; for the Lord will not hold him guiltless that taketh his name in vain.",
+
+                "verse8": "8. Remember the sabbath day, to keep it holy.",
+
+                "verse9": "9. Six days shalt thou labour, and do all thy work:",
+
+                "verse10": "10. But the seventh day is the sabbath of the Lord thy God: in it thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that is within thy gates:",
+
+                "verse11": "11. For in six days the Lord made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the Lord blessed the sabbath day, and hallowed it.",
+
+                "verse12": "12. Honour thy father and thy mother: that thy days may be long upon the land which the Lord thy God giveth thee.",
+
+                "verse13": "13. Thou shalt not kill.",
+
+                "verse14": "14. Thou shalt not commit adultery.",
+
+                "verse15": "15. Thou shalt not steal.",
+
+                "verse16": "16. Thou shalt not bear false witness against thy neighbour.",
+
+                "verse17": "17. Thou shalt not covet thy neighbour’s house, thou shalt not covet thy neighbour’s wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that is thy neighbour’s."
             },
             {
                 "book": "Joshua",
@@ -614,49 +728,115 @@
                 "book": "Ezekiel",
                 "chapter": "37",
                 "verse": "15-20",
-                "text": "15. The word of the Lord came again unto me, saying, 16. Moreover, thou son of man, take thee one stick, and write upon it, For Judah, and for the children of Israel his companions: then take another stick, and write upon it, For Joseph, the stick of Ephraim, and for all the house of Israel his companions: 17. And join them one to another into one stick; and they shall become one in thine hand. 18. And when the children of thy people shall speak unto thee, saying, Wilt thou not shew us what thou meanest by these? 19. Say unto them, Thus saith the Lord God; Behold, I will take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel his fellows, and will put them with him, even with the stick of Judah, and make them one stick, and they shall be one in mine hand. 20. And the sticks whereon thou writest shall be in thine hand before their eyes."
+                "verse15": "15. The word of the Lord came again unto me, saying,",
+
+                "verse16": "16. Moreover, thou son of man, take thee one stick, and write upon it, For Judah, and for the children of Israel his companions: then take another stick, and write upon it, For Joseph, the stick of Ephraim, and for all the house of Israel his companions:",
+
+                "verse17": "17. And join them one to another into one stick; and they shall become one in thine hand.",
+
+                "verse18": "18. And when the children of thy people shall speak unto thee, saying, Wilt thou not shew us what thou meanest by these?",
+
+                "verse19": "19. Say unto them, Thus saith the Lord God; Behold, I will take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel his fellows, and will put them with him, even with the stick of Judah, and make them one stick, and they shall be one in mine hand.",
+
+                "verse20": "20. And the sticks whereon thou writest shall be in thine hand before their eyes."
             },
             {
                 "book": "1 Nephi",
                 "chapter": "5",
                 "verse": "10-16",
-                "text": "10. And after they had given thanks unto the God of Israel, my father, Lehi, took the records which were engraven upon the plates of brass, and he did search them from the beginning. 11. And he beheld that they did contain the five books of Moses, which gave an account of the creation of the world, and also of Adam and Eve, who were our first parents; 12. And also a record of the Jews from the beginning, even down to the commencement of the reign of Zedekiah, king of Judah; 13. And also the prophecies of the holy prophets, from the beginning, even down to the commencement of the reign of Zedekiah; and also many prophecies which have been spoken by the mouth of Jeremiah. 14. And it came to pass that my father, Lehi, also found upon the plates of brass a genealogy of his fathers; wherefore he knew that he was a descendant of Joseph; yea, even that Joseph who was the son of Jacob, who was sold into Egypt, and who was preserved by the hand of the Lord, that he might preserve his father, Jacob, and all his household from perishing with famine. 15. And they were also led out of captivity and out of the land of Egypt, by that same God who had preserved them. 16. And thus my father, Lehi, did discover the genealogy of his fathers. And Laban also was a descendant of Joseph, wherefore he and his fathers had kept the records."
+                "verse10": "10. And after they had given thanks unto the God of Israel, my father, Lehi, took the records which were engraven upon the plates of brass, and he did search them from the beginning.",
+
+                "verse11": "11. And he beheld that they did contain the five books of Moses, which gave an account of the creation of the world, and also of Adam and Eve, who were our first parents;",
+
+                "verse12": "12. And also a record of the Jews from the beginning, even down to the commencement of the reign of Zedekiah, king of Judah;",
+
+                "verse13": "13. And also the prophecies of the holy prophets, from the beginning, even down to the commencement of the reign of Zedekiah; and also many prophecies which have been spoken by the mouth of Jeremiah.",
+
+                "verse14": "14. And it came to pass that my father, Lehi, also found upon the plates of brass a genealogy of his fathers; wherefore he knew that he was a descendant of Joseph; yea, even that Joseph who was the son of Jacob, who was sold into Egypt, and who was preserved by the hand of the Lord, that he might preserve his father, Jacob, and all his household from perishing with famine.",
+
+                "verse15": "15. And they were also led out of captivity and out of the land of Egypt, by that same God who had preserved them.",
+
+                "verse16": "16. And thus my father, Lehi, did discover the genealogy of his fathers. And Laban also was a descendant of Joseph, wherefore he and his fathers had kept the records."
             },
             {
                 "book": "1 Nephi",
                 "chapter": "13",
                 "verse": "20-29, 40",
-                "text": "20. And it came to pass that I, Nephi, beheld that they did prosper in the land; and I beheld a book, and it was carried forth among them. 21. And the angel said unto me: Knowest thou the meaning of the book? 22. And I said unto him: I know not. 23. And he said: Behold it proceedeth out of the mouth of a Jew. And I, Nephi, beheld it; and he said unto me: The book that thou beholdest is a record of the Jews, which contains the covenants of the Lord, which he hath made unto the house of Israel; and it also containeth many of the prophecies of the holy prophets; and it is a record like unto the engravings which are upon the plates of brass, save there are not so many; nevertheless, they contain the covenants of the Lord, which he hath made unto the house of Israel; wherefore, they are of great worth unto the Gentiles. 24. And the angel of the Lord said unto me: Thou hast beheld that the book proceeded forth from the mouth of a Jew; and when it proceeded forth from the mouth of a Jew it contained the fulness of the gospel of the Lord, of whom the twelve apostles bear record; and they bear record according to the truth which is in the Lamb of God. 25. Wherefore, these things go forth from the Jews in purity unto the Gentiles, according to the truth which is in God. 26. And after they go forth by the hand of the twelve apostles of the Lamb, from the Jews unto the Gentiles, thou seest the formation of that great and abominable church, which is most abominable above all other churches; for behold, they have taken away from the gospel of the Lamb many parts which are plain and most precious; and also many covenants of the Lord have they taken away. 27. And all this have they done that they might pervert the right ways of the Lord, that they might blind the eyes and harden the hearts of the children of men. 28. Wherefore, thou seest that after the book hath gone forth through the hands of the great and abominable church, that there are many plain and precious things taken away from the book, which is the book of the Lamb of God. 29. And after these plain and precious things were taken away it goeth forth unto all the nations of the Gentiles; and after it goeth forth unto all the nations of the Gentiles, yea, even across the many waters which thou hast seen with the Gentiles which have gone forth out of captivity, thou seest—because of the many plain and precious things which have been taken out of the book, which were plain unto the understanding of the children of men, according to the plainness which is in the Lamb of God—because of these things which are taken away out of the gospel of the Lamb, an exceedingly great many do stumble, yea, insomuch that Satan hath great power over them. 40. And the angel spake unto me, saying: These last records, which thou hast seen among the Gentiles, shall establish the truth of the first, which are of the twelve apostles of the Lamb, and shall make known the plain and precious things which have been taken away from them; and shall make known to all kindreds, tongues, and people, that the Lamb of God is the Son of the Eternal Father, and the Savior of the world; and that all men must come unto him, or they cannot be saved."
+                "verse20": "20. And it came to pass that I, Nephi, beheld that they did prosper in the land; and I beheld a book, and it was carried forth among them.",
+
+                "verse21": "21. And the angel said unto me: Knowest thou the meaning of the book?",
+
+                "verse22": "22. And I said unto him: I know not.",
+
+                "verse23": "23. And he said: Behold it proceedeth out of the mouth of a Jew. And I, Nephi, beheld it; and he said unto me: The book that thou beholdest is a record of the Jews, which contains the covenants of the Lord, which he hath made unto the house of Israel; and it also containeth many of the prophecies of the holy prophets; and it is a record like unto the engravings which are upon the plates of brass, save there are not so many; nevertheless, they contain the covenants of the Lord, which he hath made unto the house of Israel; wherefore, they are of great worth unto the Gentiles.",
+
+                "verse24": "24. And the angel of the Lord said unto me: Thou hast beheld that the book proceeded forth from the mouth of a Jew; and when it proceeded forth from the mouth of a Jew it contained the fulness of the gospel of the Lord, of whom the twelve apostles bear record; and they bear record according to the truth which is in the Lamb of God.",
+
+                "verse25": "25. Wherefore, these things go forth from the Jews in purity unto the Gentiles, according to the truth which is in God.",
+
+                "verse26": "26. And after they go forth by the hand of the twelve apostles of the Lamb, from the Jews unto the Gentiles, thou seest the formation of that great and abominable church, which is most abominable above all other churches; for behold, they have taken away from the gospel of the Lamb many parts which are plain and most precious; and also many covenants of the Lord have they taken away.", 
+
+                "verse27": "27. And all this have they done that they might pervert the right ways of the Lord, that they might blind the eyes and harden the hearts of the children of men.",
+
+                "verse28": "28. Wherefore, thou seest that after the book hath gone forth through the hands of the great and abominable church, that there are many plain and precious things taken away from the book, which is the book of the Lamb of God.",
+
+                "verse29": "29. And after these plain and precious things were taken away it goeth forth unto all the nations of the Gentiles; and after it goeth forth unto all the nations of the Gentiles, yea, even across the many waters which thou hast seen with the Gentiles which have gone forth out of captivity, thou seest—because of the many plain and precious things which have been taken out of the book, which were plain unto the understanding of the children of men, according to the plainness which is in the Lamb of God—because of these things which are taken away out of the gospel of the Lamb, an exceedingly great many do stumble, yea, insomuch that Satan hath great power over them.",
+
+                'verse40": "40. And the angel spake unto me, saying: These last records, which thou hast seen among the Gentiles, shall establish the truth of the first, which are of the twelve apostles of the Lamb, and shall make known the plain and precious things which have been taken away from them; and shall make known to all kindreds, tongues, and people, that the Lamb of God is the Son of the Eternal Father, and the Savior of the world; and that all men must come unto him, or they cannot be saved."
             },
             {
                 "book": "1 Nephi",
                 "chapter": "19",
                 "verse": "23",
-                "text": "23. And I did read many things unto them which were written in the books of Moses; but that I might more fully persuade them to believe in the Lord their Redeemer I did read unto them that which was written by the prophet Isaiah; for I did liken all scriptures unto us, that it might be for our profit and learning."
+                "verse23": "23. And I did read many things unto them which were written in the books of Moses; but that I might more fully persuade them to believe in the Lord their Redeemer I did read unto them that which was written by the prophet Isaiah; for I did liken all scriptures unto us, that it might be for our profit and learning."
             },
             {
                 "book": "2 Nephi",
                 "chapter": "3",
                 "verse": "11-12",
-                "text": "11. But a seer will I raise up out of the fruit of thy loins; and unto him will I give power to bring forth my word unto the seed of thy loins—and not to the bringing forth my word only, saith the Lord, but to the convincing them of my word, which shall have already gone forth among them. 12. Wherefore, the fruit of thy loins shall write; and the fruit of the loins of Judah shall write; and that which shall be written by the fruit of thy loins, and also that which shall be written by the fruit of the loins of Judah, shall grow together, unto the confounding of false doctrines and laying down of contentions, and establishing peace among the fruit of thy loins, and bringing them to the knowledge of their fathers in the latter days, and also to the knowledge of my covenants, saith the Lord."
+                "verse11": "11. But a seer will I raise up out of the fruit of thy loins; and unto him will I give power to bring forth my word unto the seed of thy loins—and not to the bringing forth my word only, saith the Lord, but to the convincing them of my word, which shall have already gone forth among them.",
+
+                "verse12": "12. Wherefore, the fruit of thy loins shall write; and the fruit of the loins of Judah shall write; and that which shall be written by the fruit of thy loins, and also that which shall be written by the fruit of the loins of Judah, shall grow together, unto the confounding of false doctrines and laying down of contentions, and establishing peace among the fruit of thy loins, and bringing them to the knowledge of their fathers in the latter days, and also to the knowledge of my covenants, saith the Lord."
             },
             {
                 "book": "2 Nephi",
                 "chapter": "29",
                 "verse": "3-13",
-                "text": "3. And because my words shall hiss forth—many of the Gentiles shall say: A Bible! A Bible! We have got a Bible, and there cannot be any more Bible. 4. But thus saith the Lord God: O fools, they shall have a Bible; and it shall proceed forth from the Jews, mine ancient covenant people. And what thank they the Jews for the Bible which they receive from them? Yea, what do the Gentiles mean? Do they remember the travails, and the labors, and the pains of the Jews, and their diligence unto me, in bringing forth salvation unto the Gentiles? 5. O ye Gentiles, have ye remembered the Jews, mine ancient covenant people? Nay; but ye have cursed them, and have hated them, and have not sought to recover them. But behold, I will return all these things upon your own heads; for I the Lord have not forgotten my people. 6. Thou fool, that shall say: A Bible, we have got a Bible, and we need no more Bible. Have ye obtained a Bible save it were by the Jews? 7. Know ye not that there are more nations than one? Know ye not that I, the Lord your God, have created all men, and that I remember those who are upon the isles of the sea; and that I rule in the heavens above and in the earth beneath; and I bring forth my word unto the children of men, yea, even upon all the nations of the earth? 8. Wherefore murmur ye, because that ye shall receive more of my word? Know ye not that the testimony of two nations is a witness unto you that I am God, that I remember one nation like unto another? Wherefore, I speak the same words unto one nation like unto another. And when the two nations shall run together the testimony of the two nations shall run together also. 9. And I do this that I may prove unto many that I am the same yesterday, today, and forever; and that I speak forth my words according to mine own pleasure. And because that I have spoken one word ye need not suppose that I cannot speak another; for my work is not yet finished; neither shall it be until the end of man, neither from that time henceforth and forever. 10. Wherefore, because that ye have a Bible ye need not suppose that it contains all my words; neither need ye suppose that I have not caused more to be written. 11. For I command all men, both in the east and in the west, and in the north, and in the south, and in the islands of the sea, that they shall write the words which I speak unto them; for out of the books which shall be written I will judge the world, every man according to their works, according to that which is written. 12. For behold, I shall speak unto the Jews and they shall write it; and I shall also speak unto the Nephites and they shall write it; and I shall also speak unto the other tribes of the house of Israel, which I have led away, and they shall write it; and I shall also speak unto all nations of the earth and they shall write it. 13. And it shall come to pass that the Jews shall have the words of the Nephites, and the Nephites shall have the words of the Jews; and the Nephites and the Jews shall have the words of the lost tribes of Israel; and the lost tribes of Israel shall have the words of the Nephites and the Jews."
+                "verse3": "3. And because my words shall hiss forth—many of the Gentiles shall say: A Bible! A Bible! We have got a Bible, and there cannot be any more Bible.",
+
+                "verse4": "4. But thus saith the Lord God: O fools, they shall have a Bible; and it shall proceed forth from the Jews, mine ancient covenant people. And what thank they the Jews for the Bible which they receive from them? Yea, what do the Gentiles mean? Do they remember the travails, and the labors, and the pains of the Jews, and their diligence unto me, in bringing forth salvation unto the Gentiles?",
+
+                "verse5": "5. O ye Gentiles, have ye remembered the Jews, mine ancient covenant people? Nay; but ye have cursed them, and have hated them, and have not sought to recover them. But behold, I will return all these things upon your own heads; for I the Lord have not forgotten my people.",
+
+                "verse6": "6. Thou fool, that shall say: A Bible, we have got a Bible, and we need no more Bible. Have ye obtained a Bible save it were by the Jews?",
+
+                "verse7": "7. Know ye not that there are more nations than one? Know ye not that I, the Lord your God, have created all men, and that I remember those who are upon the isles of the sea; and that I rule in the heavens above and in the earth beneath; and I bring forth my word unto the children of men, yea, even upon all the nations of the earth?",
+
+                "verse8": "8. Wherefore murmur ye, because that ye shall receive more of my word? Know ye not that the testimony of two nations is a witness unto you that I am God, that I remember one nation like unto another? Wherefore, I speak the same words unto one nation like unto another. And when the two nations shall run together the testimony of the two nations shall run together also.",
+
+                "verse9": "9. And I do this that I may prove unto many that I am the same yesterday, today, and forever; and that I speak forth my words according to mine own pleasure. And because that I have spoken one word ye need not suppose that I cannot speak another; for my work is not yet finished; neither shall it be until the end of man, neither from that time henceforth and forever.",
+
+                "verse10": "10. Wherefore, because that ye have a Bible ye need not suppose that it contains all my words; neither need ye suppose that I have not caused more to be written.",
+
+                "verse11": "11. For I command all men, both in the east and in the west, and in the north, and in the south, and in the islands of the sea, that they shall write the words which I speak unto them; for out of the books which shall be written I will judge the world, every man according to their works, according to that which is written.",
+
+                "verse12": "12. For behold, I shall speak unto the Jews and they shall write it; and I shall also speak unto the Nephites and they shall write it; and I shall also speak unto the other tribes of the house of Israel, which I have led away, and they shall write it; and I shall also speak unto all nations of the earth and they shall write it.",
+
+                "verse13": "13. And it shall come to pass that the Jews shall have the words of the Nephites, and the Nephites shall have the words of the Jews; and the Nephites and the Jews shall have the words of the lost tribes of Israel; and the lost tribes of Israel shall have the words of the Nephites and the Jews."
             },
             {
                 "book": "Mormon",
                 "chapter": "7",
                 "verse": "8-9",
-                "text": "8. Therefore repent, and be baptized in the name of Jesus, and lay hold upon the gospel of Christ, which shall be set before you, not only in this record but also in the record which shall come unto the Gentiles from the Jews, which record shall come from the Gentiles unto you. 9. For behold, this is written for the intent that ye may believe that; and if ye believe that ye will believe this also; and if ye believe this ye will know concerning your fathers, and also the marvelous works which were wrought by the power of God among them."
+                "verse8": "8. Therefore repent, and be baptized in the name of Jesus, and lay hold upon the gospel of Christ, which shall be set before you, not only in this record but also in the record which shall come unto the Gentiles from the Jews, which record shall come from the Gentiles unto you.",
+
+                "verse9": "9. For behold, this is written for the intent that ye may believe that; and if ye believe that ye will believe this also; and if ye believe this ye will know concerning your fathers, and also the marvelous works which were wrought by the power of God among them."
             },
             {
                 "book": "Pearl of Great Price - Articles of Faith",
                 "chapter": "1",
                 "verse": "8",
-                "text": "8. We believe the Bible to be the word of God as far as it is translated correctly; we also believe the Book of Mormon to be the word of God."
+                "verse8": "8. We believe the Bible to be the word of God as far as it is translated correctly; we also believe the Book of Mormon to be the word of God."
             }
 
         ]
@@ -667,103 +847,233 @@
                 "book": "Genesis",
                 "chapter": "49",
                 "verse": "22-26",
-                "text": "22. Joseph is a fruitful bough, even a fruitful bough by a well; whose branches run over the wall: 23. The archers have sorely grieved him, and shot at him, and hated him: 24. But his bow abode in strength, and the arms of his hands were made strong by the hands of the mighty God of Jacob; (from thence is the shepherd, the stone of Israel:) 25. Even by the God of thy father, who shall help thee; and by the Almighty, who shall bless thee with blessings of heaven above, blessings of the deep that lieth under, blessings of the breasts, and of the womb: 26. The blessings of thy father have prevailed above the blessings of my progenitors unto the utmost bound of the everlasting hills: they shall be on the head of Joseph, and on the crown of the head of him that was separate from his brethren."
+                "verse22": "22. Joseph is a fruitful bough, even a fruitful bough by a well; whose branches run over the wall:",
+
+                "verse23": "23. The archers have sorely grieved him, and shot at him, and hated him:",
+
+                "verse24": "24. But his bow abode in strength, and the arms of his hands were made strong by the hands of the mighty God of Jacob; (from thence is the shepherd, the stone of Israel:)",
+
+                "verse25": "25. Even by the God of thy father, who shall help thee; and by the Almighty, who shall bless thee with blessings of heaven above, blessings of the deep that lieth under, blessings of the breasts, and of the womb:",
+
+                "verse26": "26. The blessings of thy father have prevailed above the blessings of my progenitors unto the utmost bound of the everlasting hills: they shall be on the head of Joseph, and on the crown of the head of him that was separate from his brethren."
             },
             {
                 "book": "Psalms",
                 "chapter": "85",
                 "verse": "11",
-                "text": "11. Truth shall spring out of the earth; and righteousness shall look down from heaven."
+                "verse11": "11. Truth shall spring out of the earth; and righteousness shall look down from heaven."
             },
             {
                 "book": "Isaiah",
                 "chapter": "29",
                 "verse": "4, 10-18",
-                "text": "4. And thou shalt be brought down, and shalt speak out of the ground, and thy speech shall be low out of the dust, and thy voice shall be, as of one that hath a familiar spirit, out of the ground, and thy speech shall whisper out of the dust. 10. For the Lord hath poured out upon you the spirit of deep sleep, and hath closed your eyes: the prophets and your rulers, the seers hath he covered. 11. And the vision of all is become unto you as the words of a book that is sealed, which men deliver to one that is learned, saying, Read this, I pray thee: and he saith, I cannot; for it is sealed: 12. And the book is delivered to him that is not learned, saying, Read this, I pray thee: and he saith, I am not learned. 13. ¶Wherefore the Lord said, Forasmuch as this people draw near me with their mouth, and with their lips do honour me, but have removed their heart far from me, and their fear toward me is taught by the precept of men: 14. Therefore, behold, I will proceed to do a marvellous work among this people, even a marvellous work and a wonder: for the wisdom of their wise men shall perish, and the understanding of their prudent men shall be hid. 15. Woe unto them that seek deep to hide their counsel from the Lord, and their works are in the dark, and they say, Who seeth us? and who knoweth us? 16. Surely your turning of things upside down shall be esteemed as the potter’s clay: for shall the work say of him that made it, He made me not? or shall the thing framed say of him that framed it, He had no understanding? 17. Is it not yet a very little while, and Lebanon shall be turned into a fruitful field, and the fruitful field shall be esteemed as a forest? 18. And in that day shall the deaf hear the words of the book, and the eyes of the blind shall see out of obscurity, and out of darkness."
+                "verse4": "4. And thou shalt be brought down, and shalt speak out of the ground, and thy speech shall be low out of the dust, and thy voice shall be, as of one that hath a familiar spirit, out of the ground, and thy speech shall whisper out of the dust.",
+
+                "verse10": "10. For the Lord hath poured out upon you the spirit of deep sleep, and hath closed your eyes: the prophets and your rulers, the seers hath he covered.",
+
+                "verse11": "11. And the vision of all is become unto you as the words of a book that is sealed, which men deliver to one that is learned, saying, Read this, I pray thee: and he saith, I cannot; for it is sealed:",
+
+                "verse12": "12. And the book is delivered to him that is not learned, saying, Read this, I pray thee: and he saith, I am not learned.",
+
+                "verse13": "13. Wherefore the Lord said, Forasmuch as this people draw near me with their mouth, and with their lips do honour me, but have removed their heart far from me, and their fear toward me is taught by the precept of men:",
+
+                "verse14": "14. Therefore, behold, I will proceed to do a marvellous work among this people, even a marvellous work and a wonder: for the wisdom of their wise men shall perish, and the understanding of their prudent men shall be hid.",
+
+                "verse15": "15. Woe unto them that seek deep to hide their counsel from the Lord, and their works are in the dark, and they say, Who seeth us? and who knoweth us?",
+
+                "verse16": "16. Surely your turning of things upside down shall be esteemed as the potter’s clay: for shall the work say of him that made it, He made me not? or shall the thing framed say of him that framed it, He had no understanding?",
+
+                "verse17": "17. Is it not yet a very little while, and Lebanon shall be turned into a fruitful field, and the fruitful field shall be esteemed as a forest?",
+
+                "verse18": "18. And in that day shall the deaf hear the words of the book, and the eyes of the blind shall see out of obscurity, and out of darkness."
             },
             {
                 "book": "Ezekiel",
                 "chapter": "37",
                 "verse": "15-20",
-                "text": "15. The word of the Lord came again unto me, saying, 16. Moreover, thou son of man, take thee one stick, and write upon it, For Judah, and for the children of Israel his companions: then take another stick, and write upon it, For Joseph, the stick of Ephraim, and for all the house of Israel his companions: 17. And join them one to another into one stick; and they shall become one in thine hand. 18. And when the children of thy people shall speak unto thee, saying, Wilt thou not shew us what thou meanest by these? 19. Say unto them, Thus saith the Lord God; Behold, I will take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel his fellows, and will put them with him, even with the stick of Judah, and make them one stick, and they shall be one in mine hand. 20. And the sticks whereon thou writest shall be in thine hand before their eyes."
+                "verse15": "15. The word of the Lord came again unto me, saying,",
+
+                "verse16": "16. Moreover, thou son of man, take thee one stick, and write upon it, For Judah, and for the children of Israel his companions: then take another stick, and write upon it, For Joseph, the stick of Ephraim, and for all the house of Israel his companions:",
+
+                "verse17": "17. And join them one to another into one stick; and they shall become one in thine hand.",
+
+                "verse18": "18. And when the children of thy people shall speak unto thee, saying, Wilt thou not shew us what thou meanest by these?",
+
+                "verse19": "19. Say unto them, Thus saith the Lord God; Behold, I will take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel his fellows, and will put them with him, even with the stick of Judah, and make them one stick, and they shall be one in mine hand.",
+
+                "verse20": "20. And the sticks whereon thou writest shall be in thine hand before their eyes."
             },
             {
                 "book": "John",
                 "chapter": "10",
                 "verse": "14-16",
-                "text": "14. I am the good shepherd, and know my sheep, and am known of mine. 15. As the Father knoweth me, even so know I the Father: and I lay down my life for the sheep. 16. And other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice; and there shall be one fold, and one shepherd."
+                "verse14": "14. I am the good shepherd, and know my sheep, and am known of mine.",
+
+                "verse15": "15. As the Father knoweth me, even so know I the Father: and I lay down my life for the sheep.",
+
+                "verse16": "16. And other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice; and there shall be one fold, and one shepherd."
             },
             {
                 "book": "2 Corinthians",
                 "chapter": "13",
                 "verse": "1",
-                "text": "1. This is the third time I am coming to you. In the mouth of two or three witnesses shall every word be established."
+                "verse1": "1. This is the third time I am coming to you. In the mouth of two or three witnesses shall every word be established."
             },
             {
                 "book": "Revelation",
                 "chapter": "14",
                 "verse": "6-7",
-                "text": "6. And I saw another angel fly in the midst of heaven, having the everlasting gospel to preach unto them that dwell on the earth, and to every nation, and kindred, and tongue, and people, 7. Saying with a loud voice, Fear God, and give glory to him; for the hour of his judgment is come: and worship him that made heaven, and earth, and the sea, and the fountains of waters."
+                "verse6": "6. And I saw another angel fly in the midst of heaven, having the everlasting gospel to preach unto them that dwell on the earth, and to every nation, and kindred, and tongue, and people,",
+
+                "verse7": "7. Saying with a loud voice, Fear God, and give glory to him; for the hour of his judgment is come: and worship him that made heaven, and earth, and the sea, and the fountains of waters."
             },
             {
                 "book": "1 Nephi",
                 "chapter": "13",
                 "verse": "39-41",
-                "text": "39. And after it had come forth unto them I beheld other books, which came forth by the power of the Lamb, from the Gentiles unto them, unto the convincing of the Gentiles and the remnant of the seed of my brethren, and also the Jews who were scattered upon all the face of the earth, that the records of the prophets and of the twelve apostles of the Lamb are true. 40. And the angel spake unto me, saying: These last records, which thou hast seen among the Gentiles, shall establish the truth of the first, which are of the twelve apostles of the Lamb, and shall make known the plain and precious things which have been taken away from them; and shall make known to all kindreds, tongues, and people, that the Lamb of God is the Son of the Eternal Father, and the Savior of the world; and that all men must come unto him, or they cannot be saved. 41. And they must come according to the words which shall be established by the mouth of the Lamb; and the words of the Lamb shall be made known in the records of thy seed, as well as in the records of the twelve apostles of the Lamb; wherefore they both shall be established in one; for there is one God and one Shepherd over all the earth."
+                "verse39": "39. And after it had come forth unto them I beheld other books, which came forth by the power of the Lamb, from the Gentiles unto them, unto the convincing of the Gentiles and the remnant of the seed of my brethren, and also the Jews who were scattered upon all the face of the earth, that the records of the prophets and of the twelve apostles of the Lamb are true.",
+
+                "verse40": "40. And the angel spake unto me, saying: These last records, which thou hast seen among the Gentiles, shall establish the truth of the first, which are of the twelve apostles of the Lamb, and shall make known the plain and precious things which have been taken away from them; and shall make known to all kindreds, tongues, and people, that the Lamb of God is the Son of the Eternal Father, and the Savior of the world; and that all men must come unto him, or they cannot be saved.",
+
+                "verse41": "41. And they must come according to the words which shall be established by the mouth of the Lamb; and the words of the Lamb shall be made known in the records of thy seed, as well as in the records of the twelve apostles of the Lamb; wherefore they both shall be established in one; for there is one God and one Shepherd over all the earth."
             },
             {
                 "book": "2 Nephi",
                 "chapter": "3",
                 "verse": "11-12",
-                "text": "11. But a seer will I raise up out of the fruit of thy loins; and unto him will I give power to bring forth my word unto the seed of thy loins—and not to the bringing forth my word only, saith the Lord, but to the convincing them of my word, which shall have already gone forth among them. 12. Wherefore, the fruit of thy loins shall write; and the fruit of the loins of Judah shall write; and that which shall be written by the fruit of thy loins, and also that which shall be written by the fruit of the loins of Judah, shall grow together, unto the confounding of false doctrines and laying down of contentions, and establishing peace among the fruit of thy loins, and bringing them to the knowledge of their fathers in the latter days, and also to the knowledge of my covenants, saith the Lord."
+                "verse11": "11. But a seer will I raise up out of the fruit of thy loins; and unto him will I give power to bring forth my word unto the seed of thy loins—and not to the bringing forth my word only, saith the Lord, but to the convincing them of my word, which shall have already gone forth among them.",
+
+                "verse12": "12. Wherefore, the fruit of thy loins shall write; and the fruit of the loins of Judah shall write; and that which shall be written by the fruit of thy loins, and also that which shall be written by the fruit of the loins of Judah, shall grow together, unto the confounding of false doctrines and laying down of contentions, and establishing peace among the fruit of thy loins, and bringing them to the knowledge of their fathers in the latter days, and also to the knowledge of my covenants, saith the Lord."
             },
             {
                 "book": "2 Nephi",
                 "chapter": "27",
                 "verse": "6-22",
-                "text": "6. And it shall come to pass that the Lord God shall bring forth unto you the words of a book, and they shall be the words of them which have slumbered. 7. And behold the book shall be sealed; and in the book shall be a revelation from God, from the beginning of the world to the ending thereof. 8. Wherefore, because of the things which are sealed up, the things which are sealed shall not be delivered in the day of the wickedness and abominations of the people. Wherefore the book shall be kept from them. 9. But the book shall be delivered unto a man, and he shall deliver the words of the book, which are the words of those who have slumbered in the dust, and he shall deliver these words unto another; 10. But the words which are sealed he shall not deliver, neither shall he deliver the book. For the book shall be sealed by the power of God, and the revelation which was sealed shall be kept in the book until the own due time of the Lord, that they may come forth; for behold, they reveal all things from the foundation of the world unto the end thereof. 11. And the day cometh that the words of the book which were sealed shall be read upon the house tops; and they shall be read by the power of Christ; and all things shall be revealed unto the children of men which ever have been among the children of men, and which ever will be even unto the end of the earth. 12. Wherefore, at that day when the book shall be delivered unto the man of whom I have spoken, the book shall be hid from the eyes of the world, that the eyes of none shall behold it save it be that three witnesses shall behold it, by the power of God, besides him to whom the book shall be delivered; and they shall testify to the truth of the book and the things therein. 13. And there is none other which shall view it, save it be a few according to the will of God, to bear testimony of his word unto the children of men; for the Lord God hath said that the words of the faithful should speak as if it were from the dead. 14.  Wherefore, the Lord God will proceed to bring forth the words of the book; and in the mouth of as many witnesses as seemeth him good will he establish his word; and wo be unto him that rejecteth the word of God! 15. But behold, it shall come to pass that the Lord God shall say unto him to whom he shall deliver the book: Take these words which are not sealed and deliver them to another, that he may show them unto the learned, saying: Read this, I pray thee. And the learned shall say: Bring hither the book, and I will read them. 16. And now, because of the glory of the world and to get gain will they say this, and not for the glory of God. 17. And the man shall say: I cannot bring the book, for it is sealed. 18. Then shall the learned say: I cannot read it. 19. Wherefore it shall come to pass, that the Lord God will deliver again the book and the words thereof to him that is not learned; and the man that is not learned shall say: I am not learned. 20. Then shall the Lord God say unto him: The learned shall not read them, for they have rejected them, and I am able to do mine own work; wherefore thou shalt read the words which I shall give unto thee. 21. Touch not the things which are sealed, for I will bring them forth in mine own due time; for I will show unto the children of men that I am able to do mine own work. 22. Wherefore, when thou hast read the words which I have commanded thee, and obtained the witnesses which I have promised unto thee, then shalt thou seal up the book again, and hide it up unto me, that I may preserve the words which thou hast not read, until I shall see fit in mine own wisdom to reveal all things unto the children of men."
+                "verse6": "6. And it shall come to pass that the Lord God shall bring forth unto you the words of a book, and they shall be the words of them which have slumbered.",
+
+                "verse7": "7. And behold the book shall be sealed; and in the book shall be a revelation from God, from the beginning of the world to the ending thereof.",
+
+                "verse8": "8. Wherefore, because of the things which are sealed up, the things which are sealed shall not be delivered in the day of the wickedness and abominations of the people. Wherefore the book shall be kept from them.",
+
+                "verse9": "9. But the book shall be delivered unto a man, and he shall deliver the words of the book, which are the words of those who have slumbered in the dust, and he shall deliver these words unto another;",
+
+                "verse10": "10. But the words which are sealed he shall not deliver, neither shall he deliver the book. For the book shall be sealed by the power of God, and the revelation which was sealed shall be kept in the book until the own due time of the Lord, that they may come forth; for behold, they reveal all things from the foundation of the world unto the end thereof.",
+
+                "verse11": "11. And the day cometh that the words of the book which were sealed shall be read upon the house tops; and they shall be read by the power of Christ; and all things shall be revealed unto the children of men which ever have been among the children of men, and which ever will be even unto the end of the earth.",
+
+                "verse12": "12. Wherefore, at that day when the book shall be delivered unto the man of whom I have spoken, the book shall be hid from the eyes of the world, that the eyes of none shall behold it save it be that three witnesses shall behold it, by the power of God, besides him to whom the book shall be delivered; and they shall testify to the truth of the book and the things therein.",
+
+                "verse13": "13. And there is none other which shall view it, save it be a few according to the will of God, to bear testimony of his word unto the children of men; for the Lord God hath said that the words of the faithful should speak as if it were from the dead.",
+
+                "verse14": "14.  Wherefore, the Lord God will proceed to bring forth the words of the book; and in the mouth of as many witnesses as seemeth him good will he establish his word; and wo be unto him that rejecteth the word of God!",
+
+                "verse15": "15. But behold, it shall come to pass that the Lord God shall say unto him to whom he shall deliver the book: Take these words which are not sealed and deliver them to another, that he may show them unto the learned, saying: Read this, I pray thee. And the learned shall say: Bring hither the book, and I will read them.",
+
+                "verse16": "16. And now, because of the glory of the world and to get gain will they say this, and not for the glory of God.",
+
+                "verse17": "17. And the man shall say: I cannot bring the book, for it is sealed.",
+
+                "verse18": "18. Then shall the learned say: I cannot read it.",
+
+                "verse19": "19. Wherefore it shall come to pass, that the Lord God will deliver again the book and the words thereof to him that is not learned; and the man that is not learned shall say: I am not learned.",
+
+                "verse20": "20. Then shall the Lord God say unto him: The learned shall not read them, for they have rejected them, and I am able to do mine own work; wherefore thou shalt read the words which I shall give unto thee.",
+
+                "verse21": "21. Touch not the things which are sealed, for I will bring them forth in mine own due time; for I will show unto the children of men that I am able to do mine own work.",
+
+                "verse22": "22. Wherefore, when thou hast read the words which I have commanded thee, and obtained the witnesses which I have promised unto thee, then shalt thou seal up the book again, and hide it up unto me, that I may preserve the words which thou hast not read, until I shall see fit in mine own wisdom to reveal all things unto the children of men."
             },
             {
                 "book": "2 Nephi",
                 "chapter": "29",
                 "verse": "6-9",
-                "text": "6. Thou fool, that shall say: A Bible, we have got a Bible, and we need no more Bible. Have ye obtained a Bible save it were by the Jews? 7. Know ye not that there are more nations than one? Know ye not that I, the Lord your God, have created all men, and that I remember those who are upon the isles of the sea; and that I rule in the heavens above and in the earth beneath; and I bring forth my word unto the children of men, yea, even upon all the nations of the earth? 8. Wherefore murmur ye, because that ye shall receive more of my word? Know ye not that the testimony of two nations is a witness unto you that I am God, that I remember one nation like unto another? Wherefore, I speak the same words unto one nation like unto another. And when the two nations shall run together the testimony of the two nations shall run together also. 9. And I do this that I may prove unto many that I am the same yesterday, today, and forever; and that I speak forth my words according to mine own pleasure. And because that I have spoken one word ye need not suppose that I cannot speak another; for my work is not yet finished; neither shall it be until the end of man, neither from that time henceforth and forever."
+                "verse6": "6. Thou fool, that shall say: A Bible, we have got a Bible, and we need no more Bible. Have ye obtained a Bible save it were by the Jews?",
+
+                "verse7": "7. Know ye not that there are more nations than one? Know ye not that I, the Lord your God, have created all men, and that I remember those who are upon the isles of the sea; and that I rule in the heavens above and in the earth beneath; and I bring forth my word unto the children of men, yea, even upon all the nations of the earth?",
+
+                "verse8": "8. Wherefore murmur ye, because that ye shall receive more of my word? Know ye not that the testimony of two nations is a witness unto you that I am God, that I remember one nation like unto another? Wherefore, I speak the same words unto one nation like unto another. And when the two nations shall run together the testimony of the two nations shall run together also.",
+
+                "verse9": "9. And I do this that I may prove unto many that I am the same yesterday, today, and forever; and that I speak forth my words according to mine own pleasure. And because that I have spoken one word ye need not suppose that I cannot speak another; for my work is not yet finished; neither shall it be until the end of man, neither from that time henceforth and forever."
             },
             {
                 "book": "3 Nephi",
                 "chapter": "15",
                 "verse": "16-17",
-                "text": "16. This much did the Father command me, that I should tell unto them: 17. That other sheep I have which are not of this fold; them also I must bring, and they shall hear my voice; and there shall be one fold, and one shepherd."
+                "verse16": "16. This much did the Father command me, that I should tell unto them:",
+
+                "verse17": "17. That other sheep I have which are not of this fold; them also I must bring, and they shall hear my voice; and there shall be one fold, and one shepherd."
             },
             {
                 "book": "3 Nephi",
                 "chapter": "26",
                 "verse": "6-12",
-                "text": "6. And now there cannot be written in this book even a hundredth part of the things which Jesus did truly teach unto the people; 7. But behold the plates of Nephi do contain the more part of the things which he taught the people. 8. And these things have I written, which are a lesser part of the things which he taught the people; and I have written them to the intent that they may be brought again unto this people, from the Gentiles, according to the words which Jesus hath spoken. 9. And when they shall have received this, which is expedient that they should have first, to try their faith, and if it shall so be that they shall believe these things then shall the greater things be made manifest unto them. 10. And if it so be that they will not believe these things, then shall the greater things be withheld from them, unto their condemnation. 11. Behold, I was about to write them, all which were engraven upon the plates of Nephi, but the Lord forbade it, saying: I will try the faith of my people. 12. Therefore I, Mormon, do write the things which have been commanded me of the Lord. And now I, Mormon, make an end of my sayings, and proceed to write the things which have been commanded me."
+                "verse6": "6. And now there cannot be written in this book even a hundredth part of the things which Jesus did truly teach unto the people;",
+
+                "verse7": "7. But behold the plates of Nephi do contain the more part of the things which he taught the people.",
+
+                "verse8": "8. And these things have I written, which are a lesser part of the things which he taught the people; and I have written them to the intent that they may be brought again unto this people, from the Gentiles, according to the words which Jesus hath spoken.",
+
+                "verse9": "9. And when they shall have received this, which is expedient that they should have first, to try their faith, and if it shall so be that they shall believe these things then shall the greater things be made manifest unto them.",
+
+                "verse10": "10. And if it so be that they will not believe these things, then shall the greater things be withheld from them, unto their condemnation.",
+
+                "verse11": "11. Behold, I was about to write them, all which were engraven upon the plates of Nephi, but the Lord forbade it, saying: I will try the faith of my people.",
+
+                "verse12": "12. Therefore I, Mormon, do write the things which have been commanded me of the Lord. And now I, Mormon, make an end of my sayings, and proceed to write the things which have been commanded me."
             },
             {
                 "book": "Moroni",
                 "chapter": "10",
                 "verse": "2-5",
-                "text": "2. And I seal up these records, after I have spoken a few words by way of exhortation unto you. 3. Behold, I would exhort you that when ye shall read these things, if it be wisdom in God that ye should read them, that ye would remember how merciful the Lord hath been unto the children of men, from the creation of Adam even down until the time that ye shall receive these things, and ponder it in your hearts. 4. And when ye shall receive these things, I would exhort you that ye would ask God, the Eternal Father, in the name of Christ, if these things are not true; and if ye shall ask with a sincere heart, with real intent, having faith in Christ, he will manifest the truth of it unto you, by the power of the Holy Ghost. 5. And by the power of the Holy Ghost ye may know the truth of all things."
+                "verse2": "2. And I seal up these records, after I have spoken a few words by way of exhortation unto you.",
+
+                "verse3": "3. Behold, I would exhort you that when ye shall read these things, if it be wisdom in God that ye should read them, that ye would remember how merciful the Lord hath been unto the children of men, from the creation of Adam even down until the time that ye shall receive these things, and ponder it in your hearts.",
+
+                "verse4": "4. And when ye shall receive these things, I would exhort you that ye would ask God, the Eternal Father, in the name of Christ, if these things are not true; and if ye shall ask with a sincere heart, with real intent, having faith in Christ, he will manifest the truth of it unto you, by the power of the Holy Ghost.",
+
+                "verse5": "5. And by the power of the Holy Ghost ye may know the truth of all things."
             },
             {
                 "book": "Doctrine and Covenants",
                 "chapter": "10",
                 "verse": "45-52",
-                "text": "45. Behold, there are many things engraven upon the plates of Nephi which do throw greater views upon my gospel; therefore, it is wisdom in me that you should translate this first part of the engravings of Nephi, and send forth in this work. 46. And, behold, all the remainder of this work does contain all those parts of my gospel which my holy prophets, yea, and also my disciples, desired in their prayers should come forth unto this people. 47. And I said unto them, that it should be granted unto them according to their faith in their prayers; 48. Yea, and this was their faith—that my gospel, which I gave unto them that they might preach in their days, might come unto their brethren the Lamanites, and also all that had become Lamanites because of their dissensions. 49. Now, this is not all—their faith in their prayers was that this gospel should be made known also, if it were possible that other nations should possess this land; 50. And thus they did leave a blessing upon this land in their prayers, that whosoever should believe in this gospel in this land might have eternal life; 51. Yea, that it might be free unto all of whatsoever nation, kindred, tongue, or people they may be. 52. And now, behold, according to their faith in their prayers will I bring this part of my gospel to the knowledge of my people. Behold, I do not bring it to destroy that which they have received, but to build it up."
+                "verse45": "45. Behold, there are many things engraven upon the plates of Nephi which do throw greater views upon my gospel; therefore, it is wisdom in me that you should translate this first part of the engravings of Nephi, and send forth in this work.",
+
+                "verse46": "46. And, behold, all the remainder of this work does contain all those parts of my gospel which my holy prophets, yea, and also my disciples, desired in their prayers should come forth unto this people.",
+
+                "verse47": "47. And I said unto them, that it should be granted unto them according to their faith in their prayers;",
+
+                "verse48": "48. Yea, and this was their faith—that my gospel, which I gave unto them that they might preach in their days, might come unto their brethren the Lamanites, and also all that had become Lamanites because of their dissensions.",
+
+                "verse49": "49. Now, this is not all—their faith in their prayers was that this gospel should be made known also, if it were possible that other nations should possess this land;",
+
+                "verse50": "50. And thus they did leave a blessing upon this land in their prayers, that whosoever should believe in this gospel in this land might have eternal life;",
+
+                "verse51": "51. Yea, that it might be free unto all of whatsoever nation, kindred, tongue, or people they may be.",
+
+                "verse52": "52. And now, behold, according to their faith in their prayers will I bring this part of my gospel to the knowledge of my people. Behold, I do not bring it to destroy that which they have received, but to build it up."
             },
             {
                 "book": "Doctrine and Covenants",
                 "chapter": "17",
                 "verse": "1, 6",
-                "text": "1. Behold, I say unto you, that you must rely upon my word, which if you do with full purpose of heart, you shall have a view of the plates, and also of the breastplate, the sword of Laban, the Urim and Thummim, which were given to the brother of Jared upon the mount, when he talked with the Lord face to face, and the miraculous directors which were given to Lehi while in the wilderness, on the borders of the Red Sea. 6. And he has translated the book, even that part which I have commanded him, and as your Lord and your God liveth it is true."
+                "verse1": "1. Behold, I say unto you, that you must rely upon my word, which if you do with full purpose of heart, you shall have a view of the plates, and also of the breastplate, the sword of Laban, the Urim and Thummim, which were given to the brother of Jared upon the mount, when he talked with the Lord face to face, and the miraculous directors which were given to Lehi while in the wilderness, on the borders of the Red Sea.",
+
+                "verse6": "6. And he has translated the book, even that part which I have commanded him, and as your Lord and your God liveth it is true."
             },
             {
                 "book": "Doctrine and Covenants",
                 "chapter": "20",
                 "verse": "8-12",
-                "text": "8. And gave him power from on high, by the means which were before prepared, to translate the Book of Mormon; 9. Which contains a record of a fallen people, and the fulness of the gospel of Jesus Christ to the Gentiles and to the Jews also; 10. Which was given by inspiration, and is confirmed to others by the ministering of angels, and is declared unto the world by them— 11. Proving to the world that the holy scriptures are true, and that God does inspire men and call them to his holy work in this age and generation, as well as in generations of old; 12. Thereby showing that he is the same God yesterday, today, and forever. Amen."
+                "verse8": "8. And gave him power from on high, by the means which were before prepared, to translate the Book of Mormon;",
+
+                "verse9": "9. Which contains a record of a fallen people, and the fulness of the gospel of Jesus Christ to the Gentiles and to the Jews also;",
+
+                "verse10": "10. Which was given by inspiration, and is confirmed to others by the ministering of angels, and is declared unto the world by them—",
+
+                "verse11": "11. Proving to the world that the holy scriptures are true, and that God does inspire men and call them to his holy work in this age and generation, as well as in generations of old;",
+
+                "verse12": "12. Thereby showing that he is the same God yesterday, today, and forever. Amen."
             },
             {
                 "book": "Pearl of Great Price - Joseph Smith History",
