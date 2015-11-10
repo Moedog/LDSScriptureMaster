@@ -4054,11 +4054,195 @@
         "topic": "Godhead",
         "references": [          
             {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
+                "book": "Genesis",
+                "chapter": "1",
+                "verse": "26-27",
+                "verse26": "26. And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.",
+
+                "verse27": "27. So God created man in his own image, in the image of God created he him; male and female created he them."
             },
+            {
+                "book": "Exodus",
+                "chapter": "33",
+                "verse": "11",
+                "verse11": "11. And the Lord spake unto Moses face to face, as a man speaketh unto his friend. And he turned again into the camp: but his servant Joshua, the son of Nun, a young man, departed not out of the tabernacle."
+            },
+            {
+                "book": "1 Samuel",
+                "chapter": "16",
+                "verse": "7",
+                "verse7": "7. But the Lord said unto Samuel, Look not on his countenance, or on the height of his stature; because I have refused him: for the Lord seeth not as man seeth; for man looketh on the outward appearance, but the Lord looketh on the heart."
+            },
+            {
+                "book": "Isaiah",
+                "chapter": "55",
+                "verse": "8-9",
+                "verse8": "8. For my thoughts are not your thoughts, neither are your ways my ways, saith the Lord.",
+
+                "verse9": "9. For as the heavens are higher than the earth, so are my ways higher than your ways, and my thoughts than your thoughts."
+            },
+            {
+                "book": "Matthew",
+                "chapter": "3",
+                "verse": "16-17",
+                "verse16": "16. And Jesus, when he was baptized, went up straightway out of the water: and, lo, the heavens were opened unto him, and he saw the Spirit of God descending like a dove, and lighting upon him:",
+
+                "verse17": "17. And lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased."
+            },
+            {
+                "book": "Matthew",
+                "chapter": "5",
+                "verse": "48",
+                "verse48": "48. Be ye therefore perfect, even as your Father which is in heaven is perfect."
+            },
+            {
+                "book": "Matthew",
+                "chapter": "17",
+                "verse": "5",
+                "verse5": "5. While he yet spake, behold, a bright cloud overshadowed them: and behold a voice out of the cloud, which said, This is my beloved Son, in whom I am well pleased; hear ye him."
+            },
+            {
+                "book": "Matthew",
+                "chapter": "22",
+                "verse": "37-39",
+                "verse37": "37. Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.",
+
+                "verse38": "38. This is the first and great commandment.",
+
+                "verse39": "39. And the second is like unto it, Thou shalt love thy neighbour as thyself."
+            },
+            {
+                "book": "Matthew",
+                "chapter": "26",
+                "verse": "39",
+                "verse39": "39. And he went a little further, and fell on his face, and prayed, saying, O my Father, if it be possible, let this cup pass from me: nevertheless not as I will, but as thou wilt."
+            },
+            {
+                "book": "John",
+                "chapter": "14",
+                "verse": "7-9",
+                "verse7": "7. If ye had known me, ye should have known my Father also: and from henceforth ye know him, and have seen him.",
+
+                "verse8": "8. Philip saith unto him, Lord, shew us the Father, and it sufficeth us.",
+
+                "verse9": "9. Jesus saith unto him, Have I been so long time with you, and yet hast thou not known me, Philip? he that hath seen me hath seen the Father; and how sayest thou then, Shew us the Father?"
+            },
+            {
+                "book": "John",
+                "chapter": "17",
+                "verse": "3, 20-23",
+                "verse3": "3. And this is life eternal, that they might know thee the only true God, and Jesus Christ, whom thou hast sent.",
+
+                "verse20": "20. Neither pray I for these alone, but for them also which shall believe on me through their word;",
+
+                "verse21": "21. That they all may be one; as thou, Father, art in me, and I in thee, that they also may be one in us: that the world may believe that thou hast sent me.",
+
+                "verse22": "22. And the glory which thou gavest me I have given them; that they may be one, even as we are one:",
+
+                "verse23": "23. I in them, and thou in me, that they may be made perfect in one; and that the world may know that thou hast sent me, and hast loved them, as thou hast loved me.
+            },
+            {
+                "book": "Acts",
+                "chapter": "7",
+                "verse": "55-56",
+                "verse55": "55. But he, being full of the Holy Ghost, looked up steadfastly into heaven, and saw the glory of God, and Jesus standing on the right hand of God,",
+
+                "verse56": "56. And said, Behold, I see the heavens opened, and the Son of man standing on the right hand of God."
+            },
+            {
+                "book": "Acts",
+                "chapter": "17",
+                "verse": "22-29",
+                "verse22": "22. Then Paul stood in the midst of Mars’ hill, and said, Ye men of Athens, I perceive that in all things ye are too superstitious.",
+
+                "verse23": "23. For as I passed by, and beheld your devotions, I found an altar with this inscription, TO THE UNKNOWN GOD. Whom therefore ye ignorantly worship, him declare I unto you.",
+
+                "verse24": "24. God that made the world and all things therein, seeing that he is Lord of heaven and earth, dwelleth not in temples made with hands;",
+
+                "verse25": "25. Neither is worshipped with men’s hands, as though he needed any thing, seeing he giveth to all life, and breath, and all things;",
+
+                "verse26": "26. And hath made of one blood all nations of men for to dwell on all the face of the earth, and hath determined the times before appointed, and the bounds of their habitation;",
+
+                "verse27": "27. That they should seek the Lord, if haply they might feel after him, and find him, though he be not far from every one of us:",
+
+                "verse28": "28. For in him we live, and move, and have our being; as certain also of your own poets have said, For we are also his offspring.",
+
+                "verse29": "29. Forasmuch then as we are the offspring of God, we ought not to think that the Godhead is like unto gold, or silver, or stone, graven by art and man’s device."
+            },
+            {
+                "book": "Romans",
+                "chapter": "8",
+                "verse": "16",
+                "verse16": "16. The Spirit itself beareth witness with our spirit, that we are the children of God:"
+            },
+            {
+                "book": "Hebrews",
+                "chapter": "1",
+                "verse": "1-2",
+                "verse1": "1. God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets,",
+
+                "verse2": "2. Hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, by whom also he made the worlds;",
+
+                "verse3": "3. Who being the brightness of his glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high;"
+            },
+            {
+                "book": "Mosiah",
+                "chapter": "4",
+                "verse": "9",
+                "verse9": "9. Believe in God; believe that he is, and that he created all things, both in heaven and in earth; believe that he has all wisdom, and all power, both in heaven and in earth; believe that man doth not comprehend all the things which the Lord can comprehend."
+            },
+            {
+                "book": "3 Nephi",
+                "chapter": "28",
+                "verse": "10-11",
+                "verse10": "10. And for this cause ye shall have fulness of joy; and ye shall sit down in the kingdom of my Father; yea, your joy shall be full, even as the Father hath given me fulness of joy; and ye shall be even as I am, and I am even as the Father; and the Father and I are one;",
+
+                "verse11": "11. And the Holy Ghost beareth record of the Father and me; and the Father giveth the Holy Ghost unto the children of men, because of me."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "76",
+                "verse": "23",
+                "verse23": "23. For we saw him, even on the right hand of God; and we heard the voice bearing record that he is the Only Begotten of the Father—"
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "130",
+                "verse": "22",
+                "verse22": "22. The Father has a body of flesh and bones as tangible as man’s; the Son also; but the Holy Ghost has not a body of flesh and bones, but is a personage of Spirit. Were it not so, the Holy Ghost could not dwell in us."
+            },
+            {
+                "book": "Pearl of Great Price - Moses",
+                "chapter": "1",
+                "verse": "11",
+                "verse11": 11. But now mine own eyes have beheld God; but not my natural, but my spiritual eyes, for my natural eyes could not have beheld; for I should have withered and died in his presence; but his glory was upon me; and I beheld his face, for I was transfigured before him."
+            },
+            {
+                "book": "Pearl of Great Price - Joseph Smith History",
+                "chapter": "1",
+                "verse": "15-19",
+                "verse15": "15. After I had retired to the place where I had previously designed to go, having looked around me, and finding myself alone, I kneeled down and began to offer up the desires of my heart to God. I had scarcely done so, when immediately I was seized upon by some power which entirely overcame me, and had such an astonishing influence over me as to bind my tongue so that I could not speak. Thick darkness gathered around me, and it seemed to me for a time as if I were doomed to sudden destruction.",
+
+                "verse16": "16. But, exerting all my powers to call upon God to deliver me out of the power of this enemy which had seized upon me, and at the very moment when I was ready to sink into despair and abandon myself to destruction—not to an imaginary ruin, but to the power of some actual being from the unseen world, who had such marvelous power as I had never before felt in any being—just at this moment of great alarm, I saw a pillar of light exactly over my head, above the brightness of the sun, which descended gradually until it fell upon me.",
+
+                "verse17": "17. It no sooner appeared than I found myself delivered from the enemy which held me bound. When the light rested upon me I saw two Personages, whose brightness and glory defy all description, standing above me in the air. One of them spake unto me, calling me by name and said, pointing to the other—This is My Beloved Son. Hear Him!",
+
+                "verse18": "18. My object in going to inquire of the Lord was to know which of all the sects was right, that I might know which to join. No sooner, therefore, did I get possession of myself, so as to be able to speak, than I asked the Personages who stood above me in the light, which of all the sects was right (for at this time it had never entered into my heart that all were wrong)—and which I should join.",
+
+                "verse19": "19. I was answered that I must join none of them, for they were all wrong; and the Personage who addressed me said that all their creeds were an abomination in his sight; that those professors were all corrupt; that: “they draw near to me with their lips, but their hearts are far from me, they teach for doctrines the commandments of men, having a form of godliness, but they deny the power thereof.”
+            },
+            {
+                "book": "Pearl of Great Price - Articles of Faith",
+                "chapter": "1",
+                "verse": "1",
+                "verse1": "1. We believe in God, the Eternal Father, and in His Son, Jesus Christ, and in the Holy Ghost."
+            }
+
+        ]
+        
+    {
+        "topic": "Holy Ghost",
+        "references": [        
             {
                 "book": "book",
                 "chapter": "7",
@@ -4083,54 +4267,9 @@
                 "verse": "1-2",
                 "text": ""
             },
-            {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
-            },
-            {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
-            },
-            {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
-            },
-            {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
-            },
-            {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
-            },
-            {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
-            },
-            {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
-            },
-            {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
-            },
+
+
+
 
         ]
         
