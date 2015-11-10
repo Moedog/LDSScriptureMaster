@@ -4244,10 +4244,154 @@
         "topic": "Holy Ghost",
         "references": [        
             {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
+                "book": "Matthew",
+                "chapter": "3",
+                "verse": "13-16",
+                "verse13": "13. Then cometh Jesus from Galilee to Jordan unto John, to be baptized of him.",
+
+                "verse14": "14. But John forbad him, saying, I have need to be baptized of thee, and comest thou to me?",
+
+                "verse15": "15. And Jesus answering said unto him, Suffer it to be so now: for thus it becometh us to fulfil all righteousness. Then he suffered him.",
+
+                "verse16": "16. And Jesus, when he was baptized, went up straightway out of the water: and, lo, the heavens were opened unto him, and he saw the Spirit of God descending like a dove, and lighting upon him:"
+            },
+            {
+                "book": "John",
+                "chapter": "3",
+                "verse": "3-8",
+                "verse3": "3. Jesus answered and said unto him, Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God.",
+
+                "verse4": "4. Nicodemus saith unto him, How can a man be born when he is old? can he enter the second time into his mother’s womb, and be born?",
+
+                "verse5": "5. Jesus answered, Verily, verily, I say unto thee, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God.",
+
+                "verse6": "6. That which is born of the flesh is flesh; and that which is born of the Spirit is spirit.",
+
+                "verse7": "7. Marvel not that I said unto thee, Ye must be born again.",
+
+                "verse8": "8. The wind bloweth where it listeth, and thou hearest the sound thereof, but canst not tell whence it cometh, and whither it goeth: so is every one that is born of the Spirit."
+            },
+            {
+                "book": "John",
+                "chapter": "14",
+                "verse": "6, 14, 26",
+                "verse6": "6. Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.",
+
+                "verse14": "14. If ye shall ask any thing in my name, I will do it.",
+
+                "verse26": "26. But the Comforter, which is the Holy Ghost, whom the Father will send in my name, he shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you."
+            },
+            {
+                "book": "John",
+                "chapter": "16",
+                "verse": "1-14",
+                "verse1": "1. These things have I spoken unto you, that ye should not be offended.",
+
+                "verse2": "2. They shall put you out of the synagogues: yea, the time cometh, that whosoever killeth you will think that he doeth God service.",
+
+                "verse3": "3. And these things will they do unto you, because they have not known the Father, nor me.",
+
+                "verse4": "4. But these things have I told you, that when the time shall come, ye may remember that I told you of them. And these things I said not unto you at the beginning, because I was with you.",
+
+                "verse5": "5. But now I go my way to him that sent me; and none of you asketh me, Whither goest thou?",
+
+                "verse6": "6. But because I have said these things unto you, sorrow hath filled your heart.",
+
+                "verse7": "7. Nevertheless I tell you the truth; It is expedient for you that I go away: for if I go not away, the Comforter will not come unto you; but if I depart, I will send him unto you.",
+
+                "verse8": "8. And when he is come, he will reprove the world of sin, and of righteousness, and of judgment:",
+
+                "verse9": "9. Of sin, because they believe not on me;",
+
+                "verse10": "10. Of righteousness, because I go to my Father, and ye see me no more;",
+
+                "verse11": "11. Of judgment, because the prince of this world is judged.",
+
+                "verse12": "12. I have yet many things to say unto you, but ye cannot bear them now.",
+
+                "verse13": "13. Howbeit when he, the Spirit of truth, is come, he will guide you into all truth: for he shall not speak of himself; but whatsoever he shall hear, that shall he speak: and he will shew you things to come.",
+
+                "verse14": "14. He shall glorify me: for he shall receive of mine, and shall shew it unto you."
+            },
+            {
+                "book": "Acts",
+                "chapter": "2",
+                "verse": "1-4",
+                "verse1": "1. And when the day of Pentecost was fully come, they were all with one accord in one place.",
+
+                "verse2": "2. And suddenly there came a sound from heaven as of a rushing mighty wind, and it filled all the house where they were sitting.",
+
+                "verse3": "3. And there appeared unto them cloven tongues like as of fire, and it sat upon each of them.",
+
+                "verse4": "4. And they were all filled with the Holy Ghost, and began to speak with other tongues, as the Spirit gave them utterance."
+            },
+            {
+                "book": "Acts",
+                "chapter": "8",
+                "verse": "9-20",
+                "verse9": "9. But there was a certain man, called Simon, which beforetime in the same city used sorcery, and bewitched the people of Samaria, giving out that himself was some great one:",
+
+                "verse10": "10. To whom they all gave heed, from the least to the greatest, saying, This man is the great power of God.",
+
+                "verse11": "11. And to him they had regard, because that of long time he had bewitched them with sorceries.",
+
+                "verse12": "12. But when they believed Philip preaching the things concerning the kingdom of God, and the name of Jesus Christ, they were baptized, both men and women.",
+
+                "verse13": "13. Then Simon himself believed also: and when he was baptized, he continued with Philip, and wondered, beholding the miracles and signs which were done.",
+
+                "verse14": "14. Now when the apostles which were at Jerusalem heard that Samaria had received the word of God, they sent unto them Peter and John:",
+
+                "verse15": "15. Who, when they were come down, prayed for them, that they might receive the Holy Ghost:",
+
+                "verse16": "16. (For as yet he was fallen upon none of them: only they were baptized in the name of the Lord Jesus.)",
+
+                "verse17": "17. Then laid they their hands on them, and they received the Holy Ghost.",
+
+                "verse18": "18. And when Simon saw that through laying on of the apostles’ hands the Holy Ghost was given, he offered them money,",
+
+                "verse19": "19. Saying, Give me also this power, that on whomsoever I lay hands, he may receive the Holy Ghost.",
+
+                "verse20": "20. But Peter said unto him, Thy money perish with thee, because thou hast thought that the gift of God may be purchased with money."
+            },
+            {
+                "book": "Acts",
+                "chapter": "19",
+                "verse": "1-7",
+                "verse1": "1. And it came to pass, that, while Apollos was at Corinth, Paul having passed through the upper coasts came to Ephesus: and finding certain disciples,",
+
+                "verse2": "2. He said unto them, Have ye received the Holy Ghost since ye believed? And they said unto him, We have not so much as heard whether there be any Holy Ghost.",
+
+                "verse3": "3. And he said unto them, Unto what then were ye baptized? And they said, Unto John’s baptism.",
+
+                "verse4": "4. Then said Paul, John verily baptized with the baptism of repentance, saying unto the people, that they should believe on him which should come after him, that is, on Christ Jesus.",
+
+                "verse5": "5. When they heard this, they were baptized in the name of the Lord Jesus.", 
+
+                "verse6": "6. And when Paul had laid his hands upon them, the Holy Ghost came on them; and they spake with tongues, and prophesied.",
+
+                "verse7": "7. And all the men were about twelve."
+            },
+            {
+                "book": "1 Corinthians",
+                "chapter": "2",
+                "verse": "9-14",
+                "verse9": "9. But as it is written, Eye hath not seen, nor ear heard, neither have entered into the heart of man, the things which God hath prepared for them that love him.",
+
+                "verse10": "10. But God hath revealed them unto us by his Spirit: for the Spirit searcheth all things, yea, the deep things of God.",
+
+                "verse11": "11. For what man knoweth the things of a man, save the spirit of man which is in him? even so the things of God knoweth no man, but the Spirit of God.",
+
+                "verse12": "12. Now we have received, not the spirit of the world, but the spirit which is of God; that we might know the things that are freely given to us of God.",
+
+                "verse13": "13. Which things also we speak, not in the words which man’s wisdom teacheth, but which the Holy Ghost teacheth; comparing spiritual things with spiritual.",
+
+                "verse14": "14. But the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned."
+            },
+            {
+                "book": "2 Peter",
+                "chapter": "1",
+                "verse": "21",
+                "verse21": "21. For the prophecy came not in old time by the will of man: but holy men of God spake as they were moved by the Holy Ghost."
             },
             {
                 "book": "book",
