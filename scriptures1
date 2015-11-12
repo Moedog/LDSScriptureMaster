@@ -4722,45 +4722,393 @@
         "topic": "Jesus Christ",
         "references": [        
             {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
+                "book": "Exodus",
+                "chapter": "3",
+                "verse": "13-16",
+                "verse13": "13. And Moses said unto God, Behold, when I come unto the children of Israel, and shall say unto them, The God of your fathers hath sent me unto you; and they shall say to me, What is his name? what shall I say unto them?",
+
+                "verse14": "14. And God said unto Moses, I AM THAT I AM: and he said, Thus shalt thou say unto the children of Israel, I AM hath sent me unto you.",
+
+                "verse15": "15. And God said moreover unto Moses, Thus shalt thou say unto the children of Israel, The Lord God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath sent me unto you: this is my name for ever, and this is my memorial unto all generations.",
+
+                "verse16": "16. Go, and gather the elders of Israel together, and say unto them, The Lord God of your fathers, the God of Abraham, of Isaac, and of Jacob, appeared unto me, saying, I have surely visited you, and seen that which is done to you in Egypt:"
             },
             {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
+                "book": "Exodus",
+                "chapter": "6",
+                "verse": "2-4",
+                "verse2": "2. And God spake unto Moses, and said unto him, I am the Lord:",
+
+                "verse3": "3. And I appeared unto Abraham, unto Isaac, and unto Jacob, by the name of God Almighty, but by my name JEHOVAH was I not known to them.",
+
+                "verse4": "4. And I have also established my covenant with them, to give them the land of Canaan, the land of their pilgrimage, wherein they were strangers."
             },
             {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
+                "book": "Nehemiah",
+                "chapter": "9",
+                "verse": "6",
+                "verse6": "6. Thou, even thou, art Lord alone; thou hast made heaven, the heaven of heavens, with all their host, the earth, and all things that are therein, the seas, and all that is therein, and thou preservest them all; and the host of heaven worshippeth thee."
             },
             {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
+                "book": "Isaiah",
+                "chapter": "9",
+                "verse": "6",
+                "verse6": "6. For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace."
             },
             {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
+                "book": "Matthew",
+                "chapter": "16",
+                "verse": "15-19",
+                "verse15": "15. He saith unto them, But whom say ye that I am?",
+
+                "verse16": "16. And Simon Peter answered and said, Thou art the Christ, the Son of the living God.",
+
+                "verse17": "17. And Jesus answered and said unto him, Blessed art thou, Simon Bar-jona: for flesh and blood hath not revealed it unto thee, but my Father which is in heaven.",
+
+                "verse18": "18. And I say also unto thee, That thou art Peter, and upon this rock I will build my church; and the gates of hell shall not prevail against it.",
+
+                "verse19": "19. And I will give unto thee the keys of the kingdom of heaven: and whatsoever thou shalt bind on earth shall be bound in heaven: and whatsoever thou shalt loose on earth shall be loosed in heaven."
             },
             {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
+                "book": "Luke",
+                "chapter": "1",
+                "verse": "26-56",
+                "verse": "26. And in the sixth month the angel Gabriel was sent from God unto a city of Galilee, named Nazareth,",
+
+                "verse27": "27. To a virgin espoused to a man whose name was Joseph, of the house of David; and the virgin’s name was Mary.",
+
+                "verse28": "28. And the angel came in unto her, and said, Hail, thou that art highly favoured, the Lord is with thee: blessed art thou among women.",
+
+                "verse29": "29. And when she saw him, she was troubled at his saying, and cast in her mind what manner of salutation this should be.",
+
+                "verse30": "30. And the angel said unto her, Fear not, Mary: for thou hast found favour with God.",
+
+                "verse31": "31. And, behold, thou shalt conceive in thy womb, and bring forth a son, and shalt call his name JESUS.",
+
+                "verse32": "32. He shall be great, and shall be called the Son of the Highest: and the Lord God shall give unto him the throne of his father David:",
+
+                "verse33": "33. And he shall reign over the house of Jacob for ever; and of his kingdom there shall be no end.",
+
+                "verse34": "34. Then said Mary unto the angel, How shall this be, seeing I know not a man?",
+
+                "verse35": "35. And the angel answered and said unto her, The Holy Ghost shall come upon thee, and the power of the Highest shall overshadow thee: therefore also that holy thing which shall be born of thee shall be called the Son of God.",
+
+                "verse36": "36. And, behold, thy cousin Elisabeth, she hath also conceived a son in her old age: and this is the sixth month with her, who was called barren.",
+
+                "verse37": "37. For with God nothing shall be impossible.",
+
+                "verse38": "38. And Mary said, Behold the handmaid of the Lord; be it unto me according to thy word. And the angel departed from her.",
+
+                "verse39": "39. And Mary arose in those days, and went into the hill country with haste, into a city of Juda;",
+
+                "verse40": "40. And entered into the house of Zacharias, and saluted Elisabeth.",
+
+                "verse41": "41. And it came to pass, that, when Elisabeth heard the salutation of Mary, the babe leaped in her womb; and Elisabeth was filled with the Holy Ghost:",
+
+                "verse42": "42. And she spake out with a loud voice, and said, Blessed art thou among women, and blessed is the fruit of thy womb.",
+
+                "verse43": "43. And whence is this to me, that the mother of my Lord should come to me?",
+
+                "verse44": "44. For, lo, as soon as the voice of thy salutation sounded in mine ears, the babe leaped in my womb for joy.",
+
+                "verse45": "45. And blessed is she that believed: for there shall be a performance of those things which were told her from the Lord.",
+
+                "verse46": "46. And Mary said, My soul doth magnify the Lord,",
+
+                "verse47": "47. And my spirit hath rejoiced in God my Saviour.",
+
+                "verse48": "48. For he hath regarded the low estate of his handmaiden: for, behold, from henceforth all generations shall call me blessed.",
+
+                "verse49": "49. For he that is mighty hath done to me great things; and holy is his name.",
+
+                "verse50": "50. And his mercy is on them that fear him from generation to generation.",
+
+                "verse51": "51. He hath shewed strength with his arm; he hath scattered the proud in the imagination of their hearts.",
+
+                "verse52": "52. He hath put down the mighty from their seats, and exalted them of low degree.",
+
+                "verse53": "53. He hath filled the hungry with good things; and the rich he hath sent empty away.",
+
+                "verse54": "54. He hath holpen his servant Israel, in remembrance of his mercy;",
+
+                "verse55": "55. As he spake to our fathers, to Abraham, and to his seed for ever.",
+
+                "verse56": "56. And Mary abode with her about three months, and returned to her own house."
             },
             {
-                "book": "book",
+                "book": "Luke",
+                "chapter": "2",
+                "verse": "1-52",
+                "verse1": "1. And it came to pass in those days, that there went out a decree from Cæsar Augustus, that all the world should be taxed.",
+
+                "verse2": "2. (And this taxing was first made when Cyrenius was governor of Syria.)",
+
+                "verse3": "3. And all went to be taxed, every one into his own city.",
+
+                "verse4": "4. And Joseph also went up from Galilee, out of the city of Nazareth, into Judæa, unto the city of David, which is called Bethlehem; (because he was of the house and lineage of David:)",
+
+                "verse5": "5. To be taxed with Mary his espoused wife, being great with child.",
+
+                "verse6": "6. And so it was, that, while they were there, the days were accomplished that she should be delivered.",
+
+                "verse7": "7. And she brought forth her firstborn son, and wrapped him in swaddling clothes, and laid him in a manger; because there was no room for them in the inn.",
+
+                "verse8": "8. And there were in the same country shepherds abiding in the field, keeping watch over their flock by night.",
+
+                "verse9": "9. And, lo, the angel of the Lord came upon them, and the glory of the Lord shone round about them: and they were sore afraid.",
+
+                "verse10": "10. And the angel said unto them, Fear not: for, behold, I bring you good tidings of great joy, which shall be to all people.",
+
+                "verse11": "11. For unto you is born this day in the city of David a Saviour, which is Christ the Lord.",
+
+                "verse12": "12. And this shall be a sign unto you; Ye shall find the babe wrapped in swaddling clothes, lying in a manger.",
+
+                "verse13": "13. And suddenly there was with the angel a multitude of the heavenly host praising God, and saying,",
+
+                "verse14": "14. Glory to God in the highest, and on earth peace, good will toward men.",
+
+                "verse15": "15. And it came to pass, as the angels were gone away from them into heaven, the shepherds said one to another, Let us now go even unto Bethlehem, and see this thing which is come to pass, which the Lord hath made known unto us.",
+
+                "verse16": "16. And they came with haste, and found Mary, and Joseph, and the babe lying in a manger.",
+
+                "verse17": "17. And when they had seen it, they made known abroad the saying which was told them concerning this child.",
+
+                "verse18": "18. And all they that heard it wondered at those things which were told them by the shepherds.",
+
+                "verse19": "19. But Mary kept all these things, and pondered them in her heart.",
+
+                "verse20": "20. And the shepherds returned, glorifying and praising God for all the things that they had heard and seen, as it was told unto them.",
+
+                "verse21": "21. And when eight days were accomplished for the circumcising of the child, his name was called JESUS, which was so named of the angel before he was conceived in the womb.",
+
+                "verse22": "22. And when the days of her purification according to the law of Moses were accomplished, they brought him to Jerusalem, to present him to the Lord;",
+
+                "verse23": "23. (As it is written in the law of the Lord, Every male that openeth the womb shall be called holy to the Lord;)",
+
+                "verse24": "24. And to offer a sacrifice according to that which is said in the law of the Lord, A pair of turtledoves, or two young pigeons.",
+
+                "verse25": "25. And, behold, there was a man in Jerusalem, whose name was Simeon; and the same man was just and devout, waiting for the consolation of Israel: and the Holy Ghost was upon him.",
+
+                "verse26": "26. And it was revealed unto him by the Holy Ghost, that he should not see death, before he had seen the Lord’s Christ.",
+
+                "verse27": "27. And he came by the Spirit into the temple: and when the parents brought in the child Jesus, to do for him after the custom of the law,",
+
+                "verse28": "28. Then took he him up in his arms, and blessed God, and said,",
+
+                "verse29": "29. Lord, now lettest thou thy servant depart in peace, according to thy word:",
+
+                "verse30": "30. For mine eyes have seen thy salvation,",
+
+                "verse31": "31. Which thou hast prepared before the face of all people;",
+
+                "verse32": "32. A light to lighten the Gentiles, and the glory of thy people Israel.",
+
+                "verse33": "33. And Joseph and his mother marvelled at those things which were spoken of him.",
+
+                "verse34": "34. And Simeon blessed them, and said unto Mary his mother, Behold, this child is set for the fall and rising again of many in Israel; and for a sign which shall be spoken against;",
+
+                "verse35": "35. (Yea, a sword shall pierce through thy own soul also,) that the thoughts of many hearts may be revealed.",
+
+                "verse36": "36. And there was one Anna, a prophetess, the daughter of Phanuel, of the tribe of Aser: she was of a great age, and had lived with an husband seven years from her virginity;",
+
+                "verse37": "37. And she was a widow of about fourscore and four years, which departed not from the temple, but served God with fastings and prayers night and day.",
+
+                "verse38": "38. And she coming in that instant gave thanks likewise unto the Lord, and spake of him to all them that looked for redemption in Jerusalem.",
+
+                "verse39": "39. And when they had performed all things according to the law of the Lord, they returned into Galilee, to their own city Nazareth.",
+
+                "verse40": "40. And the child grew, and waxed strong in spirit, filled with wisdom: and the grace of God was upon him.",
+
+                "verse41": "41. Now his parents went to Jerusalem every year at the feast of the passover.",
+
+                "verse42": "42. And when he was twelve years old, they went up to Jerusalem after the custom of the feast.",
+
+                "verse43": "43. And when they had fulfilled the days, as they returned, the child Jesus tarried behind in Jerusalem; and Joseph and his mother knew not of it.",
+
+                "verse44": "44. But they, supposing him to have been in the company, went a day’s journey; and they sought him among their kinsfolk and acquaintance.",
+
+                "verse45": "45. And when they found him not, they turned back again to Jerusalem, seeking him.",
+
+                "verse46": "46. And it came to pass, that after three days they found him in the temple, sitting in the midst of the doctors, both hearing them, and asking them questions.",
+
+                "verse47": "47. And all that heard him were astonished at his understanding and answers.",
+
+                "verse48": "48. And when they saw him, they were amazed: and his mother said unto him, Son, why hast thou thus dealt with us? behold, thy father and I have sought thee sorrowing.",
+
+                "verse49": "49. And he said unto them, How is it that ye sought me? wist ye not that I must be about my Father’s business?",
+
+                "verse50": "50. And they understood not the saying which he spake unto them.",
+
+                "verse51": "51. And he went down with them, and came to Nazareth, and was subject unto them: but his mother kept all these sayings in her heart.",
+
+                "verse52": "52. And Jesus increased in wisdom and stature, and in favour with God and man."
+            },
+            {
+                "book": "John",
+                "chapter": "1",
+                "verse": "1-14",
+                "verse1": "1. In the beginning was the Word, and the Word was with God, and the Word was God.",
+
+                "verse2": "2. The same was in the beginning with God.",
+
+                "verse3": "3. All things were made by him; and without him was not any thing made that was made.",
+
+                "verse4": "4. In him was life; and the life was the light of men.",
+
+                "verse5": "5. And the light shineth in darkness; and the darkness comprehended it not.",
+
+                "verse6": "6. There was a man sent from God, whose name was John.",
+
+                "verse7": "7. The same came for a witness, to bear witness of the Light, that all men through him might believe.",
+
+                "verse8": "8. He was not that Light, but was sent to bear witness of that Light.",
+
+                "verse9": "9. That was the true Light, which lighteth every man that cometh into the world.",
+
+                "verse10": "10. He was in the world, and the world was made by him, and the world knew him not.",
+
+                "verse11": "11. He came unto his own, and his own received him not.",
+
+                "verse12": "12. But as many as received him, to them gave he power to become the sons of God, even to them that believe on his name:",
+
+                "verse13": "13. Which were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.",
+
+                "verse14": "14. And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth."
+            },
+            {
+                "book": "John",
+                "chapter": "3",
+                "verse": "16-17",
+                "verse16": "16. For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.",
+
+                "verse17": "17. For God sent not his Son into the world to condemn the world; but that the world through him might be saved."
+            },
+            {
+                "book": "John",
+                "chapter": "5",
+                "verse": "22-24, 30",
+                "verse22": "22. For the Father judgeth no man, but hath committed all judgment unto the Son:",
+
+                "verse23": "23. That all men should honour the Son, even as they honour the Father. He that honoureth not the Son honoureth not the Father which hath sent him.",
+
+                "verse24": "24. Verily, verily, I say unto you, He that heareth my word, and believeth on him that sent me, hath everlasting life, and shall not come into condemnation; but is passed from death unto life.",
+
+                "verse30": "30. I can of mine own self do nothing: as I hear, I judge: and my judgment is just; because I seek not mine own will, but the will of the Father which hath sent me."
+            },
+            {
+                "book": "John",
                 "chapter": "7",
-                "verse": "1-2",
+                "verse": "17",
+                "verse17": "17. If any man will do his will, he shall know of the doctrine, whether it be of God, or whether I speak of myself."
+            },
+            {
+                "book": "John",
+                "chapter": "8",
+                "verse": "51-58",
+                "verse51": "51. Verily, verily, I say unto you, If a man keep my saying, he shall never see death.",
+
+                "verse52": "52. Then said the Jews unto him, Now we know that thou hast a devil. Abraham is dead, and the prophets; and thou sayest, If a man keep my saying, he shall never taste of death.",
+
+                "verse53": "53. Art thou greater than our father Abraham, which is dead? and the prophets are dead: whom makest thou thyself?",
+
+                "verse54": "54. Jesus answered, If I honour myself, my honour is nothing: it is my Father that honoureth me; of whom ye say, that he is your God:",
+
+                "verse55": "55. Yet ye have not known him; but I know him: and if I should say, I know him not, I shall be a liar like unto you: but I know him, and keep his saying.",
+
+                "verse56": "56. Your father Abraham rejoiced to see my day: and he saw it, and was glad.",
+
+                "verse57": "57. Then said the Jews unto him, Thou art not yet fifty years old, and hast thou seen Abraham?",
+
+                "verse58": "58. Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am."
+            },
+            {
+                "book": "John",
+                "chapter": "10",
+                "verse": "11-18",
+                "verse11": "11. I am the good shepherd: the good shepherd giveth his life for the sheep.",
+
+                "verse12": "12. But he that is an hireling, and not the shepherd, whose own the sheep are not, seeth the wolf coming, and leaveth the sheep, and fleeth: and the wolf catcheth them, and scattereth the sheep.",
+
+                "verse13": "13. The hireling fleeth, because he is an hireling, and careth not for the sheep.",
+
+                "verse14": "14. I am the good shepherd, and know my sheep, and am known of mine.",
+
+                "verse15": "15. As the Father knoweth me, even so know I the Father: and I lay down my life for the sheep.",
+
+                "verse16": "16. And other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice; and there shall be one fold, and one shepherd.",
+
+                "verse17": "17. Therefore doth my Father love me, because I lay down my life, that I might take it again.",
+
+                "verse18": "18. No man taketh it from me, but I lay it down of myself. I have power to lay it down, and I have power to take it again. This commandment have I received of my Father."
+            },
+            {
+                "book": "John",
+                "chapter": "13",
+                "verse": "34-35",
+                "verse34": "34. A new commandment I give unto you, That ye love one another; as I have loved you, that ye also love one another.",
+
+                "verse35": "35. By this shall all men know that ye are my disciples, if ye have love one to another."
+            },
+            {
+                "book": "John",
+                "chapter": "17",
+                "verse": "1-26",
+                "verse1": "1. These words spake Jesus, and lifted up his eyes to heaven, and said, Father, the hour is come; glorify thy Son, that thy Son also may glorify thee:",
+
+                "verse2": "2. As thou hast given him power over all flesh, that he should give eternal life to as many as thou hast given him.",
+
+                "verse3": "3. And this is life eternal, that they might know thee the only true God, and Jesus Christ, whom thou hast sent.",
+
+                "verse4": "4. I have glorified thee on the earth: I have finished the work which thou gavest me to do.",
+
+                "verse5": "5. And now, O Father, glorify thou me with thine own self with the glory which I had with thee before the world was.", 
+
+                "verse6": "6. I have manifested thy name unto the men which thou gavest me out of the world: thine they were, and thou gavest them me; and they have kept thy word.",
+
+                "verse7": "7. Now they have known that all things whatsoever thou hast given me are of thee.",
+
+                "verse8": "8. For I have given unto them the words which thou gavest me; and they have received them, and have known surely that I came out from thee, and they have believed that thou didst send me.",
+
+                "verse9": "9. I pray for them: I pray not for the world, but for them which thou hast given me; for they are thine.",
+
+                "verse10": "10. And all mine are thine, and thine are mine; and I am glorified in them.",
+
+                "verse11": "11. And now I am no more in the world, but these are in the world, and I come to thee. Holy Father, keep through thine own name those whom thou hast given me, that they may be one, as we are.",
+
+                "verse12": "12. While I was with them in the world, I kept them in thy name: those that thou gavest me I have kept, and none of them is lost, but the son of perdition; that the scripture might be fulfilled.",
+
+                "verse13": "13. And now come I to thee; and these things I speak in the world, that they might have my joy fulfilled in themselves.",
+
+                "verse14": "14. I have given them thy word; and the world hath hated them, because they are not of the world, even as I am not of the world.",
+
+                "verse15": "15. I pray not that thou shouldest take them out of the world, but that thou shouldest keep them from the evil.",
+
+                "verse16": "16. They are not of the world, even as I am not of the world.",
+
+                "verse17": "17. Sanctify them through thy truth: thy word is truth.",
+
+                "verse18": "18. As thou hast sent me into the world, even so have I also sent them into the world.",
+
+                "verse19": "19. And for their sakes I sanctify myself, that they also might be sanctified through the truth.",
+
+                "verse20": "20. Neither pray I for these alone, but for them also which shall believe on me through their word;",
+
+                "verse21": "21. That they all may be one; as thou, Father, art in me, and I in thee, that they also may be one in us: that the world may believe that thou hast sent me.",
+
+                "verse22": "22. And the glory which thou gavest me I have given them; that they may be one, even as we are one:",
+
+                "verse23": "23. I in them, and thou in me, that they may be made perfect in one; and that the world may know that thou hast sent me, and hast loved them, as thou hast loved me.",
+
+                "verse24": "24. Father, I will that they also, whom thou hast given me, be with me where I am; that they may behold my glory, which thou hast given me: for thou lovedst me before the foundation of the world.",
+
+                "verse25": "25. O righteous Father, the world hath not known thee: but I have known thee, and these have known that thou hast sent me.",
+
+                "verse26": "26. And I have declared unto them thy name, and will declare it: that the love wherewith thou hast loved me may be in them, and I in them."
+            },
+            {
+                "book": "1 Corinthians",
+                "chapter": "10",
+                "verse": "1-5",
                 "text": ""
             },
             {
