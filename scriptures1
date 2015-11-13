@@ -5109,45 +5109,463 @@
                 "book": "1 Corinthians",
                 "chapter": "10",
                 "verse": "1-5",
-                "text": ""
+                "verse1": "1. Moreover, brethren, I would not that ye should be ignorant, how that all our fathers were under the cloud, and all passed through the sea;",
+
+                "verse2": "2. And were all baptized unto Moses in the cloud and in the sea;",
+
+                "verse3": "3. And did all eat the same spiritual meat;",
+
+                "verse4": "4. And did all drink the same spiritual drink: for they drank of that spiritual Rock that followed them: and that Rock was Christ.",
+
+                "verse5": "5. But with many of them God was not well pleased: for they were overthrown in the wilderness."
             },
             {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
+                "book": "1 Corinthians",
+                "chapter": "13",
+                "verse": "1-13",
+                "verse1": "1. Though I speak with the tongues of men and of angels, and have not charity, I am become as sounding brass, or a tinkling cymbal.",
+
+                "verse2": "2. And though I have the gift of prophecy, and understand all mysteries, and all knowledge; and though I have all faith, so that I could remove mountains, and have not charity, I am nothing.",
+
+                "verse3": "3. And though I bestow all my goods to feed the poor, and though I give my body to be burned, and have not charity, it profiteth me nothing.",
+
+                "verse4": "4. Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up,",
+
+                "verse5": "5. Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil;",
+
+                "verse6": "6. Rejoiceth not in iniquity, but rejoiceth in the truth;",
+
+                "verse7": "7. Beareth all things, believeth all things, hopeth all things, endureth all things.",
+
+                "verse": "8. Charity never faileth: but whether there be prophecies, they shall fail; whether there be tongues, they shall cease; whether there be knowledge, it shall vanish away.",
+
+                "verse9": "9. For we know in part, and we prophesy in part.",
+
+                "verse10": "10. But when that which is perfect is come, then that which is in part shall be done away.",
+
+                "verse11": "11. When I was a child, I spake as a child, I understood as a child, I thought as a child: but when I became a man, I put away childish things.",
+
+                "verse12": "12. For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known.",
+
+                "verse13": 13. And now abideth faith, hope, charity, these three; but the greatest of these is charity."
             },
             {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
+                "book": "Colossians",
+                "chapter": "1",
+                "verse": "15-20",
+                "verse15": "15. Who is the image of the invisible God, the firstborn of every creature:",
+
+                "verse16": "16. For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him:",
+
+                "verse17": "17. And he is before all things, and by him all things consist.",
+
+                "verse18": "18. And he is the head of the body, the church: who is the beginning, the firstborn from the dead; that in all things he might have the preeminence.",
+
+                "verse19": "19. For it pleased the Father that in him should all fulness dwell;",
+
+                "verse20": "20. And, having made peace through the blood of his cross, by him to reconcile all things unto himself; by him, I say, whether they be things in earth, or things in heaven."
             },
             {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
+                "book": "1 John",
+                "chapter": "2",
+                "verse": "1-3",
+                "verse1": "1. My little children, these things write I unto you, that ye sin not. And if any man sin, we have an advocate with the Father, Jesus Christ the righteous:",
+
+                "verse2": "2. And he is the propitiation for our sins: and not for ours only, but also for the sins of the whole world.",
+
+                "verse3": "3. And hereby we do know that we know him, if we keep his commandments."
             },
             {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
+                "book": "1 John",
+                "chapter": "4",
+                "verse": "20-21",
+                "verse20": "20. If a man say, I love God, and hateth his brother, he is a liar: for he that loveth not his brother whom he hath seen, how can he love God whom he hath not seen?",
+
+                "verse21": "21. And this commandment have we from him, That he who loveth God love his brother also."
             },
             {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
+                "book": "Revelation",
+                "chapter": "1",
+                "verse": "18",
+                "verse18": "18. I am he that liveth, and was dead; and, behold, I am alive for evermore, Amen; and have the keys of hell and of death."
             },
             {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
+                "book": "1 Nephi",
+                "chapter": "10",
+                "verse": "4",
+                "verse4": "4. Yea, even six hundred years from the time that my father left Jerusalem, a prophet would the Lord God raise up among the Jews—even a Messiah, or, in other words, a Savior of the world."
             },
+            {
+                "book": "2 Nephi",
+                "chapter": "25",
+                "verse": "20",
+                "verse20": "20. And now, my brethren, I have spoken plainly that ye cannot err. And as the Lord God liveth that brought Israel up out of the land of Egypt, and gave unto Moses power that he should heal the nations after they had been bitten by the poisonous serpents, if they would cast their eyes unto the serpent which he did raise up before them, and also gave him power that he should smite the rock and the water should come forth; yea, behold I say unto you, that as these things are true, and as the Lord God liveth, there is none other name given under heaven save it be this Jesus Christ, of which I have spoken, whereby man can be saved."
+            },
+            {
+                "book": "2 Nephi",
+                "chapter": "26",
+                "verse": "12",
+                "verse12": "12. And as I spake concerning the convincing of the Jews, that Jesus is the very Christ, it must needs be that the Gentiles be convinced also that Jesus is the Christ, the Eternal God;"
+            },
+            {
+                "book": "Mosiah",
+                "chapter": "3",
+                "verse": "5-10",
+                "verse5": "5. For behold, the time cometh, and is not far distant, that with power, the Lord Omnipotent who reigneth, who was, and is from all eternity to all eternity, shall come down from heaven among the children of men, and shall dwell in a tabernacle of clay, and shall go forth amongst men, working mighty miracles, such as healing the sick, raising the dead, causing the lame to walk, the blind to receive their sight, and the deaf to hear, and curing all manner of diseases.",
+
+                "verse6": "6. And he shall cast out devils, or the evil spirits which dwell in the hearts of the children of men.",
+
+                "verse7": "7. And lo, he shall suffer temptations, and pain of body, hunger, thirst, and fatigue, even more than man can suffer, except it be unto death; for behold, blood cometh from every pore, so great shall be his anguish for the wickedness and the abominations of his people.",
+
+                "verse8": "8. And he shall be called Jesus Christ, the Son of God, the Father of heaven and earth, the Creator of all things from the beginning; and his mother shall be called Mary.",
+
+                "verse9": "9. And lo, he cometh unto his own, that salvation might come unto the children of men even through faith on his name; and even after all this they shall consider him a man, and say that he hath a devil, and shall scourge him, and shall crucify him.",
+
+                "verse10": "10. And he shall rise the third day from the dead; and behold, he standeth to judge the world; and behold, all these things are done that a righteous judgment might come upon the children of men."
+            },
+            {
+                "book": "Mosiah",
+                "chapter": "13",
+                "verse": "27-28, 33-35",
+                "verse27": "27. And now ye have said that salvation cometh by the law of Moses. I say unto you that it is expedient that ye should keep the law of Moses as yet; but I say unto you, that the time shall come when it shall no more be expedient to keep the law of Moses.",
+
+                "verse28": "28. And moreover, I say unto you, that salvation doth not come by the law alone; and were it not for the atonement, which God himself shall make for the sins and iniquities of his people, that they must unavoidably perish, notwithstanding the law of Moses."
+            },
+            {
+                "book": "Mosiah",
+                "chapter": "15",
+                "verse": "1-9",
+                "verse1": "1. And now Abinadi said unto them: I would that ye should understand that God himself shall come down among the children of men, and shall redeem his people.",
+
+                "verse2": "2. And because he dwelleth in flesh he shall be called the Son of God, and having subjected the flesh to the will of the Father, being the Father and the Son—",
+
+                "verse3": "3. The Father, because he was conceived by the power of God; and the Son, because of the flesh; thus becoming the Father and Son—",
+
+                "verse4": "4. And they are one God, yea, the very Eternal Father of heaven and of earth.",
+
+                "verse5": "5. And thus the flesh becoming subject to the Spirit, or the Son to the Father, being one God, suffereth temptation, and yieldeth not to the temptation, but suffereth himself to be mocked, and scourged, and cast out, and disowned by his people.",
+
+                "verse6": "6. And after all this, after working many mighty miracles among the children of men, he shall be led, yea, even as Isaiah said, as a sheep before the shearer is dumb, so he opened not his mouth.",
+
+                "verse7": "7. Yea, even so he shall be led, crucified, and slain, the flesh becoming subject even unto death, the will of the Son being swallowed up in the will of the Father.",
+
+                "verse8": "8. And thus God breaketh the bands of death, having gained the victory over death; giving the Son power to make intercession for the children of men—",
+
+                "verse9": "9. Having ascended into heaven, having the bowels of mercy; being filled with compassion towards the children of men; standing betwixt them and justice; having broken the bands of death, taken upon himself their iniquity and their transgressions, having redeemed them, and satisfied the demands of justice."
+            },
+            {
+                "book": "Alma",
+                "chapter": "7",
+                "verse": "7-13",
+                "verse7": "7. For behold, I say unto you there be many things to come; and behold, there is one thing which is of more importance than they all—for behold, the time is not far distant that the Redeemer liveth and cometh among his people.",
+
+                "verse8": "8. Behold, I do not say that he will come among us at the time of his dwelling in his mortal tabernacle; for behold, the Spirit hath not said unto me that this should be the case. Now as to this thing I do not know; but this much I do know, that the Lord God hath power to do all things which are according to his word.",
+
+                "verse9": "9. But behold, the Spirit hath said this much unto me, saying: Cry unto this people, saying—Repent ye, and prepare the way of the Lord, and walk in his paths, which are straight; for behold, the kingdom of heaven is at hand, and the Son of God cometh upon the face of the earth.",
+
+                "verse10": "10. And behold, he shall be born of Mary, at Jerusalem which is the land of our forefathers, she being a virgin, a precious and chosen vessel, who shall be overshadowed and conceive by the power of the Holy Ghost, and bring forth a son, yea, even the Son of God.",
+
+                "verse11": "11. And he shall go forth, suffering pains and afflictions and temptations of every kind; and this that the word might be fulfilled which saith he will take upon him the pains and the sicknesses of his people.",
+
+                "verse12": "12. And he will take upon him death, that he may loose the bands of death which bind his people; and he will take upon him their infirmities, that his bowels may be filled with mercy, according to the flesh, that he may know according to the flesh how to succor his people according to their infirmities.",
+
+                "verse13": "13. Now the Spirit knoweth all things; nevertheless the Son of God suffereth according to the flesh that he might take upon him the sins of his people, that he might blot out their transgressions according to the power of his deliverance; and now behold, this is the testimony which is in me."
+            },
+            {
+                "book": "3 Nephi",
+                "chapter": "11",
+                "verse": "8-17",
+                "verse8": "8. And it came to pass, as they understood they cast their eyes up again towards heaven; and behold, they saw a Man descending out of heaven; and he was clothed in a white robe; and he came down and stood in the midst of them; and the eyes of the whole multitude were turned upon him, and they durst not open their mouths, even one to another, and wist not what it meant, for they thought it was an angel that had appeared unto them.",
+
+                "verse9": "9. And it came to pass that he stretched forth his hand and spake unto the people, saying:",
+
+                "verse10": "10. Behold, I am Jesus Christ, whom the prophets testified shall come into the world.",
+
+                "verse11": "11. And behold, I am the light and the life of the world; and I have drunk out of that bitter cup which the Father hath given me, and have glorified the Father in taking upon me the sins of the world, in the which I have suffered the will of the Father in all things from the beginning.",
+
+                "verse12": "12. And it came to pass that when Jesus had spoken these words the whole multitude fell to the earth; for they remembered that it had been prophesied among them that Christ should show himself unto them after his ascension into heaven.",
+
+                "verse13": "13. And it came to pass that the Lord spake unto them saying:",
+
+                "verse14": "14. Arise and come forth unto me, that ye may thrust your hands into my side, and also that ye may feel the prints of the nails in my hands and in my feet, that ye may know that I am the God of Israel, and the God of the whole earth, and have been slain for the sins of the world.",
+
+                "verse15": "15. And it came to pass that the multitude went forth, and thrust their hands into his side, and did feel the prints of the nails in his hands and in his feet; and this they did do, going forth one by one until they had all gone forth, and did see with their eyes and did feel with their hands, and did know of a surety and did bear record, that it was he, of whom it was written by the prophets, that should come.",
+
+                "verse16": "16. And when they had all gone forth and had witnessed for themselves, they did cry out with one accord, saying:",
+
+                "verse17": "17. Hosanna! Blessed be the name of the Most High God! And they did fall down at the feet of Jesus, and did worship him."
+            },
+            {
+                "book": "3 Nephi",
+                "chapter": "27",
+                "verse": "27",
+                "verse27": "27. And know ye that ye shall be judges of this people, according to the judgment which I shall give unto you, which shall be just. Therefore, what manner of men ought ye to be? Verily I say unto you, even as I am."
+            },
+            {
+                "book": "Ether",
+                "chapter": "4",
+                "verse": "12",
+                "verse12": "12. And whatsoever thing persuadeth men to do good is of me; for good cometh of none save it be of me. I am the same that leadeth men to all good; he that will not believe my words will not believe me—that I am; and he that will not believe me will not believe the Father who sent me. For behold, I am the Father, I am the light, and the life, and the truth of the world."
+            },
+            {
+                "book": "Moroni",
+                "chapter": "7",
+                "verse": "1-48",
+                "verse1": "1. And now I, Moroni, write a few of the words of my father Mormon, which he spake concerning faith, hope, and charity; for after this manner did he speak unto the people, as he taught them in the synagogue which they had built for the place of worship.",
+
+                "verse2": "2. And now I, Mormon, speak unto you, my beloved brethren; and it is by the grace of God the Father, and our Lord Jesus Christ, and his holy will, because of the gift of his calling unto me, that I am permitted to speak unto you at this time.",
+
+                "verse3": "3. Wherefore, I would speak unto you that are of the church, that are the peaceable followers of Christ, and that have obtained a sufficient hope by which ye can enter into the rest of the Lord, from this time henceforth until ye shall rest with him in heaven.",
+
+                "verse4": "4. And now my brethren, I judge these things of you because of your peaceable walk with the children of men.",
+
+                "verse5": "5. For I remember the word of God which saith by their works ye shall know them; for if their works be good, then they are good also.",
+
+                "verse6": "6. For behold, God hath said a man being evil cannot do that which is good; for if he offereth a gift, or prayeth unto God, except he shall do it with real intent it profiteth him nothing.",
+
+                "verse7": "7. For behold, it is not counted unto him for righteousness.",
+
+                "verse8": "8. For behold, if a man being evil giveth a gift, he doeth it grudgingly; wherefore it is counted unto him the same as if he had retained the gift; wherefore he is counted evil before God.",
+
+                "verse9": "9. And likewise also is it counted evil unto a man, if he shall pray and not with real intent of heart; yea, and it profiteth him nothing, for God receiveth none such.",
+
+                "verse10": "10. Wherefore, a man being evil cannot do that which is good; neither will he give a good gift.",
+
+                "verse11": "11. For behold, a bitter fountain cannot bring forth good water; neither can a good fountain bring forth bitter water; wherefore, a man being a servant of the devil cannot follow Christ; and if he follow Christ he cannot be a servant of the devil.",
+
+                "verse12": "12. Wherefore, all things which are good cometh of God; and that which is evil cometh of the devil; for the devil is an enemy unto God, and fighteth against him continually, and inviteth and enticeth to sin, and to do that which is evil continually.",
+
+                "verse13": "13. But behold, that which is of God inviteth and enticeth to do good continually; wherefore, every thing which inviteth and enticeth to do good, and to love God, and to serve him, is inspired of God.",
+
+                "verse14": "14. Wherefore, take heed, my beloved brethren, that ye do not judge that which is evil to be of God, or that which is good and of God to be of the devil.",
+
+                "verse15": "15. For behold, my brethren, it is given unto you to judge, that ye may know good from evil; and the way to judge is as plain, that ye may know with a perfect knowledge, as the daylight is from the dark night.",
+
+                "verse16": "16. For behold, the Spirit of Christ is given to every man, that he may know good from evil; wherefore, I show unto you the way to judge; for every thing which inviteth to do good, and to persuade to believe in Christ, is sent forth by the power and gift of Christ; wherefore ye may know with a perfect knowledge it is of God.",
+
+                "verse17": "17. But whatsoever thing persuadeth men to do evil, and believe not in Christ, and deny him, and serve not God, then ye may know with a perfect knowledge it is of the devil; for after this manner doth the devil work, for he persuadeth no man to do good, no, not one; neither do his angels; neither do they who subject themselves unto him.",
+
+                "verse18": "18. And now, my brethren, seeing that ye know the light by which ye may judge, which light is the light of Christ, see that ye do not judge wrongfully; for with that same judgment which ye judge ye shall also be judged.",
+
+                "verse19": "19. Wherefore, I beseech of you, brethren, that ye should search diligently in the light of Christ that ye may know good from evil; and if ye will lay hold upon every good thing, and condemn it not, ye certainly will be a child of Christ.",
+
+                "verse20": "20. And now, my brethren, how is it possible that ye can lay hold upon every good thing?",
+
+                "verse21": "21. And now I come to that faith, of which I said I would speak; and I will tell you the way whereby ye may lay hold on every good thing.",
+
+                "verse22": "22. For behold, God knowing all things, being from everlasting to everlasting, behold, he sent angels to minister unto the children of men, to make manifest concerning the coming of Christ; and in Christ there should come every good thing.",
+
+                "verse23": "23. And God also declared unto prophets, by his own mouth, that Christ should come.", 
+
+                "verse24": "24. And behold, there were divers ways that he did manifest things unto the children of men, which were good; and all things which are good cometh of Christ; otherwise men were fallen, and there could no good thing come unto them.",
+
+                "verse25": "25. Wherefore, by the ministering of angels, and by every word which proceeded forth out of the mouth of God, men began to exercise faith in Christ; and thus by faith, they did lay hold upon every good thing; and thus it was until the coming of Christ.",
+
+                "verse26": "26. And after that he came men also were saved by faith in his name; and by faith, they become the sons of God. And as surely as Christ liveth he spake these words unto our fathers, saying: Whatsoever thing ye shall ask the Father in my name, which is good, in faith believing that ye shall receive, behold, it shall be done unto you.",
+
+                "verse27": "27. Wherefore, my beloved brethren, have miracles ceased because Christ hath ascended into heaven, and hath sat down on the right hand of God, to claim of the Father his rights of mercy which he hath upon the children of men?",
+
+                "verse28": "28. For he hath answered the ends of the law, and he claimeth all those who have faith in him; and they who have faith in him will cleave unto every good thing; wherefore he advocateth the cause of the children of men; and he dwelleth eternally in the heavens.",
+
+                "verse29": "29. And because he hath done this, my beloved brethren, have miracles ceased? Behold I say unto you, Nay; neither have angels ceased to minister unto the children of men.",
+
+                "verse30": "30. For behold, they are subject unto him, to minister according to the word of his command, showing themselves unto them of strong faith and a firm mind in every form of godliness.",
+
+                "verse31": "31. And the office of their ministry is to call men unto repentance, and to fulfil and to do the work of the covenants of the Father, which he hath made unto the children of men, to prepare the way among the children of men, by declaring the word of Christ unto the chosen vessels of the Lord, that they may bear testimony of him.",
+
+                "verse32": "32. And by so doing, the Lord God prepareth the way that the residue of men may have faith in Christ, that the Holy Ghost may have place in their hearts, according to the power thereof; and after this manner bringeth to pass the Father, the covenants which he hath made unto the children of men.",
+
+                "verse33": "33. And Christ hath said: If ye will have faith in me ye shall have power to do whatsoever thing is expedient in me.",
+
+                "verse34": "34. And he hath said: Repent all ye ends of the earth, and come unto me, and be baptized in my name, and have faith in me, that ye may be saved.",
+
+                "verse35": "35. And now, my beloved brethren, if this be the case that these things are true which I have spoken unto you, and God will show unto you, with power and great glory at the last day, that they are true, and if they are true has the day of miracles ceased?",
+
+                "verse36": "36. Or have angels ceased to appear unto the children of men? Or has he withheld the power of the Holy Ghost from them? Or will he, so long as time shall last, or the earth shall stand, or there shall be one man upon the face thereof to be saved?",
+
+                "verse37": "37. Behold I say unto you, Nay; for it is by faith that miracles are wrought; and it is by faith that angels appear and minister unto men; wherefore, if these things have ceased wo be unto the children of men, for it is because of unbelief, and all is vain.",
+
+                "verse38": "38. For no man can be saved, according to the words of Christ, save they shall have faith in his name; wherefore, if these things have ceased, then has faith ceased also; and awful is the state of man, for they are as though there had been no redemption made.",
+
+                "verse39": "39. But behold, my beloved brethren, I judge better things of you, for I judge that ye have faith in Christ because of your meekness; for if ye have not faith in him then ye are not fit to be numbered among the people of his church.",
+
+                "verse40": "40. And again, my beloved brethren, I would speak unto you concerning hope. How is it that ye can attain unto faith, save ye shall have hope?",
+
+                "verse41": "41. And what is it that ye shall hope for? Behold I say unto you that ye shall have hope through the atonement of Christ and the power of his resurrection, to be raised unto life eternal, and this because of your faith in him according to the promise.",
+
+                "verse42": "42. Wherefore, if a man have faith he must needs have hope; for without faith there cannot be any hope.",
+
+                "verse43": "43. And again, behold I say unto you that he cannot have faith and hope, save he shall be meek, and lowly of heart.",
+
+                "verse44": "44. If so, his faith and hope is vain, for none is acceptable before God, save the meek and lowly in heart; and if a man be meek and lowly in heart, and confesses by the power of the Holy Ghost that Jesus is the Christ, he must needs have charity; for if he have not charity he is nothing; wherefore he must needs have charity.",
+
+                "verse45": "45. And charity suffereth long, and is kind, and envieth not, and is not puffed up, seeketh not her own, is not easily provoked, thinketh no evil, and rejoiceth not in iniquity but rejoiceth in the truth, beareth all things, believeth all things, hopeth all things, endureth all things.",
+
+                "verse46": "46. Wherefore, my beloved brethren, if ye have not charity, ye are nothing, for charity never faileth. Wherefore, cleave unto charity, which is the greatest of all, for all things must fail—",
+
+                "verse47": "47. But charity is the pure love of Christ, and it endureth forever; and whoso is found possessed of it at the last day, it shall be well with him.",
+
+                "verse48": "48. Wherefore, my beloved brethren, pray unto the Father with all the energy of heart, that ye may be filled with this love, which he hath bestowed upon all who are true followers of his Son, Jesus Christ; that ye may become the sons of God; that when he shall appear we shall be like him, for we shall see him as he is; that we may have this hope; that we may be purified even as he is pure. Amen."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "35",
+                "verse": "1-2",
+                "verse1": "1. Listen to the voice of the Lord your God, even Alpha and Omega, the beginning and the end, whose course is one eternal round, the same today as yesterday, and forever.",
+
+                "verse2": "2. I am Jesus Christ, the Son of God, who was crucified for the sins of the world, even as many as will believe on my name, that they may become the sons of God, even one in me as I am one in the Father, as the Father is one in me, that we may be one."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "45",
+                "verse": "3, 7",
+                "verse3": "3. Listen to him who is the advocate with the Father, who is pleading your cause before him—",
+                "verse7": "7. For verily I say unto you that I am Alpha and Omega, the beginning and the end, the light and the life of the world—a light that shineth in darkness and the darkness comprehendeth it not."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "76",
+                "verse": "22-24",
+                "verse22": "22. And now, after the many testimonies which have been given of him, this is the testimony, last of all, which we give of him: That he lives!",
+
+                "verse23": "23. For we saw him, even on the right hand of God; and we heard the voice bearing record that he is the Only Begotten of the Father—",
+
+                "verse24": "24. That by him, and through him, and of him, the worlds are and were created, and the inhabitants thereof are begotten sons and daughters unto God."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "88",
+                "verse": "4-13",
+                "verse4": "4. This Comforter is the promise which I give unto you of eternal life, even the glory of the celestial kingdom;",
+
+                "verse5": "5. Which glory is that of the church of the Firstborn, even of God, the holiest of all, through Jesus Christ his Son—",
+
+                "verse6": "6. He that ascended up on high, as also he descended below all things, in that he comprehended all things, that he might be in all and through all things, the light of truth;",
+
+                "verse7": "7. Which truth shineth. This is the light of Christ. As also he is in the sun, and the light of the sun, and the power thereof by which it was made.",
+
+                "verse8": "8. As also he is in the moon, and is the light of the moon, and the power thereof by which it was made;",
+
+                "verse9": "9. As also the light of the stars, and the power thereof by which they were made;",
+
+                "verse10": "10. And the earth also, and the power thereof, even the earth upon which you stand.",
+
+                "verse11": "11. And the light which shineth, which giveth you light, is through him who enlighteneth your eyes, which is the same light that quickeneth your understandings;",
+
+                "verse12": "12. Which light proceedeth forth from the presence of God to fill the immensity of space—",
+
+                "verse13": "13. The light which is in all things, which giveth life to all things, which is the law by which all things are governed, even the power of God who sitteth upon his throne, who is in the bosom of eternity, who is in the midst of all things."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "93",
+                "verse": "1-22",
+                "verse1": "1. Verily, thus saith the Lord: It shall come to pass that every soul who forsaketh his sins and cometh unto me, and calleth on my name, and obeyeth my voice, and keepeth my commandments, shall see my face and know that I am;",
+
+                "verse2": "2. And that I am the true light that lighteth every man that cometh into the world;",
+
+                "verse3": "3. And that I am in the Father, and the Father in me, and the Father and I are one—",
+
+                "verse4": "4. The Father because he gave me of his fulness, and the Son because I was in the world and made flesh my tabernacle, and dwelt among the sons of men.",
+
+                "verse5": "5. I was in the world and received of my Father, and the works of him were plainly manifest.",
+
+                "verse6": "6. And John saw and bore record of the fulness of my glory, and the fulness of John’s record is hereafter to be revealed.",
+
+                "verse7": "7. And he bore record, saying: I saw his glory, that he was in the beginning, before the world was;",
+
+                "verse8": "8. Therefore, in the beginning the Word was, for he was the Word, even the messenger of salvation—",
+
+                "verse9": "9. The light and the Redeemer of the world; the Spirit of truth, who came into the world, because the world was made by him, and in him was the life of men and the light of men.",
+
+                "verse10": "10. The worlds were made by him; men were made by him; all things were made by him, and through him, and of him.",
+
+                "verse11": "11. And I, John, bear record that I beheld his glory, as the glory of the Only Begotten of the Father, full of grace and truth, even the Spirit of truth, which came and dwelt in the flesh, and dwelt among us.",
+
+                "verse12": "12. And I, John, saw that he received not of the fulness at the first, but received grace for grace;",
+
+                "verse13": "13. And he received not of the fulness at first, but continued from grace to grace, until he received a fulness;",
+
+                "verse14": "14. And thus he was called the Son of God, because he received not of the fulness at the first.",
+
+                "verse15": "15. And I, John, bear record, and lo, the heavens were opened, and the Holy Ghost descended upon him in the form of a dove, and sat upon him, and there came a voice out of heaven saying: This is my beloved Son.",
+
+                "verse16": "16. And I, John, bear record that he received a fulness of the glory of the Father;",
+
+                "verse17": "17. And he received all power, both in heaven and on earth, and the glory of the Father was with him, for he dwelt in him.",
+
+                "verse18": "18. And it shall come to pass, that if you are faithful you shall receive the fulness of the record of John.",
+
+                "verse19": "19. I give unto you these sayings that you may understand and know how to worship, and know what you worship, that you may come unto the Father in my name, and in due time receive of his fulness.",
+
+                "verse20": "20. For if you keep my commandments you shall receive of his fulness, and be glorified in me as I am in the Father; therefore, I say unto you, you shall receive grace for grace.",
+
+                "verse21": "21. And now, verily I say unto you, I was in the beginning with the Father, and am the Firstborn;",
+
+                "verse22": "22. And all those who are begotten through me are partakers of the glory of the same, and are the church of the Firstborn."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "110",
+                "verse": "1-4",
+                "verse1": "1. The veil was taken from our minds, and the eyes of our understanding were opened.", 
+
+                "verse2": "2. We saw the Lord standing upon the breastwork of the pulpit, before us; and under his feet was a paved work of pure gold, in color like amber.",
+
+                "verse3": "3. His eyes were as a flame of fire; the hair of his head was white like the pure snow; his countenance shone above the brightness of the sun; and his voice was as the sound of the rushing of great waters, even the voice of Jehovah, saying:",
+
+                "verse4": "4. I am the first and the last; I am he who liveth, I am he who was slain; I am your advocate with the Father."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "132",
+                "verse": "12",
+                "verse12": "12. I am the Lord thy God; and I give unto you this commandment—that no man shall come unto the Father but by me or by my word, which is my law, saith the Lord."
+            }
+
+        ]
+        
+    {
+        "topic": "Faith and Works",
+        "references": [    
             
+            {
+                "book": "Ether",
+                "chapter": "4",
+                "verse": "12",
+                "verse12": ""
+            },
+            {
+                "book": "Ether",
+                "chapter": "4",
+                "verse": "12",
+                "verse12": ""
+            },
+            {
+                "book": "Ether",
+                "chapter": "4",
+                "verse": "12",
+                "verse12": ""
+            },
+            {
+                "book": "Ether",
+                "chapter": "4",
+                "verse": "12",
+                "verse12": ""
+            },
+            {
+                "book": "Ether",
+                "chapter": "4",
+                "verse": "12",
+                "verse12": ""
+            },
+            {
+                "book": "Ether",
+                "chapter": "4",
+                "verse": "12",
+                "verse12": ""
+            },
+
 
 
 
