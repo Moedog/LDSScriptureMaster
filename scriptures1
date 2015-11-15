@@ -5526,9 +5526,293 @@
         ]
         
     {
-        "topic": "Faith and Works",
-        "references": [    
-            
+        "topic": "Leadership",
+        "references": [ 
+
+            {
+                "book": "Exodus",
+                "chapter": "18",
+                "verse": "13-26",
+                "verse13": "13. And it came to pass on the morrow, that Moses sat to judge the people: and the people stood by Moses from the morning unto the evening.",
+
+                "verse14": "14. And when Moses’ father in law saw all that he did to the people, he said, What is this thing that thou doest to the people? why sittest thou thyself alone, and all the people stand by thee from morning unto even?",
+
+                "verse15": "15. And Moses said unto his father in law, Because the people come unto me to inquire of God:",
+
+                "verse16": "16. When they have a matter, they come unto me; and I judge between one and another, and I do make them know the statutes of God, and his laws.",
+
+                "verse17": "17. And Moses’ father in law said unto him, The thing that thou doest is not good.",
+
+                "verse18": "18. Thou wilt surely wear away, both thou, and this people that is with thee: for this thing is too heavy for thee; thou art not able to perform it thyself alone.",
+
+                "verse19": "19. Hearken now unto my voice, I will give thee counsel, and God shall be with thee: Be thou for the people to God-ward, that thou mayest bring the causes unto God:",
+
+                "verse20": "20. And thou shalt teach them ordinances and laws, and shalt shew them the way wherein they must walk, and the work that they must do.",
+
+                "verse21": "21. Moreover thou shalt provide out of all the people able men, such as fear God, men of truth, hating covetousness; and place such over them, to be rulers of thousands, and rulers of hundreds, rulers of fifties, and rulers of tens:",
+
+                "verse22": "22. And let them judge the people at all seasons: and it shall be, that every great matter they shall bring unto thee, but every small matter they shall judge: so shall it be easier for thyself, and they shall bear the burden with thee.",
+
+                "verse23": "23. If thou shalt do this thing, and God command thee so, then thou shalt be able to endure, and all this people shall also go to their place in peace.",
+
+                "verse24": "24. So Moses hearkened to the voice of his father in law, and did all that he had said.",
+
+                "verse25": "25. And Moses chose able men out of all Israel, and made them heads over the people, rulers of thousands, rulers of hundreds, rulers of fifties, and rulers of tens.",
+
+                "verse26": "26. And they judged the people at all seasons: the hard causes they brought unto Moses, but every small matter they judged themselves."
+            },
+            {
+                "book": "Joshua",
+                "chapter": "24",
+                "verse": "15",
+                "verse15": "15. And if it seem evil unto you to serve the Lord, choose you this day whom ye will serve; whether the gods which your fathers served that were on the other side of the flood, or the gods of the Amorites, in whose land ye dwell: but as for me and my house, we will serve the Lord."
+            },
+            {
+                "book": "1 Samuel",
+                "chapter": "15",
+                "verse": "24-31",
+                "verse24": "24. And Saul said unto Samuel, I have sinned: for I have transgressed the commandment of the Lord, and thy words: because I feared the people, and obeyed their voice.",
+
+                "verse25": "25. Now therefore, I pray thee, pardon my sin, and turn again with me, that I may worship the Lord.",
+
+                "verse26": "26. And Samuel said unto Saul, I will not return with thee: for thou hast rejected the word of the Lord, and the Lord hath rejected thee from being king over Israel.",
+
+                "verse27": "27. And as Samuel turned about to go away, he laid hold upon the skirt of his mantle, and it rent.",
+
+                "verse28": "28. And Samuel said unto him, The Lord hath rent the kingdom of Israel from thee this day, and hath given it to a neighbour of thine, that is better than thou.",
+
+                "verse29": "29. And also the Strength of Israel will not lie nor repent: for he is not a man, that he should repent.",
+
+                "verse30": "30. Then he said, I have sinned: yet honour me now, I pray thee, before the elders of my people, and before Israel, and turn again with me, that I may worship the Lord thy God.",
+
+                "verse31": "31. So Samuel turned again after Saul; and Saul worshipped the Lord."
+            },
+            {
+                "book": "Matthew",
+                "chapter": "5",
+                "verse": "14-16",
+                "verse14": "14. Ye are the light of the world. A city that is set on an hill cannot be hid.",
+
+                "verse15": "15. Neither do men light a candle, and put it under a bushel, but on a candlestick; and it giveth light unto all that are in the house.",
+
+                "verse16": "16. Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven."
+            },
+            {
+                "book": "John",
+                "chapter": "13",
+                "verse": "15",
+                "verse15": "15. For I have given you an example, that ye should do as I have done to you."
+            },
+            {
+                "book": "1 Corinthians",
+                "chapter": "9",
+                "verse": "16",
+                "verse16": "16. For though I preach the gospel, I have nothing to glory of: for necessity is laid upon me; yea, woe is unto me, if I preach not the gospel!"
+            },
+            {
+                "book": "1 Corinthians",
+                "chapter": "12",
+                "verse": "21",
+                "verse21": "21. And the eye cannot say unto the hand, I have no need of thee: nor again the head to the feet, I have no need of you."
+            },
+            {
+                "book": "1 Thessalonians",
+                "chapter": "5",
+                "verse": "12",
+                "verse12": "12. And we beseech you, brethren, to know them which labour among you, and are over you in the Lord, and admonish you;"
+            },
+            {
+                "book": "Hebrews",
+                "chapter": "7",
+                "verse": "1-2",
+                "verse1": "1. For this Melchisedec, king of Salem, priest of the most high God, who met Abraham returning from the slaughter of the kings, and blessed him;",
+
+                "verse2": "2. To whom also Abraham gave a tenth part of all; first being by interpretation King of righteousness, and after that also King of Salem, which is, King of peace;"
+            },
+            {
+                "book": "Jarom",
+                "chapter": "1",
+                "verse": "7",
+                "verse7": "7. And it came to pass that they came many times against us, the Nephites, to battle. But our kings and our leaders were mighty men in the faith of the Lord; and they taught the people the ways of the Lord; wherefore, we withstood the Lamanites and swept them away out of our lands, and began to fortify our cities, or whatsoever place of our inheritance."
+            },
+            {
+                "book": "Alma",
+                "chapter": "60",
+                "verse": "36",
+                "verse36": "36. Behold, I am Moroni, your chief captain. I seek not for power, but to pull it down. I seek not for honor of the world, but for the glory of my God, and the freedom and welfare of my country. And thus I close mine epistle."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "4",
+                "verse": "1-7",
+                "verse1": "1. Now behold, a marvelous work is about to come forth among the children of men.",
+
+                "verse2": "2. Therefore, O ye that embark in the service of God, see that ye serve him with all your heart, might, mind and strength, that ye may stand blameless before God at the last day.",
+
+                "verse3": "3. Therefore, if ye have desires to serve God ye are called to the work;",
+
+                "verse4": "4. For behold the field is white already to harvest; and lo, he that thrusteth in his sickle with his might, the same layeth up in store that he perisheth not, but bringeth salvation to his soul;",
+
+                "verse5": "5. And faith, hope, charity and love, with an eye single to the glory of God, qualify him for the work.",
+
+                "verse6": "6. Remember faith, virtue, knowledge, temperance, patience, brotherly kindness, godliness, charity, humility, diligence.",
+
+                "verse7": "7. Ask, and ye shall receive; knock, and it shall be opened unto you. Amen."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "15",
+                "verse": "6",
+                "verse6": "6. And now, behold, I say unto you, that the thing which will be of the most worth unto you will be to declare repentance unto this people, that you may bring souls unto me, that you may rest with them in the kingdom of my Father. Amen."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "18",
+                "verse": "10-16",
+                "verse10": "10. Remember the worth of souls is great in the sight of God;",
+
+                "verse11": "11. For, behold, the Lord your Redeemer suffered death in the flesh; wherefore he suffered the pain of all men, that all men might repent and come unto him.",
+
+                "verse12": "12. And he hath risen again from the dead, that he might bring all men unto him, on conditions of repentance.",
+
+                "verse13": "13. And how great is his joy in the soul that repenteth!",
+
+                "verse14": "14. Wherefore, you are called to cry repentance unto this people.",
+
+                "verse15": "15. And if it so be that you should labor all your days in crying repentance unto this people, and bring, save it be one soul unto me, how great shall be your joy with him in the kingdom of my Father!",
+
+                "verse16": "16. And now, if your joy will be great with one soul that you have brought unto me into the kingdom of my Father, how great will be your joy if you should bring many souls unto me!"
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "20",
+                "verse": "38, 44",
+                "verse38": "38. The duty of the elders, priests, teachers, deacons, and members of the church of Christ—An apostle is an elder, and it is his calling to baptize;",
+
+                "verse44": "44. And to take the lead of all meetings."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "38",
+                "verse": "42",
+                "verse42": "42. And go ye out from among the wicked. Save yourselves. Be ye clean that bear the vessels of the Lord. Even so. Amen."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "50",
+                "verse": "26-28",
+                "verse26": "26. He that is ordained of God and sent forth, the same is appointed to be the greatest, notwithstanding he is the least and the servant of all.",
+
+                "verse27": "27. Wherefore, he is possessor of all things; for all things are subject unto him, both in heaven and on the earth, the life and the light, the Spirit and the power, sent forth by the will of the Father through Jesus Christ, his Son.",
+
+                "verse28": "28. But no man is possessor of all things except he be purified and cleansed from all sin."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "58",
+                "verse": "26-27",
+                "verse26": "26. For behold, it is not meet that I should command in all things; for he that is compelled in all things, the same is a slothful and not a wise servant; wherefore he receiveth no reward.",
+
+                "verse27": "27. Verily I say, men should be anxiously engaged in a good cause, and do many things of their own free will, and bring to pass much righteousness;"
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "72",
+                "verse": "3",
+                "verse3": "3. And verily in this thing ye have done wisely, for it is required of the Lord, at the hand of every steward, to render an account of his stewardship, both in time and in eternity."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "88",
+                "verse": "123-124",
+                "verse123": "123. See that ye love one another; cease to be covetous; learn to impart one to another as the gospel requires.",
+
+                "verse124": "124. Cease to be idle; cease to be unclean; cease to find fault one with another; cease to sleep longer than is needful; retire to thy bed early, that ye may not be weary; arise early, that your bodies and your minds may be invigorated."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "121",
+                "verse": "34-46",
+                "verse34": "34. Behold, there are many called, but few are chosen. And why are they not chosen?",
+
+                "verse35": "35. Because their hearts are set so much upon the things of this world, and aspire to the honors of men, that they do not learn this one lesson—",
+
+                "verse36": "36. That the rights of the priesthood are inseparably connected with the powers of heaven, and that the powers of heaven cannot be controlled nor handled only upon the principles of righteousness.",
+
+                "verse37": "37. That they may be conferred upon us, it is true; but when we undertake to cover our sins, or to gratify our pride, our vain ambition, or to exercise control or dominion or compulsion upon the souls of the children of men, in any degree of unrighteousness, behold, the heavens withdraw themselves; the Spirit of the Lord is grieved; and when it is withdrawn, Amen to the priesthood or the authority of that man.",
+
+                "verse38": "38. Behold, ere he is aware, he is left unto himself, to kick against the pricks, to persecute the saints, and to fight against God.",
+
+                "verse39": "39. We have learned by sad experience that it is the nature and disposition of almost all men, as soon as they get a little authority, as they suppose, they will immediately begin to exercise unrighteous dominion.",
+
+                "verse40": "40. Hence many are called, but few are chosen.",
+
+                "verse41": "41. No power or influence can or ought to be maintained by virtue of the priesthood, only by persuasion, by long-suffering, by gentleness and meekness, and by love unfeigned;",
+
+                "verse42": "42. By kindness, and pure knowledge, which shall greatly enlarge the soul without hypocrisy, and without guile—",
+
+                "veres43": "43. Reproving betimes with sharpness, when moved upon by the Holy Ghost; and then showing forth afterwards an increase of love toward him whom thou hast reproved, lest he esteem thee to be his enemy;",
+
+                "verse44": "44. That he may know that thy faithfulness is stronger than the cords of death.",
+
+                "verse45": "45. Let thy bowels also be full of charity towards all men, and to the household of faith, and let virtue garnish thy thoughts unceasingly; then shall thy confidence wax strong in the presence of God; and the doctrine of the priesthood shall distil upon thy soul as the dews from heaven.",
+
+                "verse46": "46. The Holy Ghost shall be thy constant companion, and thy scepter an unchanging scepter of righteousness and truth; and thy dominion shall be an everlasting dominion, and without compulsory means it shall flow unto thee forever and ever."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "124",
+                "verse": "45",
+                "verse45": "45. And if my people will hearken unto my voice, and unto the voice of my servants whom I have appointed to lead my people, behold, verily I say unto you, they shall not be moved out of their place."
+            },
+
+        ]
+        
+    {
+        "topic": "Prayer and Testimony",
+        "references": [         
+            {
+                "book": "Ether",
+                "chapter": "4",
+                "verse": "12",
+                "verse12": ""
+            },
+            {
+                "book": "Ether",
+                "chapter": "4",
+                "verse": "12",
+                "verse12": ""
+            },
+            {
+                "book": "Ether",
+                "chapter": "4",
+                "verse": "12",
+                "verse12": ""
+            },
+            {
+                "book": "Ether",
+                "chapter": "4",
+                "verse": "12",
+                "verse12": ""
+            },
+            {
+                "book": "Ether",
+                "chapter": "4",
+                "verse": "12",
+                "verse12": ""
+            },
+            {
+                "book": "Ether",
+                "chapter": "4",
+                "verse": "12",
+                "verse12": ""
+            },
+            {
+                "book": "Ether",
+                "chapter": "4",
+                "verse": "12",
+                "verse12": ""
+            },
             {
                 "book": "Ether",
                 "chapter": "4",
