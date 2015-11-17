@@ -6486,52 +6486,634 @@
         "topic": "Priesthood",
         "references": [        
             {
-                "book": "Book",
-                "chapter": "4",
-                "verse": "12",
-                "verse12": ""
+                "book": "Exodus",
+                "chapter": "20",
+                "verse": "3-22",
+                "verse3": "3. Thou shalt have no other gods before me.",
+
+                "verse4": "4. Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth:",
+
+                "verse5": "5. Thou shalt not bow down thyself to them, nor serve them: for I the Lord thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me;",
+
+                "verse6": "6. And shewing mercy unto thousands of them that love me, and keep my commandments.",
+
+                "verse7": "7. Thou shalt not take the name of the Lord thy God in vain; for the Lord will not hold him guiltless that taketh his name in vain.",
+
+                "verse8": "8. Remember the sabbath day, to keep it holy.",
+
+                "verse9": "9. Six days shalt thou labour, and do all thy work:",
+
+                "verse10": "10. But the seventh day is the sabbath of the Lord thy God: in it thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that is within thy gates:",
+
+                "verse11": "11. For in six days the Lord made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the Lord blessed the sabbath day, and hallowed it.",
+
+                "verse12": "12. Honour thy father and thy mother: that thy days may be long upon the land which the Lord thy God giveth thee.",
+
+                "vese13": "13. Thou shalt not kill.",
+
+                "verse14": "14. Thou shalt not commit adultery.",
+
+                "verse15": "15. Thou shalt not steal.",
+
+                "verse16": "16. Thou shalt not bear false witness against thy neighbour.",
+
+                "verse17": "17. Thou shalt not covet thy neighbour’s house, thou shalt not covet thy neighbour’s wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that is thy neighbour’s.",
+
+                "verse18": "18. And all the people saw the thunderings, and the lightnings, and the noise of the trumpet, and the mountain smoking: and when the people saw it, they removed, and stood afar off.",
+
+                "verse19": "19. And they said unto Moses, Speak thou with us, and we will hear: but let not God speak with us, lest we die.",
+
+                "verse20": "20. And Moses said unto the people, Fear not: for God is come to prove you, and that his fear may be before your faces, that ye sin not.",
+
+                "verse21": "21. And the people stood afar off, and Moses drew near unto the thick darkness where God was.",
+
+                "verse22": "22. And the Lord said unto Moses, Thus thou shalt say unto the children of Israel, Ye have seen that I have talked with you from heaven."
             },
             {
-                "book": "Book",
-                "chapter": "4",
-                "verse": "12",
-                "verse12": ""
+                "book": "Exodus",
+                "chapter": "28",
+                "verse": "1",
+                "verse1": "1. And take thou unto thee Aaron thy brother, and his sons with him, from among the children of Israel, that he may minister unto me in the priest’s office, even Aaron, Nadab and Abihu, Eleazar and Ithamar, Aaron’s sons."
             },
             {
-                "book": "Book",
-                "chapter": "4",
-                "verse": "12",
-                "verse12": ""
+                "book": "Exodus",
+                "chapter": "40",
+                "verse": "13-15",
+                "verse13": "13. And thou shalt put upon Aaron the holy garments, and anoint him, and sanctify him; that he may minister unto me in the priest’s office.",
+
+                "verse14": "14. And thou shalt bring his sons, and clothe them with coats:",
+
+                "verse15": "15. And thou shalt anoint them, as thou didst anoint their father, that they may minister unto me in the priest’s office: for their anointing shall surely be an everlasting priesthood throughout their generations."
             },
             {
-                "book": "Book",
-                "chapter": "4",
-                "verse": "12",
-                "verse12": ""
+                "book": "Deuteronomy",
+                "chapter": "34",
+                "verse": "9",
+                "verse9": "9. And Joshua the son of Nun was full of the spirit of wisdom; for Moses had laid his hands upon him: and the children of Israel hearkened unto him, and did as the Lord commanded Moses."
             },
             {
-                "book": "Book",
-                "chapter": "4",
-                "verse": "12",
-                "verse12": ""
+                "book": "Mark",
+                "chapter": "3",
+                "verse": "14-15",
+                "verse14": "14. And he ordained twelve, that they should be with him, and that he might send them forth to preach,",
+
+                "verse15": "15. And to have power to heal sicknesses, and to cast out devils:"
             },
             {
-                "book": "Book",
-                "chapter": "4",
-                "verse": "12",
-                "verse12": ""
+                "book": "John",
+                "chapter": "15",
+                "verse": "1-10",
+                "verse1": "1. I am the true vine, and my Father is the husbandman.",
+
+                "verse2": "2. Every branch in me that beareth not fruit he taketh away: and every branch that beareth fruit, he purgeth it, that it may bring forth more fruit.",
+
+                "verse3": "3. Now ye are clean through the word which I have spoken unto you.",
+
+                "verse4": "4. Abide in me, and I in you. As the branch cannot bear fruit of itself, except it abide in the vine; no more can ye, except ye abide in me.",
+
+                "verse5": "5. I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing.",
+
+                "verse6": "6. If a man abide not in me, he is cast forth as a branch, and is withered; and men gather them, and cast them into the fire, and they are burned.",
+
+                "verse7": "7. If ye abide in me, and my words abide in you, ye shall ask what ye will, and it shall be done unto you.",
+
+                "verse8": "8. Herein is my Father glorified, that ye bear much fruit; so shall ye be my disciples.",
+
+                "verse9": "9. As the Father hath loved me, so have I loved you: continue ye in my love.",
+
+                "verse10": "10. If ye keep my commandments, ye shall abide in my love; even as I have kept my Father’s commandments, and abide in his love."
             },
             {
-                "book": "Book",
-                "chapter": "4",
-                "verse": "12",
-                "verse12": ""
+                "book": "Acts",
+                "chapter": "8",
+                "verse": "14-21",
+                "verse14": "14. Now when the apostles which were at Jerusalem heard that Samaria had received the word of God, they sent unto them Peter and John:",
+
+                "verse15": "15. Who, when they were come down, prayed for them, that they might receive the Holy Ghost:",
+
+                "verse16": "16. (For as yet he was fallen upon none of them: only they were baptized in the name of the Lord Jesus.)",
+
+                "verse17": "17. Then laid they their hands on them, and they received the Holy Ghost.",
+
+                "verse18": "18. And when Simon saw that through laying on of the apostles’ hands the Holy Ghost was given, he offered them money,",
+
+                "verse19": "19. Saying, Give me also this power, that on whomsoever I lay hands, he may receive the Holy Ghost.",
+
+                "verse20": "20. But Peter said unto him, Thy money perish with thee, because thou hast thought that the gift of God may be purchased with money.",
+
+                "verse21": "21. Thou hast neither part nor lot in this matter: for thy heart is not right in the sight of God."
             },
             {
-                "book": "Book",
+                "book": "Acts",
+                "chapter": "10",
+                "verse": "44-48",
+                "verse44": "44. While Peter yet spake these words, the Holy Ghost fell on all them which heard the word.",
+
+                "verse": "45. And they of the circumcision which believed were astonished, as many as came with Peter, because that on the Gentiles also was poured out the gift of the Holy Ghost.",
+
+                "verse46": "46. For they heard them speak with tongues, and magnify God. Then answered Peter,",
+
+                "verse47": "47. Can any man forbid water, that these should not be baptized, which have received the Holy Ghost as well as we?",
+
+                "verse48": "48. And he commanded them to be baptized in the name of the Lord. Then prayed they him to tarry certain days."
+            },
+            {
+                "book": "Hebrews",
+                "chapter": "5",
+                "verse": "1-10",
+                "verse1": "1. For every high priest taken from among men is ordained for men in things pertaining to God, that he may offer both gifts and sacrifices for sins:",
+
+                "verse2": 2. Who can have compassion on the ignorant, and on them that are out of the way; for that he himself also is compassed with infirmity.",
+
+                "verse3": "3. And by reason hereof he ought, as for the people, so also for himself, to offer for sins.",
+
+                "verse4": "4. And no man taketh this honour unto himself, but he that is called of God, as was Aaron.",
+
+                "verse5": "5. So also Christ glorified not himself to be made an high priest; but he that said unto him, Thou art my Son, to day have I begotten thee.",
+
+                "verse6": "6. As he saith also in another place, Thou art a priest for ever after the order of Melchisedec.",
+
+                "verse7": "7. Who in the days of his flesh, when he had offered up prayers and supplications with strong crying and tears unto him that was able to save him from death, and was heard in that he feared;",
+
+                "verse8": "8. Though he were a Son, yet learned he obedience by the things which he suffered;",
+
+                "verse9": "9. And being made perfect, he became the author of eternal salvation unto all them that obey him;",
+
+                "verse10": "10. Called of God an high priest after the order of Melchisedec."
+            },
+            {
+                "book": "Mosiah",
+                "chapter": "18",
+                "verse": "13, 18",
+                "verse13": "13. And when he had said these words, the Spirit of the Lord was upon him, and he said: Helam, I baptize thee, having authority from the Almighty God, as a testimony that ye have entered into a covenant to serve him until you are dead as to the mortal body; and may the Spirit of the Lord be poured out upon you; and may he grant unto you eternal life, through the redemption of Christ, whom he has prepared from the foundation of the world.",
+
+                "verse18": "18. And it came to pass that Alma, having authority from God, ordained priests; even one priest to every fifty of their number did he ordain to preach unto them, and to teach them concerning the things pertaining to the kingdom of God."
+            },
+            {
+                "book": "Mosiah",
+                "chapter": "23",
+                "verse": "16-17",
+                "verse16": "16. And now, Alma was their high priest, he being the founder of their church.",
+
+                "vese17": "17. And it came to pass that none received authority to preach or to teach except it were by him from God. Therefore he consecrated all their priests and all their teachers; and none were consecrated except they were just men."
+            },
+            {
+                "book": "Mosiah",
+                "chapter": "29",
+                "verse": "42",
+                "verse42": "42. And it came to pass that Alma was appointed to be the first chief judge, he being also the high priest, his father having conferred the office upon him, and having given him the charge concerning all the affairs of the church."
+            },
+            {
+                "book": "Alma",
                 "chapter": "4",
-                "verse": "12",
-                "verse12": ""
+                "verse": "7",
+                "verse7": "7. Now this was the cause of much affliction to Alma, yea, and to many of the people whom Alma had consecrated to be teachers, and priests, and elders over the church; yea, many of them were sorely grieved for the wickedness which they saw had begun to be among their people."
+            },
+            {
+                "book": "Alma",
+                "chapter": "13",
+                "verse": "1-19",
+                "verse1": "1. And again, my brethren, I would cite your minds forward to the time when the Lord God gave these commandments unto his children; and I would that ye should remember that the Lord God ordained priests, after his holy order, which was after the order of his Son, to teach these things unto the people.",
+
+                "verse2": "2. And those priests were ordained after the order of his Son, in a manner that thereby the people might know in what manner to look forward to his Son for redemption.",
+
+                "verse3": "3. And this is the manner after which they were ordained—being called and prepared from the foundation of the world according to the foreknowledge of God, on account of their exceeding faith and good works; in the first place being left to choose good or evil; therefore they having chosen good, and exercising exceedingly great faith, are called with a holy calling, yea, with that holy calling which was prepared with, and according to, a preparatory redemption for such.",
+
+                "verse4": "4. And thus they have been called to this holy calling on account of their faith, while others would reject the Spirit of God on account of the hardness of their hearts and blindness of their minds, while, if it had not been for this they might have had as great privilege as their brethren.",
+
+                "verse5": "5. Or in fine, in the first place they were on the same standing with their brethren; thus this holy calling being prepared from the foundation of the world for such as would not harden their hearts, being in and through the atonement of the Only Begotten Son, who was prepared—",
+
+                "verse6": "6. And thus being called by this holy calling, and ordained unto the high priesthood of the holy order of God, to teach his commandments unto the children of men, that they also might enter into his rest—",
+
+                "verse7": "7. This high priesthood being after the order of his Son, which order was from the foundation of the world; or in other words, being without beginning of days or end of years, being prepared from eternity to all eternity, according to his foreknowledge of all things—",
+
+                "verse8": "8. Now they were ordained after this manner—being called with a holy calling, and ordained with a holy ordinance, and taking upon them the high priesthood of the holy order, which calling, and ordinance, and high priesthood, is without beginning or end—",
+
+                "verse9": "9. Thus they become high priests forever, after the order of the Son, the Only Begotten of the Father, who is without beginning of days or end of years, who is full of grace, equity, and truth. And thus it is. Amen.",
+
+                "verse10": "10. Now, as I said concerning the holy order, or this high priesthood, there were many who were ordained and became high priests of God; and it was on account of their exceeding faith and repentance, and their righteousness before God, they choosing to repent and work righteousness rather than to perish;",
+
+                "verse11": "11. Therefore they were called after this holy order, and were sanctified, and their garments were washed white through the blood of the Lamb.",
+
+                "verse12": "12. Now they, after being sanctified by the Holy Ghost, having their garments made white, being pure and spotless before God, could not look upon sin save it were with abhorrence; and there were many, exceedingly great many, who were made pure and entered into the rest of the Lord their God.",
+
+                "verse13": "13. And now, my brethren, I would that ye should humble yourselves before God, and bring forth fruit meet for repentance, that ye may also enter into that rest.",
+
+                "verse14": "14. Yea, humble yourselves even as the people in the days of Melchizedek, who was also a high priest after this same order which I have spoken, who also took upon him the high priesthood forever.",
+
+                "verse15": "15. And it was this same Melchizedek to whom Abraham paid tithes; yea, even our father Abraham paid tithes of one-tenth part of all he possessed.",
+
+                "verse16": "16. Now these ordinances were given after this manner, that thereby the people might look forward on the Son of God, it being a type of his order, or it being his order, and this that they might look forward to him for a remission of their sins, that they might enter into the rest of the Lord.",
+
+                "vese17": "17. Now this Melchizedek was a king over the land of Salem; and his people had waxed strong in iniquity and abomination; yea, they had all gone astray; they were full of all manner of wickedness;",
+
+                "verse18": "18. But Melchizedek having exercised mighty faith, and received the office of the high priesthood according to the holy order of God, did preach repentance unto his people. And behold, they did repent; and Melchizedek did establish peace in the land in his days; therefore he was called the prince of peace, for he was the king of Salem; and he did reign under his father.",
+
+                "verse19": "19. Now, there were many before him, and also there were many afterwards, but none were greater; therefore, of him they have more particularly made mention."
+            },
+            {
+                "book": "3 Nephi",
+                "chapter": "18",
+                "verse": "36-37",
+                "verse36": "36. And it came to pass that when Jesus had made an end of these sayings, he touched with his hand the disciples whom he had chosen, one by one, even until he had touched them all, and spake unto them as he touched them.",
+
+                "verse37": "37. And the multitude heard not the words which he spake, therefore they did not bear record; but the disciples bare record that he gave them power to give the Holy Ghost. And I will show unto you hereafter that this record is true."
+            },
+            {
+                "book": "Moroni",
+                "chapter": "2",
+                "verse": "1-2",
+                "verse1": "1. The words of Christ, which he spake unto his disciples, the twelve whom he had chosen, as he laid his hands upon them—",
+
+                "verse2": "2. And he called them by name, saying: Ye shall call on the Father in my name, in mighty prayer; and after ye have done this ye shall have power that to him upon whom ye shall lay your hands, ye shall give the Holy Ghost; and in my name shall ye give it, for thus do mine apostles."
+            },
+            {
+                "book": "Moroni",
+                "chapter": "3",
+                "verse": "1-4",
+                "verse1": "1. The manner which the disciples, who were called the elders of the church, ordained priests and teachers—",
+
+                "verse2": "2. After they had prayed unto the Father in the name of Christ, they laid their hands upon them, and said:",
+
+                "verse3": "3. In the name of Jesus Christ I ordain you to be a priest (or if he be a teacher, I ordain you to be a teacher) to preach repentance and remission of sins through Jesus Christ, by the endurance of faith on his name to the end. Amen.",
+
+                "verse4": "4. And after this manner did they ordain priests and teachers, according to the gifts and callings of God unto men; and they ordained them by the power of the Holy Ghost, which was in them."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "2",
+                "verse": "1",
+                "verse1": "1. Behold, I will reveal unto you the Priesthood, by the hand of Elijah the prophet, before the coming of the great and dreadful day of the Lord."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "13",
+                "verse": "1",
+                "verse1": "1. Upon you my fellow servants, in the name of Messiah I confer the Priesthood of Aaron, which holds the keys of the ministering of angels, and of the gospel of repentance, and of baptism by immersion for the remission of sins; and this shall never be taken again from the earth, until the sons of Levi do offer again an offering unto the Lord in righteousness."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "20",
+                "verse": "38-60",
+                "verse38": "38. The duty of the elders, priests, teachers, deacons, and members of the church of Christ—An apostle is an elder, and it is his calling to baptize;",
+
+                "verse39": "39. And to ordain other elders, priests, teachers, and deacons;",
+
+                "verse40": "40. And to administer bread and wine—the emblems of the flesh and blood of Christ—",
+
+                "verse41": "41. And to confirm those who are baptized into the church, by the laying on of hands for the baptism of fire and the Holy Ghost, according to the scriptures;",
+
+                "verse42": "42. And to teach, expound, exhort, baptize, and watch over the church;",
+
+                "verse43": "43. And to confirm the church by the laying on of the hands, and the giving of the Holy Ghost;",
+
+                "verse44": "44. And to take the lead of all meetings.",
+
+                "verse45": "45. The elders are to conduct the meetings as they are led by the Holy Ghost, according to the commandments and revelations of God.",
+
+                "verse46": "46. The priest’s duty is to preach, teach, expound, exhort, and baptize, and administer the sacrament,",
+
+                "verse47": "47. And visit the house of each member, and exhort them to pray vocally and in secret and attend to all family duties.",
+
+                "verse48": "48. And he may also ordain other priests, teachers, and deacons.",
+
+                "verse49": "49. And he is to take the lead of meetings when there is no elder present;",
+
+                "verse50": "50. But when there is an elder present, he is only to preach, teach, expound, exhort, and baptize,",
+
+                "verse51": "51. And visit the house of each member, exhorting them to pray vocally and in secret and attend to all family duties.",
+
+                "verse52": "52. In all these duties the priest is to assist the elder if occasion requires.",
+
+                "verse53": "53. The teacher’s duty is to watch over the church always, and be with and strengthen them;",
+
+                "verse54": "54. And see that there is no iniquity in the church, neither hardness with each other, neither lying, backbiting, nor evil speaking;",
+
+                "verse55": "55. And see that the church meet together often, and also see that all the members do their duty.",
+
+                "verse56": "56. And he is to take the lead of meetings in the absence of the elder or priest—",
+
+                "verse57": "57. And is to be assisted always, in all his duties in the church, by the deacons, if occasion requires.",
+
+                "verse58": "58. But neither teachers nor deacons have authority to baptize, administer the sacrament, or lay on hands;",
+
+                "verse59": "59. They are, however, to warn, expound, exhort, and teach, and invite all to come unto Christ.",
+
+                "verse60": "60. Every elder, priest, teacher, or deacon is to be ordained according to the gifts and callings of God unto him; and he is to be ordained by the power of the Holy Ghost, which is in the one who ordains him."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "27",
+                "verse": "6-13",
+                "verse6": "6. And also with Elias, to whom I have committed the keys of bringing to pass the restoration of all things spoken by the mouth of all the holy prophets since the world began, concerning the last days;",
+
+                "verse7": "7. And also John the son of Zacharias, which Zacharias he (Elias) visited and gave promise that he should have a son, and his name should be John, and he should be filled with the spirit of Elias;",
+
+                "verse8": "8. Which John I have sent unto you, my servants, Joseph Smith, Jun., and Oliver Cowdery, to ordain you unto the first priesthood which you have received, that you might be called and ordained even as Aaron;",
+
+                "verse9": "9. And also Elijah, unto whom I have committed the keys of the power of turning the hearts of the fathers to the children, and the hearts of the children to the fathers, that the whole earth may not be smitten with a curse;",
+
+                "verse10": "10. And also with Joseph and Jacob, and Isaac, and Abraham, your fathers, by whom the promises remain;",
+
+                "verse11": "11. And also with Michael, or Adam, the father of all, the prince of all, the ancient of days;",
+
+                "verse12": "12. And also with Peter, and James, and John, whom I have sent unto you, by whom I have ordained you and confirmed you to be apostles, and especial witnesses of my name, and bear the keys of your ministry and of the same things which I revealed unto them;",
+
+                "verse13": "13. Unto whom I have committed the keys of my kingdom, and a dispensation of the gospel for the last times; and for the fulness of times, in the which I will gather together in one all things, both which are in heaven, and which are on earth;"
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "38",
+                "verse": "40-42",
+                "verse40": "40. And again, I say unto you, I give unto you a commandment, that every man, both elder, priest, teacher, and also member, go to with his might, with the labor of his hands, to prepare and accomplish the things which I have commanded.",
+
+                "verse41": "41. And let your preaching be the warning voice, every man to his neighbor, in mildness and in meekness.",
+
+                "verse42": "42. And go ye out from among the wicked. Save yourselves. Be ye clean that bear the vessels of the Lord. Even so. Amen."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "84",
+                "verse": "6-28, 33-41",
+                "verse6": "6. And the sons of Moses, according to the Holy Priesthood which he received under the hand of his father-in-law, Jethro;",
+
+                "verse7": "7. And Jethro received it under the hand of Caleb;",
+
+                "verse8": "8. And Caleb received it under the hand of Elihu;",
+
+                "verse9": "9. And Elihu under the hand of Jeremy;",
+
+                "verse10": "10. And Jeremy under the hand of Gad;",
+
+                "verse11": "11. And Gad under the hand of Esaias;",
+
+                "verse12": "12. And Esaias received it under the hand of God.",
+
+                "verse13": "13. Esaias also lived in the days of Abraham, and was blessed of him—",
+
+                "verse14": "14. Which Abraham received the priesthood from Melchizedek, who received it through the lineage of his fathers, even till Noah;",
+
+                "verse15": "15. And from Noah till Enoch, through the lineage of their fathers;",
+
+                "verse16": "16. And from Enoch to Abel, who was slain by the conspiracy of his brother, who received the priesthood by the commandments of God, by the hand of his father Adam, who was the first man—",
+
+                "verse17": "17. Which priesthood continueth in the church of God in all generations, and is without beginning of days or end of years.",
+
+                "verse18": "18. And the Lord confirmed a priesthood also upon Aaron and his seed, throughout all their generations, which priesthood also continueth and abideth forever with the priesthood which is after the holiest order of God.",
+
+                "verse19": "19. And this greater priesthood administereth the gospel and holdeth the key of the mysteries of the kingdom, even the key of the knowledge of God.",
+
+                "verse20": "20. Therefore, in the ordinances thereof, the power of godliness is manifest.",
+
+                "verse21": "21. And without the ordinances thereof, and the authority of the priesthood, the power of godliness is not manifest unto men in the flesh;",
+
+                "verse22": "22. For without this no man can see the face of God, even the Father, and live.",
+
+                "verse23": "23. Now this Moses plainly taught to the children of Israel in the wilderness, and sought diligently to sanctify his people that they might behold the face of God;",
+
+                "verse24": "24. But they hardened their hearts and could not endure his presence; therefore, the Lord in his wrath, for his anger was kindled against them, swore that they should not enter into his rest while in the wilderness, which rest is the fulness of his glory.",
+
+                "verse25": "25. Therefore, he took Moses out of their midst, and the Holy Priesthood also;",
+
+                "verse26": "26. And the lesser priesthood continued, which priesthood holdeth the key of the ministering of angels and the preparatory gospel;",
+
+                "verse27": "27. Which gospel is the gospel of repentance and of baptism, and the remission of sins, and the law of carnal commandments, which the Lord in his wrath caused to continue with the house of Aaron among the children of Israel until John, whom God raised up, being filled with the Holy Ghost from his mother’s womb.",
+
+                "verse28": "28. For he was baptized while he was yet in his childhood, and was ordained by the angel of God at the time he was eight days old unto this power, to overthrow the kingdom of the Jews, and to make straight the way of the Lord before the face of his people, to prepare them for the coming of the Lord, in whose hand is given all power.",
+
+                "verse33": "33. For whoso is faithful unto the obtaining these two priesthoods of which I have spoken, and the magnifying their calling, are sanctified by the Spirit unto the renewing of their bodies.",
+
+                "verse34": "34. They become the sons of Moses and of Aaron and the seed of Abraham, and the church and kingdom, and the elect of God.",
+
+                "verse35": "35. And also all they who receive this priesthood receive me, saith the Lord;",
+
+                "verse36": "36. For he that receiveth my servants receiveth me;",
+
+                "verse37": "37. And he that receiveth me receiveth my Father;",
+
+                "verse38": "38. And he that receiveth my Father receiveth my Father’s kingdom; therefore all that my Father hath shall be given unto him.",
+
+                "verse39": "39. And this is according to the oath and covenant which belongeth to the priesthood.",
+
+                "verse40": "40. Therefore, all those who receive the priesthood, receive this oath and covenant of my Father, which he cannot break, neither can it be moved.",
+
+                "verse41": "41. But whoso breaketh this covenant after he hath received it, and altogether turneth therefrom, shall not have forgiveness of sins in this world nor in the world to come."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "86",
+                "verse": "8-11",
+                "verse8": "8. Therefore, thus saith the Lord unto you, with whom the priesthood hath continued through the lineage of your fathers—",
+
+                "verse9": "9. For ye are lawful heirs, according to the flesh, and have been hid from the world with Christ in God—",
+
+                "verse10": "10. Therefore your life and the priesthood have remained, and must needs remain through you and your lineage until the restoration of all things spoken by the mouths of all the holy prophets since the world began.",
+
+                "verse11": "11. Therefore, blessed are ye if ye continue in my goodness, a light unto the Gentiles, and through this priesthood, a savior unto my people Israel. The Lord hath said it. Amen."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "107",
+                "verse": "1-100",
+                "verse1": "1. There are, in the church, two priesthoods, namely, the Melchizedek and Aaronic, including the Levitical Priesthood.",
+
+                "verse2": "2. Why the first is called the Melchizedek Priesthood is because Melchizedek was such a great high priest.",
+
+                "verse3": "3. Before his day it was called the Holy Priesthood, after the Order of the Son of God.",
+
+                "verse4": "4. But out of respect or reverence to the name of the Supreme Being, to avoid the too frequent repetition of his name, they, the church, in ancient days, called that priesthood after Melchizedek, or the Melchizedek Priesthood.",
+
+                "verse5": "5. All other authorities or offices in the church are appendages to this priesthood.
+
+ 6 But there are two divisions or grand heads—one is the Melchizedek Priesthood, and the other is the Aaronic or Levitical Priesthood.
+
+ 7 The office of an elder comes under the priesthood of Melchizedek.
+
+ 8 The Melchizedek Priesthood holds the right of presidency, and has power and authority over all the offices in the church in all ages of the world, to administer in spiritual things.
+
+ 9 The Presidency of the High Priesthood, after the order of Melchizedek, have a right to officiate in all the offices in the church.
+
+ 10 High priests after the order of the Melchizedek Priesthood have a right to officiate in their own standing, under the direction of the presidency, in administering spiritual things, and also in the office of an elder, priest (of the Levitical order), teacher, deacon, and member.
+
+ 11 An elder has a right to officiate in his stead when the high priest is not present.
+
+ 12 The high priest and elder are to administer in spiritual things, agreeable to the covenants and commandments of the church; and they have a right to officiate in all these offices of the church when there are no higher authorities present.
+
+ 13 The second priesthood is called the Priesthood of Aaron, because it was conferred upon Aaron and his seed, throughout all their generations.
+
+ 14 Why it is called the lesser priesthood is because it is an appendage to the greater, or the Melchizedek Priesthood, and has power in administering outward ordinances.
+
+ 15 The bishopric is the presidency of this priesthood, and holds the keys or authority of the same.
+
+ 16 No man has a legal right to this office, to hold the keys of this priesthood, except he be a literal descendant of Aaron.
+
+ 17 But as a high priest of the Melchizedek Priesthood has authority to officiate in all the lesser offices, he may officiate in the office of bishop when no literal descendant of Aaron can be found, provided he is called and set apart and ordained unto this power by the hands of the Presidency of the Melchizedek Priesthood.
+
+ 18 The power and authority of the higher, or Melchizedek Priesthood, is to hold the keys of all the spiritual blessings of the church—
+
+ 19 To have the privilege of receiving the mysteries of the kingdom of heaven, to have the heavens opened unto them, to commune with the general assembly and church of the Firstborn, and to enjoy the communion and presence of God the Father, and Jesus the mediator of the new covenant.
+
+ 20 The power and authority of the lesser, or Aaronic Priesthood, is to hold the keys of the ministering of angels, and to administer in outward ordinances, the letter of the gospel, the baptism of repentance for the remission of sins, agreeable to the covenants and commandments.
+
+ 21 Of necessity there are presidents, or presiding officers growing out of, or appointed of or from among those who are ordained to the several offices in these two priesthoods.
+
+ 22 Of the Melchizedek Priesthood, three Presiding High Priests, chosen by the body, appointed and ordained to that office, and upheld by the confidence, faith, and prayer of the church, form a quorum of the Presidency of the Church.
+
+ 23 The twelve traveling councilors are called to be the Twelve Apostles, or special witnesses of the name of Christ in all the world—thus differing from other officers in the church in the duties of their calling.
+
+ 24 And they form a quorum, equal in authority and power to the three presidents previously mentioned.
+
+ 25 The Seventy are also called to preach the gospel, and to be especial witnesses unto the Gentiles and in all the world—thus differing from other officers in the church in the duties of their calling.
+
+ 26 And they form a quorum, equal in authority to that of the Twelve special witnesses or Apostles just named.
+
+ 27 And every decision made by either of these quorums must be by the unanimous voice of the same; that is, every member in each quorum must be agreed to its decisions, in order to make their decisions of the same power or validity one with the other—
+
+ 28 A majority may form a quorum when circumstances render it impossible to be otherwise—
+
+ 29 Unless this is the case, their decisions are not entitled to the same blessings which the decisions of a quorum of three presidents were anciently, who were ordained after the order of Melchizedek, and were righteous and holy men.
+
+ 30 The decisions of these quorums, or either of them, are to be made in all righteousness, in holiness, and lowliness of heart, meekness and long-suffering, and in faith, and virtue, and knowledge, temperance, patience, godliness, brotherly kindness and charity;
+
+ 31 Because the promise is, if these things abound in them they shall not be unfruitful in the knowledge of the Lord.
+
+ 32 And in case that any decision of these quorums is made in unrighteousness, it may be brought before a general assembly of the several quorums, which constitute the spiritual authorities of the church; otherwise there can be no appeal from their decision.
+
+ 33 The Twelve are a Traveling Presiding High Council, to officiate in the name of the Lord, under the direction of the Presidency of the Church, agreeable to the institution of heaven; to build up the church, and regulate all the affairs of the same in all nations, first unto the Gentiles and secondly unto the Jews.
+
+ 34 The Seventy are to act in the name of the Lord, under the direction of the Twelve or the traveling high council, in building up the church and regulating all the affairs of the same in all nations, first unto the Gentiles and then to the Jews—
+
+ 35 The Twelve being sent out, holding the keys, to open the door by the proclamation of the gospel of Jesus Christ, and first unto the Gentiles and then unto the Jews.
+
+ 36 The standing high councils, at the stakes of Zion, form a quorum equal in authority in the affairs of the church, in all their decisions, to the quorum of the presidency, or to the traveling high council.
+
+ 37 The high council in Zion form a quorum equal in authority in the affairs of the church, in all their decisions, to the councils of the Twelve at the stakes of Zion.
+
+ 38 It is the duty of the traveling high council to call upon the Seventy, when they need assistance, to fill the several calls for preaching and administering the gospel, instead of any others.
+
+ 39 It is the duty of the Twelve, in all large branches of the church, to ordain evangelical ministers, as they shall be designated unto them by revelation—
+
+ 40 The order of this priesthood was confirmed to be handed down from father to son, and rightly belongs to the literal descendants of the chosen seed, to whom the promises were made.
+
+ 41 This order was instituted in the days of Adam, and came down by lineage in the following manner:
+
+ 42 From Adam to Seth, who was ordained by Adam at the age of sixty-nine years, and was blessed by him three years previous to his (Adam’s) death, and received the promise of God by his father, that his posterity should be the chosen of the Lord, and that they should be preserved unto the end of the earth;
+
+ 43 Because he (Seth) was a perfect man, and his likeness was the express likeness of his father, insomuch that he seemed to be like unto his father in all things, and could be distinguished from him only by his age.
+
+ 44 Enos was ordained at the age of one hundred and thirty-four years and four months, by the hand of Adam.
+
+ 45 God called upon Cainan in the wilderness in the fortieth year of his age; and he met Adam in journeying to the place Shedolamak. He was eighty-seven years old when he received his ordination.
+
+ 46 Mahalaleel was four hundred and ninety-six years and seven days old when he was ordained by the hand of Adam, who also blessed him.
+
+ 47 Jared was two hundred years old when he was ordained under the hand of Adam, who also blessed him.
+
+ 48 Enoch was twenty-five years old when he was ordained under the hand of Adam; and he was sixty-five and Adam blessed him.
+
+ 49 And he saw the Lord, and he walked with him, and was before his face continually; and he walked with God three hundred and sixty-five years, making him four hundred and thirty years old when he was translated.
+
+ 50 Methuselah was one hundred years old when he was ordained under the hand of Adam.
+
+ 51 Lamech was thirty-two years old when he was ordained under the hand of Seth.
+
+ 52 Noah was ten years old when he was ordained under the hand of Methuselah.
+
+ 53 Three years previous to the death of Adam, he called Seth, Enos, Cainan, Mahalaleel, Jared, Enoch, and Methuselah, who were all high priests, with the residue of his posterity who were righteous, into the valley of Adam-ondi-Ahman, and there bestowed upon them his last blessing.
+
+ 54 And the Lord appeared unto them, and they rose up and blessed Adam, and called him Michael, the prince, the archangel.
+
+ 55 And the Lord administered comfort unto Adam, and said unto him: I have set thee to be at the head; a multitude of nations shall come of thee, and thou art a prince over them forever.
+
+ 56 And Adam stood up in the midst of the congregation; and, notwithstanding he was bowed down with age, being full of the Holy Ghost, predicted whatsoever should befall his posterity unto the latest generation.
+
+ 57 These things were all written in the book of Enoch, and are to be testified of in due time.
+
+ 58 It is the duty of the Twelve, also, to ordain and set in order all the other officers of the church, agreeable to the revelation which says:
+
+ 59 To the church of Christ in the land of Zion, in addition to the church laws respecting church business—
+
+ 60 Verily, I say unto you, saith the Lord of Hosts, there must needs be presiding elders to preside over those who are of the office of an elder;
+
+ 61 And also priests to preside over those who are of the office of a priest;
+
+ 62 And also teachers to preside over those who are of the office of a teacher, in like manner, and also the deacons—
+
+ 63 Wherefore, from deacon to teacher, and from teacher to priest, and from priest to elder, severally as they are appointed, according to the covenants and commandments of the church.
+
+ 64 Then comes the High Priesthood, which is the greatest of all.
+
+ 65 Wherefore, it must needs be that one be appointed of the High Priesthood to preside over the priesthood, and he shall be called President of the High Priesthood of the Church;
+
+ 66 Or, in other words, the Presiding High Priest over the High Priesthood of the Church.
+
+ 67 From the same comes the administering of ordinances and blessings upon the church, by the laying on of the hands.
+
+ 68 Wherefore, the office of a bishop is not equal unto it; for the office of a bishop is in administering all temporal things;
+
+ 69 Nevertheless a bishop must be chosen from the High Priesthood, unless he is a literal descendant of Aaron;
+
+ 70 For unless he is a literal descendant of Aaron he cannot hold the keys of that priesthood.
+
+ 71 Nevertheless, a high priest, that is, after the order of Melchizedek, may be set apart unto the ministering of temporal things, having a knowledge of them by the Spirit of truth;
+
+ 72 And also to be a judge in Israel, to do the business of the church, to sit in judgment upon transgressors upon testimony as it shall be laid before him according to the laws, by the assistance of his counselors, whom he has chosen or will choose among the elders of the church.
+
+ 73 This is the duty of a bishop who is not a literal descendant of Aaron, but has been ordained to the High Priesthood after the order of Melchizedek.
+
+ 74 Thus shall he be a judge, even a common judge among the inhabitants of Zion, or in a stake of Zion, or in any branch of the church where he shall be set apart unto this ministry, until the borders of Zion are enlarged and it becomes necessary to have other bishops or judges in Zion or elsewhere.
+
+ 75 And inasmuch as there are other bishops appointed they shall act in the same office.
+
+ 76 But a literal descendant of Aaron has a legal right to the presidency of this priesthood, to the keys of this ministry, to act in the office of bishop independently, without counselors, except in a case where a President of the High Priesthood, after the order of Melchizedek, is tried, to sit as a judge in Israel.
+
+ 77 And the decision of either of these councils, agreeable to the commandment which says:
+
+ 78 Again, verily, I say unto you, the most important business of the church, and the most difficult cases of the church, inasmuch as there is not satisfaction upon the decision of the bishop or judges, it shall be handed over and carried up unto the council of the church, before the Presidency of the High Priesthood.
+
+ 79 And the Presidency of the council of the High Priesthood shall have power to call other high priests, even twelve, to assist as counselors; and thus the Presidency of the High Priesthood and its counselors shall have power to decide upon testimony according to the laws of the church.
+
+ 80 And after this decision it shall be had in remembrance no more before the Lord; for this is the highest council of the church of God, and a final decision upon controversies in spiritual matters.
+
+ 81 There is not any person belonging to the church who is exempt from this council of the church.
+
+ 82 And inasmuch as a President of the High Priesthood shall transgress, he shall be had in remembrance before the common council of the church, who shall be assisted by twelve counselors of the High Priesthood;
+
+ 83 And their decision upon his head shall be an end of controversy concerning him.
+
+ 84 Thus, none shall be exempted from the justice and the laws of God, that all things may be done in order and in solemnity before him, according to truth and righteousness.
+
+ 85 And again, verily I say unto you, the duty of a president over the office of a deacon is to preside over twelve deacons, to sit in council with them, and to teach them their duty, edifying one another, as it is given according to the covenants.
+
+ 86 And also the duty of the president over the office of the teachers is to preside over twenty-four of the teachers, and to sit in council with them, teaching them the duties of their office, as given in the covenants.
+
+ 87 Also the duty of the president over the Priesthood of Aaron is to preside over forty-eight priests, and sit in council with them, to teach them the duties of their office, as is given in the covenants—
+
+ 88 This president is to be a bishop; for this is one of the duties of this priesthood.
+
+ 89 Again, the duty of the president over the office of elders is to preside over ninety-six elders, and to sit in council with them, and to teach them according to the covenants.
+
+ 90 This presidency is a distinct one from that of the seventy, and is designed for those who do not travel into all the world.
+
+ 91 And again, the duty of the President of the office of the High Priesthood is to preside over the whole church, and to be like unto Moses—
+
+ 92 Behold, here is wisdom; yea, to be a seer, a revelator, a translator, and a prophet, having all the gifts of God which he bestows upon the head of the church.
+
+ 93 And it is according to the vision showing the order of the Seventy, that they should have seven presidents to preside over them, chosen out of the number of the seventy;
+
+ 94 And the seventh president of these presidents is to preside over the six;
+
+ 95 And these seven presidents are to choose other seventy besides the first seventy to whom they belong, and are to preside over them;
+
+ 96 And also other seventy, until seven times seventy, if the labor in the vineyard of necessity requires it.
+
+ 97 And these seventy are to be traveling ministers, unto the Gentiles first and also unto the Jews.
+
+ 98 Whereas other officers of the church, who belong not unto the Twelve, neither to the Seventy, are not under the responsibility to travel among all nations, but are to travel as their circumstances shall allow, notwithstanding they may hold as high and responsible offices in the church.
+
+ 99 Wherefore, now let every man learn his duty, and to act in the office in which he is appointed, in all diligence.
+
+ 100 He that is slothful shall not be counted worthy to stand, and he that learns not his duty and shows himself not approved shall not be counted worthy to stand. Even so. Amen."
             },
             {
                 "book": "Book",
