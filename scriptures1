@@ -1705,7 +1705,7 @@
                 "book": "Joshua",
                 "chapter": "1",
                 "verse": "8",
-                "text": "8. This book of the law shall not depart out of thy mouth; but thou shalt meditate therein day and night, that thou mayest observe to do according to all that is written therein: for then thou shalt make thy way prosperous, and then thou shalt have good success."
+                "verse8": "8. This book of the law shall not depart out of thy mouth; but thou shalt meditate therein day and night, that thou mayest observe to do according to all that is written therein: for then thou shalt make thy way prosperous, and then thou shalt have good success."
             },
             {
                 "book": "Ezekiel",
@@ -7182,11 +7182,291 @@
                 "verse46": "46. The Holy Ghost shall be thy constant companion, and thy scepter an unchanging scepter of righteousness and truth; and thy dominion shall be an everlasting dominion, and without compulsory means it shall flow unto thee forever and ever."
             },
             {
-                "book": "Book",
-                "chapter": "4",
-                "verse": "12",
-                "verse12": ""
+                "book": "Doctrine and Covenants",
+                "chapter": "132",
+                "verse": "7-8, 45-46"
+                "verse7": "7. And verily I say unto you, that the conditions of this law are these: All covenants, contracts, bonds, obligations, oaths, vows, performances, connections, associations, or expectations, that are not made and entered into and sealed by the Holy Spirit of promise, of him who is anointed, both as well for time and for all eternity, and that too most holy, by revelation and commandment through the medium of mine anointed, whom I have appointed on the earth to hold this power (and I have appointed unto my servant Joseph to hold this power in the last days, and there is never but one on the earth at a time on whom this power and the keys of this priesthood are conferred), are of no efficacy, virtue, or force in and after the resurrection from the dead; for all contracts that are not made unto this end have an end when men are dead.",
+
+                "verse8": "8. Behold, mine house is a house of order, saith the Lord God, and not a house of confusion.",
+
+                "verse45": "45. For I have conferred upon you the keys and power of the priesthood, wherein I restore all things, and make known unto you all things in due time.",
+
+                "verse46": "46. And verily, verily, I say unto you, that whatsoever you seal on earth shall be sealed in heaven; and whatsoever you bind on earth, in my name and by my word, saith the Lord, it shall be eternally bound in the heavens; and whosesoever sins you remit on earth shall be remitted eternally in the heavens; and whosesoever sins you retain on earth shall be retained in heaven."
             },
+            {
+                "book": "Doctrine and Covenants - Official Declaration 2",
+                "chapter": "1",
+                "verse": "1-8",
+                "verse1": "1. To Whom It May Concern:  On September 30, 1978, at the 148th Semiannual General Conference of The Church of Jesus Christ of Latter-day Saints, the following was presented by President N. Eldon Tanner, First Counselor in the First Presidency of the Church:  In early June of this year, the First Presidency announced that a revelation had been received by President Spencer W. Kimball extending priesthood and temple blessings to all worthy male members of the Church. President Kimball has asked that I advise the conference that after he had received this revelation, which came to him after extended meditation and prayer in the sacred rooms of the holy temple, he presented it to his counselors, who accepted it and approved it. It was then presented to the Quorum of the Twelve Apostles, who unanimously approved it, and was subsequently presented to all other General Authorities, who likewise approved it unanimously.  President Kimball has asked that I now read this letter:  
+
+                "verse2": "2. June 8, 1978  To all general and local priesthood officers of The Church of Jesus Christ of Latter-day Saints throughout the world:",
+
+                "verse3": "Dear Brethren:  As we have witnessed the expansion of the work of the Lord over the earth, we have been grateful that people of many nations have responded to the message of the restored gospel, and have joined the Church in ever-increasing numbers. This, in turn, has inspired us with a desire to extend to every worthy member of the Church all of the privileges and blessings which the gospel affords.",
+
+                "verse4": "4. Aware of the promises made by the prophets and presidents of the Church who have preceded us that at some time, in God’s eternal plan, all of our brethren who are worthy may receive the priesthood, and witnessing the faithfulness of those from whom the priesthood has been withheld, we have pleaded long and earnestly in behalf of these, our faithful brethren, spending many hours in the Upper Room of the Temple supplicating the Lord for divine guidance.",
+
+                "verse5": "5. He has heard our prayers, and by revelation has confirmed that the long-promised day has come when every faithful, worthy man in the Church may receive the holy priesthood, with power to exercise its divine authority, and enjoy with his loved ones every blessing that flows therefrom, including the blessings of the temple. Accordingly, all worthy male members of the Church may be ordained to the priesthood without regard for race or color. Priesthood leaders are instructed to follow the policy of carefully interviewing all candidates for ordination to either the Aaronic or the Melchizedek Priesthood to insure that they meet the established standards for worthiness.",
+
+                "verse6": "6. We declare with soberness that the Lord has now made known his will for the blessing of all his children throughout the earth who will hearken to the voice of his authorized servants, and prepare themselves to receive every blessing of the gospel.",
+
+                "verse7": "7. Sincerely yours, Spencer W. Kimball, N. Eldon Tanner, Marion G. Romney -- The First Presidency",
+
+                "verse8": "8. Recognizing Spencer W. Kimball as the prophet, seer, and revelator, and president of The Church of Jesus Christ of Latter-day Saints, it is proposed that we as a constituent assembly accept this revelation as the word and will of the Lord. All in favor please signify by raising your right hand. Any opposed by the same sign. The vote to sustain the foregoing motion was unanimous in the affirmative. Salt Lake City, Utah, September 30, 1978."
+            },
+            {
+                "book": "Pearl of Great Price - Abraham",
+                "chapter": "1",
+                "verse": "1-5",
+                "verse1": "1. In the land of the Chaldeans, at the residence of my fathers, I, Abraham, saw that it was needful for me to obtain another place of residence;",
+
+                "verse2": "2. And, finding there was greater happiness and peace and rest for me, I sought for the blessings of the fathers, and the right whereunto I should be ordained to administer the same; having been myself a follower of righteousness, desiring also to be one who possessed great knowledge, and to be a greater follower of righteousness, and to possess a greater knowledge, and to be a father of many nations, a prince of peace, and desiring to receive instructions, and to keep the commandments of God, I became a rightful heir, a High Priest, holding the right belonging to the fathers.",
+
+                "verse3": "3. It was conferred upon me from the fathers; it came down from the fathers, from the beginning of time, yea, even from the beginning, or before the foundation of the earth, down to the present time, even the right of the firstborn, or the first man, who is Adam, or first father, through the fathers unto me.",
+
+                "verse4": "4. I sought for mine appointment unto the Priesthood according to the appointment of God unto the fathers concerning the seed.",
+
+                "verse5": "5. My fathers, having turned from their righteousness, and from the holy commandments which the Lord their God had given unto them, unto the worshiping of the gods of the heathen, utterly refused to hearken to my voice;"
+            },
+            {
+                "book": "Pearl of Great Price - Joseph Smith History",
+                "chapter": "1",
+                "verse": "68-73",
+                "verse68": "68. We still continued the work of translation, when, in the ensuing month (May, 1829), we on a certain day went into the woods to pray and inquire of the Lord respecting baptism for the remission of sins, that we found mentioned in the translation of the plates. While we were thus employed, praying and calling upon the Lord, a messenger from heaven descended in a cloud of light, and having laid his hands upon us, he ordained us, saying:",
+
+                "verse69": "69. Upon you my fellow servants, in the name of Messiah, I confer the Priesthood of Aaron, which holds the keys of the ministering of angels, and of the gospel of repentance, and of baptism by immersion for the remission of sins; and this shall never be taken again from the earth until the sons of Levi do offer again an offering unto the Lord in righteousness.",
+
+                "verse70": "70. He said this Aaronic Priesthood had not the power of laying on hands for the gift of the Holy Ghost, but that this should be conferred on us hereafter; and he commanded us to go and be baptized, and gave us directions that I should baptize Oliver Cowdery, and that afterwards he should baptize me.",
+
+                "verse71": "71. Accordingly we went and were baptized. I baptized him first, and afterwards he baptized me—after which I laid my hands upon his head and ordained him to the Aaronic Priesthood, and afterwards he laid his hands on me and ordained me to the same Priesthood—for so we were commanded.",
+
+                "verse72": "72. The messenger who visited us on this occasion and conferred this Priesthood upon us, said that his name was John, the same that is called John the Baptist in the New Testament, and that he acted under the direction of Peter, James and John, who held the keys of the Priesthood of Melchizedek, which Priesthood, he said, would in due time be conferred on us, and that I should be called the first Elder of the Church, and he (Oliver Cowdery) the second. It was on the fifteenth day of May, 1829, that we were ordained under the hand of this messenger, and baptized.",
+
+                "verse73": "73. Immediately on our coming up out of the water after we had been baptized, we experienced great and glorious blessings from our Heavenly Father. No sooner had I baptized Oliver Cowdery, than the Holy Ghost fell upon him, and he stood up and prophesied many things which should shortly come to pass. And again, so soon as I had been baptized by him, I also had the spirit of prophecy, when, standing up, I prophesied concerning the rise of this Church, and many other things connected with the Church, and this generation of the children of men. We were filled with the Holy Ghost, and rejoiced in the God of our salvation."
+            },
+            {
+                "book": "Pearl of Great Price - Articles of Faith",
+                "chapter": "1",
+                "verse": "6",
+                "verse6": "6. We believe in the same organization that existed in the Primitive Church, namely, apostles, prophets, pastors, teachers, evangelists, and so forth."
+            },
+
+        ]
+        
+    {
+        "topic": "Repentance",
+        "references": [        
+            {
+                "book": "Pslams",
+                "chapter": "24",
+                "verse": "3-4",
+                "verse3": "3. Who shall ascend into the hill of the Lord? or who shall stand in his holy place?",
+
+                "verse4": "4. He that hath clean hands, and a pure heart; who hath not lifted up his soul unto vanity, nor sworn deceitfully."
+            },
+            {
+                "book": "Isaiah",
+                "chapter": "1",
+                "verse": "16-20",
+                "verse16": "16. Wash you, make you clean; put away the evil of your doings from before mine eyes; cease to do evil;",
+
+                "verse17": "17. Learn to do well; seek judgment, relieve the oppressed, judge the fatherless, plead for the widow.",
+
+                "verse18": "18. Come now, and let us reason together, saith the Lord: though your sins be as scarlet, they shall be as white as snow; though they be red like crimson, they shall be as wool.",
+
+                "verse19": "19. If ye be willing and obedient, ye shall eat the good of the land:",
+
+                "verse20": "20. But if ye refuse and rebel, ye shall be devoured with the sword: for the mouth of the Lord hath spoken it."
+            },
+            {
+                "book": "Isaiah",
+                "chapter": "55",
+                "verse": "6-7",
+                "verse6": "6. Seek ye the Lord while he may be found, call ye upon him while he is near:",
+
+                "verse7": "7. Let the wicked forsake his way, and the unrighteous man his thoughts: and let him return unto the Lord, and he will have mercy upon him; and to our God, for he will abundantly pardon."
+            },
+            {
+                "book": "Ezekiel",
+                "chapter": "18",
+                "verse": "21-24",
+                "verse21": "21. But if the wicked will turn from all his sins that he hath committed, and keep all my statutes, and do that which is lawful and right, he shall surely live, he shall not die.",
+
+                "verse22": "22. All his transgressions that he hath committed, they shall not be mentioned unto him: in his righteousness that he hath done he shall live.",
+
+                "verse23": "23. Have I any pleasure at all that the wicked should die? saith the Lord God: and not that he should return from his ways, and live?",
+
+                "verse24": "24. But when the righteous turneth away from his righteousness, and committeth iniquity, and doeth according to all the abominations that the wicked man doeth, shall he live? All his righteousness that he hath done shall not be mentioned: in his trespass that he hath trespassed, and in his sin that he hath sinned, in them shall he die."
+            },
+            {
+                "book": "Ezekiel",
+                "chapter": "33",
+                "verse": "14-16",
+                "verse14": "14. Again, when I say unto the wicked, Thou shalt surely die; if he turn from his sin, and do that which is lawful and right;",
+
+                "verse15": "15. If the wicked restore the pledge, give again that he had robbed, walk in the statutes of life, without committing iniquity; he shall surely live, he shall not die.",
+
+                "verse16": "16. None of his sins that he hath committed shall be mentioned unto him: he hath done that which is lawful and right; he shall surely live."
+            },
+            {
+                "book": "Mark",
+                "chapter": "1",
+                "verse": "15-16",
+                "verse15": "15. And saying, The time is fulfilled, and the kingdom of God is at hand: repent ye, and believe the gospel.",
+
+                "verse16": "16. Now as he walked by the sea of Galilee, he saw Simon and Andrew his brother casting a net into the sea: for they were fishers."
+            },
+            {
+                "book": "Luke",
+                "chapter": "13",
+                "verse": "3",
+                "verse3": "3. I tell you, Nay: but, except ye repent, ye shall all likewise perish."
+            },
+            {
+                "book": "Luke",
+                "chapter": "15",
+                "verse": "11-32",
+                "verse11": "11. And he said, A certain man had two sons:",
+
+                "verse12": "12. And the younger of them said to his father, Father, give me the portion of goods that falleth to me. And he divided unto them his living.",
+
+                "verse13": "13. And not many days after the younger son gathered all together, and took his journey into a far country, and there wasted his substance with riotous living.",
+
+                "verse14": "14. And when he had spent all, there arose a mighty famine in that land; and he began to be in want.",
+
+                "verse15": "15. And he went and joined himself to a citizen of that country; and he sent him into his fields to feed swine.",
+
+                "verse16": "16. And he would fain have filled his belly with the husks that the swine did eat: and no man gave unto him.",
+
+                "verse17": "17. And when he came to himself, he said, How many hired servants of my father’s have bread enough and to spare, and I perish with hunger!",
+
+                "verse18": "18. I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee,",
+
+                "verse19": "19. And am no more worthy to be called thy son: make me as one of thy hired servants.",
+
+                "verse20": "20. And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him.",
+
+                "verse21": "21. And the son said unto him, Father, I have sinned against heaven, and in thy sight, and am no more worthy to be called thy son.",
+
+                "verse22": "22. But the father said to his servants, Bring forth the best robe, and put it on him; and put a ring on his hand, and shoes on his feet:",
+
+                "verse23": "23. And bring hither the fatted calf, and kill it; and let us eat, and be merry:",
+
+                "verse24": "24. For this my son was dead, and is alive again; he was lost, and is found. And they began to be merry.",
+
+                "verse25": "25. Now his elder son was in the field: and as he came and drew nigh to the house, he heard musick and dancing.",
+
+                "verse26": "26. And he called one of the servants, and asked what these things meant.",
+
+                "verse27": "27. And he said unto him, Thy brother is come; and thy father hath killed the fatted calf, because he hath received him safe and sound.",
+
+                "verse28": "28. And he was angry, and would not go in: therefore came his father out, and entreated him.",
+
+                "verse29": "29. And he answering said to his father, Lo, these many years do I serve thee, neither transgressed I at any time thy commandment: and yet thou never gavest me a kid, that I might make merry with my friends:",
+
+                "verse30": "30. But as soon as this thy son was come, which hath devoured thy living with harlots, thou hast killed for him the fatted calf.",
+
+                "verse31": "31. And he said unto him, Son, thou art ever with me, and all that I have is thine.",
+
+                "verse32": "32. It was meet that we should make merry, and be glad: for this thy brother was dead, and is alive again; and was lost, and is found."
+            },
+            {
+                "book": "Luke",
+                "chapter": "24",
+                "verse": "46-48",
+                "verse46": "46. And said unto them, Thus it is written, and thus it behoved Christ to suffer, and to rise from the dead the third day:",
+
+                "verse47": "47. And that repentance and remission of sins should be preached in his name among all nations, beginning at Jerusalem.",
+
+                "verse48": "48. And ye are witnesses of these things."
+            },
+            {
+                "book": "Acts",
+                "chapter": "3",
+                "verse": "19-21",
+                "verse19": "19. Repent ye therefore, and be converted, that your sins may be blotted out, when the times of refreshing shall come from the presence of the Lord;",
+
+                "verse20": "20. And he shall send Jesus Christ, which before was preached unto you:",
+
+                "verse21": "21. Whom the heaven must receive until the times of restitution of all things, which God hath spoken by the mouth of all his holy prophets since the world began."
+            },
+            {
+                "book": "Galatians",
+                "chapter": "6",
+                "verse": "7-8",
+                "verse7": "7. Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap.",
+
+                "verse8": "8. For he that soweth to his flesh shall of the flesh reap corruption; but he that soweth to the Spirit shall of the Spirit reap life everlasting."
+            },
+            {
+                "book": "Hebrews",
+                "chapter": "10",
+                "verse": "17",
+                "verse17": "17. And their sins and iniquities will I remember no more."
+            },
+            {
+                "book": "1 Nephi",
+                "chapter": "10",
+                "verse": "20-21",
+                "verse20": "20. Therefore remember, O man, for all thy doings thou shalt be brought into judgment.",
+
+                "verse21": "21. Wherefore, if ye have sought to do wickedly in the days of your probation, then ye are found unclean before the judgment-seat of God; and no unclean thing can dwell with God; wherefore, ye must be cast off forever."
+            },
+            {
+                "book": "Enos",
+                "chapter": "1",
+                "verse": "6-8",
+                "verse6": "6. And I, Enos, knew that God could not lie; wherefore, my guilt was swept away.",
+
+                "verse7": "7. And I said: Lord, how is it done?",
+
+                "verse8": "8. And he said unto me: Because of thy faith in Christ, whom thou hast never before heard nor seen. And many years pass away before he shall manifest himself in the flesh; wherefore, go to, thy faith hath made thee whole."
+            },
+            {
+                "book": "Mosiah",
+                "chapter": "2",
+                "verse": "38",
+                "verse38": "38. Therefore if that man repenteth not, and remaineth and dieth an enemy to God, the demands of divine justice do awaken his immortal soul to a lively sense of his own guilt, which doth cause him to shrink from the presence of the Lord, and doth fill his breast with guilt, and pain, and anguish, which is like an unquenchable fire, whose flame ascendeth up forever and ever."
+            },
+            {
+                "book": "Mosiah",
+                "chapter": "3",
+                "verse": "12",
+                "verse12": "12. But wo, wo unto him who knoweth that he rebelleth against God! For salvation cometh to none such except it be through repentance and faith on the Lord Jesus Christ."
+            },
+            {
+                "book": "Alma",
+                "chapter": "5",
+                "verse": "14-21",
+                "verse14": "14. And now behold, I ask of you, my brethren of the church, have ye spiritually been born of God? Have ye received his image in your countenances? Have ye experienced this mighty change in your hearts?",
+
+                "verse15": "15. Do ye exercise faith in the redemption of him who created you? Do you look forward with an eye of faith, and view this mortal body raised in immortality, and this corruption raised in incorruption, to stand before God to be judged according to the deeds which have been done in the mortal body?",
+
+                "verse16": "16. I say unto you, can you imagine to yourselves that ye hear the voice of the Lord, saying unto you, in that day: Come unto me ye blessed, for behold, your works have been the works of righteousness upon the face of the earth?",
+
+                "verse17": "17. Or do ye imagine to yourselves that ye can lie unto the Lord in that day, and say—Lord, our works have been righteous works upon the face of the earth—and that he will save you?",
+
+                "verse18": "18. Or otherwise, can ye imagine yourselves brought before the tribunal of God with your souls filled with guilt and remorse, having a remembrance of all your guilt, yea, a perfect remembrance of all your wickedness, yea, a remembrance that ye have set at defiance the commandments of God?",
+
+                "verse19": "19. I say unto you, can ye look up to God at that day with a pure heart and clean hands? I say unto you, can you look up, having the image of God engraven upon your countenances?",
+
+                "verse20": "20. I say unto you, can ye think of being saved when you have yielded yourselves to become subjects to the devil?",
+
+                "verse21": "21. I say unto you, ye will know at that day that ye cannot be saved; for there can no man be saved except his garments are washed white; yea, his garments must be purified until they are cleansed from all stain, through the blood of him of whom it has been spoken by our fathers, who should come to redeem his people from their sins."
+            },
+            {
+                "book": "Alma",     HERE!
+                "chapter": "11",
+                "verse": "37",
+                "verse37": ""
+            },
+
+            {
+                "book": "book",
+                "chapter": "7",
+                "verse": "1-2",
+                "text": ""
+            },
+
 
 
         ]
