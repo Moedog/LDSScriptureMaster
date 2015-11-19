@@ -7454,18 +7454,341 @@
                 "verse21": "21. I say unto you, ye will know at that day that ye cannot be saved; for there can no man be saved except his garments are washed white; yea, his garments must be purified until they are cleansed from all stain, through the blood of him of whom it has been spoken by our fathers, who should come to redeem his people from their sins."
             },
             {
-                "book": "Alma",     HERE!
+                "book": "Alma",
                 "chapter": "11",
                 "verse": "37",
-                "verse37": ""
+                "verse37": "37. And I say unto you again that he cannot save them in their sins; for I cannot deny his word, and he hath said that no unclean thing can inherit the kingdom of heaven; therefore, how can ye be saved, except ye inherit the kingdom of heaven? Therefore, ye cannot be saved in your sins."
             },
 
+            {
+                "book": "Alma",
+                "chapter": "12",
+                "verse": "24",
+                "verse24": "24. And we see that death comes upon mankind, yea, the death which has been spoken of by Amulek, which is the temporal death; nevertheless there was a space granted unto man in which he might repent; therefore this life became a probationary state; a time to prepare to meet God; a time to prepare for that endless state which has been spoken of by us, which is after the resurrection of the dead."
+            },
+            {
+                "book": "Alma",
+                "chapter": "22",
+                "verse": "6",
+                "verse6": "6. And also, what is this that Ammon said—If ye will repent ye shall be saved, and if ye will not repent, ye shall be cast off at the last day?"
+            },
+            {
+                "book": "Alma",
+                "chapter": "34",
+                "verse": "16-17, 30-36",
+                "verse16": "16. And thus mercy can satisfy the demands of justice, and encircles them in the arms of safety, while he that exercises no faith unto repentance is exposed to the whole law of the demands of justice; therefore only unto him that has faith unto repentance is brought about the great and eternal plan of redemption.",
+
+                "verse17": "17. Therefore may God grant unto you, my brethren, that ye may begin to exercise your faith unto repentance, that ye begin to call upon his holy name, that he would have mercy upon you;",
+
+                "verse30": "30. And now, my brethren, I would that, after ye have received so many witnesses, seeing that the holy scriptures testify of these things, ye come forth and bring fruit unto repentance.",
+
+                "verse31": "31. Yea, I would that ye would come forth and harden not your hearts any longer; for behold, now is the time and the day of your salvation; and therefore, if ye will repent and harden not your hearts, immediately shall the great plan of redemption be brought about unto you.",
+
+                "verse32": "32. For behold, this life is the time for men to prepare to meet God; yea, behold the day of this life is the day for men to perform their labors.",
+
+                "verse33": "33. And now, as I said unto you before, as ye have had so many witnesses, therefore, I beseech of you that ye do not procrastinate the day of your repentance until the end; for after this day of life, which is given us to prepare for eternity, behold, if we do not improve our time while in this life, then cometh the night of darkness wherein there can be no labor performed.",
+
+                "verse34": "34. Ye cannot say, when ye are brought to that awful crisis, that I will repent, that I will return to my God. Nay, ye cannot say this; for that same spirit which doth possess your bodies at the time that ye go out of this life, that same spirit will have power to possess your body in that eternal world.",
+
+                "verse35": "35. For behold, if ye have procrastinated the day of your repentance even until death, behold, ye have become subjected to the spirit of the devil, and he doth seal you his; therefore, the Spirit of the Lord hath withdrawn from you, and hath no place in you, and the devil hath all power over you; and this is the final state of the wicked.",
+
+                "verse36": "36. And this I know, because the Lord hath said he dwelleth not in unholy temples, but in the hearts of the righteous doth he dwell; yea, and he has also said that the righteous shall sit down in his kingdom, to go no more out; but their garments should be made white through the blood of the Lamb."
+            },
+            {
+                "book": "Alma",
+                "chapter": "36",
+                "verse": "10-21",
+                "verse10": "10. And it came to pass that I fell to the earth; and it was for the space of three days and three nights that I could not open my mouth, neither had I the use of my limbs.",
+
+                "verse11": "11. And the angel spake more things unto me, which were heard by my brethren, but I did not hear them; for when I heard the words—If thou wilt be destroyed of thyself, seek no more to destroy the church of God—I was struck with such great fear and amazement lest perhaps I should be destroyed, that I fell to the earth and I did hear no more.",
+
+                "verse12": "12. But I was racked with eternal torment, for my soul was harrowed up to the greatest degree and racked with all my sins.",
+
+                "verse13": "13. Yea, I did remember all my sins and iniquities, for which I was tormented with the pains of hell; yea, I saw that I had rebelled against my God, and that I had not kept his holy commandments.",
+
+                "verse14": "14. Yea, and I had murdered many of his children, or rather led them away unto destruction; yea, and in fine so great had been my iniquities, that the very thought of coming into the presence of my God did rack my soul with inexpressible horror.",
+
+                "verse15": "15. Oh, thought I, that I could be banished and become extinct both soul and body, that I might not be brought to stand in the presence of my God, to be judged of my deeds.",
+
+                "verse16": "16. And now, for three days and for three nights was I racked, even with the pains of a damned soul.",
+
+                "verse17": "17. And it came to pass that as I was thus racked with torment, while I was harrowed up by the memory of my many sins, behold, I remembered also to have heard my father prophesy unto the people concerning the coming of one Jesus Christ, a Son of God, to atone for the sins of the world.",
+
+                "verse18": "18. Now, as my mind caught hold upon this thought, I cried within my heart: O Jesus, thou Son of God, have mercy on me, who am in the gall of bitterness, and am encircled about by the everlasting chains of death.",
+
+                "verse19": "19. And now, behold, when I thought this, I could remember my pains no more; yea, I was harrowed up by the memory of my sins no more.",
+
+                "verse20": "20. And oh, what joy, and what marvelous light I did behold; yea, my soul was filled with joy as exceeding as was my pain!",
+
+                "verse21": "21. Yea, I say unto you, my son, that there could be nothing so exquisite and so bitter as were my pains. Yea, and again I say unto you, my son, that on the other hand, there can be nothing so exquisite and sweet as was my joy."
+            },
+            {
+                "book": "Alma",
+                "chapter": "42",
+                "verse": "4-24",
+                "verse4": "4. And thus we see, that there was a time granted unto man to repent, yea, a probationary time, a time to repent and serve God.",
+
+                "verse5": "5. For behold, if Adam had put forth his hand immediately, and partaken of the tree of life, he would have lived forever, according to the word of God, having no space for repentance; yea, and also the word of God would have been void, and the great plan of salvation would have been frustrated.",
+
+                "verse6": "6. But behold, it was appointed unto man to die—therefore, as they were cut off from the tree of life they should be cut off from the face of the earth—and man became lost forever, yea, they became fallen man.",
+
+                "verse7": "7. And now, ye see by this that our first parents were cut off both temporally and spiritually from the presence of the Lord; and thus we see they became subjects to follow after their own will.",
+
+                "verse8": "8. Now behold, it was not expedient that man should be reclaimed from this temporal death, for that would destroy the great plan of happiness.",
+
+                "verse9": "9. Therefore, as the soul could never die, and the fall had brought upon all mankind a spiritual death as well as a temporal, that is, they were cut off from the presence of the Lord, it was expedient that mankind should be reclaimed from this spiritual death.",
+
+                "verse10": "10. Therefore, as they had become carnal, sensual, and devilish, by nature, this probationary state became a state for them to prepare; it became a preparatory state.",
+
+                "verse11": "11. And now remember, my son, if it were not for the plan of redemption, (laying it aside) as soon as they were dead their souls were miserable, being cut off from the presence of the Lord.",
+
+                "verse12": "12. And now, there was no means to reclaim men from this fallen state, which man had brought upon himself because of his own disobedience;",
+
+                "verse13": "13. Therefore, according to justice, the plan of redemption could not be brought about, only on conditions of repentance of men in this probationary state, yea, this preparatory state; for except it were for these conditions, mercy could not take effect except it should destroy the work of justice. Now the work of justice could not be destroyed; if so, God would cease to be God.",
+
+                "verse14": "14. And thus we see that all mankind were fallen, and they were in the grasp of justice; yea, the justice of God, which consigned them forever to be cut off from his presence.",
+
+                "verse15": "15. And now, the plan of mercy could not be brought about except an atonement should be made; therefore God himself atoneth for the sins of the world, to bring about the plan of mercy, to appease the demands of justice, that God might be a perfect, just God, and a merciful God also.",
+
+                "verse16": "16. Now, repentance could not come unto men except there were a punishment, which also was eternal as the life of the soul should be, affixed opposite to the plan of happiness, which was as eternal also as the life of the soul.",
+
+                "verse17": "17. Now, how could a man repent except he should sin? How could he sin if there was no law? How could there be a law save there was a punishment?",
+
+                "verse18": "18. Now, there was a punishment affixed, and a just law given, which brought remorse of conscience unto man.",
+
+                "verse19": "19. Now, if there was no law given—if a man murdered he should die—would he be afraid he would die if he should murder?",
+
+                "verse20": "20. And also, if there was no law given against sin men would not be afraid to sin.",
+
+                "verse21": "21. And if there was no law given, if men sinned what could justice do, or mercy either, for they would have no claim upon the creature?",
+
+                "verse22": "22. But there is a law given, and a punishment affixed, and a repentance granted; which repentance, mercy claimeth; otherwise, justice claimeth the creature and executeth the law, and the law inflicteth the punishment; if not so, the works of justice would be destroyed, and God would cease to be God.",
+
+                "verse23": "23. But God ceaseth not to be God, and mercy claimeth the penitent, and mercy cometh because of the atonement; and the atonement bringeth to pass the resurrection of the dead; and the resurrection of the dead bringeth back men into the presence of God; and thus they are restored into his presence, to be judged according to their works, according to the law and justice.",
+
+                "verse24": "24. For behold, justice exerciseth all his demands, and also mercy claimeth all which is her own; and thus, none but the truly penitent are saved."
+            },
+            {
+                "book": "Helaman",
+                "chapter": "5",
+                "verse": "10-11",
+                "verse10": "10. And remember also the words which Amulek spake unto Zeezrom, in the city of Ammonihah; for he said unto him that the Lord surely should come to redeem his people, but that he should not come to redeem them in their sins, but to redeem them from their sins.",
+
+                "verse11": "11. And he hath power given unto him from the Father to redeem them from their sins because of repentance; therefore he hath sent his angels to declare the tidings of the conditions of repentance, which bringeth unto the power of the Redeemer, unto the salvation of their souls."
+            },
+            {
+                "book": "3 Nephi",
+                "chapter": "27",
+                "verse": "19",
+                "verse19": "19. And no unclean thing can enter into his kingdom; therefore nothing entereth into his rest save it be those who have washed their garments in my blood, because of their faith, and the repentance of all their sins, and their faithfulness unto the end."
+            },
+            {
+                "book": "Moroni",
+                "chapter": "6",
+                "verse": "1-4",
+                "verse1": "1. And now I speak concerning baptism. Behold, elders, priests, and teachers were baptized; and they were not baptized save they brought forth fruit meet that they were worthy of it.",
+
+                "verse2": "2. Neither did they receive any unto baptism save they came forth with a broken heart and a contrite spirit, and witnessed unto the church that they truly repented of all their sins.",
+
+                "verse3": "3. And none were received unto baptism save they took upon them the name of Christ, having a determination to serve him to the end.",
+
+                "verse4": "4. And after they had been received unto baptism, and were wrought upon and cleansed by the power of the Holy Ghost, they were numbered among the people of the church of Christ; and their names were taken, that they might be remembered and nourished by the good word of God, to keep them in the right way, to keep them continually watchful unto prayer, relying alone upon the merits of Christ, who was the author and the finisher of their faith."
+            },
+            {
+                "book": "Moroni",
+                "chapter": "8",
+                "verse": "24-26",
+                "verse24": "24. Behold, my son, this thing ought not to be; for repentance is unto them that are under condemnation and under the curse of a broken law.",
+
+                "verse25": "25. And the first fruits of repentance is baptism; and baptism cometh by faith unto the fulfilling the commandments; and the fulfilling the commandments bringeth remission of sins;",
+
+                "verse26": "26. And the remission of sins bringeth meekness, and lowliness of heart; and because of meekness and lowliness of heart cometh the visitation of the Holy Ghost, which Comforter filleth with hope and perfect love, which love endureth by diligence unto prayer, until the end shall come, when all the saints shall dwell with God."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "1",
+                "verse": "31-33",
+                "verse31": "31. For I the Lord cannot look upon sin with the least degree of allowance;",
+
+                "verse32": "32. Nevertheless, he that repents and does the commandments of the Lord shall be forgiven;",
+
+                "verse33": "33. And he that repents not, from him shall be taken even the light which he has received; for my Spirit shall not always strive with man, saith the Lord of Hosts."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "19",
+                "verse": "15-20",
+                "verse15": "15. Therefore I command you to repent—repent, lest I smite you by the rod of my mouth, and by my wrath, and by my anger, and your sufferings be sore—how sore you know not, how exquisite you know not, yea, how hard to bear you know not.",
+
+                "verse16": "16. For behold, I, God, have suffered these things for all, that they might not suffer if they would repent;",
+
+                "verse17": "17. But if they would not repent they must suffer even as I;",
+
+                "verse18": "18. Which suffering caused myself, even God, the greatest of all, to tremble because of pain, and to bleed at every pore, and to suffer both body and spirit—and would that I might not drink the bitter cup, and shrink—",
+
+                "verse19": "19. Nevertheless, glory be to the Father, and I partook and finished my preparations unto the children of men.",
+
+                "verse20": "20. Wherefore, I command you again to repent, lest I humble you with my almighty power; and that you confess your sins, lest you suffer these punishments of which I have spoken, of which in the smallest, yea, even in the least degree you have tasted at the time I withdrew my Spirit."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "20",
+                "verse": "37",
+                "verse37": "37. And again, by way of commandment to the church concerning the manner of baptism—All those who humble themselves before God, and desire to be baptized, and come forth with broken hearts and contrite spirits, and witness before the church that they have truly repented of all their sins, and are willing to take upon them the name of Jesus Christ, having a determination to serve him to the end, and truly manifest by their works that they have received of the Spirit of Christ unto the remission of their sins, shall be received by baptism into his church."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "58",
+                "verse": "42-43",
+                "verse42": "42. Behold, he who has repented of his sins, the same is forgiven, and I, the Lord, remember them no more.",
+
+                "verse43": "43. By this ye may know if a man repenteth of his sins—behold, he will confess them and forsake them."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "82",
+                "verse": "7",
+                "verse7": "7. And now, verily I say unto you, I, the Lord, will not lay any sin to your charge; go your ways and sin no more; but unto that soul who sinneth shall the former sins return, saith the Lord your God."
+            },
+            {
+                "book": "Pearl of Great Price - Articles of Faith",
+                "chapter": "1",
+                "verse": "2, 4",
+                "verse2": "2. We believe that men will be punished for their own sins, and not for Adam’s transgression.",
+
+                "verse4": "4. We believe that the first principles and ordinances of the Gospel are: first, Faith in the Lord Jesus Christ; second, Repentance; third, Baptism by immersion for the remission of sins; fourth, Laying on of hands for the gift of the Holy Ghost."
+            }
+
+        ]
+        
+    {
+        "topic": "Restoration",
+        "references": [         
+            {
+                "book": "Isaiah",
+                "chapter": "29",
+                "verse": "13-14",
+                "verse13": "13. Wherefore the Lord said, Forasmuch as this people draw near me with their mouth, and with their lips do honour me, but have removed their heart far from me, and their fear toward me is taught by the precept of men:",
+
+                "verse14": "14. Therefore, behold, I will proceed to do a marvellous work among this people, even a marvellous work and a wonder: for the wisdom of their wise men shall perish, and the understanding of their prudent men shall be hid."
+            },
+            {
+                "book": "Jeremiah",
+                "chapter": "16",
+                "verse": "16",
+                "verse16": "16. Behold, I will send for many fishers, saith the Lord, and they shall fish them; and after will I send for many hunters, and they shall hunt them from every mountain, and from every hill, and out of the holes of the rocks."
+            },
+            {
+                "book": "Daniel",
+                "chapter": "2",
+                "verse": "44-45",
+                "verse44": "44. And in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed: and the kingdom shall not be left to other people, but it shall break in pieces and consume all these kingdoms, and it shall stand for ever.",
+
+                "verse45": "45. Forasmuch as thou sawest that the stone was cut out of the mountain without hands, and that it brake in pieces the iron, the brass, the clay, the silver, and the gold; the great God hath made known to the king what shall come to pass hereafter: and the dream is certain, and the interpretation thereof sure."
+            },
+            {
+                "book": "Amos",
+                "chapter": "3",
+                "verse": "7",
+                "verse7": "7. Surely the Lord God will do nothing, but he revealeth his secret unto his servants the prophets."
+            },
+            {
+                "book": "Acts",
+                "chapter": "3",
+                "verse": "19-26",
+                "verse19": "19. Repent ye therefore, and be converted, that your sins may be blotted out, when the times of refreshing shall come from the presence of the Lord;",
+
+                "verse20": "20. And he shall send Jesus Christ, which before was preached unto you:",
+
+                "verse21": "21. Whom the heaven must receive until the times of restitution of all things, which God hath spoken by the mouth of all his holy prophets since the world began.",
+
+                "verse22": "22. For Moses truly said unto the fathers, A prophet shall the Lord your God raise up unto you of your brethren, like unto me; him shall ye hear in all things whatsoever he shall say unto you.",
+
+                "verse23": "23. And it shall come to pass, that every soul, which will not hear that prophet, shall be destroyed from among the people.",
+
+                "verse24": "24. Yea, and all the prophets from Samuel and those that follow after, as many as have spoken, have likewise foretold of these days.",
+
+                "verse25": "25. Ye are the children of the prophets, and of the covenant which God made with our fathers, saying unto Abraham, And in thy seed shall all the kindreds of the earth be blessed.",
+
+                "verse26": "26. Unto you first God, having raised up his Son Jesus, sent him to bless you, in turning away every one of you from his iniquities."
+            },
+            {
+                "book": "Ephesians",
+                "chapter": "2",
+                "verse": "19-21",
+                "verse19": "19. Now therefore ye are no more strangers and foreigners, but fellowcitizens with the saints, and of the household of God;",
+
+                "verse20": "20. And are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone;",
+
+                "verse21": "21. In whom all the building fitly framed together groweth unto an holy temple in the Lord:"
+            },
+            {
+                "book": "Revelation",
+                "chapter": "14",
+                "verse": "6-11",
+                "verse6": "6. And I saw another angel fly in the midst of heaven, having the everlasting gospel to preach unto them that dwell on the earth, and to every nation, and kindred, and tongue, and people,",
+
+                "verse7": "7. Saying with a loud voice, Fear God, and give glory to him; for the hour of his judgment is come: and worship him that made heaven, and earth, and the sea, and the fountains of waters.",
+
+                "verse8": "8. And there followed another angel, saying, Babylon is fallen, is fallen, that great city, because she made all nations drink of the wine of the wrath of her fornication.",
+
+                "verse9": "9. And the third angel followed them, saying with a loud voice, If any man worship the beast and his image, and receive his mark in his forehead, or in his hand,",
+
+                "verse10": "10. The same shall drink of the wine of the wrath of God, which is poured out without mixture into the cup of his indignation; and he shall be tormented with fire and brimstone in the presence of the holy angels, and in the presence of the Lamb:",
+
+                "verse11": "11. And the smoke of their torment ascendeth up for ever and ever: and they have no rest day nor night, who worship the beast and his image, and whosoever receiveth the mark of his name."
+            },
+            {
+                "book": "1 Nephi",     HERE
+                "chapter": "13",
+                "verse": "32-42",
+                "verse32": ""
+            },
             {
                 "book": "book",
                 "chapter": "7",
                 "verse": "1-2",
                 "text": ""
             },
+            {
+                "book": "book",
+                "chapter": "7",
+                "verse": "1-2",
+                "text": ""
+            },
+            {
+                "book": "book",
+                "chapter": "7",
+                "verse": "1-2",
+                "text": ""
+            },
+            {
+                "book": "book",
+                "chapter": "7",
+                "verse": "1-2",
+                "text": ""
+            },
+            {
+                "book": "book",
+                "chapter": "7",
+                "verse": "1-2",
+                "text": ""
+            },
+            {
+                "book": "book",
+                "chapter": "7",
+                "verse": "1-2",
+                "text": ""
+            },
+            {
+                "book": "book",
+                "chapter": "7",
+                "verse": "1-2",
+                "text": ""
+            },
+
+
+
 
 
 
