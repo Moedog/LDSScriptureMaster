@@ -7739,28 +7739,346 @@
                 "verse11": "11. And the smoke of their torment ascendeth up for ever and ever: and they have no rest day nor night, who worship the beast and his image, and whosoever receiveth the mark of his name."
             },
             {
-                "book": "1 Nephi",     HERE
+                "book": "1 Nephi",
                 "chapter": "13",
                 "verse": "32-42",
-                "verse32": ""
+                "verse32": "32. Neither will the Lord God suffer that the Gentiles shall forever remain in that awful state of blindness, which thou beholdest they are in, because of the plain and most precious parts of the gospel of the Lamb which have been kept back by that abominable church, whose formation thou hast seen.",
+
+                "verse33"; "33. Wherefore saith the Lamb of God: I will be merciful unto the Gentiles, unto the visiting of the remnant of the house of Israel in great judgment.",
+
+                "verse34": "34. And it came to pass that the angel of the Lord spake unto me, saying: Behold, saith the Lamb of God, after I have visited the remnant of the house of Israel—and this remnant of whom I speak is the seed of thy father—wherefore, after I have visited them in judgment, and smitten them by the hand of the Gentiles, and after the Gentiles do stumble exceedingly, because of the most plain and precious parts of the gospel of the Lamb which have been kept back by that abominable church, which is the mother of harlots, saith the Lamb—I will be merciful unto the Gentiles in that day, insomuch that I will bring forth unto them, in mine own power, much of my gospel, which shall be plain and precious, saith the Lamb.",
+
+                "verse35": "35. For, behold, saith the Lamb: I will manifest myself unto thy seed, that they shall write many things which I shall minister unto them, which shall be plain and precious; and after thy seed shall be destroyed, and dwindle in unbelief, and also the seed of thy brethren, behold, these things shall be hid up, to come forth unto the Gentiles, by the gift and power of the Lamb.",
+
+                "verse36": "36. And in them shall be written my gospel, saith the Lamb, and my rock and my salvation.",
+
+                "verse37": "37. And blessed are they who shall seek to bring forth my Zion at that day, for they shall have the gift and the power of the Holy Ghost; and if they endure unto the end they shall be lifted up at the last day, and shall be saved in the everlasting kingdom of the Lamb; and whoso shall publish peace, yea, tidings of great joy, how beautiful upon the mountains shall they be.",
+
+                "verse38": "38. And it came to pass that I beheld the remnant of the seed of my brethren, and also the book of the Lamb of God, which had proceeded forth from the mouth of the Jew, that it came forth from the Gentiles unto the remnant of the seed of my brethren.",
+
+                "verse39": "39. And after it had come forth unto them I beheld other books, which came forth by the power of the Lamb, from the Gentiles unto them, unto the convincing of the Gentiles and the remnant of the seed of my brethren, and also the Jews who were scattered upon all the face of the earth, that the records of the prophets and of the twelve apostles of the Lamb are true.",
+
+                "verse40": "40. And the angel spake unto me, saying: These last records, which thou hast seen among the Gentiles, shall establish the truth of the first, which are of the twelve apostles of the Lamb, and shall make known the plain and precious things which have been taken away from them; and shall make known to all kindreds, tongues, and people, that the Lamb of God is the Son of the Eternal Father, and the Savior of the world; and that all men must come unto him, or they cannot be saved.",
+
+                "verse41": "41. And they must come according to the words which shall be established by the mouth of the Lamb; and the words of the Lamb shall be made known in the records of thy seed, as well as in the records of the twelve apostles of the Lamb; wherefore they both shall be established in one; for there is one God and one Shepherd over all the earth.",
+
+                "verse42": "42. And the time cometh that he shall manifest himself unto all nations, both unto the Jews and also unto the Gentiles; and after he has manifested himself unto the Jews and also unto the Gentiles, then he shall manifest himself unto the Gentiles and also unto the Jews, and the last shall be first, and the first shall be last."
             },
             {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
+                "book": "1 Nephi",
+                "chapter": "15",
+                "verse": "1-16",
+                "verse1": "1. And it came to pass that after I, Nephi, had been carried away in the Spirit, and seen all these things, I returned to the tent of my father.",
+
+                "verse2": "2. And it came to pass that I beheld my brethren, and they were disputing one with another concerning the things which my father had spoken unto them.",
+
+                "verse3": "3. For he truly spake many great things unto them, which were hard to be understood, save a man should inquire of the Lord; and they being hard in their hearts, therefore they did not look unto the Lord as they ought.",
+
+                "verse4": "4. And now I, Nephi, was grieved because of the hardness of their hearts, and also, because of the things which I had seen, and knew they must unavoidably come to pass because of the great wickedness of the children of men.",
+
+                "verse5": "5. And it came to pass that I was overcome because of my afflictions, for I considered that mine afflictions were great above all, because of the destruction of my people, for I had beheld their fall.",
+
+                "verse6": "6. And it came to pass that after I had received strength I spake unto my brethren, desiring to know of them the cause of their disputations.",
+
+                "verse7": "7. And they said: Behold, we cannot understand the words which our father hath spoken concerning the natural branches of the olive tree, and also concerning the Gentiles.",
+
+                "verse8": "8. And I said unto them: Have ye inquired of the Lord?",
+
+                "verse9": "9. And they said unto me: We have not; for the Lord maketh no such thing known unto us.",
+
+                "verse10": "10. Behold, I said unto them: How is it that ye do not keep the commandments of the Lord? How is it that ye will perish, because of the hardness of your hearts?",
+
+                "verse11": "11. Do ye not remember the things which the Lord hath said?—If ye will not harden your hearts, and ask me in faith, believing that ye shall receive, with diligence in keeping my commandments, surely these things shall be made known unto you.",
+
+                "verse12": "12. Behold, I say unto you, that the house of Israel was compared unto an olive tree, by the Spirit of the Lord which was in our father; and behold are we not broken off from the house of Israel, and are we not a branch of the house of Israel?",
+
+                "verse13": "13. And now, the thing which our father meaneth concerning the grafting in of the natural branches through the fulness of the Gentiles, is, that in the latter days, when our seed shall have dwindled in unbelief, yea, for the space of many years, and many generations after the Messiah shall be manifested in body unto the children of men, then shall the fulness of the gospel of the Messiah come unto the Gentiles, and from the Gentiles unto the remnant of our seed—",
+
+                "verse14": "14. And at that day shall the remnant of our seed know that they are of the house of Israel, and that they are the covenant people of the Lord; and then shall they know and come to the knowledge of their forefathers, and also to the knowledge of the gospel of their Redeemer, which was ministered unto their fathers by him; wherefore, they shall come to the knowledge of their Redeemer and the very points of his doctrine, that they may know how to come unto him and be saved.",
+
+                "verse15": "15. And then at that day will they not rejoice and give praise unto their everlasting God, their rock and their salvation? Yea, at that day, will they not receive the strength and nourishment from the true vine? Yea, will they not come unto the true fold of God?",
+
+                "verse16": "16. Behold, I say unto you, Yea; they shall be remembered again among the house of Israel; they shall be grafted in, being a natural branch of the olive tree, into the true olive tree."
             },
             {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
+                "book": "2 Nephi",
+                "chapter": "3",
+                "verse": "5-11",
+                "verse5": "5. Wherefore, Joseph truly saw our day. And he obtained a promise of the Lord, that out of the fruit of his loins the Lord God would raise up a righteous branch unto the house of Israel; not the Messiah, but a branch which was to be broken off, nevertheless, to be remembered in the covenants of the Lord that the Messiah should be made manifest unto them in the latter days, in the spirit of power, unto the bringing of them out of darkness unto light—yea, out of hidden darkness and out of captivity unto freedom.",
+
+                "verse6": "6. For Joseph truly testified, saying: A seer shall the Lord my God raise up, who shall be a choice seer unto the fruit of my loins.",
+
+                "verse7": "7. Yea, Joseph truly said: Thus saith the Lord unto me: A choice seer will I raise up out of the fruit of thy loins; and he shall be esteemed highly among the fruit of thy loins. And unto him will I give commandment that he shall do a work for the fruit of thy loins, his brethren, which shall be of great worth unto them, even to the bringing of them to the knowledge of the covenants which I have made with thy fathers.",
+
+                "verse8": "8. And I will give unto him a commandment that he shall do none other work, save the work which I shall command him. And I will make him great in mine eyes; for he shall do my work.",
+
+                "verse9": "9. And he shall be great like unto Moses, whom I have said I would raise up unto you, to deliver my people, O house of Israel.",
+
+                "verse10": "10. And Moses will I raise up, to deliver thy people out of the land of Egypt.",
+
+                "verse11": "11. But a seer will I raise up out of the fruit of thy loins; and unto him will I give power to bring forth my word unto the seed of thy loins—and not to the bringing forth my word only, saith the Lord, but to the convincing them of my word, which shall have already gone forth among them."
             },
             {
-                "book": "book",
+                "book": "2 Nephi",
+                "chapter": "25",
+                "verse": "6-20",
+                "verse6": "6. But behold, I, Nephi, have not taught my children after the manner of the Jews; but behold, I, of myself, have dwelt at Jerusalem, wherefore I know concerning the regions round about; and I have made mention unto my children concerning the judgments of God, which hath come to pass among the Jews, unto my children, according to all that which Isaiah hath spoken, and I do not write them.",
+
+                "verse7": "7. But behold, I proceed with mine own prophecy, according to my plainness; in the which I know that no man can err; nevertheless, in the days that the prophecies of Isaiah shall be fulfilled men shall know of a surety, at the times when they shall come to pass.",
+
+                "verse8": "8. Wherefore, they are of worth unto the children of men, and he that supposeth that they are not, unto them will I speak particularly, and confine the words unto mine own people; for I know that they shall be of great worth unto them in the last days; for in that day shall they understand them; wherefore, for their good have I written them.",
+
+                "verse9": "9. And as one generation hath been destroyed among the Jews because of iniquity, even so have they been destroyed from generation to generation according to their iniquities; and never hath any of them been destroyed save it were foretold them by the prophets of the Lord.",
+
+                "verse10": "10. Wherefore, it hath been told them concerning the destruction which should come upon them, immediately after my father left Jerusalem; nevertheless, they hardened their hearts; and according to my prophecy they have been destroyed, save it be those which are carried away captive into Babylon.",
+
+                "verse11": "11. And now this I speak because of the spirit which is in me. And notwithstanding they have been carried away they shall return again, and possess the land of Jerusalem; wherefore, they shall be restored again to the land of their inheritance.",
+
+                "verse12": "12. But, behold, they shall have wars, and rumors of wars; and when the day cometh that the Only Begotten of the Father, yea, even the Father of heaven and of earth, shall manifest himself unto them in the flesh, behold, they will reject him, because of their iniquities, and the hardness of their hearts, and the stiffness of their necks.",
+
+                "verse13": "13. Behold, they will crucify him; and after he is laid in a sepulchre for the space of three days he shall rise from the dead, with healing in his wings; and all those who shall believe on his name shall be saved in the kingdom of God. Wherefore, my soul delighteth to prophesy concerning him, for I have seen his day, and my heart doth magnify his holy name.",
+
+                "verse14": "14. And behold it shall come to pass that after the Messiah hath risen from the dead, and hath manifested himself unto his people, unto as many as will believe on his name, behold, Jerusalem shall be destroyed again; for wo unto them that fight against God and the people of his church.",
+
+                "verse15": "15. Wherefore, the Jews shall be scattered among all nations; yea, and also Babylon shall be destroyed; wherefore, the Jews shall be scattered by other nations.",
+
+                "verse16": "16. And after they have been scattered, and the Lord God hath scourged them by other nations for the space of many generations, yea, even down from generation to generation until they shall be persuaded to believe in Christ, the Son of God, and the atonement, which is infinite for all mankind—and when that day shall come that they shall believe in Christ, and worship the Father in his name, with pure hearts and clean hands, and look not forward any more for another Messiah, then, at that time, the day will come that it must needs be expedient that they should believe these things.",
+
+                "verse17": "17. And the Lord will set his hand again the second time to restore his people from their lost and fallen state. Wherefore, he will proceed to do a marvelous work and a wonder among the children of men.",
+
+                "verse18": "18. Wherefore, he shall bring forth his words unto them, which words shall judge them at the last day, for they shall be given them for the purpose of convincing them of the true Messiah, who was rejected by them; and unto the convincing of them that they need not look forward any more for a Messiah to come, for there should not any come, save it should be a false Messiah which should deceive the people; for there is save one Messiah spoken of by the prophets, and that Messiah is he who should be rejected of the Jews.",
+
+                "verse19": "19. For according to the words of the prophets, the Messiah cometh in six hundred years from the time that my father left Jerusalem; and according to the words of the prophets, and also the word of the angel of God, his name shall be Jesus Christ, the Son of God.",
+
+                "verse20": "20. And now, my brethren, I have spoken plainly that ye cannot err. And as the Lord God liveth that brought Israel up out of the land of Egypt, and gave unto Moses power that he should heal the nations after they had been bitten by the poisonous serpents, if they would cast their eyes unto the serpent which he did raise up before them, and also gave him power that he should smite the rock and the water should come forth; yea, behold I say unto you, that as these things are true, and as the Lord God liveth, there is none other name given under heaven save it be this Jesus Christ, of which I have spoken, whereby man can be saved."
+            },
+            {
+                "book": "2 Nephi",
+                "chapter": "29",
+                "verse": "3",
+                "verse3": "3. And because my words shall hiss forth—many of the Gentiles shall say: A Bible! A Bible! We have got a Bible, and there cannot be any more Bible."
+            },
+            {
+                "book": "Helaman",
+                "chapter": "3",
+                "verse": "29",
+                "verse29": "29. Yea, we see that whosoever will may lay hold upon the word of God, which is quick and powerful, which shall divide asunder all the cunning and the snares and the wiles of the devil, and lead the man of Christ in a strait and narrow course across that everlasting gulf of misery which is prepared to engulf the wicked—"
+            },
+            {
+                "book": "Mormon",
+                "chapter": "9",
+                "verse": "13",
+                "verse13": "13. And because of the redemption of man, which came by Jesus Christ, they are brought back into the presence of the Lord; yea, this is wherein all men are redeemed, because the death of Christ bringeth to pass the resurrection, which bringeth to pass a redemption from an endless sleep, from which sleep all men shall be awakened by the power of God when the trump shall sound; and they shall come forth, both small and great, and all shall stand before his bar, being redeemed and loosed from this eternal band of death, which death is a temporal death."
+            },
+            {
+                "book": "Moroni",
                 "chapter": "7",
-                "verse": "1-2",
-                "text": ""
+                "verse": "29-32",
+                "verse29": "29. And because he hath done this, my beloved brethren, have miracles ceased? Behold I say unto you, Nay; neither have angels ceased to minister unto the children of men.",
+
+                "verse30": "30. For behold, they are subject unto him, to minister according to the word of his command, showing themselves unto them of strong faith and a firm mind in every form of godliness.",
+
+                "verse31": "31. And the office of their ministry is to call men unto repentance, and to fulfil and to do the work of the covenants of the Father, which he hath made unto the children of men, to prepare the way among the children of men, by declaring the word of Christ unto the chosen vessels of the Lord, that they may bear testimony of him.",
+
+                "verse32": "32. And by so doing, the Lord God prepareth the way that the residue of men may have faith in Christ, that the Holy Ghost may have place in their hearts, according to the power thereof; and after this manner bringeth to pass the Father, the covenants which he hath made unto the children of men."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "1",
+                "verse": "17-18, 29-30, 37-38",
+                "verse17": "17. Wherefore, I the Lord, knowing the calamity which should come upon the inhabitants of the earth, called upon my servant Joseph Smith, Jun., and spake unto him from heaven, and gave him commandments;",
+
+                "verse18": "18. And also gave commandments to others, that they should proclaim these things unto the world; and all this that it might be fulfilled, which was written by the prophets—",
+
+                "verse29": "29. And after having received the record of the Nephites, yea, even my servant Joseph Smith, Jun., might have power to translate through the mercy of God, by the power of God, the Book of Mormon.",
+
+                "verse30": "30. And also those to whom these commandments were given, might have power to lay the foundation of this church, and to bring it forth out of obscurity and out of darkness, the only true and living church upon the face of the whole earth, with which I, the Lord, am well pleased, speaking unto the church collectively and not individually—",
+
+                "verse37": "37. Search these commandments, for they are true and faithful, and the prophecies and promises which are in them shall all be fulfilled.",
+
+                "verse38": "38. What I the Lord have spoken, I have spoken, and I excuse not myself; and though the heavens and the earth pass away, my word shall not pass away, but shall all be fulfilled, whether by mine own voice or by the voice of my servants, it is the same."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "5",
+                "verse": "9-10",
+                "verse9": "9 Behold, verily I say unto you, I have reserved those things which I have entrusted unto you, my servant Joseph, for a wise purpose in me, and it shall be made known unto future generations;",
+
+                "verse10": "10. But this generation shall have my word through you;"
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "13",
+                "verse": "1",
+                "verse1": "1. Upon you my fellow servants, in the name of Messiah I confer the Priesthood of Aaron, which holds the keys of the ministering of angels, and of the gospel of repentance, and of baptism by immersion for the remission of sins; and this shall never be taken again from the earth, until the sons of Levi do offer again an offering unto the Lord in righteousness."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "20",
+                "verse": "1-4",
+                "verse1": "1. The rise of the Church of Christ in these last days, being one thousand eight hundred and thirty years since the coming of our Lord and Savior Jesus Christ in the flesh, it being regularly organized and established agreeable to the laws of our country, by the will and commandments of God, in the fourth month, and on the sixth day of the month which is called April—",
+
+                "verse2": "2. Which commandments were given to Joseph Smith, Jun., who was called of God, and ordained an apostle of Jesus Christ, to be the first elder of this church;",
+
+                "verse3": "3. And to Oliver Cowdery, who was also called of God, an apostle of Jesus Christ, to be the second elder of this church, and ordained under his hand;",
+
+                "verse4": "4. And this according to the grace of our Lord and Savior Jesus Christ, to whom be all glory, both now and forever. Amen."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "27",
+                "verse": "5-13",
+                "verse5": "5. Behold, this is wisdom in me; wherefore, marvel not, for the hour cometh that I will drink of the fruit of the vine with you on the earth, and with Moroni, whom I have sent unto you to reveal the Book of Mormon, containing the fulness of my everlasting gospel, to whom I have committed the keys of the record of the stick of Ephraim;",
+
+                "verse6": "6. And also with Elias, to whom I have committed the keys of bringing to pass the restoration of all things spoken by the mouth of all the holy prophets since the world began, concerning the last days;",
+
+                "verse7": "7. And also John the son of Zacharias, which Zacharias he (Elias) visited and gave promise that he should have a son, and his name should be John, and he should be filled with the spirit of Elias;",
+
+                "verse8": "8. Which John I have sent unto you, my servants, Joseph Smith, Jun., and Oliver Cowdery, to ordain you unto the first priesthood which you have received, that you might be called and ordained even as Aaron;",
+
+                "verse9": "9. And also Elijah, unto whom I have committed the keys of the power of turning the hearts of the fathers to the children, and the hearts of the children to the fathers, that the whole earth may not be smitten with a curse;",
+
+                "verse10": "10. And also with Joseph and Jacob, and Isaac, and Abraham, your fathers, by whom the promises remain;",
+
+                "verse11": "11. And also with Michael, or Adam, the father of all, the prince of all, the ancient of days;",
+
+                "verse12": "12. And also with Peter, and James, and John, whom I have sent unto you, by whom I have ordained you and confirmed you to be apostles, and especial witnesses of my name, and bear the keys of your ministry and of the same things which I revealed unto them;",
+
+                "verse13": "13. Unto whom I have committed the keys of my kingdom, and a dispensation of the gospel for the last times; and for the fulness of times, in the which I will gather together in one all things, both which are in heaven, and which are on earth;"
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "35",
+                "verse": "17",
+                "verse17": "17. And I have sent forth the fulness of my gospel by the hand of my servant Joseph; and in weakness have I blessed him;"
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "110",
+                "verse": "1-16",
+                "verse1": "1. The veil was taken from our minds, and the eyes of our understanding were opened.",
+
+                "verse2": "2. We saw the Lord standing upon the breastwork of the pulpit, before us; and under his feet was a paved work of pure gold, in color like amber.",
+
+                "verse3": "3. His eyes were as a flame of fire; the hair of his head was white like the pure snow; his countenance shone above the brightness of the sun; and his voice was as the sound of the rushing of great waters, even the voice of Jehovah, saying:",
+
+                "verse4": "4. I am the first and the last; I am he who liveth, I am he who was slain; I am your advocate with the Father.",
+
+                "verse5": "5. Behold, your sins are forgiven you; you are clean before me; therefore, lift up your heads and rejoice.",
+
+                "verse6": "6. Let the hearts of your brethren rejoice, and let the hearts of all my people rejoice, who have, with their might, built this house to my name.",
+
+                "verse7": "7. For behold, I have accepted this house, and my name shall be here; and I will manifest myself to my people in mercy in this house.",
+
+                "verse8": "8. Yea, I will appear unto my servants, and speak unto them with mine own voice, if my people will keep my commandments, and do not pollute this holy house.",
+
+                "verse9": "9. Yea the hearts of thousands and tens of thousands shall greatly rejoice in consequence of the blessings which shall be poured out, and the endowment with which my servants have been endowed in this house.",
+
+                "verse10": "10. And the fame of this house shall spread to foreign lands; and this is the beginning of the blessing which shall be poured out upon the heads of my people. Even so. Amen.",
+
+                "verse11": "11. After this vision closed, the heavens were again opened unto us; and Moses appeared before us, and committed unto us the keys of the gathering of Israel from the four parts of the earth, and the leading of the ten tribes from the land of the north.",
+
+                "verse12": "12. After this, Elias appeared, and committed the dispensation of the gospel of Abraham, saying that in us and our seed all generations after us should be blessed.",
+
+                "verse13": "13. After this vision had closed, another great and glorious vision burst upon us; for Elijah the prophet, who was taken to heaven without tasting death, stood before us, and said:",
+
+                "verse14": "14. Behold, the time has fully come, which was spoken of by the mouth of Malachi—testifying that he [Elijah] should be sent, before the great and dreadful day of the Lord come—",
+
+                "verse15": "15. To turn the hearts of the fathers to the children, and the children to the fathers, lest the whole earth be smitten with a curse—",
+
+                "verse16": "16. Therefore, the keys of this dispensation are committed into your hands; and by this ye may know that the great and dreadful day of the Lord is near, even at the doors."
+            },
+            {
+                "book": "Pearl of Great Price - Joseph Smith History",
+                "chapter": "1",
+                "verse": "8-20",
+                "verse8": "8. During this time of great excitement my mind was called up to serious reflection and great uneasiness; but though my feelings were deep and often poignant, still I kept myself aloof from all these parties, though I attended their several meetings as often as occasion would permit. In process of time my mind became somewhat partial to the Methodist sect, and I felt some desire to be united with them; but so great were the confusion and strife among the different denominations, that it was impossible for a person young as I was, and so unacquainted with men and things, to come to any certain conclusion who was right and who was wrong.",
+
+                "verse9": "9. My mind at times was greatly excited, the cry and tumult were so great and incessant. The Presbyterians were most decided against the Baptists and Methodists, and used all the powers of both reason and sophistry to prove their errors, or, at least, to make the people think they were in error. On the other hand, the Baptists and Methodists in their turn were equally zealous in endeavoring to establish their own tenets and disprove all others.",
+
+                "verse10": "10. In the midst of this war of words and tumult of opinions, I often said to myself: What is to be done? Who of all these parties are right; or, are they all wrong together? If any one of them be right, which is it, and how shall I know it?",
+
+                "verse11": "11. While I was laboring under the extreme difficulties caused by the contests of these parties of religionists, I was one day reading the Epistle of James, first chapter and fifth verse, which reads: If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.",
+
+                "verse12": "12. Never did any passage of scripture come with more power to the heart of man than this did at this time to mine. It seemed to enter with great force into every feeling of my heart. I reflected on it again and again, knowing that if any person needed wisdom from God, I did; for how to act I did not know, and unless I could get more wisdom than I then had, I would never know; for the teachers of religion of the different sects understood the same passages of scripture so differently as to destroy all confidence in settling the question by an appeal to the Bible.",
+
+                "verse13": "13. At length I came to the conclusion that I must either remain in darkness and confusion, or else I must do as James directs, that is, ask of God. I at length came to the determination to “ask of God,” concluding that if he gave wisdom to them that lacked wisdom, and would give liberally, and not upbraid, I might venture.",
+
+                "verse14": "14. So, in accordance with this, my determination to ask of God, I retired to the woods to make the attempt. It was on the morning of a beautiful, clear day, early in the spring of eighteen hundred and twenty. It was the first time in my life that I had made such an attempt, for amidst all my anxieties I had never as yet made the attempt to pray vocally.",
+
+                "verse15": "15. After I had retired to the place where I had previously designed to go, having looked around me, and finding myself alone, I kneeled down and began to offer up the desires of my heart to God. I had scarcely done so, when immediately I was seized upon by some power which entirely overcame me, and had such an astonishing influence over me as to bind my tongue so that I could not speak. Thick darkness gathered around me, and it seemed to me for a time as if I were doomed to sudden destruction.",
+
+                "verse16": "16. But, exerting all my powers to call upon God to deliver me out of the power of this enemy which had seized upon me, and at the very moment when I was ready to sink into despair and abandon myself to destruction—not to an imaginary ruin, but to the power of some actual being from the unseen world, who had such marvelous power as I had never before felt in any being—just at this moment of great alarm, I saw a pillar of light exactly over my head, above the brightness of the sun, which descended gradually until it fell upon me.",
+
+                "verse17": "17. It no sooner appeared than I found myself delivered from the enemy which held me bound. When the light rested upon me I saw two Personages, whose brightness and glory defy all description, standing above me in the air. One of them spake unto me, calling me by name and said, pointing to the other—This is My Beloved Son. Hear Him!",
+
+                "verse18": "18. My object in going to inquire of the Lord was to know which of all the sects was right, that I might know which to join. No sooner, therefore, did I get possession of myself, so as to be able to speak, than I asked the Personages who stood above me in the light, which of all the sects was right (for at this time it had never entered into my heart that all were wrong)—and which I should join.",
+
+                "verse 19": "19. I was answered that I must join none of them, for they were all wrong; and the Personage who addressed me said that all their creeds were an abomination in his sight; that those professors were all corrupt; that: “they draw near to me with their lips, but their hearts are far from me, they teach for doctrines the commandments of men, having a form of godliness, but they deny the power thereof.”",
+
+                "verse20": "20. He again forbade me to join with any of them; and many other things did he say unto me, which I cannot write at this time. When I came to myself again, I found myself lying on my back, looking up into heaven. When the light had departed, I had no strength; but soon recovering in some degree, I went home. And as I leaned up to the fireplace, mother inquired what the matter was. I replied, “Never mind, all is well—I am well enough off.” I then said to my mother, “I have learned for myself that Presbyterianism is not true.” It seems as though the adversary was aware, at a very early period of my life, that I was destined to prove a disturber and an annoyer of his kingdom; else why should the powers of darkness combine against me? Why the opposition and persecution that arose against me, almost in my infancy?"
+            },
+
+        ]
+        
+    {
+        "topic": "Resurrection",
+        "references": [        
+            {
+                "book": "Job",
+                "chapter": "19",
+                "verse": "25-27",
+                "verse25": "25. For I know that my redeemer liveth, and that he shall stand at the latter day upon the earth:",
+
+                "verse26": "26. And though after my skin worms destroy this body, yet in my flesh shall I see God:",
+
+                "verse27": "27. Whom I shall see for myself, and mine eyes shall behold, and not another; though my reins be consumed within me."
+            },
+            {
+                "book": "Ezekiel",
+                "chapter": "37",
+                "verse": "1-14",
+                "verse1": "1. The hand of the Lord was upon me, and carried me out in the spirit of the Lord, and set me down in the midst of the valley which was full of bones,",
+
+                "verse2": "2. And caused me to pass by them round about: and, behold, there were very many in the open valley; and, lo, they were very dry.",
+
+                "verse3": "3. And he said unto me, Son of man, can these bones live? And I answered, O Lord God, thou knowest.",
+
+                "verse4": "4. Again he said unto me, Prophesy upon these bones, and say unto them, O ye dry bones, hear the word of the Lord.",
+
+                "verse5": "5. Thus saith the Lord God unto these bones; Behold, I will cause breath to enter into you, and ye shall live:",
+
+                "verse6": "6. And I will lay sinews upon you, and will bring up flesh upon you, and cover you with skin, and put breath in you, and ye shall live; and ye shall know that I am the Lord.",
+
+                "verse7": "7. So I prophesied as I was commanded: and as I prophesied, there was a noise, and behold a shaking, and the bones came together, bone to his bone.",
+
+                "verse8": "8. And when I beheld, lo, the sinews and the flesh came up upon them, and the skin covered them above: but there was no breath in them.",
+
+                "verse9": "9. Then said he unto me, Prophesy unto the wind, prophesy, son of man, and say to the wind, Thus saith the Lord God; Come from the four winds, O breath, and breathe upon these slain, that they may live.",
+
+                "verse10": "10. So I prophesied as he commanded me, and the breath came into them, and they lived, and stood up upon their feet, an exceeding great army.",
+
+                "verse11": "11. Then he said unto me, Son of man, these bones are the whole house of Israel: behold, they say, Our bones are dried, and our hope is lost: we are cut off for our parts.",
+
+                "verse12": "12. Therefore prophesy and say unto them, Thus saith the Lord God; Behold, O my people, I will open your graves, and cause you to come up out of your graves, and bring you into the land of Israel.",
+
+                "verse13": "13. And ye shall know that I am the Lord, when I have opened your graves, O my people, and brought you up out of your graves,",
+
+                "verse14": "14. And shall put my spirit in you, and ye shall live, and I shall place you in your own land: then shall ye know that I the Lord have spoken it, and performed it, saith the Lord."
+            },
+            {
+                "book": "Daniel",
+                "chapter": "12",
+                "verse": "2-3",
+                "verse2": "2. And many of them that sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt.",
+
+                "verse3": "3. And they that be wise shall shine as the brightness of the firmament; and they that turn many to righteousness as the stars for ever and ever."
+            },
+            {
+                "book": "Matthew",  HERE
+                "chapter": "16",
+                "verse": "21",
+                "verse21": ""
             },
             {
                 "book": "book",
