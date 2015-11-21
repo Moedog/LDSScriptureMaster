@@ -8116,31 +8116,205 @@
                 "book": "Luke",     HERE
                 "chapter": "24",
                 "verse": "1-53",
+                "verse1": "1. Now upon the first day of the week, very early in the morning, they came unto the sepulchre, bringing the spices which they had prepared, and certain others with them.",
+
+                "verse2": "2. And they found the stone rolled away from the sepulchre.",
+
+                "verse3": "3. And they entered in, and found not the body of the Lord Jesus.",
+
+                "vese4": "4. And it came to pass, as they were much perplexed thereabout, behold, two men stood by them in shining garments:",
+
+                "verse5": "5. And as they were afraid, and bowed down their faces to the earth, they said unto them, Why seek ye the living among the dead?",
+
+                "verse6": "6. He is not here, but is risen: remember how he spake unto you when he was yet in Galilee,",
+
+                "verse7": "7. Saying, The Son of man must be delivered into the hands of sinful men, and be crucified, and the third day rise again.",
+
+                "verse8": "8. And they remembered his words,",
+
+                "verse9": "9. And returned from the sepulchre, and told all these things unto the eleven, and to all the rest.",
+
+                "verse10": "10. It was Mary Magdalene, and Joanna, and Mary the mother of James, and other women that were with them, which told these things unto the apostles.",
+
+                "verse11": "11. And their words seemed to them as idle tales, and they believed them not.",
+
+                "verse12": "12. Then arose Peter, and ran unto the sepulchre; and stooping down, he beheld the linen clothes laid by themselves, and departed, wondering in himself at that which was come to pass.",
+
+                "verse13": "13. And, behold, two of them went that same day to a village called Emmaus, which was from Jerusalem about threescore furlongs.",
+
+                "verse14": "14. And they talked together of all these things which had happened.",
+
+                "verse15": "15. And it came to pass, that, while they communed together and reasoned, Jesus himself drew near, and went with them.",
+
+                "verse16": "16. But their eyes were holden that they should not know him.",
+
+                "verse17": "17. And he said unto them, What manner of communications are these that ye have one to another, as ye walk, and are sad?",
+
+                "verse18": "18. And the one of them, whose name was Cleopas, answering said unto him, Art thou only a stranger in Jerusalem, and hast not known the things which are come to pass there in these days?",
+
+                "verse19": "19. And he said unto them, What things? And they said unto him, Concerning Jesus of Nazareth, which was a prophet mighty in deed and word before God and all the people:",
+
+                "verse20": "20. And how the chief priests and our rulers delivered him to be condemned to death, and have crucified him.",
+
+                "verse21": "21. But we trusted that it had been he which should have redeemed Israel: and beside all this, to day is the third day since these things were done.",
+
+                "verse22": "22. Yea, and certain women also of our company made us astonished, which were early at the sepulchre;",
+
+                "verse23": "23. And when they found not his body, they came, saying, that they had also seen a vision of angels, which said that he was alive.",
+
+                "verse24": "24. And certain of them which were with us went to the sepulchre, and found it even so as the women had said: but him they saw not.",
+
+                "verse25": "25. Then he said unto them, O fools, and slow of heart to believe all that the prophets have spoken:",
+
+                "verse26": "26. Ought not Christ to have suffered these things, and to enter into his glory?",
+
+                "verse27": "27. And beginning at Moses and all the prophets, he expounded unto them in all the scriptures the things concerning himself.",
+
+                "verse28": "28. And they drew nigh unto the village, whither they went: and he made as though he would have gone further.",
+
+                "verse29": "29. But they constrained him, saying, Abide with us: for it is toward evening, and the day is far spent. And he went in to tarry with them.",
+
+                "verse30": "30. And it came to pass, as he sat at meat with them, he took bread, and blessed it, and brake, and gave to them.",
+
+                "verse31": "31. And their eyes were opened, and they knew him; and he vanished out of their sight.",
+
+                "verse32": "32. And they said one to another, Did not our heart burn within us, while he talked with us by the way, and while he opened to us the scriptures?",
+
+                "verse33": "33. And they rose up the same hour, and returned to Jerusalem, and found the eleven gathered together, and them that were with them,", 
+
+                "verse34": "34. Saying, The Lord is risen indeed, and hath appeared to Simon.",
+
+                "verse35": "35. And they told what things were done in the way, and how he was known of them in breaking of bread.",
+
+                "verse36": "36. And as they thus spake, Jesus himself stood in the midst of them, and saith unto them, Peace be unto you.",
+
+                "verse37": "37. But they were terrified and affrighted, and supposed that they had seen a spirit.",
+
+                "verse38": "38. And he said unto them, Why are ye troubled? and why do thoughts arise in your hearts?",
+
+                "verse39": "39. Behold my hands and my feet, that it is I myself: handle me, and see; for a spirit hath not flesh and bones, as ye see me have.",
+
+                "verse40": "40. And when he had thus spoken, he shewed them his hands and his feet.",
+
+                "verse41": "41. And while they yet believed not for joy, and wondered, he said unto them, Have ye here any meat?",
+
+                "verse42": "42. And they gave him a piece of a broiled fish, and of an honeycomb.",
+
+                "verse43": "43. And he took it, and did eat before them.",
+
+                "verse44": "44. And he said unto them, These are the words which I spake unto you, while I was yet with you, that all things must be fulfilled, which were written in the law of Moses, and in the prophets, and in the psalms, concerning me.",
+
+                "verse45": "45. Then opened he their understanding, that they might understand the scriptures,",
+
+                "verse46": "46. And said unto them, Thus it is written, and thus it behoved Christ to suffer, and to rise from the dead the third day:",
+
+                "verse47": "47. And that repentance and remission of sins should be preached in his name among all nations, beginning at Jerusalem.",
+
+                "verse48": "48. And ye are witnesses of these things.",
+
+                "verse49": "49. And, behold, I send the promise of my Father upon you: but tarry ye in the city of Jerusalem, until ye be endued with power from on high.",
+
+                "verse50": "50. And he led them out as far as to Bethany, and he lifted up his hands, and blessed them.",
+
+                "verse51": "51. And it came to pass, while he blessed them, he was parted from them, and carried up into heaven.",
+
+                "verse52": "52. And they worshipped him, and returned to Jerusalem with great joy:",
+
+                "verse53": "53. And were continually in the temple, praising and blessing God. Amen."
+            },
+            {
+                "book": "John",
+                "chapter": "5",
+                "verse": "25-29",
+                "verse25": "25. Verily, verily, I say unto you, The hour is coming, and now is, when the dead shall hear the voice of the Son of God: and they that hear shall live.",
+
+                "verse26": "26. For as the Father hath life in himself; so hath he given to the Son to have life in himself;",
+
+                "verse27": "27. And hath given him authority to execute judgment also, because he is the Son of man.",
+
+                "verse28": "28. Marvel not at this: for the hour is coming, in the which all that are in the graves shall hear his voice,",
+
+                "verse29": "29. And shall come forth; they that have done good, unto the resurrection of life; and they that have done evil, unto the resurrection of damnation."
+            },
+            {
+                "book": "John",
+                "chapter": "10",
+                "verse": "17-18",
+                "verse17": "17. Therefore doth my Father love me, because I lay down my life, that I might take it again.",
+
+                "verse18": "18. No man taketh it from me, but I lay it down of myself. I have power to lay it down, and I have power to take it again. This commandment have I received of my Father."
+            },
+            {
+                "book": "John",
+                "chapter": "20",
+                "verse": "1-31",
+                "verse1": "1. The first day of the week cometh Mary Magdalene early, when it was yet dark, unto the sepulchre, and seeth the stone taken away from the sepulchre.",
+
+                "verse2": "2. Then she runneth, and cometh to Simon Peter, and to the other disciple, whom Jesus loved, and saith unto them, They have taken away the Lord out of the sepulchre, and we know not where they have laid him.",
+
+                "verse3": "3. Peter therefore went forth, and that other disciple, and came to the sepulchre.",
+
+                "verse4": "4. So they ran both together: and the other disciple did outrun Peter, and came first to the sepulchre.",
+
+                "verse5": "5. And he stooping down, and looking in, saw the linen clothes lying; yet went he not in.",
+
+                "verse6": "6. Then cometh Simon Peter following him, and went into the sepulchre, and seeth the linen clothes lie,",
+
+                "verse7": "7. And the napkin, that was about his head, not lying with the linen clothes, but wrapped together in a place by itself.",
+
+                "verse": "8. Then went in also that other disciple, which came first to the sepulchre, and he saw, and believed.",
+
+                "verse9": "9. For as yet they knew not the scripture, that he must rise again from the dead.",
+
+                "verse10": "10. Then the disciples went away again unto their own home.",
+
+                "verse11": "11. But Mary stood without at the sepulchre weeping: and as she wept, she stooped down, and looked into the sepulchre,",
+
+                "verse12": "12. And seeth two angels in white sitting, the one at the head, and the other at the feet, where the body of Jesus had lain.",
+
+                "verse13": "13. And they say unto her, Woman, why weepest thou? She saith unto them, Because they have taken away my Lord, and I know not where they have laid him.",
+
+                "verse14": "14. And when she had thus said, she turned herself back, and saw Jesus standing, and knew not that it was Jesus.",
+
+                "verse15": "15. Jesus saith unto her, Woman, why weepest thou? whom seekest thou? She, supposing him to be the gardener, saith unto him, Sir, if thou have borne him hence, tell me where thou hast laid him, and I will take him away.",
+
+                "verse16": "16. Jesus saith unto her, Mary. She turned herself, and saith unto him, Rabboni; which is to say, Master.",
+
+                "verse17": "17. Jesus saith unto her, Touch me not; for I am not yet ascended to my Father: but go to my brethren, and say unto them, I ascend unto my Father, and your Father; and to my God, and your God.",
+
+                "verse18": "18. Mary Magdalene came and told the disciples that she had seen the Lord, and that he had spoken these things unto her.",
+
+                "verse19": "19. Then the same day at evening, being the first day of the week, when the doors were shut where the disciples were assembled for fear of the Jews, came Jesus and stood in the midst, and saith unto them, Peace be unto you.",
+
+                "verse20": "20. And when he had so said, he shewed unto them his hands and his side. Then were the disciples glad, when they saw the Lord.",
+
+                "verse21": "21. Then said Jesus to them again, Peace be unto you: as my Father hath sent me, even so send I you.",
+
+                "verse22": "22. And when he had said this, he breathed on them, and saith unto them, Receive ye the Holy Ghost:",
+
+                "verse23": "23. Whose soever sins ye remit, they are remitted unto them; and whose soever sins ye retain, they are retained.",
+
+                "verse24": "24. But Thomas, one of the twelve, called Didymus, was not with them when Jesus came.",
+
+                "verse25": "25. The other disciples therefore said unto him, We have seen the Lord. But he said unto them, Except I shall see in his hands the print of the nails, and put my finger into the print of the nails, and thrust my hand into his side, I will not believe.",
+
+                "verse26": "26. And after eight days again his disciples were within, and Thomas with them: then came Jesus, the doors being shut, and stood in the midst, and said, Peace be unto you.",
+
+                "verse27": "27. Then saith he to Thomas, Reach hither thy finger, and behold my hands; and reach hither thy hand, and thrust it into my side: and be not faithless, but believing.",
+
+                "verse28": "28. And Thomas answered and said unto him, My Lord and my God.",
+
+                "verse29": "29. Jesus saith unto him, Thomas, because thou hast seen me, thou hast believed: blessed are they that have not seen, and yet have believed.",
+
+                "verse30": "30. And many other signs truly did Jesus in the presence of his disciples, which are not written in this book:",
+
+                "verse31": "31. But these are written, that ye might believe that Jesus is the Christ, the Son of God; and that believing ye might have life through his name."
+            },
+            {
+                "book": "John",
+                "chapter": "21",
+                "verse": "1-14",
                 "verse1": ""
-            },
-            {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
-            },
-            {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
-            },
-            {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
-            },
-            {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
             },
             {
                 "book": "book",
