@@ -8619,243 +8619,379 @@
                 "book": "Doctrine and Covenants",
                 "chapter": "76",
                 "verse": "1-119",
-                "verse1": "1 Hear, O ye heavens, and give ear, O earth, and rejoice ye inhabitants thereof, for the Lord is God, and beside him there is no Savior.",
+                "verse1": "1. Hear, O ye heavens, and give ear, O earth, and rejoice ye inhabitants thereof, for the Lord is God, and beside him there is no Savior.",
 
-                "verse2": 2. Great is his wisdom, marvelous are his ways, and the extent of his doings none can find out.",
+                "verse2": "2. Great is his wisdom, marvelous are his ways, and the extent of his doings none can find out.",
 
-                "verse3": 3. His purposes fail not, neither are there any who can stay his hand.
+                "verse3": "3. His purposes fail not, neither are there any who can stay his hand.",
 
- 4 From eternity to eternity he is the same, and his years never fail.
+                "verse4": "4. From eternity to eternity he is the same, and his years never fail.",
 
- 5 For thus saith the Lord—I, the Lord, am merciful and gracious unto those who fear me, and delight to honor those who serve me in righteousness and in truth unto the end.
+                "verse5": "5. For thus saith the Lord—I, the Lord, am merciful and gracious unto those who fear me, and delight to honor those who serve me in righteousness and in truth unto the end.",
 
- 6 Great shall be their reward and eternal shall be their glory.
+                "verse6": "6. Great shall be their reward and eternal shall be their glory.",
 
- 7 And to them will I reveal all mysteries, yea, all the hidden mysteries of my kingdom from days of old, and for ages to come, will I make known unto them the good pleasure of my will concerning all things pertaining to my kingdom.
+                "verse7": "7. And to them will I reveal all mysteries, yea, all the hidden mysteries of my kingdom from days of old, and for ages to come, will I make known unto them the good pleasure of my will concerning all things pertaining to my kingdom.",
 
- 8 Yea, even the wonders of eternity shall they know, and things to come will I show them, even the things of many generations.
+                "verse8": "8. Yea, even the wonders of eternity shall they know, and things to come will I show them, even the things of many generations.",
 
- 9 And their wisdom shall be great, and their understanding reach to heaven; and before them the wisdom of the wise shall perish, and the understanding of the prudent shall come to naught.
+                "verse9": "9. And their wisdom shall be great, and their understanding reach to heaven; and before them the wisdom of the wise shall perish, and the understanding of the prudent shall come to naught.",
 
- 10 For by my Spirit will I enlighten them, and by my power will I make known unto them the secrets of my will—yea, even those things which eye has not seen, nor ear heard, nor yet entered into the heart of man.
+                "verse10": "10. For by my Spirit will I enlighten them, and by my power will I make known unto them the secrets of my will—yea, even those things which eye has not seen, nor ear heard, nor yet entered into the heart of man.",
 
- 11 We, Joseph Smith, Jun., and Sidney Rigdon, being in the Spirit on the sixteenth day of February, in the year of our Lord one thousand eight hundred and thirty-two—
+                "verse11": "11. We, Joseph Smith, Jun., and Sidney Rigdon, being in the Spirit on the sixteenth day of February, in the year of our Lord one thousand eight hundred and thirty-two—",
 
- 12 By the power of the Spirit our eyes were opened and our understandings were enlightened, so as to see and understand the things of God—
+                "verse12": "12. By the power of the Spirit our eyes were opened and our understandings were enlightened, so as to see and understand the things of God—",
 
- 13 Even those things which were from the beginning before the world was, which were ordained of the Father, through his Only Begotten Son, who was in the bosom of the Father, even from the beginning;
+                "verse13": "13. Even those things which were from the beginning before the world was, which were ordained of the Father, through his Only Begotten Son, who was in the bosom of the Father, even from the beginning;",
 
- 14 Of whom we bear record; and the record which we bear is the fulness of the gospel of Jesus Christ, who is the Son, whom we saw and with whom we conversed in the heavenly vision.
+                "verse14": "14. Of whom we bear record; and the record which we bear is the fulness of the gospel of Jesus Christ, who is the Son, whom we saw and with whom we conversed in the heavenly vision.",
 
- 15 For while we were doing the work of translation, which the Lord had appointed unto us, we came to the twenty-ninth verse of the fifth chapter of John, which was given unto us as follows—
+                "verse15": "15. For while we were doing the work of translation, which the Lord had appointed unto us, we came to the twenty-ninth verse of the fifth chapter of John, which was given unto us as follows—",
 
- 16 Speaking of the resurrection of the dead, concerning those who shall hear the voice of the Son of Man:
+                "verse16": "16. Speaking of the resurrection of the dead, concerning those who shall hear the voice of the Son of Man:",
 
- 17 And shall come forth; they who have done good, in the resurrection of the just; and they who have done evil, in the resurrection of the unjust.
+                "verse17": "17. And shall come forth; they who have done good, in the resurrection of the just; and they who have done evil, in the resurrection of the unjust.",
 
- 18 Now this caused us to marvel, for it was given unto us of the Spirit.
+                "verse18": "18. Now this caused us to marvel, for it was given unto us of the Spirit.",
 
- 19 And while we meditated upon these things, the Lord touched the eyes of our understandings and they were opened, and the glory of the Lord shone round about.
+                "verse19": "19. And while we meditated upon these things, the Lord touched the eyes of our understandings and they were opened, and the glory of the Lord shone round about.",
 
- 20 And we beheld the glory of the Son, on the right hand of the Father, and received of his fulness;
+                "verse20": "20. And we beheld the glory of the Son, on the right hand of the Father, and received of his fulness;",
 
- 21 And saw the holy angels, and them who are sanctified before his throne, worshiping God, and the Lamb, who worship him forever and ever.
+                "verse21": "21. And saw the holy angels, and them who are sanctified before his throne, worshiping God, and the Lamb, who worship him forever and ever.",
 
- 22 And now, after the many testimonies which have been given of him, this is the testimony, last of all, which we give of him: That he lives!
+                "verse22": "22. And now, after the many testimonies which have been given of him, this is the testimony, last of all, which we give of him: That he lives!",
 
- 23 For we saw him, even on the right hand of God; and we heard the voice bearing record that he is the Only Begotten of the Father—
+                "verse23": "23. For we saw him, even on the right hand of God; and we heard the voice bearing record that he is the Only Begotten of the Father—",
 
- 24 That by him, and through him, and of him, the worlds are and were created, and the inhabitants thereof are begotten sons and daughters unto God.
+                "verse24": "24. That by him, and through him, and of him, the worlds are and were created, and the inhabitants thereof are begotten sons and daughters unto God.",
 
- 25 And this we saw also, and bear record, that an angel of God who was in authority in the presence of God, who rebelled against the Only Begotten Son whom the Father loved and who was in the bosom of the Father, was thrust down from the presence of God and the Son,
+                "verse25": "25. And this we saw also, and bear record, that an angel of God who was in authority in the presence of God, who rebelled against the Only Begotten Son whom the Father loved and who was in the bosom of the Father, was thrust down from the presence of God and the Son,",
 
- 26 And was called Perdition, for the heavens wept over him—he was Lucifer, a son of the morning.
+                "verse26": "26. And was called Perdition, for the heavens wept over him—he was Lucifer, a son of the morning.",
 
- 27 And we beheld, and lo, he is fallen! is fallen, even a son of the morning!
+                "verse27": "27. And we beheld, and lo, he is fallen! is fallen, even a son of the morning!",
 
- 28 And while we were yet in the Spirit, the Lord commanded us that we should write the vision; for we beheld Satan, that old serpent, even the devil, who rebelled against God, and sought to take the kingdom of our God and his Christ—
+                "verse28": "28. And while we were yet in the Spirit, the Lord commanded us that we should write the vision; for we beheld Satan, that old serpent, even the devil, who rebelled against God, and sought to take the kingdom of our God and his Christ—",
 
- 29 Wherefore, he maketh war with the saints of God, and encompasseth them round about.
+                "verse29": "29. Wherefore, he maketh war with the saints of God, and encompasseth them round about.",
 
- 30 And we saw a vision of the sufferings of those with whom he made war and overcame, for thus came the voice of the Lord unto us:
+                "verse30": "30. And we saw a vision of the sufferings of those with whom he made war and overcame, for thus came the voice of the Lord unto us:",
 
- 31 Thus saith the Lord concerning all those who know my power, and have been made partakers thereof, and suffered themselves through the power of the devil to be overcome, and to deny the truth and defy my power—
+                "verse31": "31. Thus saith the Lord concerning all those who know my power, and have been made partakers thereof, and suffered themselves through the power of the devil to be overcome, and to deny the truth and defy my power—",
 
- 32 They are they who are the sons of perdition, of whom I say that it had been better for them never to have been born;
+                "verse32": "32. They are they who are the sons of perdition, of whom I say that it had been better for them never to have been born;",
 
- 33 For they are vessels of wrath, doomed to suffer the wrath of God, with the devil and his angels in eternity;
+                "verse33": "33. For they are vessels of wrath, doomed to suffer the wrath of God, with the devil and his angels in eternity;",
 
- 34 Concerning whom I have said there is no forgiveness in this world nor in the world to come—
+                "verse34": "34. Concerning whom I have said there is no forgiveness in this world nor in the world to come—",
 
- 35 Having denied the Holy Spirit after having received it, and having denied the Only Begotten Son of the Father, having crucified him unto themselves and put him to an open shame.
+                "verse35": "35. Having denied the Holy Spirit after having received it, and having denied the Only Begotten Son of the Father, having crucified him unto themselves and put him to an open shame.",
 
- 36 These are they who shall go away into the lake of fire and brimstone, with the devil and his angels—
+                "verse36": "36. These are they who shall go away into the lake of fire and brimstone, with the devil and his angels—",
 
- 37 And the only ones on whom the second death shall have any power;
+                "verse37": "37. And the only ones on whom the second death shall have any power;",
 
- 38 Yea, verily, the only ones who shall not be redeemed in the due time of the Lord, after the sufferings of his wrath.
+                "verse38": "38. Yea, verily, the only ones who shall not be redeemed in the due time of the Lord, after the sufferings of his wrath.",
 
- 39 For all the rest shall be brought forth by the resurrection of the dead, through the triumph and the glory of the Lamb, who was slain, who was in the bosom of the Father before the worlds were made.
+                "verse39": "39. For all the rest shall be brought forth by the resurrection of the dead, through the triumph and the glory of the Lamb, who was slain, who was in the bosom of the Father before the worlds were made.",
 
- 40 And this is the gospel, the glad tidings, which the voice out of the heavens bore record unto us—
+                "verse40": "40. And this is the gospel, the glad tidings, which the voice out of the heavens bore record unto us—",
 
- 41 That he came into the world, even Jesus, to be crucified for the world, and to bear the sins of the world, and to sanctify the world, and to cleanse it from all unrighteousness;
+                "verse41": "41. That he came into the world, even Jesus, to be crucified for the world, and to bear the sins of the world, and to sanctify the world, and to cleanse it from all unrighteousness;",
 
- 42 That through him all might be saved whom the Father had put into his power and made by him;
+                "verse42": "42. That through him all might be saved whom the Father had put into his power and made by him;",
 
- 43 Who glorifies the Father, and saves all the works of his hands, except those sons of perdition who deny the Son after the Father has revealed him.
+                "verse43": "43. Who glorifies the Father, and saves all the works of his hands, except those sons of perdition who deny the Son after the Father has revealed him.",
 
- 44 Wherefore, he saves all except them—they shall go away into everlasting punishment, which is endless punishment, which is eternal punishment, to reign with the devil and his angels in eternity, where their worm dieth not, and the fire is not quenched, which is their torment—
+                "verse44": "44. Wherefore, he saves all except them—they shall go away into everlasting punishment, which is endless punishment, which is eternal punishment, to reign with the devil and his angels in eternity, where their worm dieth not, and the fire is not quenched, which is their torment—",
 
- 45 And the end thereof, neither the place thereof, nor their torment, no man knows;
+                "verse45": "45. And the end thereof, neither the place thereof, nor their torment, no man knows;",
 
- 46 Neither was it revealed, neither is, neither will be revealed unto man, except to them who are made partakers thereof;
+                "verse46": "46. Neither was it revealed, neither is, neither will be revealed unto man, except to them who are made partakers thereof;",
 
- 47 Nevertheless, I, the Lord, show it by vision unto many, but straightway shut it up again;
+                "verse47": "47. Nevertheless, I, the Lord, show it by vision unto many, but straightway shut it up again;",
 
- 48 Wherefore, the end, the width, the height, the depth, and the misery thereof, they understand not, neither any man except those who are ordained unto this condemnation.
+                "verse48": "48. Wherefore, the end, the width, the height, the depth, and the misery thereof, they understand not, neither any man except those who are ordained unto this condemnation.",
 
- 49 And we heard the voice, saying: Write the vision, for lo, this is the end of the vision of the sufferings of the ungodly.
+                "verse49": "49. And we heard the voice, saying: Write the vision, for lo, this is the end of the vision of the sufferings of the ungodly.",
 
- 50 And again we bear record—for we saw and heard, and this is the testimony of the gospel of Christ concerning them who shall come forth in the resurrection of the just—
+                "verse50": "50. And again we bear record—for we saw and heard, and this is the testimony of the gospel of Christ concerning them who shall come forth in the resurrection of the just—",
 
- 51 They are they who received the testimony of Jesus, and believed on his name and were baptized after the manner of his burial, being buried in the water in his name, and this according to the commandment which he has given—
+                "verse51": "51. They are they who received the testimony of Jesus, and believed on his name and were baptized after the manner of his burial, being buried in the water in his name, and this according to the commandment which he has given—",
 
- 52 That by keeping the commandments they might be washed and cleansed from all their sins, and receive the Holy Spirit by the laying on of the hands of him who is ordained and sealed unto this power;
+                "verse52": "52. That by keeping the commandments they might be washed and cleansed from all their sins, and receive the Holy Spirit by the laying on of the hands of him who is ordained and sealed unto this power;",
 
- 53 And who overcome by faith, and are sealed by the Holy Spirit of promise, which the Father sheds forth upon all those who are just and true.
+                "verse53": "53. And who overcome by faith, and are sealed by the Holy Spirit of promise, which the Father sheds forth upon all those who are just and true.",
 
- 54 They are they who are the church of the Firstborn.
+                "verse54": "54. They are they who are the church of the Firstborn.",
 
- 55 They are they into whose hands the Father has given all things—
+                "verse55": "55. They are they into whose hands the Father has given all things—",
 
- 56 They are they who are priests and kings, who have received of his fulness, and of his glory;
+                "verse56": "56. They are they who are priests and kings, who have received of his fulness, and of his glory;",
 
- 57 And are priests of the Most High, after the order of Melchizedek, which was after the order of Enoch, which was after the order of the Only Begotten Son.
+                "verse57": "57. And are priests of the Most High, after the order of Melchizedek, which was after the order of Enoch, which was after the order of the Only Begotten Son.",
 
- 58 Wherefore, as it is written, they are gods, even the sons of God—
+                "verse58": "58. Wherefore, as it is written, they are gods, even the sons of God—",
 
- 59 Wherefore, all things are theirs, whether life or death, or things present, or things to come, all are theirs and they are Christ’s, and Christ is God’s.
+                "verse59": "59. Wherefore, all things are theirs, whether life or death, or things present, or things to come, all are theirs and they are Christ’s, and Christ is God’s.",
 
- 60 And they shall overcome all things.
+                "verse60": "60. And they shall overcome all things.",
 
- 61 Wherefore, let no man glory in man, but rather let him glory in God, who shall subdue all enemies under his feet.
+                "verse61": "61. Wherefore, let no man glory in man, but rather let him glory in God, who shall subdue all enemies under his feet.",
 
- 62 These shall dwell in the presence of God and his Christ forever and ever.
+                "verse62": "62. These shall dwell in the presence of God and his Christ forever and ever.",
 
- 63 These are they whom he shall bring with him, when he shall come in the clouds of heaven to reign on the earth over his people.
+                "verse63": "63. These are they whom he shall bring with him, when he shall come in the clouds of heaven to reign on the earth over his people.",
 
- 64 These are they who shall have part in the first resurrection.
+                "verse64": "64. These are they who shall have part in the first resurrection.",
 
- 65 These are they who shall come forth in the resurrection of the just.
+                "verse65": "65. These are they who shall come forth in the resurrection of the just.",
 
- 66 These are they who are come unto Mount Zion, and unto the city of the living God, the heavenly place, the holiest of all.
+                "verse66": "66. These are they who are come unto Mount Zion, and unto the city of the living God, the heavenly place, the holiest of all.",
 
- 67 These are they who have come to an innumerable company of angels, to the general assembly and church of Enoch, and of the Firstborn.
+                "verse67": "67. These are they who have come to an innumerable company of angels, to the general assembly and church of Enoch, and of the Firstborn.",
 
- 68 These are they whose names are written in heaven, where God and Christ are the judge of all.
+                "verse68": "68. These are they whose names are written in heaven, where God and Christ are the judge of all.",
 
- 69 These are they who are just men made perfect through Jesus the mediator of the new covenant, who wrought out this perfect atonement through the shedding of his own blood.
+                "verse69": "69. These are they who are just men made perfect through Jesus the mediator of the new covenant, who wrought out this perfect atonement through the shedding of his own blood.",
 
- 70 These are they whose bodies are celestial, whose glory is that of the sun, even the glory of God, the highest of all, whose glory the sun of the firmament is written of as being typical.
+                "verse70": "70. These are they whose bodies are celestial, whose glory is that of the sun, even the glory of God, the highest of all, whose glory the sun of the firmament is written of as being typical.",
 
- 71 And again, we saw the terrestrial world, and behold and lo, these are they who are of the terrestrial, whose glory differs from that of the church of the Firstborn who have received the fulness of the Father, even as that of the moon differs from the sun in the firmament.
+                "verse71": "71. And again, we saw the terrestrial world, and behold and lo, these are they who are of the terrestrial, whose glory differs from that of the church of the Firstborn who have received the fulness of the Father, even as that of the moon differs from the sun in the firmament.",
 
- 72 Behold, these are they who died without law;
+                "verse72": "72. Behold, these are they who died without law;",
 
- 73 And also they who are the spirits of men kept in prison, whom the Son visited, and preached the gospel unto them, that they might be judged according to men in the flesh;
+                "verse73": "73. And also they who are the spirits of men kept in prison, whom the Son visited, and preached the gospel unto them, that they might be judged according to men in the flesh;",
 
- 74 Who received not the testimony of Jesus in the flesh, but afterwards received it.
+                "verse74": "74. Who received not the testimony of Jesus in the flesh, but afterwards received it.",
 
- 75 These are they who are honorable men of the earth, who were blinded by the craftiness of men.
+                "verse75": "75. These are they who are honorable men of the earth, who were blinded by the craftiness of men.",
 
- 76 These are they who receive of his glory, but not of his fulness.
+                "verse76": "76. These are they who receive of his glory, but not of his fulness.",
 
- 77 These are they who receive of the presence of the Son, but not of the fulness of the Father.
+                "verse77": "77. These are they who receive of the presence of the Son, but not of the fulness of the Father.",
 
- 78 Wherefore, they are bodies terrestrial, and not bodies celestial, and differ in glory as the moon differs from the sun.
+                "verse78": "78. Wherefore, they are bodies terrestrial, and not bodies celestial, and differ in glory as the moon differs from the sun.",
 
- 79 These are they who are not valiant in the testimony of Jesus; wherefore, they obtain not the crown over the kingdom of our God.
+                "verse79": "79. These are they who are not valiant in the testimony of Jesus; wherefore, they obtain not the crown over the kingdom of our God.",
 
- 80 And now this is the end of the vision which we saw of the terrestrial, that the Lord commanded us to write while we were yet in the Spirit.
+                "verse80": "80. And now this is the end of the vision which we saw of the terrestrial, that the Lord commanded us to write while we were yet in the Spirit.",
 
- 81 And again, we saw the glory of the telestial, which glory is that of the lesser, even as the glory of the stars differs from that of the glory of the moon in the firmament.
+                "verse81": "81. And again, we saw the glory of the telestial, which glory is that of the lesser, even as the glory of the stars differs from that of the glory of the moon in the firmament.",
 
- 82 These are they who received not the gospel of Christ, neither the testimony of Jesus.
+                "verse82": "82. These are they who received not the gospel of Christ, neither the testimony of Jesus.",
 
- 83 These are they who deny not the Holy Spirit.
+                "verse83": "83. These are they who deny not the Holy Spirit.",
 
- 84 These are they who are thrust down to hell.
+                "verse84": "84. These are they who are thrust down to hell.",
 
- 85 These are they who shall not be redeemed from the devil until the last resurrection, until the Lord, even Christ the Lamb, shall have finished his work.
+                "verse85": "85. These are they who shall not be redeemed from the devil until the last resurrection, until the Lord, even Christ the Lamb, shall have finished his work.",
 
- 86 These are they who receive not of his fulness in the eternal world, but of the Holy Spirit through the ministration of the terrestrial;
+                "verse86": "86. These are they who receive not of his fulness in the eternal world, but of the Holy Spirit through the ministration of the terrestrial;",
 
- 87 And the terrestrial through the ministration of the celestial.
+                "verse87": "87. And the terrestrial through the ministration of the celestial.",
 
- 88 And also the telestial receive it of the administering of angels who are appointed to minister for them, or who are appointed to be ministering spirits for them; for they shall be heirs of salvation.
+                "verse88": "88. And also the telestial receive it of the administering of angels who are appointed to minister for them, or who are appointed to be ministering spirits for them; for they shall be heirs of salvation.",
 
- 89 And thus we saw, in the heavenly vision, the glory of the telestial, which surpasses all understanding;
+                "verse89": "89. And thus we saw, in the heavenly vision, the glory of the telestial, which surpasses all understanding;",
 
- 90 And no man knows it except him to whom God has revealed it.
+                "verse90": "90. And no man knows it except him to whom God has revealed it.",
 
- 91 And thus we saw the glory of the terrestrial which excels in all things the glory of the telestial, even in glory, and in power, and in might, and in dominion.
+                "verse91": "91. And thus we saw the glory of the terrestrial which excels in all things the glory of the telestial, even in glory, and in power, and in might, and in dominion.",
 
- 92 And thus we saw the glory of the celestial, which excels in all things—where God, even the Father, reigns upon his throne forever and ever;
+                "verse92": "92. And thus we saw the glory of the celestial, which excels in all things—where God, even the Father, reigns upon his throne forever and ever;",
 
- 93 Before whose throne all things bow in humble reverence, and give him glory forever and ever.
+                "verse93": "93. Before whose throne all things bow in humble reverence, and give him glory forever and ever.",
 
- 94 They who dwell in his presence are the church of the Firstborn; and they see as they are seen, and know as they are known, having received of his fulness and of his grace;
+                "verse94": "94. They who dwell in his presence are the church of the Firstborn; and they see as they are seen, and know as they are known, having received of his fulness and of his grace;",
 
- 95 And he makes them equal in power, and in might, and in dominion.
+                "verse95": "95. And he makes them equal in power, and in might, and in dominion.",
 
- 96 And the glory of the celestial is one, even as the glory of the sun is one.
+                "verse96": "96. And the glory of the celestial is one, even as the glory of the sun is one.",
 
- 97 And the glory of the terrestrial is one, even as the glory of the moon is one.
+                "verse97": "97. And the glory of the terrestrial is one, even as the glory of the moon is one.",
 
- 98 And the glory of the telestial is one, even as the glory of the stars is one; for as one star differs from another star in glory, even so differs one from another in glory in the telestial world;
+                "verse98": "98. And the glory of the telestial is one, even as the glory of the stars is one; for as one star differs from another star in glory, even so differs one from another in glory in the telestial world;",
 
- 99 For these are they who are of Paul, and of Apollos, and of Cephas.
+                "verse99": "99. For these are they who are of Paul, and of Apollos, and of Cephas.",
 
- 100 These are they who say they are some of one and some of another—some of Christ and some of John, and some of Moses, and some of Elias, and some of Esaias, and some of Isaiah, and some of Enoch;
+                "verse100": "100. These are they who say they are some of one and some of another—some of Christ and some of John, and some of Moses, and some of Elias, and some of Esaias, and some of Isaiah, and some of Enoch;",
 
- 101 But received not the gospel, neither the testimony of Jesus, neither the prophets, neither the everlasting covenant.
+                "verse101": "101. But received not the gospel, neither the testimony of Jesus, neither the prophets, neither the everlasting covenant.",
 
- 102 Last of all, these all are they who will not be gathered with the saints, to be caught up unto the church of the Firstborn, and received into the cloud.
+                "verse102": "102. Last of all, these all are they who will not be gathered with the saints, to be caught up unto the church of the Firstborn, and received into the cloud.",
 
- 103 These are they who are liars, and sorcerers, and adulterers, and whoremongers, and whosoever loves and makes a lie.
+                "verse103": "103. These are they who are liars, and sorcerers, and adulterers, and whoremongers, and whosoever loves and makes a lie.",
 
- 104 These are they who suffer the wrath of God on earth.
+                "verse104": "104. These are they who suffer the wrath of God on earth.",
 
- 105 These are they who suffer the vengeance of eternal fire.
+                "verse105": "105. These are they who suffer the vengeance of eternal fire.",
 
- 106 These are they who are cast down to hell and suffer the wrath of Almighty God, until the fulness of times, when Christ shall have subdued all enemies under his feet, and shall have perfected his work;
+                "verse106": "106. These are they who are cast down to hell and suffer the wrath of Almighty God, until the fulness of times, when Christ shall have subdued all enemies under his feet, and shall have perfected his work;",
 
- 107 When he shall deliver up the kingdom, and present it unto the Father, spotless, saying: I have overcome and have trodden the wine-press alone, even the wine-press of the fierceness of the wrath of Almighty God.
+                "verse107": "107. When he shall deliver up the kingdom, and present it unto the Father, spotless, saying: I have overcome and have trodden the wine-press alone, even the wine-press of the fierceness of the wrath of Almighty God.",
 
- 108 Then shall he be crowned with the crown of his glory, to sit on the throne of his power to reign forever and ever.
+                "verse108": "108. Then shall he be crowned with the crown of his glory, to sit on the throne of his power to reign forever and ever.",
 
- 109 But behold, and lo, we saw the glory and the inhabitants of the telestial world, that they were as innumerable as the stars in the firmament of heaven, or as the sand upon the seashore;
+                "verse109": "109. But behold, and lo, we saw the glory and the inhabitants of the telestial world, that they were as innumerable as the stars in the firmament of heaven, or as the sand upon the seashore;",
 
- 110 And heard the voice of the Lord saying: These all shall bow the knee, and every tongue shall confess to him who sits upon the throne forever and ever;
+                "verse110": "110. And heard the voice of the Lord saying: These all shall bow the knee, and every tongue shall confess to him who sits upon the throne forever and ever;",
 
- 111 For they shall be judged according to their works, and every man shall receive according to his own works, his own dominion, in the mansions which are prepared;
+                "verse111": "111. For they shall be judged according to their works, and every man shall receive according to his own works, his own dominion, in the mansions which are prepared;",
 
- 112 And they shall be servants of the Most High; but where God and Christ dwell they cannot come, worlds without end.
+                "verse112": "112. And they shall be servants of the Most High; but where God and Christ dwell they cannot come, worlds without end.",
 
- 113 This is the end of the vision which we saw, which we were commanded to write while we were yet in the Spirit.
+                "verse113": "113. This is the end of the vision which we saw, which we were commanded to write while we were yet in the Spirit.",
 
- 114 But great and marvelous are the works of the Lord, and the mysteries of his kingdom which he showed unto us, which surpass all understanding in glory, and in might, and in dominion;
+                "verse114": "114. But great and marvelous are the works of the Lord, and the mysteries of his kingdom which he showed unto us, which surpass all understanding in glory, and in might, and in dominion;",
 
- 115 Which he commanded us we should not write while we were yet in the Spirit, and are not lawful for man to utter;
+                "verse115": "115. Which he commanded us we should not write while we were yet in the Spirit, and are not lawful for man to utter;",
 
- 116 Neither is man capable to make them known, for they are only to be seen and understood by the power of the Holy Spirit, which God bestows on those who love him, and purify themselves before him;
+                "verse116": "116. Neither is man capable to make them known, for they are only to be seen and understood by the power of the Holy Spirit, which God bestows on those who love him, and purify themselves before him;",
 
- 117 To whom he grants this privilege of seeing and knowing for themselves;
+                "verse117": "117. To whom he grants this privilege of seeing and knowing for themselves;",
 
- 118 That through the power and manifestation of the Spirit, while in the flesh, they may be able to bear his presence in the world of glory.
+                "verse118": "118. That through the power and manifestation of the Spirit, while in the flesh, they may be able to bear his presence in the world of glory.",
 
- 119 And to God and the Lamb be glory, and honor, and dominion forever and ever. Amen."
+                "verse119": "119. And to God and the Lamb be glory, and honor, and dominion forever and ever. Amen."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "88",
+                "verse": "14-24, 95-102",
+                "verse14": "14. Now, verily I say unto you, that through the redemption which is made for you is brought to pass the resurrection from the dead.",
+
+                "verse15": "15. And the spirit and the body are the soul of man.",
+
+                "verse16": "16. And the resurrection from the dead is the redemption of the soul.",
+
+                "verse17": "17. And the redemption of the soul is through him that quickeneth all things, in whose bosom it is decreed that the poor and the meek of the earth shall inherit it.",
+
+                "verse18": "18. Therefore, it must needs be sanctified from all unrighteousness, that it may be prepared for the celestial glory;",
+
+                "verse19": "19. For after it hath filled the measure of its creation, it shall be crowned with glory, even with the presence of God the Father;",
+
+                "verse20": "20. That bodies who are of the celestial kingdom may possess it forever and ever; for, for this intent was it made and created, and for this intent are they sanctified.",
+
+                "verse21": "21. And they who are not sanctified through the law which I have given unto you, even the law of Christ, must inherit another kingdom, even that of a terrestrial kingdom, or that of a telestial kingdom.",
+
+                "verse22": "22. For he who is not able to abide the law of a celestial kingdom cannot abide a celestial glory.",
+
+                "verse23": "23. And he who cannot abide the law of a terrestrial kingdom cannot abide a terrestrial glory.",
+
+                "verse24": "24. And he who cannot abide the law of a telestial kingdom cannot abide a telestial glory; therefore he is not meet for a kingdom of glory. Therefore he must abide a kingdom which is not a kingdom of glory.",
+
+                "verse95": "95. And there shall be silence in heaven for the space of half an hour; and immediately after shall the curtain of heaven be unfolded, as a scroll is unfolded after it is rolled up, and the face of the Lord shall be unveiled;",
+
+                "verse96": "96. And the saints that are upon the earth, who are alive, shall be quickened and be caught up to meet him.",
+
+                "verse97": "97. And they who have slept in their graves shall come forth, for their graves shall be opened; and they also shall be caught up to meet him in the midst of the pillar of heaven—",
+
+                "verse98": "98. They are Christ’s, the first fruits, they who shall descend with him first, and they who are on the earth and in their graves, who are first caught up to meet him; and all this by the voice of the sounding of the trump of the angel of God.",
+
+                "verse99": "99. And after this another angel shall sound, which is the second trump; and then cometh the redemption of those who are Christ’s at his coming; who have received their part in that prison which is prepared for them, that they might receive the gospel, and be judged according to men in the flesh.",
+
+                "verse100": "100. And again, another trump shall sound, which is the third trump; and then come the spirits of men who are to be judged, and are found under condemnation;",
+
+                "verse101": "101. And these are the rest of the dead; and they live not again until the thousand years are ended, neither again, until the end of the earth.",
+
+                "verse102": "102. And another trump shall sound, which is the fourth trump, saying: There are found among those who are to remain until that great and last day, even the end, who shall remain filthy still.
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "115",
+                "verse": "3-4",
+                "verse3": "3. And also unto my faithful servants who are of the high council of my church in Zion, for thus it shall be called, and unto all the elders and people of my Church of Jesus Christ of Latter-day Saints, scattered abroad in all the world;",
+
+                "verse4": "4. For thus shall my church be called in the last days, even The Church of Jesus Christ of Latter-day Saints."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "130",
+                "verse": "18-19",
+                "verse18": "18. Whatever principle of intelligence we attain unto in this life, it will rise with us in the resurrection.",
+
+                "verse19": "19. And if a person gains more knowledge and intelligence in this life through his diligence and obedience than another, he will have so much the advantage in the world to come."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "131",
+                "verse": "1-4",
+                "verse1": "1. In the celestial glory there are three heavens or degrees;",
+
+                "verse2": "2. And in order to obtain the highest, a man must enter into this order of the priesthood [meaning the new and everlasting covenant of marriage];",
+
+                "verse3": "3. And if he does not, he cannot obtain it.",
+
+                "verse4": "4. He may enter into the other, but that is the end of his kingdom; he cannot have an increase."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "137",
+                "verse": "9",
+                "verse9": "9. For I, the Lord, will judge all men according to their works, according to the desire of their hearts."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "138",
+                "verse": "49-52",
+                "verse49": "49. All these and many more, even the prophets who dwelt among the Nephites and testified of the coming of the Son of God, mingled in the vast assembly and waited for their deliverance,",
+
+                "verse50": "50. For the dead had looked upon the long absence of their spirits from their bodies as a bondage.",
+
+                "verse51": "51. These the Lord taught, and gave them power to come forth, after his resurrection from the dead, to enter into his Father’s kingdom, there to be crowned with immortality and eternal life,",
+
+                "verse52": "52. And continue thenceforth their labor as had been promised by the Lord, and be partakers of all blessings which were held in reserve for them that love him."
+            },
+            {
+                "book": "Pearl of Great Price - Moses",
+                "chapter": "1",
+                "verse": "39",
+                "verse39": "39. For behold, this is my work and my glory—to bring to pass the immortality and eternal life of man."
+            },
+            {
+                "book": "Pearl of Great Price - Joseph Smith History",
+                "chapter": "1",
+                "verse": "8-20",
+                "verse8": "8. During this time of great excitement my mind was called up to serious reflection and great uneasiness; but though my feelings were deep and often poignant, still I kept myself aloof from all these parties, though I attended their several meetings as often as occasion would permit. In process of time my mind became somewhat partial to the Methodist sect, and I felt some desire to be united with them; but so great were the confusion and strife among the different denominations, that it was impossible for a person young as I was, and so unacquainted with men and things, to come to any certain conclusion who was right and who was wrong.",
+
+                "verse9": "9. My mind at times was greatly excited, the cry and tumult were so great and incessant. The Presbyterians were most decided against the Baptists and Methodists, and used all the powers of both reason and sophistry to prove their errors, or, at least, to make the people think they were in error. On the other hand, the Baptists and Methodists in their turn were equally zealous in endeavoring to establish their own tenets and disprove all others.",
+
+                "verse10": "10. In the midst of this war of words and tumult of opinions, I often said to myself: What is to be done? Who of all these parties are right; or, are they all wrong together? If any one of them be right, which is it, and how shall I know it?",
+
+                "verse11": "11. While I was laboring under the extreme difficulties caused by the contests of these parties of religionists, I was one day reading the Epistle of James, first chapter and fifth verse, which reads: If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.",
+
+                "verse12": "12. Never did any passage of scripture come with more power to the heart of man than this did at this time to mine. It seemed to enter with great force into every feeling of my heart. I reflected on it again and again, knowing that if any person needed wisdom from God, I did; for how to act I did not know, and unless I could get more wisdom than I then had, I would never know; for the teachers of religion of the different sects understood the same passages of scripture so differently as to destroy all confidence in settling the question by an appeal to the Bible.",
+
+                "verse13": "13. At length I came to the conclusion that I must either remain in darkness and confusion, or else I must do as James directs, that is, ask of God. I at length came to the determination to “ask of God,” concluding that if he gave wisdom to them that lacked wisdom, and would give liberally, and not upbraid, I might venture.",
+
+                "verse14": "14. So, in accordance with this, my determination to ask of God, I retired to the woods to make the attempt. It was on the morning of a beautiful, clear day, early in the spring of eighteen hundred and twenty. It was the first time in my life that I had made such an attempt, for amidst all my anxieties I had never as yet made the attempt to pray vocally.",
+
+                "verse15": "15. After I had retired to the place where I had previously designed to go, having looked around me, and finding myself alone, I kneeled down and began to offer up the desires of my heart to God. I had scarcely done so, when immediately I was seized upon by some power which entirely overcame me, and had such an astonishing influence over me as to bind my tongue so that I could not speak. Thick darkness gathered around me, and it seemed to me for a time as if I were doomed to sudden destruction.",
+
+                "verse16": "16. But, exerting all my powers to call upon God to deliver me out of the power of this enemy which had seized upon me, and at the very moment when I was ready to sink into despair and abandon myself to destruction—not to an imaginary ruin, but to the power of some actual being from the unseen world, who had such marvelous power as I had never before felt in any being—just at this moment of great alarm, I saw a pillar of light exactly over my head, above the brightness of the sun, which descended gradually until it fell upon me.",
+
+                "verse17": "17. It no sooner appeared than I found myself delivered from the enemy which held me bound. When the light rested upon me I saw two Personages, whose brightness and glory defy all description, standing above me in the air. One of them spake unto me, calling me by name and said, pointing to the other—This is My Beloved Son. Hear Him!",
+
+                "verse18": "18. My object in going to inquire of the Lord was to know which of all the sects was right, that I might know which to join. No sooner, therefore, did I get possession of myself, so as to be able to speak, than I asked the Personages who stood above me in the light, which of all the sects was right (for at this time it had never entered into my heart that all were wrong)—and which I should join.",
+
+                "verse19": "19. I was answered that I must join none of them, for they were all wrong; and the Personage who addressed me said that all their creeds were an abomination in his sight; that those professors were all corrupt; that: “they draw near to me with their lips, but their hearts are far from me, they teach for doctrines the commandments of men, having a form of godliness, but they deny the power thereof.”",
+
+                "verse20": "20. He again forbade me to join with any of them; and many other things did he say unto me, which I cannot write at this time. When I came to myself again, I found myself lying on my back, looking up into heaven. When the light had departed, I had no strength; but soon recovering in some degree, I went home. And as I leaned up to the fireplace, mother inquired what the matter was. I replied, “Never mind, all is well—I am well enough off.” I then said to my mother, “I have learned for myself that Presbyterianism is not true.” It seems as though the adversary was aware, at a very early period of my life, that I was destined to prove a disturber and an annoyer of his kingdom; else why should the powers of darkness combine against me? Why the opposition and persecution that arose against me, almost in my infancy?"
+            }
+
+        ]
+        
+    {
+        "topic": "Sacrament",
+        "references": [         
+            {
+                "book": "Matthew",      HERE!
+                "chapter": "26",
+                "verse": "26-30",
+                "verse26": ""
             },
             {
                 "book": "book",
@@ -8881,24 +9017,7 @@
                 "verse": "1-2",
                 "text": ""
             },
-            {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
-            },
-            {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
-            },
-            {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
-            },
+
 
 
 
