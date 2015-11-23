@@ -9124,56 +9124,262 @@
                 "verse30": "30. For this cause many are weak and sickly among you, and many sleep."
             },
             {
-                "book": "3 Nephi",      HERE
+                "book": "3 Nephi",
                 "chapter": "18",
                 "verse": "1-12, 28-29",
-                "verse1": "1 And it came to pass that Jesus commanded his disciples that they should bring forth some bread and wine unto him.
+                "verse1": "1. And it came to pass that Jesus commanded his disciples that they should bring forth some bread and wine unto him.",
 
- 2 And while they were gone for bread and wine, he commanded the multitude that they should sit themselves down upon the earth.
+                "verse2": "2. And while they were gone for bread and wine, he commanded the multitude that they should sit themselves down upon the earth.",
 
- 3 And when the disciples had come with bread and wine, he took of the bread and brake and blessed it; and he gave unto the disciples and commanded that they should eat.
+                "verse3": "3. And when the disciples had come with bread and wine, he took of the bread and brake and blessed it; and he gave unto the disciples and commanded that they should eat.",
 
- 4 And when they had eaten and were filled, he commanded that they should give unto the multitude.
+                "verse4": "4. And when they had eaten and were filled, he commanded that they should give unto the multitude.",
 
- 5 And when the multitude had eaten and were filled, he said unto the disciples: Behold there shall one be ordained among you, and to him will I give power that he shall break bread and bless it and give it unto the people of my church, unto all those who shall believe and be baptized in my name.
+                "verse5": "5. And when the multitude had eaten and were filled, he said unto the disciples: Behold there shall one be ordained among you, and to him will I give power that he shall break bread and bless it and give it unto the people of my church, unto all those who shall believe and be baptized in my name.",
 
- 6 And this shall ye always observe to do, even as I have done, even as I have broken bread and blessed it and given it unto you.
+                "verse6": "6. And this shall ye always observe to do, even as I have done, even as I have broken bread and blessed it and given it unto you.",
 
- 7 And this shall ye do in remembrance of my body, which I have shown unto you. And it shall be a testimony unto the Father that ye do always remember me. And if ye do always remember me ye shall have my Spirit to be with you.
+                "verse7": "7. And this shall ye do in remembrance of my body, which I have shown unto you. And it shall be a testimony unto the Father that ye do always remember me. And if ye do always remember me ye shall have my Spirit to be with you.",
 
- 8 And it came to pass that when he said these words, he commanded his disciples that they should take of the wine of the cup and drink of it, and that they should also give unto the multitude that they might drink of it.
+                "verse8": "8. And it came to pass that when he said these words, he commanded his disciples that they should take of the wine of the cup and drink of it, and that they should also give unto the multitude that they might drink of it.",
 
- 9 And it came to pass that they did so, and did drink of it and were filled; and they gave unto the multitude, and they did drink, and they were filled.
+                "verse9": "9. And it came to pass that they did so, and did drink of it and were filled; and they gave unto the multitude, and they did drink, and they were filled.",
 
- 10 And when the disciples had done this, Jesus said unto them: Blessed are ye for this thing which ye have done, for this is fulfilling my commandments, and this doth witness unto the Father that ye are willing to do that which I have commanded you.
+                "verse10": "10. And when the disciples had done this, Jesus said unto them: Blessed are ye for this thing which ye have done, for this is fulfilling my commandments, and this doth witness unto the Father that ye are willing to do that which I have commanded you.",
 
- 11 And this shall ye always do to those who repent and are baptized in my name; and ye shall do it in remembrance of my blood, which I have shed for you, that ye may witness unto the Father that ye do always remember me. And if ye do always remember me ye shall have my Spirit to be with you.
+                "verse11": "11. And this shall ye always do to those who repent and are baptized in my name; and ye shall do it in remembrance of my blood, which I have shed for you, that ye may witness unto the Father that ye do always remember me. And if ye do always remember me ye shall have my Spirit to be with you.",
 
- 12 And I give unto you a commandment that ye shall do these things. And if ye shall always do these things blessed are ye, for ye are built upon my rock."
+                "verse12": "12. And I give unto you a commandment that ye shall do these things. And if ye shall always do these things blessed are ye, for ye are built upon my rock.",
+
+                "verse28": "28. And now behold, this is the commandment which I give unto you, that ye shall not suffer any one knowingly to partake of my flesh and blood unworthily, when ye shall minister it;",
+
+                "verse29": "29. For whoso eateth and drinketh my flesh and blood unworthily eateth and drinketh damnation to his soul; therefore if ye know that a man is unworthy to eat and drink of my flesh and blood ye shall forbid him.
             },
             {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
+                "book": "3 Nephi",
+                "chapter": "20",
+                "verse": "3-8",
+                "verse3": "3. And it came to pass that he brake bread again and blessed it, and gave to the disciples to eat.",
+
+                "verse4": "4. And when they had eaten he commanded them that they should break bread, and give unto the multitude.",
+
+                "verse5": "5. And when they had given unto the multitude he also gave them wine to drink, and commanded them that they should give unto the multitude.",
+
+                "verse6": "6. Now, there had been no bread, neither wine, brought by the disciples, neither by the multitude;",
+
+                "verse7": "7 But he truly gave unto them bread to eat, and also wine to drink.",
+
+                "verse8": "8. And he said unto them: He that eateth this bread eateth of my body to his soul; and he that drinketh of this wine drinketh of my blood to his soul; and his soul shall never hunger nor thirst, but shall be filled."
             },
             {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
+                "book": "3 Nephi",
+                "chapter": "26",
+                "verse": "13",
+                "verse13": "13. Therefore, I would that ye should behold that the Lord truly did teach the people, for the space of three days; and after that he did show himself unto them oft, and did break bread oft, and bless it, and give it unto them."
             },
             {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
+                "book": "Mormon",
+                "chapter": "9",
+                "verse": "29",
+                "verse29": "29. See that ye are not baptized unworthily; see that ye partake not of the sacrament of Christ unworthily; but see that ye do all things in worthiness, and do it in the name of Jesus Christ, the Son of the living God; and if ye do this, and endure to the end, ye will in nowise be cast out."
             },
             {
-                "book": "book",
-                "chapter": "7",
+                "book": "Moroni",
+                "chapter": "4",
+                "verse": "1-3",
+                "verse1": "1. The manner of their elders and priests administering the flesh and blood of Christ unto the church; and they administered it according to the commandments of Christ; wherefore we know the manner to be true; and the elder or priest did minister it—",
+
+                "verse2": "2. And they did kneel down with the church, and pray to the Father in the name of Christ, saying:",
+
+                "verse3": "3. O God, the Eternal Father, we ask thee in the name of thy Son, Jesus Christ, to bless and sanctify this bread to the souls of all those who partake of it; that they may eat in remembrance of the body of thy Son, and witness unto thee, O God, the Eternal Father, that they are willing to take upon them the name of thy Son, and always remember him, and keep his commandments which he hath given them, that they may always have his Spirit to be with them. Amen."
+            },
+            {
+                "book": "Moroni",
+                "chapter": "5",
                 "verse": "1-2",
-                "text": ""
+                "verse1": "1. The manner of administering the wine—Behold, they took the cup, and said:",
+
+                "verse2": "2. O God, the Eternal Father, we ask thee, in the name of thy Son, Jesus Christ, to bless and sanctify this wine to the souls of all those who drink of it, that they may do it in remembrance of the blood of thy Son, which was shed for them; that they may witness unto thee, O God, the Eternal Father, that they do always remember him, that they may have his Spirit to be with them. Amen."
+            },
+            {
+                "book": "Moroni",
+                "chapter": "6",
+                "verse": "5-6",
+                "verse5": "5. And the church did meet together oft, to fast and to pray, and to speak one with another concerning the welfare of their souls.",
+
+                "verse6": "6. And they did meet together oft to partake of bread and wine, in remembrance of the Lord Jesus."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "20",
+                "verse": "75-84",
+                "verse75": "75 It is expedient that the church meet together often to partake of bread and wine in the remembrance of the Lord Jesus;",
+
+                "verse76": "76. And the elder or priest shall administer it; and after this manner shall he administer it—he shall kneel with the church and call upon the Father in solemn prayer, saying:",
+
+                "verse77": "77. O God, the Eternal Father, we ask thee in the name of thy Son, Jesus Christ, to bless and sanctify this bread to the souls of all those who partake of it, that they may eat in remembrance of the body of thy Son, and witness unto thee, O God, the Eternal Father, that they are willing to take upon them the name of thy Son, and always remember him and keep his commandments which he has given them; that they may always have his Spirit to be with them. Amen.",
+
+                "verse78": "78. The manner of administering the wine—he shall take the cup also, and say:",
+
+                "verse79": "79. O God, the Eternal Father, we ask thee in the name of thy Son, Jesus Christ, to bless and sanctify this wine to the souls of all those who drink of it, that they may do it in remembrance of the blood of thy Son, which was shed for them; that they may witness unto thee, O God, the Eternal Father, that they do always remember him, that they may have his Spirit to be with them. Amen.",
+
+                "verse80": "80. Any member of the church of Christ transgressing, or being overtaken in a fault, shall be dealt with as the scriptures direct.",
+
+                "verse81": "81. It shall be the duty of the several churches, composing the church of Christ, to send one or more of their teachers to attend the several conferences held by the elders of the church,",
+
+                "verse82": "82. With a list of the names of the several members uniting themselves with the church since the last conference; or send by the hand of some priest; so that a regular list of all the names of the whole church may be kept in a book by one of the elders, whomsoever the other elders shall appoint from time to time;",
+
+                "verse83": "83. And also, if any have been expelled from the church, so that their names may be blotted out of the general church record of names.",
+
+                "verse84": "84. All members removing from the church where they reside, if going to a church where they are not known, may take a letter certifying that they are regular members and in good standing, which certificate may be signed by any elder or priest if the member receiving the letter is personally acquainted with the elder or priest, or it may be signed by the teachers or deacons of the church."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "27",
+                "verse": "2-4",
+                "verse2": "2. For, behold, I say unto you, that it mattereth not what ye shall eat or what ye shall drink when ye partake of the sacrament, if it so be that ye do it with an eye single to my glory—remembering unto the Father my body which was laid down for you, and my blood which was shed for the remission of your sins.",
+
+                "verse3": "3. Wherefore, a commandment I give unto you, that you shall not purchase wine neither strong drink of your enemies;",
+
+                "verse4": "4. Wherefore, you shall partake of none except it is made new among you; yea, in this my Father’s kingdom which shall be built up on the earth."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "43",
+                "verse": "8-9",
+                "verse8": "8. And now, behold, I give unto you a commandment, that when ye are assembled together ye shall instruct and edify each other, that ye may know how to act and direct my church, how to act upon the points of my law and commandments, which I have given.",
+
+                "verse9": "9. And thus ye shall become instructed in the law of my church, and be sanctified by that which ye have received, and ye shall bind yourselves to act in all holiness before me—"
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "59",
+                "verse": "12-16",
+                "verse12": "12. But remember that on this, the Lord’s day, thou shalt offer thine oblations and thy sacraments unto the Most High, confessing thy sins unto thy brethren, and before the Lord.",
+
+                "verse13": "13. And on this day thou shalt do none other thing, only let thy food be prepared with singleness of heart that thy fasting may be perfect, or, in other words, that thy joy may be full.",
+
+                "verse14": "14. Verily, this is fasting and prayer, or in other words, rejoicing and prayer.",
+
+                "verse15": "15. And inasmuch as ye do these things with thanksgiving, with cheerful hearts and countenances, not with much laughter, for this is sin, but with a glad heart and a cheerful countenance—",
+
+                "verse16": "16. Verily I say, that inasmuch as ye do this, the fulness of the earth is yours, the beasts of the field and the fowls of the air, and that which climbeth upon the trees and walketh upon the earth;"
+            }
+
+        ]
+        
+    {
+        "topic": "Satan and Sin",
+        "references": [          
+            {
+                "book": "Matthew",
+                "chapter": "4",
+                "verse": "1-11",
+                "verse1": "1. Then was Jesus led up of the Spirit into the wilderness to be tempted of the devil.",
+
+                "verse2": "2. And when he had fasted forty days and forty nights, he was afterward an hungred.",
+
+                "verse3": "3. And when the tempter came to him, he said, If thou be the Son of God, command that these stones be made bread.",
+
+                "verse4": "4. But he answered and said, It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God.",
+
+                "verse5": "5. Then the devil taketh him up into the holy city, and setteth him on a pinnacle of the temple,",
+
+                "verse6": "6. And saith unto him, If thou be the Son of God, cast thyself down: for it is written, He shall give his angels charge concerning thee: and in their hands they shall bear thee up, lest at any time thou dash thy foot against a stone.",
+
+                "verse7": "7. Jesus said unto him, It is written again, Thou shalt not tempt the Lord thy God.",
+
+                "verse8": "8. Again, the devil taketh him up into an exceeding high mountain, and sheweth him all the kingdoms of the world, and the glory of them;",
+
+                "verse9": "9. And saith unto him, All these things will I give thee, if thou wilt fall down and worship me.",
+
+                "verse10": "10. Then saith Jesus unto him, Get thee hence, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve.",
+
+                "verse11": "11. Then the devil leaveth him, and, behold, angels came and ministered unto him."
+            },
+            {
+                "book": "Matthew",
+                "chapter": "8",
+                "verse": "28-32",
+                "verse28": "28. And when he was come to the other side into the country of the Gergesenes, there met him two possessed with devils, coming out of the tombs, exceeding fierce, so that no man might pass by that way.",
+
+                "verse29": "29. And, behold, they cried out, saying, What have we to do with thee, Jesus, thou Son of God? art thou come hither to torment us before the time?",
+
+                "verse30": "30. And there was a good way off from them an herd of many swine feeding.",
+
+                "verse31": "31. So the devils besought him, saying, If thou cast us out, suffer us to go away into the herd of swine.",
+
+                "verse32": "32. And he said unto them, Go. And when they were come out, they went into the herd of swine: and, behold, the whole herd of swine ran violently down a steep place into the sea, and perished in the waters."
+            },
+            {
+                "book": "John",
+                "chapter": "8",
+                "verse": "34",
+                "verse34": "34. Jesus answered them, Verily, verily, I say unto you, Whosoever committeth sin is the servant of sin."
+            },
+            {
+                "book": "Romans",
+                "chapter": "3",
+                "verse": "23",
+                "verse23": "23. For all have sinned, and come short of the glory of God;"
+            },
+            {
+                "book": "Romans",
+                "chapter": "6",
+                "verse": "23",
+                "verse23": "23. For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord."
+            },
+            {
+                "book": "1 Corinthians",
+                "chapter": "10",
+                "verse": "13",
+                "verse13": "13. There hath no temptation taken you but such as is common to man: but God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear it."
+            },
+            {
+                "book": "2 Corinthians",
+                "chapter": "11",
+                "verse": "14",
+                "verse14": "14. And no marvel; for Satan himself is transformed into an angel of light."
+            },
+            {
+                "book": "James",
+                "chapter": "4",
+                "verse": "17",
+                "verse17": "17. Therefore to him that knoweth to do good, and doeth it not, to him it is sin."
+            },
+            {
+                "book": "1 John",
+                "chapter": "1",
+                "verse": "9-10",
+                "verse9": "9. If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness.",
+
+                "verse10": "10. If we say that we have not sinned, we make him a liar, and his word is not in us."
+            },
+            {
+                "book": "1 John",
+                "chapter": "3",
+                "verse": "4",
+                "verse4": "4. Whosoever committeth sin transgresseth also the law: for sin is the transgression of the law."
+            },
+            {
+                "book": "Jude",
+                "chapter": "1",
+                "verse": "6",
+                "verse6": "6. And the angels which kept not their first estate, but left their own habitation, he hath reserved in everlasting chains under darkness unto the judgment of the great day."
+            },
+            {
+                "book": "Revelation",
+                "chapter": "12",
+                "verse": "9",
+                "verse9": "9 And the great dragon was cast out, that old serpent, called the Devil, and Satan, which deceiveth the whole world: he was cast out into the earth, and his angels were cast out with him."
+            },
+            {
+                "book": "1 Nephi",
+                "chapter": "13",
+                "verse": "5-6",
+                "verse5": "5. And the angel said unto me: Behold the formation of a church which is most abominable above all other churches, which slayeth the saints of God, yea, and tortureth them and bindeth them down, and yoketh them with a yoke of iron, and bringeth them down into captivity.",
+
+                "verse6": "6. And it came to pass that I beheld this great and abominable church; and I saw the devil that he was the founder of it."
             },
             {
                 "book": "book",
