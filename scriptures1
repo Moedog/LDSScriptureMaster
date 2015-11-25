@@ -9540,10 +9540,146 @@
         "topic": "Second Coming",       HERE!
         "references": [         
             {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
+                "book": "Psalm",
+                "chapter": "50",
+                "verse": "3-6",
+                "verse3": "3. Our God shall come, and shall not keep silence: a fire shall devour before him, and it shall be very tempestuous round about him.",
+
+                "verse4": "4. He shall call to the heavens from above, and to the earth, that he may judge his people.",
+
+                "verse5": "5. Gather my saints together unto me; those that have made a covenant with me by sacrifice.",
+
+                "verse6": "6. And the heavens shall declare his righteousness: for God is judge himself. Selah."
+            },
+            {
+                "book": "Isaiah",
+                "chapter": "11",
+                "verse": "5-9",
+                "verse5": "5. And righteousness shall be the girdle of his loins, and faithfulness the girdle of his reins.",
+
+                "verse6": "6. The wolf also shall dwell with the lamb, and the leopard shall lie down with the kid; and the calf and the young lion and the fatling together; and a little child shall lead them.",
+
+                "verse7": "7. And the cow and the bear shall feed; their young ones shall lie down together: and the lion shall eat straw like the ox.",
+
+                "verse8": "8. And the sucking child shall play on the hole of the asp, and the weaned child shall put his hand on the cockatrice’ den.",
+
+                "verse9": "9. They shall not hurt nor destroy in all my holy mountain: for the earth shall be full of the knowledge of the Lord, as the waters cover the sea."
+            },
+            {
+                "book": "Malachi",
+                "chapter": "3",
+                "verse": "1-3",
+                "verse1": "1. Behold, I will send my messenger, and he shall prepare the way before me: and the Lord, whom ye seek, shall suddenly come to his temple, even the messenger of the covenant, whom ye delight in: behold, he shall come, saith the Lord of hosts.",
+
+                "verse2": "2. But who may abide the day of his coming? and who shall stand when he appeareth? for he is like a refiner’s fire, and like fullers’ soap:",
+
+                "verse3": "3. And he shall sit as a refiner and purifier of silver: and he shall purify the sons of Levi, and purge them as gold and silver, that they may offer unto the Lord an offering in righteousness."
+            },
+            {
+                "book": "Malachi",
+                "chapter": "4",
+                "verse": "1-3, 5-6",
+                "verse1": "1. For, behold, the day cometh, that shall burn as an oven; and all the proud, yea, and all that do wickedly, shall be stubble: and the day that cometh shall burn them up, saith the Lord of hosts, that it shall leave them neither root nor branch.",
+
+                "verse2": "2. But unto you that fear my name shall the Sun of righteousness arise with healing in his wings; and ye shall go forth, and grow up as calves of the stall.",
+
+                "verse3": "3. And ye shall tread down the wicked; for they shall be ashes under the soles of your feet in the day that I shall do this, saith the Lord of hosts.",
+
+                "verse5": "5. Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the Lord:",
+
+                "verse6": "6. And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers, lest I come and smite the earth with a curse.
+            },
+            {
+                "book": "Matthew",
+                "chapter": "24",
+                "verse": "3-12",
+                "verse3": "3. And as he sat upon the mount of Olives, the disciples came unto him privately, saying, Tell us, when shall these things be? and what shall be the sign of thy coming, and of the end of the world?",
+
+                "verse4": "4. And Jesus answered and said unto them, Take heed that no man deceive you.",
+
+                "verse5": "5. For many shall come in my name, saying, I am Christ; and shall deceive many.",
+
+                "verse6": "6. And ye shall hear of wars and rumours of wars: see that ye be not troubled: for all these things must come to pass, but the end is not yet.",
+
+                "verse7": "7. For nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and pestilences, and earthquakes, in divers places.",
+
+                "verse8": "8. All these are the beginning of sorrows.",
+
+                "verse9": "9. Then shall they deliver you up to be afflicted, and shall kill you: and ye shall be hated of all nations for my name’s sake.",
+
+                "verse10": "10. And then shall many be offended, and shall betray one another, and shall hate one another.",
+
+                "verse11": "11. And many false prophets shall rise, and shall deceive many.",
+
+                "verse12": "12. And because iniquity shall abound, the love of many shall wax cold."
+            },
+            {
+                "book": "Revelation",
+                "chapter": "20",
+                "verse": "1-6",
+                "verse1": "1. And I saw an angel come down from heaven, having the key of the bottomless pit and a great chain in his hand.",
+
+                "verse2": "2. And he laid hold on the dragon, that old serpent, which is the Devil, and Satan, and bound him a thousand years,",
+
+                "verse3": "3. And cast him into the bottomless pit, and shut him up, and set a seal upon him, that he should deceive the nations no more, till the thousand years should be fulfilled: and after that he must be loosed a little season.",
+
+                "verse4": "4. And I saw thrones, and they sat upon them, and judgment was given unto them: and I saw the souls of them that were beheaded for the witness of Jesus, and for the word of God, and which had not worshipped the beast, neither his image, neither had received his mark upon their foreheads, or in their hands; and they lived and reigned with Christ a thousand years.",
+
+                "verse5": "5. But the rest of the dead lived not again until the thousand years were finished. This is the first resurrection.",
+
+                "verse6": "6. Blessed and holy is he that hath part in the first resurrection: on such the second death hath no power, but they shall be priests of God and of Christ, and shall reign with him a thousand years."
+            },
+            {
+                "book": "1 Nephi",
+                "chapter": "14",
+                "verse": "10-17",
+                "verse10": "10. And he said unto me: Behold there are save two churches only; the one is the church of the Lamb of God, and the other is the church of the devil; wherefore, whoso belongeth not to the church of the Lamb of God belongeth to that great church, which is the mother of abominations; and she is the whore of all the earth.",
+
+                "verse11": "11. And it came to pass that I looked and beheld the whore of all the earth, and she sat upon many waters; and she had dominion over all the earth, among all nations, kindreds, tongues, and people.",
+
+                "verse12": "12. And it came to pass that I beheld the church of the Lamb of God, and its numbers were few, because of the wickedness and abominations of the whore who sat upon many waters; nevertheless, I beheld that the church of the Lamb, who were the saints of God, were also upon all the face of the earth; and their dominions upon the face of the earth were small, because of the wickedness of the great whore whom I saw.",
+
+                "verse13": "13. And it came to pass that I beheld that the great mother of abominations did gather together multitudes upon the face of all the earth, among all the nations of the Gentiles, to fight against the Lamb of God.",
+
+                "verse14": "14. And it came to pass that I, Nephi, beheld the power of the Lamb of God, that it descended upon the saints of the church of the Lamb, and upon the covenant people of the Lord, who were scattered upon all the face of the earth; and they were armed with righteousness and with the power of God in great glory.",
+
+                "verse15": "15. And it came to pass that I beheld that the wrath of God was poured out upon that great and abominable church, insomuch that there were wars and rumors of wars among all the nations and kindreds of the earth.",
+
+                "verse16": "16. And as there began to be wars and rumors of wars among all the nations which belonged to the mother of abominations, the angel spake unto me, saying: Behold, the wrath of God is upon the mother of harlots; and behold, thou seest all these things—",
+
+                "verse17": "17. And when the day cometh that the wrath of God is poured out upon the mother of harlots, which is the great and abominable church of all the earth, whose founder is the devil, then, at that day, the work of the Father shall commence, in preparing the way for the fulfilling of his covenants, which he hath made to his people who are of the house of Israel."
+            },
+            {
+                "book": "1 Nephi",
+                "chapter": "22",
+                "verse": "15-28",
+                "verse15": "15. For behold, saith the prophet, the time cometh speedily that Satan shall have no more power over the hearts of the children of men; for the day soon cometh that all the proud and they who do wickedly shall be as stubble; and the day cometh that they must be burned.",
+
+                "verse16": "16. For the time soon cometh that the fulness of the wrath of God shall be poured out upon all the children of men; for he will not suffer that the wicked shall destroy the righteous.",
+
+                "verse17": "17. Wherefore, he will preserve the righteous by his power, even if it so be that the fulness of his wrath must come, and the righteous be preserved, even unto the destruction of their enemies by fire. Wherefore, the righteous need not fear; for thus saith the prophet, they shall be saved, even if it so be as by fire.
+
+ 18 Behold, my brethren, I say unto you, that these things must shortly come; yea, even blood, and fire, and vapor of smoke must come; and it must needs be upon the face of this earth; and it cometh unto men according to the flesh if it so be that they will harden their hearts against the Holy One of Israel.
+
+ 19 For behold, the righteous shall not perish; for the time surely must come that all they who fight against Zion shall be cut off.
+
+ 20 And the Lord will surely prepare a way for his people, unto the fulfilling of the words of Moses, which he spake, saying: A prophet shall the Lord your God raise up unto you, like unto me; him shall ye hear in all things whatsoever he shall say unto you. And it shall come to pass that all those who will not hear that prophet shall be cut off from among the people.
+
+ 21 And now I, Nephi, declare unto you, that this prophet of whom Moses spake was the Holy One of Israel; wherefore, he shall execute judgment in righteousness.
+
+ 22 And the righteous need not fear, for they are those who shall not be confounded. But it is the kingdom of the devil, which shall be built up among the children of men, which kingdom is established among them which are in the flesh—
+
+ 23 For the time speedily shall come that all churches which are built up to get gain, and all those who are built up to get power over the flesh, and those who are built up to become popular in the eyes of the world, and those who seek the lusts of the flesh and the things of the world, and to do all manner of iniquity; yea, in fine, all those who belong to the kingdom of the devil are they who need fear, and tremble, and quake; they are those who must be brought low in the dust; they are those who must be consumed as stubble; and this is according to the words of the prophet.
+
+ 24 And the time cometh speedily that the righteous must be led up as calves of the stall, and the Holy One of Israel must reign in dominion, and might, and power, and great glory.
+
+ 25 And he gathereth his children from the four quarters of the earth; and he numbereth his sheep, and they know him; and there shall be one fold and one shepherd; and he shall feed his sheep, and in him they shall find pasture.
+
+ 26 And because of the righteousness of his people, Satan has no power; wherefore, he cannot be loosed for the space of many years; for he hath no power over the hearts of the people, for they dwell in righteousness, and the Holy One of Israel reigneth.
+
+ 27 And now behold, I, Nephi, say unto you that all these things must come according to the flesh.
+
+ 28 But, behold, all nations, kindreds, tongues, and people shall dwell safely in the Holy One of Israel if it so be that they will repent."
             },
             {
                 "book": "book",
@@ -9563,6 +9699,13 @@
                 "verse": "1-2",
                 "text": ""
             },
+            {
+                "book": "book",
+                "chapter": "7",
+                "verse": "1-2",
+                "text": ""
+            },
+
 
 
 
