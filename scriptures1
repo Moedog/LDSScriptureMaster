@@ -9537,7 +9537,7 @@
         ]
         
     {
-        "topic": "Second Coming",       HERE!
+        "topic": "Second Coming",
         "references": [         
             {
                 "book": "Psalm",
@@ -9650,36 +9650,298 @@
                 "verse17": "17. And when the day cometh that the wrath of God is poured out upon the mother of harlots, which is the great and abominable church of all the earth, whose founder is the devil, then, at that day, the work of the Father shall commence, in preparing the way for the fulfilling of his covenants, which he hath made to his people who are of the house of Israel."
             },
             {
-                "book": "1 Nephi",
+                "book": "1 Nephi",  
                 "chapter": "22",
                 "verse": "15-28",
                 "verse15": "15. For behold, saith the prophet, the time cometh speedily that Satan shall have no more power over the hearts of the children of men; for the day soon cometh that all the proud and they who do wickedly shall be as stubble; and the day cometh that they must be burned.",
 
                 "verse16": "16. For the time soon cometh that the fulness of the wrath of God shall be poured out upon all the children of men; for he will not suffer that the wicked shall destroy the righteous.",
 
-                "verse17": "17. Wherefore, he will preserve the righteous by his power, even if it so be that the fulness of his wrath must come, and the righteous be preserved, even unto the destruction of their enemies by fire. Wherefore, the righteous need not fear; for thus saith the prophet, they shall be saved, even if it so be as by fire.
+                "verse17": "17. Wherefore, he will preserve the righteous by his power, even if it so be that the fulness of his wrath must come, and the righteous be preserved, even unto the destruction of their enemies by fire. Wherefore, the righteous need not fear; for thus saith the prophet, they shall be saved, even if it so be as by fire.",
 
- 18 Behold, my brethren, I say unto you, that these things must shortly come; yea, even blood, and fire, and vapor of smoke must come; and it must needs be upon the face of this earth; and it cometh unto men according to the flesh if it so be that they will harden their hearts against the Holy One of Israel.
+                "verse18", "18. Behold, my brethren, I say unto you, that these things must shortly come; yea, even blood, and fire, and vapor of smoke must come; and it must needs be upon the face of this earth; and it cometh unto men according to the flesh if it so be that they will harden their hearts against the Holy One of Israel.",
 
- 19 For behold, the righteous shall not perish; for the time surely must come that all they who fight against Zion shall be cut off.
+                "verse19": "19. For behold, the righteous shall not perish; for the time surely must come that all they who fight against Zion shall be cut off.",
 
- 20 And the Lord will surely prepare a way for his people, unto the fulfilling of the words of Moses, which he spake, saying: A prophet shall the Lord your God raise up unto you, like unto me; him shall ye hear in all things whatsoever he shall say unto you. And it shall come to pass that all those who will not hear that prophet shall be cut off from among the people.
+                "verse20": "20. And the Lord will surely prepare a way for his people, unto the fulfilling of the words of Moses, which he spake, saying: A prophet shall the Lord your God raise up unto you, like unto me; him shall ye hear in all things whatsoever he shall say unto you. And it shall come to pass that all those who will not hear that prophet shall be cut off from among the people.",
 
- 21 And now I, Nephi, declare unto you, that this prophet of whom Moses spake was the Holy One of Israel; wherefore, he shall execute judgment in righteousness.
+                "verse21": "21. And now I, Nephi, declare unto you, that this prophet of whom Moses spake was the Holy One of Israel; wherefore, he shall execute judgment in righteousness.",
 
- 22 And the righteous need not fear, for they are those who shall not be confounded. But it is the kingdom of the devil, which shall be built up among the children of men, which kingdom is established among them which are in the flesh—
+                "verse22": "22. And the righteous need not fear, for they are those who shall not be confounded. But it is the kingdom of the devil, which shall be built up among the children of men, which kingdom is established among them which are in the flesh—",
 
- 23 For the time speedily shall come that all churches which are built up to get gain, and all those who are built up to get power over the flesh, and those who are built up to become popular in the eyes of the world, and those who seek the lusts of the flesh and the things of the world, and to do all manner of iniquity; yea, in fine, all those who belong to the kingdom of the devil are they who need fear, and tremble, and quake; they are those who must be brought low in the dust; they are those who must be consumed as stubble; and this is according to the words of the prophet.
+                "verse23": "23. For the time speedily shall come that all churches which are built up to get gain, and all those who are built up to get power over the flesh, and those who are built up to become popular in the eyes of the world, and those who seek the lusts of the flesh and the things of the world, and to do all manner of iniquity; yea, in fine, all those who belong to the kingdom of the devil are they who need fear, and tremble, and quake; they are those who must be brought low in the dust; they are those who must be consumed as stubble; and this is according to the words of the prophet.",
 
- 24 And the time cometh speedily that the righteous must be led up as calves of the stall, and the Holy One of Israel must reign in dominion, and might, and power, and great glory.
+                "verse24": "24. And the time cometh speedily that the righteous must be led up as calves of the stall, and the Holy One of Israel must reign in dominion, and might, and power, and great glory.",
 
- 25 And he gathereth his children from the four quarters of the earth; and he numbereth his sheep, and they know him; and there shall be one fold and one shepherd; and he shall feed his sheep, and in him they shall find pasture.
+                "verse5": "5. And he gathereth his children from the four quarters of the earth; and he numbereth his sheep, and they know him; and there shall be one fold and one shepherd; and he shall feed his sheep, and in him they shall find pasture.",
 
- 26 And because of the righteousness of his people, Satan has no power; wherefore, he cannot be loosed for the space of many years; for he hath no power over the hearts of the people, for they dwell in righteousness, and the Holy One of Israel reigneth.
+                "verse26": "26. And because of the righteousness of his people, Satan has no power; wherefore, he cannot be loosed for the space of many years; for he hath no power over the hearts of the people, for they dwell in righteousness, and the Holy One of Israel reigneth.",
 
- 27 And now behold, I, Nephi, say unto you that all these things must come according to the flesh.
+                "verse27": "27. And now behold, I, Nephi, say unto you that all these things must come according to the flesh.",
 
- 28 But, behold, all nations, kindreds, tongues, and people shall dwell safely in the Holy One of Israel if it so be that they will repent."
+                "verse28": "28. But, behold, all nations, kindreds, tongues, and people shall dwell safely in the Holy One of Israel if it so be that they will repent."
+            },
+            {
+                "book": "2 Nephi",
+                "chapter": "27",
+                "verse": "1-2",
+                "verse1": "1. But, behold, in the last days, or in the days of the Gentiles—yea, behold all the nations of the Gentiles and also the Jews, both those who shall come upon this land and those who shall be upon other lands, yea, even upon all the lands of the earth, behold, they will be drunken with iniquity and all manner of abominations—",
+
+                "verse2": "2. And when that day shall come they shall be visited of the Lord of Hosts, with thunder and with earthquake, and with a great noise, and with storm, and with tempest, and with the flame of devouring fire."
+            },
+            {
+                "book": "2 Nephi",
+                "chapter": "28",
+                "verse": "3-17",
+                "verse3": "3. For it shall come to pass in that day that the churches which are built up, and not unto the Lord, when the one shall say unto the other: Behold, I, I am the Lord’s; and the others shall say: I, I am the Lord’s; and thus shall every one say that hath built up churches, and not unto the Lord—",
+
+                "verse4": "4. And they shall contend one with another; and their priests shall contend one with another, and they shall teach with their learning, and deny the Holy Ghost, which giveth utterance.",
+
+                "verse5": "5. And they deny the power of God, the Holy One of Israel; and they say unto the people: Hearken unto us, and hear ye our precept; for behold there is no God today, for the Lord and the Redeemer hath done his work, and he hath given his power unto men;",
+
+                "verse6": "6. Behold, hearken ye unto my precept; if they shall say there is a miracle wrought by the hand of the Lord, believe it not; for this day he is not a God of miracles; he hath done his work.",
+
+                "verse7": "7. Yea, and there shall be many which shall say: Eat, drink, and be merry, for tomorrow we die; and it shall be well with us.",
+
+                "verse8": "8. And there shall also be many which shall say: Eat, drink, and be merry; nevertheless, fear God—he will justify in committing a little sin; yea, lie a little, take the advantage of one because of his words, dig a pit for thy neighbor; there is no harm in this; and do all these things, for tomorrow we die; and if it so be that we are guilty, God will beat us with a few stripes, and at last we shall be saved in the kingdom of God.",
+
+                "verse9": "9. Yea, and there shall be many which shall teach after this manner, false and vain and foolish doctrines, and shall be puffed up in their hearts, and shall seek deep to hide their counsels from the Lord; and their works shall be in the dark.",
+
+                "verse10": "10. And the blood of the saints shall cry from the ground against them.",
+
+                "verse11": "11. Yea, they have all gone out of the way; they have become corrupted.",
+
+                "verse12": "12. Because of pride, and because of false teachers, and false doctrine, their churches have become corrupted, and their churches are lifted up; because of pride they are puffed up.",
+
+                "verse13": "13. They rob the poor because of their fine sanctuaries; they rob the poor because of their fine clothing; and they persecute the meek and the poor in heart, because in their pride they are puffed up.",
+
+                "verse14": "14. They wear stiff necks and high heads; yea, and because of pride, and wickedness, and abominations, and whoredoms, they have all gone astray save it be a few, who are the humble followers of Christ; nevertheless, they are led, that in many instances they do err because they are taught by the precepts of men.",
+
+                "verse15": "15. O the wise, and the learned, and the rich, that are puffed up in the pride of their hearts, and all those who preach false doctrines, and all those who commit whoredoms, and pervert the right way of the Lord, wo, wo, wo be unto them, saith the Lord God Almighty, for they shall be thrust down to hell!",
+
+                "verse16": "16. Wo unto them that turn aside the just for a thing of naught and revile against that which is good, and say that it is of no worth! For the day shall come that the Lord God will speedily visit the inhabitants of the earth; and in that day that they are fully ripe in iniquity they shall perish.",
+
+                "verse17": "17. But behold, if the inhabitants of the earth shall repent of their wickedness and abominations they shall not be destroyed, saith the Lord of Hosts."
+            },
+            {
+                "book": "2 Nephi",
+                "chapter": "30",
+                "verse": "8-18",
+                "verse8": "8. And it shall come to pass that the Lord God shall commence his work among all nations, kindreds, tongues, and people, to bring about the restoration of his people upon the earth.",
+
+                "verse9": "9. And with righteousness shall the Lord God judge the poor, and reprove with equity for the meek of the earth. And he shall smite the earth with the rod of his mouth; and with the breath of his lips shall he slay the wicked.",
+
+                "verse10": "10. For the time speedily cometh that the Lord God shall cause a great division among the people, and the wicked will he destroy; and he will spare his people, yea, even if it so be that he must destroy the wicked by fire.",
+
+                "verse11": "11. And righteousness shall be the girdle of his loins, and faithfulness the girdle of his reins.",
+
+                "verse12": "12. And then shall the wolf dwell with the lamb; and the leopard shall lie down with the kid, and the calf, and the young lion, and the fatling, together; and a little child shall lead them.",
+
+                "verse13": "13. And the cow and the bear shall feed; their young ones shall lie down together; and the lion shall eat straw like the ox.",
+
+                "verse14": "14. And the sucking child shall play on the hole of the asp, and the weaned child shall put his hand on the cockatrice’s den.",
+
+                "verse15": "15. They shall not hurt nor destroy in all my holy mountain; for the earth shall be full of the knowledge of the Lord as the waters cover the sea.",
+
+                "verse16": "16. Wherefore, the things of all nations shall be made known; yea, all things shall be made known unto the children of men.",
+
+                "verse17": "17. There is nothing which is secret save it shall be revealed; there is no work of darkness save it shall be made manifest in the light; and there is nothing which is sealed upon the earth save it shall be loosed.",
+
+                "verse18": "18. Wherefore, all things which have been revealed unto the children of men shall at that day be revealed; and Satan shall have power over the hearts of the children of men no more, for a long time. And now, my beloved brethren, I make an end of my sayings."
+            },
+            {
+                "book": "3 Nephi",
+                "chapter": "25",
+                "verse": "1-6",
+                "verse1": "1. For behold, the day cometh that shall burn as an oven; and all the proud, yea, and all that do wickedly, shall be stubble; and the day that cometh shall burn them up, saith the Lord of Hosts, that it shall leave them neither root nor branch.",
+
+                "verse2": "2. But unto you that fear my name, shall the Son of Righteousness arise with healing in his wings; and ye shall go forth and grow up as calves in the stall.",
+
+                "verse3": "3. And ye shall tread down the wicked; for they shall be ashes under the soles of your feet in the day that I shall do this, saith the Lord of Hosts.",
+
+                "verse4": "4. Remember ye the law of Moses, my servant, which I commanded unto him in Horeb for all Israel, with the statutes and judgments.",
+
+                "verse5": "5. Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the Lord;",
+
+                "verse6": "6. And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers, lest I come and smite the earth with a curse."
+            },
+            {
+                "book": "Ether",
+                "chapter": "4",
+                "verse": "4-11",
+                "verse4": "4. Behold, I have written upon these plates the very things which the brother of Jared saw; and there never were greater things made manifest than those which were made manifest unto the brother of Jared.",
+
+                "verse5": "5. Wherefore the Lord hath commanded me to write them; and I have written them. And he commanded me that I should seal them up; and he also hath commanded that I should seal up the interpretation thereof; wherefore I have sealed up the interpreters, according to the commandment of the Lord.",
+
+                "verse6": "6. For the Lord said unto me: They shall not go forth unto the Gentiles until the day that they shall repent of their iniquity, and become clean before the Lord.",
+
+                "verse7": "7. And in that day that they shall exercise faith in me, saith the Lord, even as the brother of Jared did, that they may become sanctified in me, then will I manifest unto them the things which the brother of Jared saw, even to the unfolding unto them all my revelations, saith Jesus Christ, the Son of God, the Father of the heavens and of the earth, and all things that in them are.",
+
+                "verse8": "8. And he that will contend against the word of the Lord, let him be accursed; and he that shall deny these things, let him be accursed; for unto them will I show no greater things, saith Jesus Christ; for I am he who speaketh.",
+
+                "verse9": "9. And at my command the heavens are opened and are shut; and at my word the earth shall shake; and at my command the inhabitants thereof shall pass away, even so as by fire.",
+
+                "verse10": "10. And he that believeth not my words believeth not my disciples; and if it so be that I do not speak, judge ye; for ye shall know that it is I that speaketh, at the last day.",
+
+                "verse11": "11. But he that believeth these things which I have spoken, him will I visit with the manifestations of my Spirit, and he shall know and bear record. For because of my Spirit he shall know that these things are true; for it persuadeth men to do good."
+            },
+            {
+                "book": "Ether",
+                "chapter": "4",
+                "verse": "4-11",
+                "verse4": "4. Behold, I have written upon these plates the very things which the brother of Jared saw; and there never were greater things made manifest than those which were made manifest unto the brother of Jared.",
+
+                "verse5": "5. Wherefore the Lord hath commanded me to write them; and I have written them. And he commanded me that I should seal them up; and he also hath commanded that I should seal up the interpretation thereof; wherefore I have sealed up the interpreters, according to the commandment of the Lord.",
+
+                "verse6": "6. For the Lord said unto me: They shall not go forth unto the Gentiles until the day that they shall repent of their iniquity, and become clean before the Lord.",
+
+                "verse7": "7. And in that day that they shall exercise faith in me, saith the Lord, even as the brother of Jared did, that they may become sanctified in me, then will I manifest unto them the things which the brother of Jared saw, even to the unfolding unto them all my revelations, saith Jesus Christ, the Son of God, the Father of the heavens and of the earth, and all things that in them are.",
+
+                "verse8": "8. And he that will contend against the word of the Lord, let him be accursed; and he that shall deny these things, let him be accursed; for unto them will I show no greater things, saith Jesus Christ; for I am he who speaketh.",
+
+                "verse9": "9. And at my command the heavens are opened and are shut; and at my word the earth shall shake; and at my command the inhabitants thereof shall pass away, even so as by fire.",
+
+                "verse10": "10. And he that believeth not my words believeth not my disciples; and if it so be that I do not speak, judge ye; for ye shall know that it is I that speaketh, at the last day.",
+
+                "verse11": "11. But he that believeth these things which I have spoken, him will I visit with the manifestations of my Spirit, and he shall know and bear record. For because of my Spirit he shall know that these things are true; for it persuadeth men to do good."
+            },
+            {
+                "book": "Doctine and Covenants",
+                "chapter": "2",
+                "verse": "1",
+                "verse1": "1. Behold, I will reveal unto you the Priesthood, by the hand of Elijah the prophet, before the coming of the great and dreadful day of the Lord."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "29",
+                "verse": "9-11, 22-28",
+                "verse9": "9. For the hour is nigh and the day soon at hand when the earth is ripe; and all the proud and they that do wickedly shall be as stubble; and I will burn them up, saith the Lord of Hosts, that wickedness shall not be upon the earth;",
+
+                "verse10": "10. For the hour is nigh, and that which was spoken by mine apostles must be fulfilled; for as they spoke so shall it come to pass;",
+
+                "verse11": "11. For I will reveal myself from heaven with power and great glory, with all the hosts thereof, and dwell in righteousness with men on earth a thousand years, and the wicked shall not stand.",
+
+                "verse22": "22. And again, verily, verily, I say unto you that when the thousand years are ended, and men again begin to deny their God, then will I spare the earth but for a little season;",
+
+                "verse23": "23. And the end shall come, and the heaven and the earth shall be consumed and pass away, and there shall be a new heaven and a new earth.",
+
+                "verse24": "24. For all old things shall pass away, and all things shall become new, even the heaven and the earth, and all the fulness thereof, both men and beasts, the fowls of the air, and the fishes of the sea;",
+
+                "verse25": "25. And not one hair, neither mote, shall be lost, for it is the workmanship of mine hand.",
+
+                "verse26": "26. But, behold, verily I say unto you, before the earth shall pass away, Michael, mine archangel, shall sound his trump, and then shall all the dead awake, for their graves shall be opened, and they shall come forth—yea, even all.",
+
+                "verse27": "27. And the righteous shall be gathered on my right hand unto eternal life; and the wicked on my left hand will I be ashamed to own before the Father;",
+
+                "verse28": "28. Wherefore I will say unto them—Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "43",
+                "verse": "30-33",
+                "verse30": "30. For the great Millennium, of which I have spoken by the mouth of my servants, shall come.",
+
+                "verse31": "31. For Satan shall be bound, and when he is loosed again he shall only reign for a little season, and then cometh the end of the earth.",
+
+                "verse32": "32. And he that liveth in righteousness shall be changed in the twinkling of an eye, and the earth shall pass away so as by fire.",
+
+                "verse33": "33. And the wicked shall go away into unquenchable fire, and their end no man knoweth on earth, nor ever shall know, until they come before me in judgment."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "63",
+                "verse": "49-54",
+                "verse49": "49. Yea, and blessed are the dead that die in the Lord, from henceforth, when the Lord shall come, and old things shall pass away, and all things become new, they shall rise from the dead and shall not die after, and shall receive an inheritance before the Lord, in the holy city.",
+
+                "verse50": "50. And he that liveth when the Lord shall come, and hath kept the faith, blessed is he; nevertheless, it is appointed to him to die at the age of man.",
+
+                "verse51": "51. Wherefore, children shall grow up until they become old; old men shall die; but they shall not sleep in the dust, but they shall be changed in the twinkling of an eye.",
+
+                "verse52": "52. Wherefore, for this cause preached the apostles unto the world the resurrection of the dead.",
+
+                verse53": "53. These things are the things that ye must look for; and, speaking after the manner of the Lord, they are now nigh at hand, and in a time to come, even in the day of the coming of the Son of Man.",
+
+                "verse54": "54. And until that hour there will be foolish virgins among the wise; and at that hour cometh an entire separation of the righteous and the wicked; and in that day will I send mine angels to pluck out the wicked and cast them into unquenchable fire."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "64",
+                "verse": "23",
+                "verse23": "23. Behold, now it is called today until the coming of the Son of Man, and verily it is a day of sacrifice, and a day for the tithing of my people; for he that is tithed shall not be burned at his coming."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "77",
+                "verse": "12",
+                "verse12": "12. Q. What are we to understand by the sounding of the trumpets, mentioned in the 8th chapter of Revelation? A. We are to understand that as God made the world in six days, and on the seventh day he finished his work, and sanctified it, and also formed man out of the dust of the earth, even so, in the beginning of the seventh thousand years will the Lord God sanctify the earth, and complete the salvation of man, and judge all things, and shall redeem all things, except that which he hath not put into his power, when he shall have sealed all things, unto the end of all things; and the sounding of the trumpets of the seven angels are the preparing and finishing of his work, in the beginning of the seventh thousand years—the preparing of the way before the time of his coming."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "84",
+                "verse": "96-102",
+                "verse96": "96. For I, the Almighty, have laid my hands upon the nations, to scourge them for their wickedness.",
+
+                "verse97": "97. And plagues shall go forth, and they shall not be taken from the earth until I have completed my work, which shall be cut short in righteousness—",
+
+                "verse98": "98. Until all shall know me, who remain, even from the least unto the greatest, and shall be filled with the knowledge of the Lord, and shall see eye to eye, and shall lift up their voice, and with the voice together sing this new song, saying:",
+
+                "verse99": "99. The Lord hath brought again Zion; The Lord hath redeemed his people, Israel, According to the election of grace, Which was brought to pass by the faith And covenant of their fathers.",
+
+                "verse100": "100. The Lord hath redeemed his people; And Satan is bound and time is no longer. The Lord hath gathered all things in one. The Lord hath brought down Zion from above. The Lord hath brought up Zion from beneath.",
+
+                "verse101": 101. The earth hath travailed and brought forth her strength; And truth is established in her bowels; And the heavens have smiled upon her; And she is clothed with the glory of her God; For he stands in the midst of his people.",
+
+                "verse102": "102. Glory, and honor, and power, and might, Be ascribed to our God; for he is full of mercy, Justice, grace and truth, and peace, Forever and ever, Amen."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "101",
+                "verse": "22-38",
+                "verse22": "22. Behold, it is my will, that all they who call on my name, and worship me according to mine everlasting gospel, should gather together, and stand in holy places;",
+
+                "verse23": "23. And prepare for the revelation which is to come, when the veil of the covering of my temple, in my tabernacle, which hideth the earth, shall be taken off, and all flesh shall see me together.",
+
+                "verse24": "24. And every corruptible thing, both of man, or of the beasts of the field, or of the fowls of the heavens, or of the fish of the sea, that dwells upon all the face of the earth, shall be consumed;",
+
+                "verse25": "25. And also that of element shall melt with fervent heat; and all things shall become new, that my knowledge and glory may dwell upon all the earth.",
+
+                "verse26": "26. And in that day the enmity of man, and the enmity of beasts, yea, the enmity of all flesh, shall cease from before my face.",
+
+                "verse27": "27. And in that day whatsoever any man shall ask, it shall be given unto him.",
+
+                "verse28": "28. And in that day Satan shall not have power to tempt any man.",
+
+                "verse29": "29. And there shall be no sorrow because there is no death.",
+
+                "verse30": "30. In that day an infant shall not die until he is old; and his life shall be as the age of a tree;",
+
+                "verse31": "31. And when he dies he shall not sleep, that is to say in the earth, but shall be changed in the twinkling of an eye, and shall be caught up, and his rest shall be glorious.",
+
+                "verse32": "32. Yea, verily I say unto you, in that day when the Lord shall come, he shall reveal all things—",
+
+                "verse33": "33. Things which have passed, and hidden things which no man knew, things of the earth, by which it was made, and the purpose and the end thereof—",
+
+                "verse34": "34. Things most precious, things that are above, and things that are beneath, things that are in the earth, and upon the earth, and in heaven.",
+
+                "verse35": "35. And all they who suffer persecution for my name, and endure in faith, though they are called to lay down their lives for my sake yet shall they partake of all this glory.",
+
+                "verse36": "36. Wherefore, fear not even unto death; for in this world your joy is not full, but in me your joy is full.",
+
+                "verse37": "37. Therefore, care not for the body, neither the life of the body; but care for the soul, and for the life of the soul.",
+
+                "verse38": "38. And seek the face of the Lord always, that in patience ye may possess your souls, and ye shall have eternal life."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "112",
+                "verse": "24",
+                "verse24": "24. Behold, vengeance cometh speedily upon the inhabitants of the earth, a day of wrath, a day of burning, a day of desolation, of weeping, of mourning, and of lamentation; and as a whirlwind it shall come upon all the face of the earth, saith the Lord."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "116",
+                "verse": "1",
+                "verse1": "1. Spring Hill is named by the Lord Adam-ondi-Ahman, because, said he, it is the place where Adam shall come to visit his people, or the Ancient of Days shall sit, as spoken of by Daniel the prophet."
             },
             {
                 "book": "book",
@@ -9705,6 +9967,14 @@
                 "verse": "1-2",
                 "text": ""
             },
+            {
+                "book": "book",
+                "chapter": "7",
+                "verse": "1-2",
+                "text": ""
+            },
+
+
 
 
 
