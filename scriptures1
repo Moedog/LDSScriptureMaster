@@ -9996,47 +9996,318 @@
         "topic": "Sprit World",
         "references": [        
             {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
+                "book": "Ecclesiates",
+                "chapter": "12",
+                "verse": "7",
+                "verse7": "7. Then shall the dust return to the earth as it was: and the spirit shall return unto God who gave it."
             },
             {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
+                "book": "Isaiah",
+                "chapter": "24",
+                "verse": "21-22",
+                "verse21": "21. And it shall come to pass in that day, that the Lord shall punish the host of the high ones that are on high, and the kings of the earth upon the earth.",
+
+                "verse22": "22. And they shall be gathered together, as prisoners are gathered in the pit, and shall be shut up in the prison, and after many days shall they be visited."
             },
             {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
+                "book": "Luke",
+                "chapter": "16",
+                "verse": "19-31",
+                "verse19": "19. There was a certain rich man, which was clothed in purple and fine linen, and fared sumptuously every day:",
+
+                "verse20": "20. And there was a certain beggar named Lazarus, which was laid at his gate, full of sores,",
+
+                "verse21": "21. And desiring to be fed with the crumbs which fell from the rich man’s table: moreover the dogs came and licked his sores.",
+
+                "verse22": "22. And it came to pass, that the beggar died, and was carried by the angels into Abraham’s bosom: the rich man also died, and was buried;",
+
+                "verse23": "23. And in hell he lift up his eyes, being in torments, and seeth Abraham afar off, and Lazarus in his bosom.",
+
+                "verse24": "24. And he cried and said, Father Abraham, have mercy on me, and send Lazarus, that he may dip the tip of his finger in water, and cool my tongue; for I am tormented in this flame.",
+
+                "verse25": "25. But Abraham said, Son, remember that thou in thy lifetime receivedst thy good things, and likewise Lazarus evil things: but now he is comforted, and thou art tormented.",
+
+                "verse26": "26. And beside all this, between us and you there is a great gulf fixed: so that they which would pass from hence to you cannot; neither can they pass to us, that would come from thence.",
+
+                "verse27": "27. Then he said, I pray thee therefore, father, that thou wouldest send him to my father’s house:",
+
+                "verse28": "28. For I have five brethren; that he may testify unto them, lest they also come into this place of torment.",
+
+                "verse29": "29. Abraham saith unto him, They have Moses and the prophets; let them hear them.",
+
+                "verse30 And he said, Nay, father Abraham: but if one went unto them from the dead, they will repent.",
+
+                "verse31": "31. And he said unto him, If they hear not Moses and the prophets, neither will they be persuaded, though one rose from the dead."
             },
             {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
+                "book": "Luke",
+                "chapter": "23",
+                "verse": "42-43",
+                "verse42": "42. And he said unto Jesus, Lord, remember me when thou comest into thy kingdom.",
+
+                "verse43": "43. And Jesus said unto him, Verily I say unto thee, To day shalt thou be with me in paradise."
             },
             {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
+                "book": "John",
+                "chapter": "5",
+                "verse": "25",
+                "verse25": "25. Verily, verily, I say unto you, The hour is coming, and now is, when the dead shall hear the voice of the Son of God: and they that hear shall live."
             },
             {
-                "book": "book",
-                "chapter": "7",
-                "verse": "1-2",
-                "text": ""
+                "book": "1 Corinthians",
+                "chapter": "15",
+                "verse": "29-30",
+                "verse29": "29. Else what shall they do which are baptized for the dead, if the dead rise not at all? why are they then baptized for the dead?",
+
+                "verse30": "30. And why stand we in jeopardy every hour?"
             },
+            {
+                "book": "1 Peter",
+                "chapter": "3",
+                "verse": "18-19",
+                "verse18": "18. For Christ also hath once suffered for sins, the just for the unjust, that he might bring us to God, being put to death in the flesh, but quickened by the Spirit:",
 
+                "verse19": "19. By which also he went and preached unto the spirits in prison;"
+            },
+            {
+                "book": "1 Peter",
+                "chapter": "4",
+                "verse": "6",
+                "verse6": "6. For for this cause was the gospel preached also to them that are dead, that they might be judged according to men in the flesh, but live according to God in the spirit."
+            },
+            {
+                "book": "Alma",
+                "chapter": "40",
+                "verse": "6-7, 11-14",
+                "verse6": "6. Now there must needs be a space betwixt the time of death and the time of the resurrection.",
 
+                "verse7": "7. And now I would inquire what becometh of the souls of men from this time of death to the time appointed for the resurrection?",
 
+                verse11": "11. Now, concerning the state of the soul between death and the resurrection—Behold, it has been made known unto me by an angel, that the spirits of all men, as soon as they are departed from this mortal body, yea, the spirits of all men, whether they be good or evil, are taken home to that God who gave them life.",
 
+                "verse12": "12. And then shall it come to pass, that the spirits of those who are righteous are received into a state of happiness, which is called paradise, a state of rest, a state of peace, where they shall rest from all their troubles and from all care, and sorrow.",
 
+                "verse13": "13. And then shall it come to pass, that the spirits of the wicked, yea, who are evil—for behold, they have no part nor portion of the Spirit of the Lord; for behold, they chose evil works rather than good; therefore the spirit of the devil did enter into them, and take possession of their house—and these shall be cast out into outer darkness; there shall be weeping, and wailing, and gnashing of teeth, and this because of their own iniquity, being led captive by the will of the devil.",
 
+                "verse14": "14. Now this is the state of the souls of the wicked, yea, in darkness, and a state of awful, fearful looking for the fiery indignation of the wrath of God upon them; thus they remain in this state, as well as the righteous in paradise, until the time of their resurrection.",
+            },
+            {
+                "book": "4 Nephi",
+                "chapter": "1",
+                "verse": "14",
+                "verse14": "14. And it came to pass that the seventy and first year passed away, and also the seventy and second year, yea, and in fine, till the seventy and ninth year had passed away; yea, even an hundred years had passed away, and the disciples of Jesus, whom he had chosen, had all gone to the paradise of God, save it were the three who should tarry; and there were other disciples ordained in their stead; and also many of that generation had passed away."
+            },
+            {
+                "book": "Moroni",
+                "chapter": "10",
+                "verse": "34",
+                "verse34": "34. And now I bid unto all, farewell. I soon go to rest in the paradise of God, until my spirit and body shall again reunite, and I am brought forth triumphant through the air, to meet you before the pleasing bar of the great Jehovah, the Eternal Judge of both quick and dead. Amen."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "76",
+                "verse": "71-74",
+                "verse71": "71. And again, we saw the terrestrial world, and behold and lo, these are they who are of the terrestrial, whose glory differs from that of the church of the Firstborn who have received the fulness of the Father, even as that of the moon differs from the sun in the firmament.",
+
+                "verse72": "72. Behold, these are they who died without law;",
+
+                "verse73": "73. And also they who are the spirits of men kept in prison, whom the Son visited, and preached the gospel unto them, that they might be judged according to men in the flesh;",
+
+                "verse74": "74. Who received not the testimony of Jesus in the flesh, but afterwards received it."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "88",
+                "verse": "99",
+                "verse99": "99. And after this another angel shall sound, which is the second trump; and then cometh the redemption of those who are Christ’s at his coming; who have received their part in that prison which is prepared for them, that they might receive the gospel, and be judged according to men in the flesh."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "128",
+                "verse": "6-22",
+                "verse6": "6. And further, I want you to remember that John the Revelator was contemplating this very subject in relation to the dead, when he declared, as you will find recorded in Revelation 20:12—And I saw the dead, small and great, stand before God; and the books were opened; and another book was opened, which is the book of life; and the dead were judged out of those things which were written in the books, according to their works.",
+
+                "verse7": "7. You will discover in this quotation that the books were opened; and another book was opened, which was the book of life; but the dead were judged out of those things which were written in the books, according to their works; consequently, the books spoken of must be the books which contained the record of their works, and refer to the records which are kept on the earth. And the book which was the book of life is the record which is kept in heaven; the principle agreeing precisely with the doctrine which is commanded you in the revelation contained in the letter which I wrote to you previous to my leaving my place—that in all your recordings it may be recorded in heaven.",
+
+                "verse8": "8. Now, the nature of this ordinance consists in the power of the priesthood, by the revelation of Jesus Christ, wherein it is granted that whatsoever you bind on earth shall be bound in heaven, and whatsoever you loose on earth shall be loosed in heaven. Or, in other words, taking a different view of the translation, whatsoever you record on earth shall be recorded in heaven, and whatsoever you do not record on earth shall not be recorded in heaven; for out of the books shall your dead be judged, according to their own works, whether they themselves have attended to the ordinances in their own propria persona, or by the means of their own agents, according to the ordinance which God has prepared for their salvation from before the foundation of the world, according to the records which they have kept concerning their dead.",
+
+                "verse9": "9. It may seem to some to be a very bold doctrine that we talk of—a power which records or binds on earth and binds in heaven. Nevertheless, in all ages of the world, whenever the Lord has given a dispensation of the priesthood to any man by actual revelation, or any set of men, this power has always been given. Hence, whatsoever those men did in authority, in the name of the Lord, and did it truly and faithfully, and kept a proper and faithful record of the same, it became a law on earth and in heaven, and could not be annulled, according to the decrees of the great Jehovah. This is a faithful saying. Who can hear it?",
+
+                "verse10": "10. And again, for the precedent, Matthew 16:18, 19: And I say also unto thee, That thou art Peter, and upon this rock I will build my church; and the gates of hell shall not prevail against it. And I will give unto thee the keys of the kingdom of heaven: and whatsoever thou shalt bind on earth shall be bound in heaven; and whatsoever thou shalt loose on earth shall be loosed in heaven.",
+
+                "verse11": "11. Now the great and grand secret of the whole matter, and the summum bonum of the whole subject that is lying before us, consists in obtaining the powers of the Holy Priesthood. For him to whom these keys are given there is no difficulty in obtaining a knowledge of facts in relation to the salvation of the children of men, both as well for the dead as for the living.",
+
+                "verse12": "12. Herein is glory and honor, and immortality and eternal life—The ordinance of baptism by water, to be immersed therein in order to answer to the likeness of the dead, that one principle might accord with the other; to be immersed in the water and come forth out of the water is in the likeness of the resurrection of the dead in coming forth out of their graves; hence, this ordinance was instituted to form a relationship with the ordinance of baptism for the dead, being in likeness of the dead.",
+
+                "verse13": "13. Consequently, the baptismal font was instituted as a similitude of the grave, and was commanded to be in a place underneath where the living are wont to assemble, to show forth the living and the dead, and that all things may have their likeness, and that they may accord one with another—that which is earthly conforming to that which is heavenly, as Paul hath declared, 1 Corinthians 15:46, 47, and 48:",
+
+                "verse14": "14. Howbeit that was not first which is spiritual, but that which is natural; and afterward that which is spiritual. The first man is of the earth, earthy; the second man is the Lord from heaven. As is the earthy, such are they also that are earthy; and as is the heavenly, such are they also that are heavenly. And as are the records on the earth in relation to your dead, which are truly made out, so also are the records in heaven. This, therefore, is the sealing and binding power, and, in one sense of the word, the keys of the kingdom, which consist in the key of knowledge.",
+
+                "verse15": "15. And now, my dearly beloved brethren and sisters, let me assure you that these are principles in relation to the dead and the living that cannot be lightly passed over, as pertaining to our salvation. For their salvation is necessary and essential to our salvation, as Paul says concerning the fathers—that they without us cannot be made perfect—neither can we without our dead be made perfect.",
+
+                "verse16": "16. And now, in relation to the baptism for the dead, I will give you another quotation of Paul, 1 Corinthians 15:29: Else what shall they do which are baptized for the dead, if the dead rise not at all? Why are they then baptized for the dead?",
+
+                "verse17": "17. And again, in connection with this quotation I will give you a quotation from one of the prophets, who had his eye fixed on the restoration of the priesthood, the glories to be revealed in the last days, and in an especial manner this most glorious of all subjects belonging to the everlasting gospel, namely, the baptism for the dead; for Malachi says, last chapter, verses 5th and 6th: Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the Lord: And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers, lest I come and smite the earth with a curse.",
+
+                "verse18": "18. I might have rendered a plainer translation to this, but it is sufficiently plain to suit my purpose as it stands. It is sufficient to know, in this case, that the earth will be smitten with a curse unless there is a welding link of some kind or other between the fathers and the children, upon some subject or other—and behold what is that subject? It is the baptism for the dead. For we without them cannot be made perfect; neither can they without us be made perfect. Neither can they nor we be made perfect without those who have died in the gospel also; for it is necessary in the ushering in of the dispensation of the fulness of times, which dispensation is now beginning to usher in, that a whole and complete and perfect union, and welding together of dispensations, and keys, and powers, and glories should take place, and be revealed from the days of Adam even to the present time. And not only this, but those things which never have been revealed from the foundation of the world, but have been kept hid from the wise and prudent, shall be revealed unto babes and sucklings in this, the dispensation of the fulness of times.",
+
+                "verse19": "19. Now, what do we hear in the gospel which we have received? A voice of gladness! A voice of mercy from heaven; and a voice of truth out of the earth; glad tidings for the dead; a voice of gladness for the living and the dead; glad tidings of great joy. How beautiful upon the mountains are the feet of those that bring glad tidings of good things, and that say unto Zion: Behold, thy God reigneth! As the dews of Carmel, so shall the knowledge of God descend upon them!",
+
+                "verse20": "20. And again, what do we hear? Glad tidings from Cumorah! Moroni, an angel from heaven, declaring the fulfilment of the prophets—the book to be revealed. A voice of the Lord in the wilderness of Fayette, Seneca county, declaring the three witnesses to bear record of the book! The voice of Michael on the banks of the Susquehanna, detecting the devil when he appeared as an angel of light! The voice of Peter, James, and John in the wilderness between Harmony, Susquehanna county, and Colesville, Broome county, on the Susquehanna river, declaring themselves as possessing the keys of the kingdom, and of the dispensation of the fulness of times!",
+
+                "verse21": "21. And again, the voice of God in the chamber of old Father Whitmer, in Fayette, Seneca county, and at sundry times, and in divers places through all the travels and tribulations of this Church of Jesus Christ of Latter-day Saints! And the voice of Michael, the archangel; the voice of Gabriel, and of Raphael, and of divers angels, from Michael or Adam down to the present time, all declaring their dispensation, their rights, their keys, their honors, their majesty and glory, and the power of their priesthood; giving line upon line, precept upon precept; here a little, and there a little; giving us consolation by holding forth that which is to come, confirming our hope!",
+
+                "verse22": "22. Brethren, shall we not go on in so great a cause? Go forward and not backward. Courage, brethren; and on, on to the victory! Let your hearts rejoice, and be exceedingly glad. Let the earth break forth into singing. Let the dead speak forth anthems of eternal praise to the King Immanuel, who hath ordained, before the world was, that which would enable us to redeem them out of their prison; for the prisoners shall go free."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "137",
+                "verse": "1-10",
+                "verse1": "1. The heavens were opened upon us, and I beheld the celestial kingdom of God, and the glory thereof, whether in the body or out I cannot tell.",
+
+                "verse2": "2. I saw the transcendent beauty of the gate through which the heirs of that kingdom will enter, which was like unto circling flames of fire;",
+
+                "verse3": "3. Also the blazing throne of God, whereon was seated the Father and the Son.",
+
+                "verse4": "4. I saw the beautiful streets of that kingdom, which had the appearance of being paved with gold.",
+
+                "verse5": "5. I saw Father Adam and Abraham; and my father and my mother; my brother Alvin, that has long since slept;",
+
+                "verse6": "6. And marveled how it was that he had obtained an inheritance in that kingdom, seeing that he had departed this life before the Lord had set his hand to gather Israel the second time, and had not been baptized for the remission of sins.",
+
+                "verse7": "7. Thus came the voice of the Lord unto me, saying: All who have died without a knowledge of this gospel, who would have received it if they had been permitted to tarry, shall be heirs of the celestial kingdom of God;",
+
+                "verse8": "8. Also all that shall die henceforth without a knowledge of it, who would have received it with all their hearts, shall be heirs of that kingdom;",
+
+                "verse9": "9. For I, the Lord, will judge all men according to their works, according to the desire of their hearts.",
+
+                "verse10": "10. And I also beheld that all children who die before they arrive at the years of accountability are saved in the celestial kingdom of heaven."
+            },
+            {
+                "book": "Doctrine and Covenants",
+                "chapter": "138",
+                "verse": "1-60",
+                "verse1": "1. On the third of October, in the year nineteen hundred and eighteen, I sat in my room pondering over the scriptures;",
+
+                "verse2": "2. And reflecting upon the great atoning sacrifice that was made by the Son of God, for the redemption of the world;",
+
+                "verse3": "3. And the great and wonderful love made manifest by the Father and the Son in the coming of the Redeemer into the world;",
+
+                "verse4": "4. That through his atonement, and by obedience to the principles of the gospel, mankind might be saved.",
+
+                "verse5": "5. While I was thus engaged, my mind reverted to the writings of the apostle Peter, to the primitive saints scattered abroad throughout Pontus, Galatia, Cappadocia, and other parts of Asia, where the gospel had been preached after the crucifixion of the Lord.",
+
+                "verse6": "6. I opened the Bible and read the third and fourth chapters of the first epistle of Peter, and as I read I was greatly impressed, more than I had ever been before, with the following passages:",
+
+                "verse7": "7. “For Christ also hath once suffered for sins, the just for the unjust, that he might bring us to God, being put to death in the flesh, but quickened by the Spirit:",
+
+                "verse8": "8. “By which also he went and preached unto the spirits in prison;",
+
+                "verse9": "9. “Which sometime were disobedient, when once the longsuffering of God waited in the days of Noah, while the ark was a preparing, wherein few, that is, eight souls were saved by water.” (1 Peter 3:18–20.)",
+
+                "verse10": "10. “For for this cause was the gospel preached also to them that are dead, that they might be judged according to men in the flesh, but live according to God in the spirit.” (1 Peter 4:6.)",
+
+                "verse11": "11. As I pondered over these things which are written, the eyes of my understanding were opened, and the Spirit of the Lord rested upon me, and I saw the hosts of the dead, both small and great.",
+
+                "verse12": "12. And there were gathered together in one place an innumerable company of the spirits of the just, who had been faithful in the testimony of Jesus while they lived in mortality;",
+
+                "verse13": "13. And who had offered sacrifice in the similitude of the great sacrifice of the Son of God, and had suffered tribulation in their Redeemer’s name.",
+
+                "verse14": "14. All these had departed the mortal life, firm in the hope of a glorious resurrection, through the grace of God the Father and his Only Begotten Son, Jesus Christ.",
+
+                "verse15": "15. I beheld that they were filled with joy and gladness, and were rejoicing together because the day of their deliverance was at hand.",
+
+                "verse16": "16. They were assembled awaiting the advent of the Son of God into the spirit world, to declare their redemption from the bands of death.",
+
+                "verse17": "17. Their sleeping dust was to be restored unto its perfect frame, bone to his bone, and the sinews and the flesh upon them, the spirit and the body to be united never again to be divided, that they might receive a fulness of joy.",
+
+                "verse18": "18. While this vast multitude waited and conversed, rejoicing in the hour of their deliverance from the chains of death, the Son of God appeared, declaring liberty to the captives who had been faithful;",
+
+                "verse19": "19. And there he preached to them the everlasting gospel, the doctrine of the resurrection and the redemption of mankind from the fall, and from individual sins on conditions of repentance.",
+
+                "verse20": "20. But unto the wicked he did not go, and among the ungodly and the unrepentant who had defiled themselves while in the flesh, his voice was not raised;",
+
+                "verse21": "21. Neither did the rebellious who rejected the testimonies and the warnings of the ancient prophets behold his presence, nor look upon his face.",
+
+                "verse22": "22. Where these were, darkness reigned, but among the righteous there was peace;",
+
+                "verse23": "23. And the saints rejoiced in their redemption, and bowed the knee and acknowledged the Son of God as their Redeemer and Deliverer from death and the chains of hell.",
+
+                "verse24": "24. Their countenances shone, and the radiance from the presence of the Lord rested upon them, and they sang praises unto his holy name.",
+
+                "verse25": "25. I marveled, for I understood that the Savior spent about three years in his ministry among the Jews and those of the house of Israel, endeavoring to teach them the everlasting gospel and call them unto repentance;",
+
+                "verse26": "26. And yet, notwithstanding his mighty works, and miracles, and proclamation of the truth, in great power and authority, there were but few who hearkened to his voice, and rejoiced in his presence, and received salvation at his hands.",
+
+                "verse27": "27. But his ministry among those who were dead was limited to the brief time intervening between the crucifixion and his resurrection;",
+
+                "verse28": "28. And I wondered at the words of Peter—wherein he said that the Son of God preached unto the spirits in prison, who sometime were disobedient, when once the long-suffering of God waited in the days of Noah—and how it was possible for him to preach to those spirits and perform the necessary labor among them in so short a time.",
+
+                "verse29": "29. And as I wondered, my eyes were opened, and my understanding quickened, and I perceived that the Lord went not in person among the wicked and the disobedient who had rejected the truth, to teach them;",
+
+                "verse30": "30. But behold, from among the righteous, he organized his forces and appointed messengers, clothed with power and authority, and commissioned them to go forth and carry the light of the gospel to them that were in darkness, even to all the spirits of men; and thus was the gospel preached to the dead.",
+
+                "verse31": "31. And the chosen messengers went forth to declare the acceptable day of the Lord and proclaim liberty to the captives who were bound, even unto all who would repent of their sins and receive the gospel.",
+
+                "verse32": "32. Thus was the gospel preached to those who had died in their sins, without a knowledge of the truth, or in transgression, having rejected the prophets.",
+
+                "verse33": "33. These were taught faith in God, repentance from sin, vicarious baptism for the remission of sins, the gift of the Holy Ghost by the laying on of hands,",
+
+                "verse34": "34. And all other principles of the gospel that were necessary for them to know in order to qualify themselves that they might be judged according to men in the flesh, but live according to God in the spirit.",
+
+                "verse35": "35. And so it was made known among the dead, both small and great, the unrighteous as well as the faithful, that redemption had been wrought through the sacrifice of the Son of God upon the cross.",
+
+                "verse36": "36. Thus was it made known that our Redeemer spent his time during his sojourn in the world of spirits, instructing and preparing the faithful spirits of the prophets who had testified of him in the flesh;",
+
+                "verse37": "37. That they might carry the message of redemption unto all the dead, unto whom he could not go personally, because of their rebellion and transgression, that they through the ministration of his servants might also hear his words.",
+
+                "verse38": "38. Among the great and mighty ones who were assembled in this vast congregation of the righteous were Father Adam, the Ancient of Days and father of all,",
+
+                "verse39": "39. And our glorious Mother Eve, with many of her faithful daughters who had lived through the ages and worshiped the true and living God.",
+
+                "verse40": "40. Abel, the first martyr, was there, and his brother Seth, one of the mighty ones, who was in the express image of his father, Adam.",
+
+                "verse41": "41. Noah, who gave warning of the flood; Shem, the great high priest; Abraham, the father of the faithful; Isaac, Jacob, and Moses, the great law-giver of Israel;",
+
+                "verse42": "42. And Isaiah, who declared by prophecy that the Redeemer was anointed to bind up the broken-hearted, to proclaim liberty to the captives, and the opening of the prison to them that were bound, were also there.",
+
+                "verse43": "43. Moreover, Ezekiel, who was shown in vision the great valley of dry bones, which were to be clothed upon with flesh, to come forth again in the resurrection of the dead, living souls;",
+
+                "verse44": "44. Daniel, who foresaw and foretold the establishment of the kingdom of God in the latter days, never again to be destroyed nor given to other people;",
+
+                "verse45": "45. Elias, who was with Moses on the Mount of Transfiguration;",
+
+                "verse46": "46. And Malachi, the prophet who testified of the coming of Elijah—of whom also Moroni spake to the Prophet Joseph Smith, declaring that he should come before the ushering in of the great and dreadful day of the Lord—were also there.",
+
+                "verse47": "47. The Prophet Elijah was to plant in the hearts of the children the promises made to their fathers,",
+
+                "verse48": "48. Foreshadowing the great work to be done in the temples of the Lord in the dispensation of the fulness of times, for the redemption of the dead, and the sealing of the children to their parents, lest the whole earth be smitten with a curse and utterly wasted at his coming.",
+
+                "verse49": "49. All these and many more, even the prophets who dwelt among the Nephites and testified of the coming of the Son of God, mingled in the vast assembly and waited for their deliverance,",
+
+                "verse50": "50. For the dead had looked upon the long absence of their spirits from their bodies as a bondage.",
+
+                'verse51": "51. These the Lord taught, and gave them power to come forth, after his resurrection from the dead, to enter into his Father’s kingdom, there to be crowned with immortality and eternal life,",
+
+                "verse52": "52. And continue thenceforth their labor as had been promised by the Lord, and be partakers of all blessings which were held in reserve for them that love him.",
+
+                "verse53": "53. The Prophet Joseph Smith, and my father, Hyrum Smith, Brigham Young, John Taylor, Wilford Woodruff, and other choice spirits who were reserved to come forth in the fulness of times to take part in laying the foundations of the great latter-day work,",
+
+                "verse54": "54. Including the building of the temples and the performance of ordinances therein for the redemption of the dead, were also in the spirit world.",
+
+                "verse55": "55. I observed that they were also among the noble and great ones who were chosen in the beginning to be rulers in the Church of God.",
+
+                "verse56": "56. Even before they were born, they, with many others, received their first lessons in the world of spirits and were prepared to come forth in the due time of the Lord to labor in his vineyard for the salvation of the souls of men.",
+
+                "verse57": "57. I beheld that the faithful elders of this dispensation, when they depart from mortal life, continue their labors in the preaching of the gospel of repentance and redemption, through the sacrifice of the Only Begotten Son of God, among those who are in darkness and under the bondage of sin in the great world of the spirits of the dead.",
+
+                "verse58": "58. The dead who repent will be redeemed, through obedience to the ordinances of the house of God,",
+
+                "verse59": "59. And after they have paid the penalty of their transgressions, and are washed clean, shall receive a reward according to their works, for they are heirs of salvation.",
+
+                "verse60": "60. Thus was the vision of the redemption of the dead revealed to me, and I bear record, and I know that this record is true, through the blessing of our Lord and Savior, Jesus Christ, even so. Amen."
+            }
+    
         ]
     }
 ]
