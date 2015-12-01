@@ -55,6 +55,20 @@
     return self.topics.count;
 }
 
+-(NSInteger)numberOfSectionsInCollectionView:(UICollectionView *)collectionView {
+
+return data count;
+
+}
+
+- (UICollectionViewCell *)collectionView:(UICollectionView *)collectionView
+cellForItemAtIndexPath:(NSIndexPath *)indexPath {
+
+//MyCustomCell* newCell = [self.collectionView
+//dequeueReusableCellWithReuseIdentifier:MyCellID
+//forIndexPath:indexPath];
+
+}
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.

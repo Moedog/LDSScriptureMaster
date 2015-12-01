@@ -84,7 +84,7 @@
 
                 "verse11": "11. And this cometh unto you, O ye Gentiles, that ye may know the decrees of God—that ye may repent, and not continue in your iniquities until the fulness come, that ye may not bring down the fulness of the wrath of God upon you as the inhabitants of the land have hitherto done.",
 
-                "verse12": "12. Behold, this is a choice land, and whatsoever nation shall possess it shall be free from bondage, and from captivity, and from all other nations under heaven, if they will but serve the God of the land, who is Jesus Christ, who hath been manifested by the things which we have written.
+                "verse12": "12. Behold, this is a choice land, and whatsoever nation shall possess it shall be free from bondage, and from captivity, and from all other nations under heaven, if they will but serve the God of the land, who is Jesus Christ, who hath been manifested by the things which we have written."
             },
             {
                 "book": "Doctrine and Covenants",
@@ -134,7 +134,7 @@
 
                 "verse79": "79. Therefore, it is not right that any man should be in bondage one to another.",
 
-                "verse80": "80. And for this purpose have I established the Constitution of this land, by the hands of wise men whom I raised up unto this very purpose, and redeemed the land by the shedding of blood.
+                "verse80": "80. And for this purpose have I established the Constitution of this land, by the hands of wise men whom I raised up unto this very purpose, and redeemed the land by the shedding of blood."
             },
             {
                 "book": "Doctrine and Covenants",
@@ -143,7 +143,7 @@
                 "verse54": "54. Have mercy, O Lord, upon all the nations of the earth; have mercy upon the rulers of our land; may those principles, which were so honorably and nobly defended, namely, the Constitution of our land, by our fathers, be established forever."
             }
         ]
- 
+    }    
  
     {
         "topic": "Apostasy",
@@ -261,7 +261,7 @@
 
                 "verse2": "2. That ye be not soon shaken in mind, or be troubled, neither by spirit, nor by word, nor by letter as from us, as that the day of Christ is at hand.",
 
-                "verse3": '3. Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition;"
+                "verse3": "3. Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition;"
             },
             {
                 "book": "1 Timothy",
@@ -357,7 +357,7 @@
 
                 "verse22": "22. And the angel said unto me: Behold these shall dwindle in unbelief.",
 
-                "verse23": "23. And it came to pass that I beheld, after they had dwindled in unbelief they became a dark, and loathsome, and a filthy people, full of idleness and all manner of abominations.
+                "verse23": "23. And it came to pass that I beheld, after they had dwindled in unbelief they became a dark, and loathsome, and a filthy people, full of idleness and all manner of abominations."
             },
             {
                 "book": "1 Nephi",
@@ -739,9 +739,9 @@
                 "book": "3 Nephi",
                 "chapter": "27",
                 "verse": "31-32",
-                "verse31": "31. Behold, I would that ye should understand; for I mean them who are now alive of this generation; and none of them are lost; and in them I have fulness of joy.
+                "verse31": "31. Behold, I would that ye should understand; for I mean them who are now alive of this generation; and none of them are lost; and in them I have fulness of joy.",
 
-                "verse32": "32. But behold, it sorroweth me because of the fourth generation from this generation, for they are led away captive by him even as was the son of perdition; for they will sell me for silver and for gold, and for that which moth doth corrupt and which thieves can break through and steal. And in that day will I visit them, even in turning their works upon their own heads.
+                "verse32": "32. But behold, it sorroweth me because of the fourth generation from this generation, for they are led away captive by him even as was the son of perdition; for they will sell me for silver and for gold, and for that which moth doth corrupt and which thieves can break through and steal. And in that day will I visit them, even in turning their works upon their own heads."
             },
             {
                 "book": "Mormon",
@@ -817,9 +817,13 @@
                 "verse": "18-19",
                 "verse18": "18. My object in going to inquire of the Lord was to know which of all the sects was right, that I might know which to join. No sooner, therefore, did I get possession of myself, so as to be able to speak, than I asked the Personages who stood above me in the light, which of all the sects was right (for at this time it had never entered into my heart that all were wrong)—and which I should join.",
 
-                "verse19": "19. I was answered that I must join none of them, for they were all wrong; and the Personage who addressed me said that all their creeds were an abomination in his sight; that those professors were all corrupt; that: "they draw near to me with their lips, but their hearts are far from me, they teach for doctrines the commandments of men, having a form of godliness, but they deny the power thereof."
+                "verse19": "19. I was answered that I must join none of them, for they were all wrong; and the Personage who addressed me said that all their creeds were an abomination in his sight; that those professors were all corrupt; that: "they draw near to me with their lips, but their hearts are far from me, they teach for doctrines the commandments of men, having a form of godliness, but they deny the power thereof.""
             }
-         ]   
+
+         ] 
+
+     }
+           
      {    
          "topic": "Atonement",
         "references": [   
@@ -877,7 +881,7 @@
                 "verse17": "17. For God sent not his Son into the world to condemn the world; but that the world through him might be saved."
             },
             {
-                "book": "1 Timothy,
+                "book": "1 Timothy",
                 "chapter": "2",
                 "verse": "3-6",
                 "verse3": "3. For this is good and acceptable in the sight of God our Saviour;",
@@ -1190,7 +1194,11 @@
                 "verse": "3",
                 "verse3": "3. We believe that through the Atonement of Christ, all mankind may be saved, by obedience to the laws and ordinances of the Gospel."
             }
+
         ]
+
+    } 
+
     {    
          "topic": "Baptism",
         "references": [    
@@ -1216,7 +1224,7 @@
 
                 "verse16": "16. He that believeth and is baptized shall be saved; but he that believeth not shall be damned.",
 
-                "verse17": "17. And these signs shall follow them that believe; In my name shall they cast out devils; they shall speak with new tongues;
+                "verse17": "17. And these signs shall follow them that believe; In my name shall they cast out devils; they shall speak with new tongues;",
 
                 "verse18": "18. They shall take up serpents; and if they drink any deadly thing, it shall not hurt them; they shall lay hands on the sick, and they shall recover.",
 
@@ -1540,7 +1548,7 @@
 
                 "verse73": "73. The person who is called of God and has authority from Jesus Christ to baptize, shall go down into the water with the person who has presented himself or herself for baptism, and shall say, calling him or her by name: Having been commissioned of Jesus Christ, I baptize you in the name of the Father, and of the Son, and of the Holy Ghost. Amen.",
 
-                verse74": "74. Then shall he immerse him or her in the water, and come forth again out of the water."
+                "verse74": "74. Then shall he immerse him or her in the water, and come forth again out of the water."
             },
             {
                 "book": "Doctrine and Covenants",
@@ -1590,7 +1598,7 @@
 
                 "verse5": "5. You may think this order of things to be very particular; but let me tell you that it is only to answer the will of God, by conforming to the ordinance and preparation that the Lord ordained and prepared before the foundation of the world, for the salvation of the dead who should die without a knowledge of the gospel.",
 
-                "verse6: "6. And further, I want you to remember that John the Revelator was contemplating this very subject in relation to the dead, when he declared, as you will find recorded in Revelation 20:12—And I saw the dead, small and great, stand before God; and the books were opened; and another book was opened, which is the book of life; and the dead were judged out of those things which were written in the books, according to their works.",
+                "verse6": "6. And further, I want you to remember that John the Revelator was contemplating this very subject in relation to the dead, when he declared, as you will find recorded in Revelation 20:12—And I saw the dead, small and great, stand before God; and the books were opened; and another book was opened, which is the book of life; and the dead were judged out of those things which were written in the books, according to their works.",
 
                 "verse7": "7. You will discover in this quotation that the books were opened; and another book was opened, which was the book of life; but the dead were judged out of those things which were written in the books, according to their works; consequently, the books spoken of must be the books which contained the record of their works, and refer to the records which are kept on the earth. And the book which was the book of life is the record which is kept in heaven; the principle agreeing precisely with the doctrine which is commanded you in the revelation contained in the letter which I wrote to you previous to my leaving my place—that in all your recordings it may be recorded in heaven.",
 
@@ -1602,7 +1610,7 @@
 
                 "verse11": "11. Now the great and grand secret of the whole matter, and the summum bonum of the whole subject that is lying before us, consists in obtaining the powers of the Holy Priesthood. For him to whom these keys are given there is no difficulty in obtaining a knowledge of facts in relation to the salvation of the children of men, both as well for the dead as for the living.",
 
-                "verse12": "12. Herein is glory and honor, and immortality and eternal life—The ordinance of baptism by water, to be immersed therein in order to answer to the likeness of the dead, that one principle might accord with the other; to be immersed in the water and come forth out of the water is in the likeness of the resurrection of the dead in coming forth out of their graves; hence, this ordinance was instituted to form a relationship with the ordinance of baptism for the dead, being in likeness of the dead.", "
+                "verse12": "12. Herein is glory and honor, and immortality and eternal life—The ordinance of baptism by water, to be immersed therein in order to answer to the likeness of the dead, that one principle might accord with the other; to be immersed in the water and come forth out of the water is in the likeness of the resurrection of the dead in coming forth out of their graves; hence, this ordinance was instituted to form a relationship with the ordinance of baptism for the dead, being in likeness of the dead.",
 
                 "verse13": "13. Consequently, the baptismal font was instituted as a similitude of the grave, and was commanded to be in a place underneath where the living are wont to assemble, to show forth the living and the dead, and that all things may have their likeness, and that they may accord one with another—that which is earthly conforming to that which is heavenly, as Paul hath declared, 1 Corinthians 15:46, 47, and 48:",
 
@@ -1663,7 +1671,10 @@
                 "verse4": "4. We believe that the first principles and ordinances of the Gospel are: first, Faith in the Lord Jesus Christ; second, Repentance; third, Baptism by immersion for the remission of sins; fourth, Laying on of hands for the gift of the Holy Ghost."
             }
 
-         ]
+        ]
+
+    }
+        
     {    
          "topic": "Bible",
         "references": [
