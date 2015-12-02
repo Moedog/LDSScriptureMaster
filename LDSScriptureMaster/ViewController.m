@@ -9,7 +9,7 @@
 #import "ViewController.h"
 #import "TopicCollectionViewCell.h"
 
-@interface ViewController ()
+@interface ViewController () <UICollectionViewDataSource>
 
 @property (nonatomic, strong) NSArray* topics;
 
@@ -55,16 +55,13 @@
     return self.topics.count;
 }
 
--(NSInteger)numberOfSectionsInCollectionView:(UICollectionView *)collectionView {
-
-return data count;
-
-}
 
 - (UICollectionViewCell *)collectionView:(UICollectionView *)collectionView
 cellForItemAtIndexPath:(NSIndexPath *)indexPath {
 
-//MyCustomCell* newCell = [self.collectionView
+UICollectionViewCell * cell = [UICollectionViewCell]
+
+//CellName * newCell = [self.collectionView
 //dequeueReusableCellWithReuseIdentifier:MyCellID
 //forIndexPath:indexPath];
 

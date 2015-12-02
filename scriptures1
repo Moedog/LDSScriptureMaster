@@ -817,7 +817,7 @@
                 "verse": "18-19",
                 "verse18": "18. My object in going to inquire of the Lord was to know which of all the sects was right, that I might know which to join. No sooner, therefore, did I get possession of myself, so as to be able to speak, than I asked the Personages who stood above me in the light, which of all the sects was right (for at this time it had never entered into my heart that all were wrong)—and which I should join.",
 
-                "verse19": "19. I was answered that I must join none of them, for they were all wrong; and the Personage who addressed me said that all their creeds were an abomination in his sight; that those professors were all corrupt; that: "they draw near to me with their lips, but their hearts are far from me, they teach for doctrines the commandments of men, having a form of godliness, but they deny the power thereof.""
+                "verse19": "19. I was answered that I must join none of them, for they were all wrong; and the Personage who addressed me said that all their creeds were an abomination in his sight; that those professors were all corrupt; that: 'they draw near to me with their lips, but their hearts are far from me, they teach for doctrines the commandments of men, having a form of godliness, but they deny the power thereof.'"
             }
 
          ] 
@@ -1776,7 +1776,7 @@
 
                 "verse29": "29. And after these plain and precious things were taken away it goeth forth unto all the nations of the Gentiles; and after it goeth forth unto all the nations of the Gentiles, yea, even across the many waters which thou hast seen with the Gentiles which have gone forth out of captivity, thou seest—because of the many plain and precious things which have been taken out of the book, which were plain unto the understanding of the children of men, according to the plainness which is in the Lamb of God—because of these things which are taken away out of the gospel of the Lamb, an exceedingly great many do stumble, yea, insomuch that Satan hath great power over them.",
 
-                'verse40": "40. And the angel spake unto me, saying: These last records, which thou hast seen among the Gentiles, shall establish the truth of the first, which are of the twelve apostles of the Lamb, and shall make known the plain and precious things which have been taken away from them; and shall make known to all kindreds, tongues, and people, that the Lamb of God is the Son of the Eternal Father, and the Savior of the world; and that all men must come unto him, or they cannot be saved."
+                "verse40": "40. And the angel spake unto me, saying: These last records, which thou hast seen among the Gentiles, shall establish the truth of the first, which are of the twelve apostles of the Lamb, and shall make known the plain and precious things which have been taken away from them; and shall make known to all kindreds, tongues, and people, that the Lamb of God is the Son of the Eternal Father, and the Savior of the world; and that all men must come unto him, or they cannot be saved."
             },
             {
                 "book": "1 Nephi",
@@ -1834,6 +1834,9 @@
             }
 
         ]
+
+    }
+        
     {    
          "topic": "Book of Mormon",
         "references": [
@@ -2113,6 +2116,9 @@
             }
 
         ]
+
+    }
+        
     {    
          "topic": "Chastity",
         "references": [
@@ -2475,8 +2481,11 @@
                 "verse66": "66. And now, as pertaining to this law, verily, verily, I say unto you, I will reveal more unto you, hereafter; therefore, let this suffice for the present. Behold, I am Alpha and Omega. Amen."
             }
 
-         ]
-         {
+        ]
+
+    }
+        
+    {
         "topic": "Church of Jesus Christ",
         "references": [
 
@@ -2621,7 +2630,7 @@
 
                 "verse28": "28. And thus they should impart of their substance of their own free will and good desires towards God, and to those priests that stood in need, yea, and to every needy, naked soul.",
 
-                "verse29": "29. And this he said unto them, having been commanded of God; and they did walk uprightly before God, imparting to one another both temporally and spiritually according to their needs and their wants.
+                "verse29": "29. And this he said unto them, having been commanded of God; and they did walk uprightly before God, imparting to one another both temporally and spiritually according to their needs and their wants."
             },
             {
                 "book": "Mosiah",
@@ -2705,7 +2714,9 @@
 
                 "verse9": "9. Verily I say unto you, that ye are built upon my gospel; therefore ye shall call whatsoever things ye do call, in my name; therefore if ye call upon the Father, for the church, if it be in my name the Father will hear you;",
 
-                "verse10" "10. And if it so be that the church is built upon my gospel then will the Father show forth his own works in it. 21. Verily, verily, I say unto you, this is my gospel; and ye know the things that ye must do in my church; for the works which ye have seen me do that shall ye also do; for that which ye have seen me do even that shall ye do;"
+                "verse10": "10. And if it so be that the church is built upon my gospel then will the Father show forth his own works in it.",
+
+                "verse21": "21. Verily, verily, I say unto you, this is my gospel; and ye know the things that ye must do in my church; for the works which ye have seen me do that shall ye also do; for that which ye have seen me do even that shall ye do;"
             },
             {
                 "book": "Moroni",
@@ -2807,7 +2818,10 @@
             }
 
         ]
-        {
+
+    }
+        
+    {
         "topic": "Enduring To The End",
         "references": [
 
@@ -2907,8 +2921,10 @@
             }
 
         ]
+
+    }    
         
-     {
+    {
         "topic": "Faith and Works",
         "references": [
        
@@ -2982,7 +2998,7 @@
 
                 "verse48": "48. And it came to pass, when the Philistine arose, and came and drew nigh to meet David, that David hasted, and ran toward the army to meet the Philistine.", 
 
-                "verse49: "49. And David put his hand in his bag, and took thence a stone, and slang it, and smote the Philistine in his forehead, that the stone sunk into his forehead; and he fell upon his face to the earth.", 
+                "verse49": "49. And David put his hand in his bag, and took thence a stone, and slang it, and smote the Philistine in his forehead, that the stone sunk into his forehead; and he fell upon his face to the earth.", 
 
                 "verse50": "50. So David prevailed over the Philistine with a sling and with a stone, and smote the Philistine, and slew him; but there was no sword in the hand of David.", 
 
@@ -3106,13 +3122,13 @@
                 "book": "Luke",
                 "chapter": "10",
                 "verse": "29-37",
-                "verse29": "29. But he, willing to justify himself, said unto Jesus, And who is my neighbour?".
+                "verse29": "29. But he, willing to justify himself, said unto Jesus, And who is my neighbour?",
 
                 "verse30": "30. And Jesus answering said, A certain man went down from Jerusalem to Jericho, and fell among thieves, which stripped him of his raiment, and wounded him, and departed, leaving him half dead.", 
 
-                "verse31": "31. And by chance there came down a certain priest that way: and when he saw him, he passed by on the other side." 
+                "verse31": "31. And by chance there came down a certain priest that way: and when he saw him, he passed by on the other side",
 
-                "verse"32": "32. And likewise a Levite, when he was at the place, came and looked on him, and passed by on the other side.", 
+                "verse32": "32. And likewise a Levite, when he was at the place, came and looked on him, and passed by on the other side.", 
 
                 "verse33": "33. But a certain Samaritan, as he journeyed, came where he was: and when he saw him, he had compassion on him,", 
 
@@ -3258,7 +3274,7 @@
                 "verse": "12-22",
                 "verse12": "12. And the father of circumcision to them who are not of the circumcision only, but who also walk in the steps of that faith of our father Abraham, which he had being yet uncircumcised.", 
 
-                "verse13:" "13. For the promise, that he should be the heir of the world, was not to Abraham, or to his seed, through the law, but through the righteousness of faith.", 
+                "verse13": "13. For the promise, that he should be the heir of the world, was not to Abraham, or to his seed, through the law, but through the righteousness of faith.", 
 
                 "verse14": "14. For if they which are of the law be heirs, faith is made void, and the promise made of none effect:", 
 
@@ -3374,7 +3390,7 @@
                 "verse": "5, 22-25",
                 "verse5": "5. If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.", 
 
-                "verse22": "22 But be ye doers of the word, and not hearers only, deceiving your own selves.", 
+                "verse22": "22 But be ye doers of the word, and not hearers only, deceiving your own selves.",                 
 
                 "verse23": "23. For if any be a hearer of the word, and not a doer, he is like unto a man beholding his natural face in a glass:", 
 
@@ -3460,7 +3476,7 @@
                 "verse": "18-19",
                 "verse18": "18. But before ye seek for riches, seek ye for the kingdom of God.", 
 
-                "verse19"; "19. And after ye have obtained a hope in Christ ye shall obtain riches, if ye seek them; and ye will seek them for the intent to do good—to clothe the naked, and to feed the hungry, and to liberate the captive, and administer relief to the sick and the afflicted."
+                "verse19": "19. And after ye have obtained a hope in Christ ye shall obtain riches, if ye seek them; and ye will seek them for the intent to do good—to clothe the naked, and to feed the hungry, and to liberate the captive, and administer relief to the sick and the afflicted."
             },
             {
                 "book": "Mosiah",
@@ -3502,9 +3518,9 @@
 
                 "verse25": "25. And now, if ye say this in your hearts ye remain guiltless, otherwise ye are condemned; and your condemnation is just for ye covet that which ye have not received.", 
 
-                "verse26:" "26. And now, for the sake of these things which I have spoken unto you—that is, for the sake of retaining a remission of your sins from day to day, that ye may walk guiltless before God—I would that ye should impart of your substance to the poor, every man according to that which he hath, such as feeding the hungry, clothing the naked, visiting the sick and administering to their relief, both spiritually and temporally, according to their wants.",
+                "verse26": "26. And now, for the sake of these things which I have spoken unto you—that is, for the sake of retaining a remission of your sins from day to day, that ye may walk guiltless before God—I would that ye should impart of your substance to the poor, every man according to that which he hath, such as feeding the hungry, clothing the naked, visiting the sick and administering to their relief, both spiritually and temporally, according to their wants.",
 
-                "verse27:" "27. And see that all these things are done in wisdom and order; for it is not requisite that a man should run faster than he has strength. And again, it is expedient that he should be diligent, that thereby he might win the prize; therefore, all things must be done in order."
+                "verse27": "27. And see that all these things are done in wisdom and order; for it is not requisite that a man should run faster than he has strength. And again, it is expedient that he should be diligent, that thereby he might win the prize; therefore, all things must be done in order."
             },
             {
                 "book": "Mosiah",
@@ -3518,41 +3534,41 @@
                 "verse": "21, 26-43",
                 "verse21": "21. And now as I said concerning faith—faith is not to have a perfect knowledge of things; therefore if ye have faith ye hope for things which are not seen, which are true.", 
 
-                "verse26", "26 Now, as I said concerning faith—that it was not a perfect knowledge—even so it is with my words. Ye cannot know of their surety at first, unto perfection, any more than faith is a perfect knowledge.",
+                "verse26": "26. Now, as I said concerning faith—that it was not a perfect knowledge—even so it is with my words. Ye cannot know of their surety at first, unto perfection, any more than faith is a perfect knowledge.",
 
-                "verse27", "27. But behold, if ye will awake and arouse your faculties, even to an experiment upon my words, and exercise a particle of faith, yea, even if ye can no more than desire to believe, let this desire work in you, even until ye believe in a manner that ye can give place for a portion of my words.", 
+                "verse27": "27. But behold, if ye will awake and arouse your faculties, even to an experiment upon my words, and exercise a particle of faith, yea, even if ye can no more than desire to believe, let this desire work in you, even until ye believe in a manner that ye can give place for a portion of my words.", 
 
-                "verse28" "28. Now, we will compare the word unto a seed. Now, if ye give place, that a seed may be planted in your heart, behold, if it be a true seed, or a good seed, if ye do not cast it out by your unbelief, that ye will resist the Spirit of the Lord, behold, it will begin to swell within your breasts; and when you feel these swelling motions, ye will begin to say within yourselves—It must needs be that this is a good seed, or that the word is good, for it beginneth to enlarge my soul; yea, it beginneth to enlighten my understanding, yea, it beginneth to be delicious to me.", 
+                "verse28": "28. Now, we will compare the word unto a seed. Now, if ye give place, that a seed may be planted in your heart, behold, if it be a true seed, or a good seed, if ye do not cast it out by your unbelief, that ye will resist the Spirit of the Lord, behold, it will begin to swell within your breasts; and when you feel these swelling motions, ye will begin to say within yourselves—It must needs be that this is a good seed, or that the word is good, for it beginneth to enlarge my soul; yea, it beginneth to enlighten my understanding, yea, it beginneth to be delicious to me.", 
 
-                "verse29" "29. Now behold, would not this increase your faith? I say unto you, Yea; nevertheless it hath not grown up to a perfect knowledge.", 
+                "verse29": "29. Now behold, would not this increase your faith? I say unto you, Yea; nevertheless it hath not grown up to a perfect knowledge.", 
 
-                "verse30", "30. But behold, as the seed swelleth, and sprouteth, and beginneth to grow, then you must needs say that the seed is good; for behold it swelleth, and sprouteth, and beginneth to grow. And now, behold, will not this strengthen your faith? Yea, it will strengthen your faith: for ye will say I know that this is a good seed; for behold it sprouteth and beginneth to grow.", 
+                "verse30": "30. But behold, as the seed swelleth, and sprouteth, and beginneth to grow, then you must needs say that the seed is good; for behold it swelleth, and sprouteth, and beginneth to grow. And now, behold, will not this strengthen your faith? Yea, it will strengthen your faith: for ye will say I know that this is a good seed; for behold it sprouteth and beginneth to grow.", 
 
-                "verse31", "31. And now, behold, are ye sure that this is a good seed? I say unto you, Yea; for every seed bringeth forth unto its own likeness.", 
+                "verse31": "31. And now, behold, are ye sure that this is a good seed? I say unto you, Yea; for every seed bringeth forth unto its own likeness.", 
 
-                "verse32", "32. Therefore, if a seed groweth it is good, but if it groweth not, behold it is not good, therefore it is cast away.", 
+                "verse32": "32. Therefore, if a seed groweth it is good, but if it groweth not, behold it is not good, therefore it is cast away.", 
 
-                "verse33", "33. And now, behold, because ye have tried the experiment, and planted the seed, and it swelleth and sprouteth, and beginneth to grow, ye must needs know that the seed is good.", 
+                "verse33": "33. And now, behold, because ye have tried the experiment, and planted the seed, and it swelleth and sprouteth, and beginneth to grow, ye must needs know that the seed is good.", 
 
-                "verse34", "34. And now, behold, is your knowledge perfect? Yea, your knowledge is perfect in that thing, and your faith is dormant; and this because you know, for ye know that the word hath swelled your souls, and ye also know that it hath sprouted up, that your understanding doth begin to be enlightened, and your mind doth begin to expand.", 
+                "verse34": "34. And now, behold, is your knowledge perfect? Yea, your knowledge is perfect in that thing, and your faith is dormant; and this because you know, for ye know that the word hath swelled your souls, and ye also know that it hath sprouted up, that your understanding doth begin to be enlightened, and your mind doth begin to expand.", 
 
-                "verse35", "35. O then, is not this real? I say unto you, Yea, because it is light; and whatsoever is light, is good, because it is discernible, therefore ye must know that it is good; and now behold, after ye have tasted this light is your knowledge perfect?", 
+                "verse35": "35. O then, is not this real? I say unto you, Yea, because it is light; and whatsoever is light, is good, because it is discernible, therefore ye must know that it is good; and now behold, after ye have tasted this light is your knowledge perfect?", 
 
-                "verse36", "36. Behold I say unto you, Nay; neither must ye lay aside your faith, for ye have only exercised your faith to plant the seed that ye might try the experiment to know if the seed was good.", 
+                "verse36": "36. Behold I say unto you, Nay; neither must ye lay aside your faith, for ye have only exercised your faith to plant the seed that ye might try the experiment to know if the seed was good.", 
 
-                "verse37", "37. And behold, as the tree beginneth to grow, ye will say: Let us nourish it with great care, that it may get root, that it may grow up, and bring forth fruit unto us. And now behold, if ye nourish it with much care it will get root, and grow up, and bring forth fruit.", 
+                "verse37": "37. And behold, as the tree beginneth to grow, ye will say: Let us nourish it with great care, that it may get root, that it may grow up, and bring forth fruit unto us. And now behold, if ye nourish it with much care it will get root, and grow up, and bring forth fruit.", 
 
-                "verse38" "38. But if ye neglect the tree, and take no thought for its nourishment, behold it will not get any root; and when the heat of the sun cometh and scorcheth it, because it hath no root it withers away, and ye pluck it up and cast it out.", 
+                "verse38": "38. But if ye neglect the tree, and take no thought for its nourishment, behold it will not get any root; and when the heat of the sun cometh and scorcheth it, because it hath no root it withers away, and ye pluck it up and cast it out.", 
 
-                "verse39", "39. Now, this is not because the seed was not good, neither is it because the fruit thereof would not be desirable; but it is because your ground is barren, and ye will not nourish the tree, therefore ye cannot have the fruit thereof.", 
+                "verse39": "39. Now, this is not because the seed was not good, neither is it because the fruit thereof would not be desirable; but it is because your ground is barren, and ye will not nourish the tree, therefore ye cannot have the fruit thereof.", 
 
-                "verse40", "40. And thus, if ye will not nourish the word, looking forward with an eye of faith to the fruit thereof, ye can never pluck of the fruit of the tree of life.", 
+                "verse40": "40. And thus, if ye will not nourish the word, looking forward with an eye of faith to the fruit thereof, ye can never pluck of the fruit of the tree of life.", 
 
                 "verse41": "41. But if ye will nourish the word, yea, nourish the tree as it beginneth to grow, by your faith with great diligence, and with patience, looking forward to the fruit thereof, it shall take root; and behold it shall be a tree springing up unto everlasting life.", 
 
                 "verse42": "42. And because of your diligence and your faith and your patience with the word in nourishing it, that it may take root in you, behold, by and by ye shall pluck the fruit thereof, which is most precious, which is sweet above all that is sweet, and which is white above all that is white, yea, and pure above all that is pure; and ye shall feast upon this fruit even until ye are filled, that ye hunger not, neither shall ye thirst.", 
 
-                "verse43": "43. Then, my brethren, ye shall reap the rewards of your faith, and your diligence, and patience, and long-suffering, waiting for the tree to bring forth fruit unto you.
+                "verse43": "43. Then, my brethren, ye shall reap the rewards of your faith, and your diligence, and patience, and long-suffering, waiting for the tree to bring forth fruit unto you."
             },
             {
                 "book": "Alma",
@@ -3570,7 +3586,7 @@
             },
             {
                 "book": "3 Nephi",
-                "chapter": "13
+                "chapter": "13",
                 "verse": "19-21, 24, 33",
                 "verse19": "19. Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and thieves break through and steal;", 
 
@@ -3596,7 +3612,7 @@
 
                 "verse7": "7. For it was by faith that Christ showed himself unto our fathers, after he had risen from the dead; and he showed not himself unto them until after they had faith in him; wherefore, it must needs be that some had faith in him, for he showed himself not unto the world.", 
 
-                "versse8": "8. But because of the faith of men he has shown himself unto the world, and glorified the name of the Father, and prepared a way that thereby others might be partakers of the heavenly gift, that they might hope for those things which they have not seen.", 
+                "verse8": "8. But because of the faith of men he has shown himself unto the world, and glorified the name of the Father, and prepared a way that thereby others might be partakers of the heavenly gift, that they might hope for those things which they have not seen.", 
 
                 "verse9": "9. Wherefore, ye may also have hope, and be partakers of the gift, if ye will but have faith.", 
 
@@ -3769,7 +3785,7 @@
 
                 "verse20": "20. And shall run and not be weary, and shall walk and not faint.", 
 
-                "verse21": "21. And I, the Lord, give unto them a promise, that the destroying angel shall pass by them, as the children of Israel, and not slay them. Amen.",
+                "verse21": "21. And I, the Lord, give unto them a promise, that the destroying angel shall pass by them, as the children of Israel, and not slay them. Amen."
             },
             {
                 "book": "Doctrine and Covenants",
@@ -3809,11 +3825,11 @@
                 "verse": "7-10",
                 "verse7": "7. Thus came the voice of the Lord unto me, saying: All who have died without a knowledge of this gospel, who would have received it if they had been permitted to tarry, shall be heirs of the celestial kingdom of God;",
 
-                "verse8" "8. Also all that shall die henceforth without a knowledge of it, who would have received it with all their hearts, shall be heirs of that kingdom;", 
+                "verse8": "8. Also all that shall die henceforth without a knowledge of it, who would have received it with all their hearts, shall be heirs of that kingdom;", 
 
-                "verse9" "9. For I, the Lord, will judge all men according to their works, according to the desire of their hearts.", 
+                "verse9": "9. For I, the Lord, will judge all men according to their works, according to the desire of their hearts.", 
 
-                "verse10" "10. And I also beheld that all children who die before they arrive at the years of accountability are saved in the celestial kingdom of heaven."
+                "verse10": "10. And I also beheld that all children who die before they arrive at the years of accountability are saved in the celestial kingdom of heaven."
             },
             {
                 "book": "Pearl of Great Price - Moses",
@@ -3829,8 +3845,10 @@
             }
 
         ]
+
+    }    
      
-     {
+    {
         "topic": "Fall of Man",
         "references": [   
 
@@ -3840,9 +3858,9 @@
                 "verse": "15-17",
                 "verse": "15. And the Lord God took the man, and put him into the garden of Eden to dress it and to keep it.",
 
-                "verse16" "16. And the Lord God commanded the man, saying, Of every tree of the garden thou mayest freely eat:",
+                "verse16": "16. And the Lord God commanded the man, saying, Of every tree of the garden thou mayest freely eat:",
 
-                "verse17" "17. But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die."
+                "verse17": "17. But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die."
             },
             {
                 "book": "Romans",
@@ -3850,9 +3868,9 @@
                 "verse": "12-14",
                 "verse12": "12. Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned:",
 
-                "verse13" "13. For until the law sin was in the world: but sin is not imputed when there is no law.",
+                "verse13": "13. For until the law sin was in the world: but sin is not imputed when there is no law.",
 
-                "verse14" "14. Nevertheless death reigned from Adam to Moses, even over them that had not sinned after the similitude of Adam’s transgression, who is the figure of him that was to come."
+                "verse14": "14. Nevertheless death reigned from Adam to Moses, even over them that had not sinned after the similitude of Adam’s transgression, who is the figure of him that was to come."
             },
             {
                 "book": "1 Corinthians",
@@ -4060,6 +4078,8 @@
             }
 
         ]
+
+    }    
         
     {
         "topic": "Godhead",
@@ -4150,7 +4170,7 @@
 
                 "verse22": "22. And the glory which thou gavest me I have given them; that they may be one, even as we are one:",
 
-                "verse23": "23. I in them, and thou in me, that they may be made perfect in one; and that the world may know that thou hast sent me, and hast loved them, as thou hast loved me.
+                "verse23": "23. I in them, and thou in me, that they may be made perfect in one; and that the world may know that thou hast sent me, and hast loved them, as thou hast loved me."
             },
             {
                 "book": "Acts",
@@ -4226,7 +4246,7 @@
                 "book": "Pearl of Great Price - Moses",
                 "chapter": "1",
                 "verse": "11",
-                "verse11": 11. But now mine own eyes have beheld God; but not my natural, but my spiritual eyes, for my natural eyes could not have beheld; for I should have withered and died in his presence; but his glory was upon me; and I beheld his face, for I was transfigured before him."
+                "verse11": "11. But now mine own eyes have beheld God; but not my natural, but my spiritual eyes, for my natural eyes could not have beheld; for I should have withered and died in his presence; but his glory was upon me; and I beheld his face, for I was transfigured before him."
             },
             {
                 "book": "Pearl of Great Price - Joseph Smith History",
@@ -4240,7 +4260,7 @@
 
                 "verse18": "18. My object in going to inquire of the Lord was to know which of all the sects was right, that I might know which to join. No sooner, therefore, did I get possession of myself, so as to be able to speak, than I asked the Personages who stood above me in the light, which of all the sects was right (for at this time it had never entered into my heart that all were wrong)—and which I should join.",
 
-                "verse19": "19. I was answered that I must join none of them, for they were all wrong; and the Personage who addressed me said that all their creeds were an abomination in his sight; that those professors were all corrupt; that: “they draw near to me with their lips, but their hearts are far from me, they teach for doctrines the commandments of men, having a form of godliness, but they deny the power thereof.”
+                "verse19": "19. I was answered that I must join none of them, for they were all wrong; and the Personage who addressed me said that all their creeds were an abomination in his sight; that those professors were all corrupt; that: 'they draw near to me with their lips, but their hearts are far from me, they teach for doctrines the commandments of men, having a form of godliness, but they deny the power thereof.'"
             },
             {
                 "book": "Pearl of Great Price - Articles of Faith",
@@ -4250,6 +4270,8 @@
             }
 
         ]
+
+    }    
         
     {
         "topic": "Holy Ghost",
@@ -4728,6 +4750,8 @@
             }
 
         ]
+
+    }    
         
     {
         "topic": "Jesus Christ",
