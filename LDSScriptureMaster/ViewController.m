@@ -55,17 +55,6 @@
     return self.topics.count;
 }
 
-
-- (UICollectionViewCell *)collectionView:(UICollectionView *)collectionView
-cellForItemAtIndexPath:(NSIndexPath *)indexPath {
-
-UICollectionViewCell * cell = [UICollectionViewCell]
-
-//CellName * newCell = [self.collectionView
-//dequeueReusableCellWithReuseIdentifier:MyCellID
-//forIndexPath:indexPath];
-
-}
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
