@@ -10,6 +10,7 @@
 
 @interface ViewController : UICollectionViewController
 
+@property (strong, readonly) NSArray * scriptureTopics;
 
 @end
 

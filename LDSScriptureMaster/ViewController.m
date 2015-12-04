@@ -55,6 +55,12 @@
     return self.topics.count;
 }
 
+- (NSArray *)scriptureTopics {
+    
+    return @[@"America", @"Apostasy", @"Atonement", @"Baptism", @"Bible", @"Book Of Mormon", @"Chastity", @"Church Of Jesus Christ", @"Enduring To The End", @"Faith And Works", @"Fall Of Man", @"Godhead", @"Holy Ghost", @"Jesus Christ", @"Leadership", @"Prayer And Testimony", @"Pre-Earth Life", @"Priesthood", @"Repentance", @"Restoration", @"Resurrection", @"Sacrament", @"Satan And Sin", @"Second Coming", @"Spirit World"];
+}
+
+
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
